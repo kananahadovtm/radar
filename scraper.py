@@ -114,7 +114,7 @@ def telegram(channel):
                     "id": int(m["data-post"].split("/")[-1]),
                     "url": "https://t.me/" + m["data-post"],
                     "time_baku": baku(when),
-                    "text": txt.get_text("\n", strip=True)[:1500] if txt else "[media]",
+                    "text": txt.get_text("\n", strip=True)[:800] if txt else "[media]",
                 })
         first = dt.datetime.fromisoformat(msgs[0].select_one(".tgme_widget_message_date time")["datetime"])
         if first < cutoff:
@@ -196,8 +196,28 @@ keep_after = now - dt.timedelta(days=KEEP_SEEN_DAYS)
 seen = {u: t for u, t in seen.items() if dt.datetime.fromisoformat(t) >= keep_after}
 with open("seen.json", "w", encoding="utf-8") as f:
     json.dump(seen, f)
-with open("feed.json", "w", encoding="utf-8") as f:
-    json.dump(out, f, ensure_ascii=False, indent=1)
+def dump(name, obj):
+    with open(name, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=0)
+
+
+head = {"generatedAt": out["generatedAt"], "generatedAtBaku": out["generatedAtBaku"], "hours": HOURS}
+uniq, search = set(), []
+for q, items in out["search"].items():
+    for it in items:
+        if it["url"] not in uniq:
+            uniq.add(it["url"])
+            it["query"] = q
+            search.append(it)
+search.sort(key=lambda x: x["time_baku"], reverse=True)
+dump("feed-telegram.json", {**head, "telegram": out["telegram"]})
+dump("feed-pages.json", {**head, "pages": {k: v["items"] for k, v in out["pages"].items() if v["items"]}})
+dump("feed-search.json", {**head, "search": search})
+dump("feed.json", {**head, "files": ["feed-telegram.json", "feed-pages.json", "feed-search.json"],
+                   "counts": {"telegram": {k: len(v) for k, v in out["telegram"].items()},
+                              "pages": {k: len(v["items"]) for k, v in out["pages"].items()},
+                              "search": len(search)},
+                   "errors": out["errors"]})
 
 print("telegram:", {k: len(v) for k, v in out["telegram"].items()})
 print("pages:", {k: len(v["items"]) for k, v in out["pages"].items()})
