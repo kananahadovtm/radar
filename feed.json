@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-08T13:01:53.329870+00:00",
-"generatedAtBaku": "2026-10-08 17:01",
+"generatedAt": "2026-10-08T13:56:00.627915+00:00",
+"generatedAtBaku": "2026-10-08 17:56",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,35 +9,34 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 73,
-"HRAPARAKAM": 16,
+"bagramyan26": 70,
+"HRAPARAKAM": 12,
 "ArmenianVendetta": 15,
-"caucasar": 4
+"caucasar": 5
 },
 "pages": {
-"azertag": 84,
-"apa": 18,
-"qafqazinfo": 18,
+"azertag": 76,
+"apa": 17,
+"qafqazinfo": 20,
 "haqqin": 8,
-"news.am": 51,
+"news.am": 48,
 "armenpress-hy": 27,
-"armenpress-en": 50,
+"armenpress-en": 47,
 "azatutyun": 18,
-"tert": 16,
+"tert": 15,
 "hetq": 41,
-"hraparak": 26,
-"1in": 21,
-"primeminister": 4,
+"hraparak": 24,
+"1in": 22,
+"primeminister": 5,
 "civilnet": 47,
 "oc-media": 17,
 "jam-news": 6,
 "eeas-press": 15,
-"eeas-azerbaijan": 9,
 "eeas-armenia": 16,
 "euma": 8,
 "europarl": 0,
 "osce": 15,
-"nato": 43,
+"nato": 44,
 "un-press": 3,
 "un-azerbaijan": 14,
 "un-armenia": 14,
@@ -47,11 +46,12 @@
 "301am": 26,
 "alphanews": 31
 },
-"search": 286
+"search": 290
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"eeas-azerbaijan": "HTTPSConnectionPool(host='www.eeas.europa.eu', port=443): Read timed out. (read timeout=30)",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
