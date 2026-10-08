@@ -53,6 +53,13 @@ PAGES = {
     "un-armenia": "https://armenia.un.org",
     "undp-azerbaijan": "https://www.undp.org/azerbaijan",
     "undp-armenia": "https://www.undp.org/armenia",
+    # diaspora / US-Armenian
+    "asbarez": "https://asbarez.com",
+    "armenianweekly": "https://armenianweekly.com",
+    "armenian-assembly": "https://www.armenian-assembly.org/news",
+    "arfd": "https://www.arfd.am/eng/news/",
+    "301am": "https://www.301.am",
+    "alphanews": "https://alphanews.am/en/",
 }
 
 # Google News searches replace the web searches (results carry publish dates).
