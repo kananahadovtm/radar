@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-08T01:55:07.592737+00:00",
-"generatedAtBaku": "2026-10-08 05:55",
+"generatedAt": "2026-10-08T02:54:31.883475+00:00",
+"generatedAtBaku": "2026-10-08 06:54",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -362,6 +362,11 @@
 ],
 "apa": [
 {
+"title": "KİV: NATO-nun tərəddüdü Rusiya ilə birbaşa qarşıdurma riskini artıra bilər 05:56 8 oktyabr 2026",
+"url": "https://apa.az/avropa/kiv-nato-nun-tereddudu-rusiya-ile-birbasa-qarsidurma-riskini-artira-biler-1002988",
+"firstSeenBaku": "2026-10-08 06:54"
+},
+{
 "title": "Litva ordusu Kalininqrad vilayəti ilə sərhədin mühafizəsinə cəlb olunacaq 04:37 8 oktyabr 2026",
 "url": "https://apa.az/avropa/litva-ordusu-kalininqrad-vilayeti-ile-serhedin-muhafizesine-celb-olunacaq-1002985",
 "firstSeenBaku": "2026-10-08 05:55"
@@ -402,21 +407,6 @@
 "firstSeenBaku": "2026-10-07 18:55"
 },
 {
-"title": "Paşinyan: Ermənistan Rusiya ilə dəmir yolları üzrə sazişi ləğv edə bilər 18:20 7 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/pasinyan-ermenistan-rusiya-ile-demir-yollari-uzre-sazisi-legv-ede-biler-1002916",
-"firstSeenBaku": "2026-10-07 18:55"
-},
-{
-"title": "Paşinyan: Sərhədi keçən Azərbaycan hərbçisi bir müddət Ermənistanda qalacaq 18:05 7 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/pasinyan-serhedi-kecen-azerbaycan-herbcisi-bir-muddet-ermenistanda-qalacaq-1002914",
-"firstSeenBaku": "2026-10-07 18:55"
-},
-{
-"title": "BMT İnsan Hüquqları Şurasında mina ilə bağlı Azərbaycanın dəstəklədiyi qətnamə qəbul edilib 17:56 7 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/bmt-insan-huquqlari-surasinda-mina-ile-bagli-azerbaycanin-desteklediyi-qetname-qebul-edilib-1002912",
-"firstSeenBaku": "2026-10-07 18:55"
-},
-{
 "title": "Hulusi Kılıç: Azərbaycan Avrasiyanın vazkeçilməz ölkəsidir 15:58",
 "url": "https://apa.az/blog/blog-single/hulusi-kilic-azerbaycan-avrasiyanin-vazkecilmez-olkesidir-255",
 "firstSeenBaku": "2026-10-07 12:05"
@@ -440,6 +430,11 @@
 "title": "Slovakiyanın müdafiə naziri: Azərbaycanın malik olduğu texnologiya və PUA-lar bizim üçün maraqlıdır - MÜSAHİBƏ 19:28 29 sentyabr 2026",
 "url": "https://apa.az/xarici-siyaset/slovakiyanin-mudafie-naziri-azerbaycanin-malik-oldugu-texnologiya-ve-pua-lar-bizim-ucun-maraqlidir-musahibe-1000502",
 "firstSeenBaku": "2026-10-07 12:05"
+},
+{
+"title": "BMT İnsan Hüquqları Şurasında mina ilə bağlı Azərbaycanın dəstəklədiyi qətnamə qəbul edilib 17:56",
+"url": "https://apa.az/xarici-siyaset/bmt-insan-huquqlari-surasinda-mina-ile-bagli-azerbaycanin-desteklediyi-qetname-qebul-edilib-1002912",
+"firstSeenBaku": "2026-10-07 18:55"
 },
 {
 "title": "Bakı Təhlükəsizlik Forumu: Qlobal təhdidlər fonunda etimad və əməkdaşlıq platforması – TƏHLİL 10:50",
@@ -484,11 +479,6 @@
 "firstSeenBaku": "2026-10-07 18:55"
 },
 {
-"title": "Azərbaycanda yeni cəzaçəkmə müəssisələri tikilir",
-"url": "https://qafqazinfo.az/news/detail/azerbaycanda-yeni-cezacekme-muessiseleri-tikilir-524260",
-"firstSeenBaku": "2026-10-08 00:54"
-},
-{
 "title": "Əliyev Putinə zəng etdi",
 "url": "https://qafqazinfo.az/news/detail/eliyev-putine-zeng-etdi-524214",
 "firstSeenBaku": "2026-10-07 15:54"
@@ -499,9 +489,9 @@
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "Bakıda avtobusda təhlükəli anlar - Video",
-"url": "https://qafqazinfo.az/news/detail/bakida-avtobusda-tehlukeli-anlar-video-524251",
-"firstSeenBaku": "2026-10-07 21:55"
+"title": "Azərbaycanda yeni cəzaçəkmə müəssisələri tikilir",
+"url": "https://qafqazinfo.az/news/detail/azerbaycanda-yeni-cezacekme-muessiseleri-tikilir-524260",
+"firstSeenBaku": "2026-10-08 00:54"
 },
 {
 "title": "“Fənərbaxça” Bakıdadır - Fotolar",
@@ -512,6 +502,11 @@
 "title": "Bakının yollarında Formula 1 həyəcanı davam edir - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/bakinin-yollarinda-formula-1-heyecani-davam-edir-fotolar-522862",
 "firstSeenBaku": "2026-10-07 12:05"
+},
+{
+"title": "Bakıda avtobusda təhlükəli anlar - Video",
+"url": "https://qafqazinfo.az/news/detail/bakida-avtobusda-tehlukeli-anlar-video-524251",
+"firstSeenBaku": "2026-10-07 21:55"
 },
 {
 "title": "“Dəmir yolu müqaviləsini ləğv edə bilərik” - Paşinyan",
@@ -539,11 +534,6 @@
 "firstSeenBaku": "2026-10-07 17:02"
 },
 {
-"title": "Paşinyan Putini təbrik etdi",
-"url": "https://qafqazinfo.az/news/detail/pasinyan-putini-tebrik-etdi-524208",
-"firstSeenBaku": "2026-10-07 15:54"
-},
-{
 "title": "Almaniyanın eks-kəşfiyyat rəhbərinin Azərbaycana işləməsi yalandır - Açıqlama",
 "url": "https://qafqazinfo.az/news/detail/almaniyanin-eks-kesfiyyat-rehberinin-azerbaycana-islemesi-yalandir-aciqlama-524172",
 "firstSeenBaku": "2026-10-07 12:05"
@@ -566,27 +556,27 @@
 "firstSeenBaku": "2026-10-07 15:54"
 },
 {
-"title": "Беюк-Веди: четыре мечети в 1902-м, сегодня — руины Места памяти Западного Азербайджана 7 октября 2026, 20:46 1958",
+"title": "Беюк-Веди: четыре мечети в 1902-м, сегодня — руины Места памяти Западного Азербайджана 7 октября 2026, 20:46 2040",
 "url": "https://haqqin.az/newsarchive/394953",
 "firstSeenBaku": "2026-10-07 21:03"
 },
 {
-"title": "«Необычные» приключения двух армян и одного азербайджанца Греческий суд поставил точку 7 октября 2026, 14:19 4860",
+"title": "«Необычные» приключения двух армян и одного азербайджанца Греческий суд поставил точку 7 октября 2026, 14:19 4923",
 "url": "https://haqqin.az/newsarchive/394928",
 "firstSeenBaku": "2026-10-07 14:30"
 },
 {
-"title": "Алиев назвал две супердержавы. Путин — только одну. И это не Россия… наш разбор; все еще актуально 5 октября 2026, 10:22 9634",
+"title": "Алиев назвал две супердержавы. Путин — только одну. И это не Россия… наш разбор; все еще актуально 5 октября 2026, 10:22 9640",
 "url": "https://haqqin.az/newsarchive/394699",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "ANCA ставит на мусульманина. Цель — Азербайджан Обзор на haqqin.az 3 октября 2026, 16:37 9623",
+"title": "ANCA ставит на мусульманина. Цель — Азербайджан Обзор на haqqin.az 3 октября 2026, 16:37 9630",
 "url": "https://haqqin.az/newsarchive/394560",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "Ахмед Юсифов - четвертый чемпион мира по дзюдо в истории Азербайджана! Как это было; видео, обновлено 18:53 4 октября 2026, 18:53 8547",
+"title": "Ахмед Юсифов - четвертый чемпион мира по дзюдо в истории Азербайджана! Как это было; видео, обновлено 18:53 4 октября 2026, 18:53 8554",
 "url": "https://haqqin.az/newsarchive/394600",
 "firstSeenBaku": "2026-10-08 00:54"
 }
@@ -675,11 +665,6 @@
 {
 "title": "07 հկտ | 20:13 Եթե դա լիներ ճշմարտություն և ես լինեի ընդդիմություն, ես հեղափոխություն կանեի. հիմա դուք արեք հեղափոխություն. Փաշինյան",
 "url": "https://news.am/hy/news/1066446",
-"firstSeenBaku": "2026-10-07 21:03"
-},
-{
-"title": "07 հկտ | 20:12 Փաշինյանը, ըստ էության, մեղադրում է շաքեցի կնոջը՝ ադրբեջանցուն վնասազերծելու համար",
-"url": "https://news.am/hy/news/1066442",
 "firstSeenBaku": "2026-10-07 21:03"
 },
 {
@@ -1423,72 +1408,72 @@
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 22:18:00 Երևանում քաղաքացիները ննջասենյակը վերածել են կանեփի աճեցման ջերմոցի. ՆԳՆ ոստիկանություն 8069",
+"title": "2026-10-02 22:18:00 Երևանում քաղաքացիները ննջասենյակը վերածել են կանեփի աճեցման ջերմոցի. ՆԳՆ ոստիկանություն 8070",
 "url": "https://hetq.am/hy/article/184403",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-01 22:52:00 Շաքիում ադրբեջանցի զինծառայողի կրակոցներից վիրավորված կնոջ երկու երեխաները ևս դիմել են բուժօգնության․ դատախազություն 2603",
+"title": "2026-10-01 22:52:00 Շաքիում ադրբեջանցի զինծառայողի կրակոցներից վիրավորված կնոջ երկու երեխաները ևս դիմել են բուժօգնության․ դատախազություն 2606",
 "url": "https://hetq.am/hy/article/184361",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 23:22:00 Նիկոլ Փաշինյանը մասնակցել է Հայաստանի աղոթքի երկրորդ նախաճաշի պաշտոնական ընթրիքին 2271",
+"title": "2026-10-02 23:22:00 Նիկոլ Փաշինյանը մասնակցել է Հայաստանի աղոթքի երկրորդ նախաճաշի պաշտոնական ընթրիքին 2274",
 "url": "https://hetq.am/hy/article/184412",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 10:13:00 Այսօր՝ Կիպրոս-Հայաստան. կղզեբնակները վիճակագրական առավելություն ունեն 2150",
+"title": "2026-10-02 10:13:00 Այսօր՝ Կիպրոս-Հայաստան. կղզեբնակները վիճակագրական առավելություն ունեն 2158",
 "url": "https://hetq.am/hy/article/184335",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 00:04:00 Նախագահն ընդունել է «Pacific Council» ուղեղային կենտրոնի գործադիր տնօրեն, Հայաստանում ԱՄՆ նախկին դեսպան Քրիստինա Քվինին 1938",
+"title": "2026-10-02 00:04:00 Նախագահն ընդունել է «Pacific Council» ուղեղային կենտրոնի գործադիր տնօրեն, Հայաստանում ԱՄՆ նախկին դեսպան Քրիստինա Քվինին 1948",
 "url": "https://hetq.am/hy/article/184370",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 08:55:00 Փաշինյանը դատի է տվել Էդգար Ղազարյանին. պահանջում է հերքում և 6 մլն դրամ փոխհատուցում 1646",
+"title": "2026-10-02 08:55:00 Փաշինյանը դատի է տվել Էդգար Ղազարյանին. պահանջում է հերքում և 6 մլն դրամ փոխհատուցում 1648",
 "url": "https://hetq.am/hy/article/184374",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 22:39:00 Անահիտ Ավանեսյանը տեսակցել է ադրբեջանցի զինծառայողի կրակոցից վիրավորում ստացած կնոջը 1626",
+"title": "2026-10-02 22:39:00 Անահիտ Ավանեսյանը տեսակցել է ադրբեջանցի զինծառայողի կրակոցից վիրավորում ստացած կնոջը 1628",
 "url": "https://hetq.am/hy/article/184407",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-04 09:55:00 Արարատ Միրզոյանը հոկտեմբերի 4-5-ը պաշտոնական այցով կմեկնի Իրան 1607",
+"title": "2026-10-04 09:55:00 Արարատ Միրզոյանը հոկտեմբերի 4-5-ը պաշտոնական այցով կմեկնի Իրան 1610",
 "url": "https://hetq.am/hy/article/184423",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-05 12:41:00 Այսօր՝ Մոնտենեգրո-Հայաստան. դրական ակնկալիքներ գրեթե չկան 1494",
+"title": "2026-10-05 12:41:00 Այսօր՝ Մոնտենեգրո-Հայաստան. դրական ակնկալիքներ գրեթե չկան 1501",
 "url": "https://hetq.am/hy/article/184428",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-05 15:39:00 Սողանքներից ու երաշտից մինչև անտառների վերականգնում․ Հայաստանի կլիմայական ռիսկերը և COP17-ի թիրախները 1377",
+"title": "2026-10-05 15:39:00 Սողանքներից ու երաշտից մինչև անտառների վերականգնում․ Հայաստանի կլիմայական ռիսկերը և COP17-ի թիրախները 1378",
 "url": "https://hetq.am/hy/article/184434",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 20:00:00 ՀՀ պետական սահմանը ապօրինի հատել է բացառապես մեկ անձ. ԱԱԾ 1364",
+"title": "2026-10-02 20:00:00 ՀՀ պետական սահմանը ապօրինի հատել է բացառապես մեկ անձ. ԱԱԾ 1366",
 "url": "https://hetq.am/hy/article/184392",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-05 18:05:00 Էներգետիկ մարտահրավերները հաղթահարելու համար ԵՄ-ն Մոլդովային առաջարկեց կարեկցանք և սահմանափակ ֆինանսական աջակցություն 1332",
+"title": "2026-10-05 18:05:00 Էներգետիկ մարտահրավերները հաղթահարելու համար ԵՄ-ն Մոլդովային առաջարկեց կարեկցանք և սահմանափակ ֆինանսական աջակցություն 1339",
 "url": "https://hetq.am/hy/article/184448",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-02 21:51:00 Հայաստանի հավաքականը երկու անպատասխան գնդակ ընդունեց Կիպրոսի ընտրանուց 1254",
+"title": "2026-10-02 21:51:00 Հայաստանի հավաքականը երկու անպատասխան գնդակ ընդունեց Կիպրոսի ընտրանուց 1256",
 "url": "https://hetq.am/hy/article/184400",
 "firstSeenBaku": "2026-10-07 12:05"
 },
 {
-"title": "2026-10-05 14:08:00 Վթար Viva-ի ցանցում․ Երևանի առանձին հատվածներում հնարավոր են խափանումներ 1253",
+"title": "2026-10-05 14:08:00 Վթար Viva-ի ցանցում․ Երևանի առանձին հատվածներում հնարավոր են խափանումներ 1254",
 "url": "https://hetq.am/hy/article/184440",
 "firstSeenBaku": "2026-10-07 12:05"
 },
