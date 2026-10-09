@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-08T23:53:21.702164+00:00",
-"generatedAtBaku": "2026-10-09 03:53",
+"generatedAt": "2026-10-09T01:03:31.977206+00:00",
+"generatedAtBaku": "2026-10-09 05:03",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,14 +9,14 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 55,
-"HRAPARAKAM": 10,
+"bagramyan26": 53,
+"HRAPARAKAM": 9,
 "ArmenianVendetta": 7,
 "caucasar": 4
 },
 "pages": {
 "azertag": 56,
-"apa": 18,
+"apa": 17,
 "qafqazinfo": 14,
 "haqqin": 6,
 "news.am": 40,
@@ -26,9 +26,9 @@
 "tert": 12,
 "hetq": 17,
 "hraparak": 15,
-"1in": 15,
+"1in": 14,
 "primeminister": 2,
-"civilnet": 7,
+"civilnet": 5,
 "oc-media": 5,
 "jam-news": 1,
 "eeas-press": 2,
@@ -38,7 +38,7 @@
 "europarl": 0,
 "osce": 3,
 "nato": 1,
-"un-press": 1,
+"un-press": 0,
 "un-azerbaijan": 0,
 "un-armenia": 0,
 "armenianweekly": 19,
