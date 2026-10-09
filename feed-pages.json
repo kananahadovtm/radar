@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-09T02:54:25.276170+00:00",
-"generatedAtBaku": "2026-10-09 06:54",
+"generatedAt": "2026-10-09T03:55:34.853560+00:00",
+"generatedAtBaku": "2026-10-09 07:55",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -63,6 +63,11 @@
 "title": "Prezident İlham Əliyev Türkmənistana işgüzar səfərə gəlib VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyev_turkmenistana_isguzar_sefere_gelib_video-4451145",
 "firstSeenBaku": "2026-10-08 11:55"
+},
+{
+"title": "İğdır liseylərində Azərbaycanın 44 günlük müharibədəki Zəfərinə həsr olunmuş müsabiqələr keçiriləcək",
+"url": "https://azertag.az/xeber/igdir_liseylerinde_azerbaycanin_44_gunluk_muharibedeki_zeferine_hesr_olunmus_musabiqeler_kechirilecek-4453137",
+"firstSeenBaku": "2026-10-09 07:55"
 },
 {
 "title": "Daimi Nümayəndəlik: TRIPP regional ticarət və iqtisadi inteqrasiya üçün yeni imkanlar açacaq",
@@ -422,11 +427,6 @@
 "title": "“Sammitdə Azərbaycan və Rusiya liderləri ilə təmaslarımız olacaq” - Paşinyan",
 "url": "https://qafqazinfo.az/news/detail/sammitde-azerbaycan-ve-rusiya-liderleri-ile-temaslarimiz-olacaq-pasinyan-524308",
 "firstSeenBaku": "2026-10-08 11:55"
-},
-{
-"title": "Xəzəri üzüb Azərbaycana keçmişdi - 28 illik səyahətdən sonra ölkəsinə qayıtdı - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/xezeri-uzub-azerbaycana-kecmisdi-28-illik-seyahetden-sonra-olkesine-qayitdi-fotolar-524283",
-"firstSeenBaku": "2026-10-08 08:55"
 }
 ],
 "haqqin": [
@@ -436,7 +436,7 @@
 "firstSeenBaku": "2026-10-08 09:54"
 },
 {
-"title": "Отец и сын подорвались на минах в Джебраиле. Заявление МИД Азербайджана обновлено 22:37 8 октября 2026, 22:37 6150",
+"title": "Отец и сын подорвались на минах в Джебраиле. Заявление МИД Азербайджана обновлено 22:37 8 октября 2026, 22:37 6535",
 "url": "https://haqqin.az/newsarchive/395034",
 "firstSeenBaku": "2026-10-08 17:01"
 },
@@ -483,6 +483,11 @@
 "firstSeenBaku": "2026-10-08 17:56"
 },
 {
+"title": "07:40 «Ժողովուրդ». Ծառուկյանի գործը քննած վարչության պետը պարգևատրվել է Փաշինյանի հուշամեդալով",
+"url": "https://news.am/hy/news/1066753",
+"firstSeenBaku": "2026-10-09 07:55"
+},
+{
 "title": "00:41 Սպիտակ տան աշխատակազմի ղեկավարի դուստրը հայտնվել է Թրամփի շրջապատի՝ Դոդիկի հետ կապերի մասին պատմության կենտրոնում",
 "url": "https://news.am/hy/news/1066733",
 "firstSeenBaku": "2026-10-09 00:56"
@@ -520,11 +525,6 @@
 {
 "title": "08 հկտ | 19:51 Եվրոպախորհրդարանում Թրամփի վիրավորական արձանը վկայում է ԵՄ-ի անկման մասին. Ֆիցո",
 "url": "https://news.am/hy/news/1066701",
-"firstSeenBaku": "2026-10-08 19:56"
-},
-{
-"title": "08 հկտ | 19:35 Թուրքիայի նոր երկաթուղին պետք է ամրապնդի տրանսպորտային կապերը «Զանգեզուրի միջանցքի» շրջանակում. Ուրալօղլու",
-"url": "https://news.am/hy/news/1066712",
 "firstSeenBaku": "2026-10-08 19:56"
 },
 {
@@ -601,11 +601,6 @@
 "title": "ՌԴ–ի հետ հարաբերությունները Փաշինյանն այնքան է սրել, որ տուժում է ՀՀ քաղաքացին. Քոչարյան հոկտեմբերի 08, 12:17",
 "url": "https://news.am/hy/news/1066577",
 "firstSeenBaku": "2026-10-08 12:56"
-},
-{
-"title": "«Ժողովուրդ». Փաշինյանը Հայկ Սարգսյանին հնարավորություն էր տվել դադար վերցնել, հետո վերադառնալ, բայց վերջինս չէր լռել հոկտեմբերի 08, 08:44",
-"url": "https://news.am/hy/news/1066494",
-"firstSeenBaku": "2026-10-08 08:55"
 },
 {
 "title": "1 տոննա բիտումի գինը 420 դոլարից հասելէ 600-ի. ինչ է կատարվում ճանապարհաշինության ոլորտում Հայաստանում առաջացած բիտումի դեֆիցիտն ու կտրուկ թանկացումը լուրջ խոչընդոտներ են ստեղծում հոկտեմբերի 08, 19:01",
