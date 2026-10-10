@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-10T17:51:48.275101+00:00",
-"generatedAtBaku": "2026-10-10 21:51",
+"generatedAt": "2026-10-10T18:54:33.948108+00:00",
+"generatedAtBaku": "2026-10-10 22:54",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -53,6 +53,11 @@
 "title": "Prezident İlham Əliyevin Türkmənistana işgüzar səfəri başa çatıb",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyevin_turkmenistana_isguzar_seferi_basa_chatib-4454379",
 "firstSeenBaku": "2026-10-09 17:00"
+},
+{
+"title": "Bakıda beynəlxalq tanqo marafonu davam edir",
+"url": "https://azertag.az/xeber/bakida_beynelxalq_tanqo_marafonu_davam_edir-4455879",
+"firstSeenBaku": "2026-10-10 22:54"
 },
 {
 "title": "Azərbaycan Basketbol Liqası: “Neftçi” “Ordu”nu məğlub edib",
@@ -275,14 +280,14 @@
 "firstSeenBaku": "2026-10-10 18:52"
 },
 {
-"title": "Prezident İlham Əliyev və Rusiyanın Çeçenistan Respublikasının başçısı birgə nahar ediblər VİDEO",
-"url": "https://azertag.az/xeber/4455609",
-"firstSeenBaku": "2026-10-10 19:53"
-},
-{
 "title": "ABŞ Prezidenti: Putin Azərbaycan və Ermənistan arasında münaqişəni həll etdiyimə inana bilmirdi",
 "url": "https://azertag.az/xeber/4455063",
 "firstSeenBaku": "2026-10-10 18:52"
+},
+{
+"title": "Prezident İlham Əliyev və Rusiyanın Çeçenistan Respublikasının başçısı birgə nahar ediblər VİDEO",
+"url": "https://azertag.az/xeber/4455609",
+"firstSeenBaku": "2026-10-10 19:53"
 },
 {
 "title": "Azərbaycan regionda tarixi ədaləti bərpa edərək sülh mərhələsinə qədəm qoydu - ŞƏRH",
@@ -362,11 +367,6 @@
 "firstSeenBaku": "2026-10-10 12:53"
 },
 {
-"title": "Kürşad Zorlu: Türkiyə-Azərbaycan münasibətlərini sarsıtmağa yönələn heç bir təxribat məqsədinə çata bilməyəcək 11:56 10 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/kursad-zorlu-turkiye-azerbaycan-munasibetlerini-sarsitmaga-yonelen-hec-bir-texribat-meqsedine-cata-bilmeyecek-1003763",
-"firstSeenBaku": "2026-10-10 12:53"
-},
-{
 "title": "Prezidentin Türkmənistan səfəri: Azərbaycanın regional nüfuzu və strateji mövqeyi möhkəmlənir - TƏHLİL 17:07 9 oktyabr 2026",
 "url": "https://apa.az/siyasi/prezidentin-turkmenistan-seferi-azerbaycanin-regional-nufuzu-ve-strateji-movqeyi-mohkemlenir-tehlil-1003558",
 "firstSeenBaku": "2026-10-09 17:56"
@@ -409,6 +409,11 @@
 "firstSeenBaku": "2026-10-10 12:53"
 },
 {
+"title": "Azərbaycanlı gənc Polşada vəfat etdi",
+"url": "https://qafqazinfo.az/news/detail/azerbaycanli-genc-polsada-vefat-etdi-524595",
+"firstSeenBaku": "2026-10-10 22:54"
+},
+{
 "title": "“Azərbaycan əsgəri olaraq salam verdim” - Video",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-esgeri-olaraq-salam-verdim-video-524592",
 "firstSeenBaku": "2026-10-10 21:51"
@@ -424,6 +429,11 @@
 "firstSeenBaku": "2026-10-10 19:53"
 },
 {
+"title": "İlham Əliyev Kadırovla birgə nahar edib - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/ilham-eliyev-kadirovla-birge-nahar-edib-fotolar-524572",
+"firstSeenBaku": "2026-10-10 16:56"
+},
+{
 "title": "“Azərbaycanı İranın gününə salmaq niyyətləri puç olur”",
 "url": "https://qafqazinfo.az/news/detail/azerbaycani-iranin-gunune-salmaq-niyyetleri-puc-olur-524582",
 "firstSeenBaku": "2026-10-10 18:52"
@@ -434,19 +444,9 @@
 "firstSeenBaku": "2026-10-10 18:52"
 },
 {
-"title": "İlham Əliyev Kadırovla birgə nahar edib - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/ilham-eliyev-kadirovla-birge-nahar-edib-fotolar-524572",
-"firstSeenBaku": "2026-10-10 16:56"
-},
-{
 "title": "“Azərbaycan-Mərkəzi Asiya əlaqələri çoxşaxəli tərəfdaşlıq modelinə çevrilir” - Göydəniz Qəhrəmanov",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-merkezi-asiya-elaqeleri-coxsaxeli-terefdasliq-modeline-cevrilir-goydeniz-qehremanov-524580",
 "firstSeenBaku": "2026-10-10 18:52"
-},
-{
-"title": "Sami Yusifin “Qarabağımsan” layihəsi təqdim edildi - Video",
-"url": "https://qafqazinfo.az/news/detail/sami-yusifin-qarabagimsan-layihesi-teqdim-edildi-video-524503",
-"firstSeenBaku": "2026-10-09 21:54"
 },
 {
 "title": "Şahbaz Şərif İlham Əliyevdən “ASAN xidmət”lə bağlı dəstək istədi",
@@ -496,12 +496,12 @@
 "firstSeenBaku": "2026-10-10 14:53"
 },
 {
-"title": "Завершился конгресс European Aquatics в Баку 20:09 539",
+"title": "Завершился конгресс European Aquatics в Баку 20:09 750",
 "url": "https://haqqin.az/newsarchive/395198",
 "firstSeenBaku": "2026-10-10 20:53"
 },
 {
-"title": "О чем говорили в Баку Алиев и Кадыров? фото 15:52 4810",
+"title": "О чем говорили в Баку Алиев и Кадыров? фото 15:52 5148",
 "url": "https://haqqin.az/newsarchive/395176",
 "firstSeenBaku": "2026-10-10 16:56"
 },
@@ -514,11 +514,6 @@
 "title": "7 медалей Азербайджана на чемпионате мира! Такого и близко никогда не было видео, обновлено 18:50",
 "url": "https://haqqin.az/newsarchive/395162",
 "firstSeenBaku": "2026-10-10 12:53"
-},
-{
-"title": "Лоренте посетила Федерацию водных видов спорта Азербайджана фото",
-"url": "https://haqqin.az/newsarchive/395185",
-"firstSeenBaku": "2026-10-10 17:52"
 }
 ],
 "news.am": [
@@ -531,6 +526,16 @@
 "title": "Վաղը Երևանում մի քանի ժամ բազմաթիվ փողոցներ մասնակի կամ ամբողջությամբ փակ են լինելու",
 "url": "https://news.am/hy/news/1067057",
 "firstSeenBaku": "2026-10-10 15:53"
+},
+{
+"title": "22:23 Սպիտակ տան թանգարանում վերարտադրել են Թրամփի ոսկեզօծ Օվալաձև աշխատասենյակը",
+"url": "https://news.am/hy/news/1067090",
+"firstSeenBaku": "2026-10-10 22:54"
+},
+{
+"title": "21:52 Խաղաղության Նոբելյան մրցանակի դափնեկիրը քննադատել է ԱՄՆ պատժամիջոցները Միջազգային քրեական դատարանի դեմ",
+"url": "https://news.am/hy/news/1067086",
+"firstSeenBaku": "2026-10-10 22:54"
 },
 {
 "title": "20:37 Ուղիղ Քադիրովը Բաքվում Ալիևին շնորհավորել է «Ղարաբաղի հարցը լուծելու առթիվ» I ԼՈՒՐԵՐ I 20:30",
@@ -588,11 +593,6 @@
 "firstSeenBaku": "2026-10-10 15:53"
 },
 {
-"title": "14:22 Մոսկվայում կարծում են, որ փորձ է արվում Ռուսաստանին մեկուսացնել Հայաստանով անցնող տրանսպորտային միջանցքից",
-"url": "https://news.am/hy/news/1067051",
-"firstSeenBaku": "2026-10-10 14:53"
-},
-{
 "title": "Ուղիղ Լուկաշենկոն և Ալիևը հեգնեցին Փաշինյանին, Պուտինը՝ թփթփացրեց մեջքին I ԼՈՒՐԵՐ I 20:00",
 "url": "https://news.am/hy/news/1066964",
 "firstSeenBaku": "2026-10-09 20:56"
@@ -638,11 +638,6 @@
 "firstSeenBaku": "2026-10-09 17:00"
 },
 {
-"title": "ԱԱԾ-ն հերքում է Մեղրիում ադրբեջանցիների ներկայության մասին լուրը",
-"url": "https://news.am/hy/stories/2893",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
 "title": "Կրեմլը ներկայացրել է Պուտինի և Թրամփի զրույցի մանրամասները հոկտեմբերի 10, 00:05",
 "url": "https://news.am/hy/news/1066983",
 "firstSeenBaku": "2026-10-10 00:55"
@@ -666,6 +661,11 @@
 "title": "Հայաստանի «Քարերի սիմֆոնիան» վերածվել է ֆանտաստիկ աշխարհի. 3D նկարիչը ստեղծել է բնական հուշարձանի թվային տարբերակը հոկտեմբերի 09, 20:30",
 "url": "https://style.news.am/arm/news/116575/hayastani-qareri-simfonian-veratsvel-e-fantastik-ashkharhi-3d-nkarichy-stextsel-e-bnakan-hushardzani-tvayin-tarberaky.html",
 "firstSeenBaku": "2026-10-10 08:54"
+},
+{
+"title": "Մոսկվայում կարծում են, որ փորձ է արվում Ռուսաստանին մեկուսացնել Հայաստանով անցնող տրանսպորտային միջանցքից հոկտեմբերի 10, 14:22",
+"url": "https://news.am/hy/news/1067051",
+"firstSeenBaku": "2026-10-10 14:53"
 },
 {
 "title": "Եղանակը Հայաստանում. սպասվում է անձրեւ եւ ամպրոպ հոկտեմբերի 10, 14:16",
@@ -755,11 +755,6 @@
 "firstSeenBaku": "2026-10-10 09:53"
 },
 {
-"title": "Լուսանկար «Բացահայտիր Հայաստանը երկնքից»․ օդապարիկների միջազգային 8-րդ փառատոնը 15:34, 9 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262415",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
 "title": "Տեսանյութ Վարչապետ Փաշինյանի ելույթը Ամուլսարի հանքավայրի շահագործման մեկնարկի արարողությանը 13:13, 10 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1262473",
 "firstSeenBaku": "2026-10-10 13:53"
@@ -805,11 +800,6 @@
 "title": "Pashinyan travels to Amulsar mine for launch of operations 11:43, 10 October",
 "url": "https://armenpress.am/en/article/1262465",
 "firstSeenBaku": "2026-10-10 11:52"
-},
-{
-"title": "Politics Armenian Parliament Speaker meets EUMA chief 15:22, 9 October",
-"url": "https://armenpress.am/en/article/1262412",
-"firstSeenBaku": "2026-10-09 15:55"
 },
 {
 "title": "Armenia Deputy defense minister visits military unit 15:47, 10 October",
@@ -1023,17 +1013,12 @@
 "firstSeenBaku": "2026-10-09 17:56"
 },
 {
-"title": "2026-10-09 15:11:00 ԱԺ նախագահ Ռուբեն Ռուբինյանն ընդունել է ՀՀ-ում ԵՄ դիտորդական առաքելության ղեկավարին",
-"url": "https://hetq.am/hy/article/184584",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
-"title": "2026-10-04 22:30:00 Հոսանքազրկումներ՝ Երևանում և մարզերում 1191",
+"title": "2026-10-04 22:30:00 Հոսանքազրկումներ՝ Երևանում և մարզերում 1196",
 "url": "https://hetq.am/hy/article/184426",
 "firstSeenBaku": "2026-10-09 19:56"
 },
 {
-"title": "2026-10-04 12:52:00 Վարչապետ Նիկոլ Փաշինյանի ուղերձը Ազգային փոքրամասնությունների օրվա առիթով 1129",
+"title": "2026-10-04 12:52:00 Վարչապետ Նիկոլ Փաշինյանի ուղերձը Ազգային փոքրամասնությունների օրվա առիթով 1135",
 "url": "https://hetq.am/hy/article/184424",
 "firstSeenBaku": "2026-10-09 22:56"
 }
@@ -1090,11 +1075,6 @@
 "firstSeenBaku": "2026-10-10 12:53"
 },
 {
-"title": "ՀՀ-ում ՌԴ դեսպանատունը շնորհավորել է երևանցիներին",
-"url": "https://hraparak.am/am/post/69dceb79fd1a2014d05b14e2cd8d16bc",
-"firstSeenBaku": "2026-10-10 11:52"
-},
-{
 "title": "«Հրապարակ»․ «Ինձ սխալ եք հասկացել, ես դա նկատի չունեի» փաշինյանական մե...",
 "url": "https://hraparak.am/am/post/5e7b0c075a5f4e00ce79763eb7c624ea",
 "firstSeenBaku": "2026-10-10 10:57"
@@ -1102,9 +1082,9 @@
 ],
 "1in": [
 {
-"title": "Երբ Երևանի տաքսու ճակատագիրը որոշվում է Մոսկվայում Հեղինակ՝ Արամ Ամատունի 14:00 2026.10.10",
-"url": "https://www.1in.am/3767488.html",
-"firstSeenBaku": "2026-10-10 14:53"
+"title": "ԱՊՀ-ում Փաշինյանի շեշտադրումը Ալմաթիի հռչակագրի վրա կազդի հայ-ռուսական ճգնաժամի ընթացքի վրա Հեղինակ՝ Ռուբեն Մեհրաբյան 22:00 2026.10.10",
+"url": "https://www.1in.am/3767512.html",
+"firstSeenBaku": "2026-10-10 22:54"
 },
 {
 "title": "ՀՀ-ՌԴ հարաբերություններում աշխարհաքաղաքական աղմուկ է. Երևանն է իրեն կապել գազի խայտառակ պայմանագրին Հեղինակ՝ Ժիրայր Ոսկանյան 21:40 2026.10.10",
@@ -1117,7 +1097,12 @@
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
-"title": "Իրանական գազը և Հայաստանի էներգետիկ ինքնիշխանության գինը 21:40 2026.10.10",
+"title": "Ամուլսարի ծրագիրը Հայաստանի ՀՆԱ-ի վրա 1.5-2% դրական ազդեցություն կունենա․ Գնել Սանոսյան",
+"url": "https://www.1in.am/3767661.html",
+"firstSeenBaku": "2026-10-10 22:54"
+},
+{
+"title": "Իրանական գազը և Հայաստանի էներգետիկ ինքնիշխանության գինը 22:40 2026.10.10",
 "url": "https://www.1in.am/3767494.html",
 "firstSeenBaku": "2026-10-10 18:52"
 },
@@ -1132,23 +1117,28 @@
 "firstSeenBaku": "2026-10-10 10:57"
 },
 {
+"title": "Մենք այսօր փաստացի Երևանի պատմության ամենաբարձր շենքի ստեղծման մեկնարկն ենք տալիս. վարչապետ Վարչապետ Նիկոլ Փաշինյանը ներկա է գտնվել «Համաշխարհային առևտրի կենտրոն Երևան» (ՀԱԿԵ) նախագծի շնորհանդեսին։ Վարչապետը հանդես է եկել ելույթով՝ շնորհավորելով ներկաներին …",
+"url": "https://www.1in.am/3767658.html",
+"firstSeenBaku": "2026-10-10 21:51"
+},
+{
+"title": "Կիևում հրթիռի հարվածից վնասվել է ադրբեջանական ռեստորան",
+"url": "https://www.1in.am/3767664.html",
+"firstSeenBaku": "2026-10-10 22:54"
+},
+{
+"title": "Զելենսկին Կիևի հարձակման ենթարկվելուց հետո քննադատել է ռուսական նավթամթերքի արտահանման սահմանափակումների թուլացումը",
+"url": "https://www.1in.am/3767632.html",
+"firstSeenBaku": "2026-10-10 20:53"
+},
+{
 "title": "Կառավարման ակադեմիայում հերթական դասընթացին հաջորդեց ծառատունկ. Փաշինյան",
 "url": "https://www.1in.am/3767655.html",
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
-"title": "Երևանը ոչ միայն իր թիկունքում, այլև առջևում ունի 2808 տարի. Փաշինյան ՀՀ վարչապետ Նիկոլ Փաշինյանը ելույթով հանդես է եկել «Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսին։ «Համաշխարհային առևտրի կենտրոնը» այդպիսի մի համաշխարհային …",
+"title": "Երևանը ոչ միայն իր թիկունքում, այլև առջևում ունի 2808 տարի. Փաշինյան",
 "url": "https://www.1in.am/3767652.html",
-"firstSeenBaku": "2026-10-10 21:51"
-},
-{
-"title": "Զելենսկին Կիևի հարձակման ենթարկվելուց հետո քննադատել է ռուսական նավթամթերքի արտահանման սահմանափակումների թուլացումը 20:10 2026.10.10",
-"url": "https://www.1in.am/3767632.html",
-"firstSeenBaku": "2026-10-10 20:53"
-},
-{
-"title": "Մենք այսօր փաստացի Երևանի պատմության ամենաբարձր շենքի ստեղծման մեկնարկն ենք տալիս. վարչապետ",
-"url": "https://www.1in.am/3767658.html",
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
@@ -1172,11 +1162,6 @@
 "firstSeenBaku": "2026-10-10 18:52"
 },
 {
-"title": "Քննարկվել են Հայաստանում կախվածությունների կանխարգելման և բուժման ուղղությամբ իրականացվող աշխատանքները",
-"url": "https://www.1in.am/3767605.html",
-"firstSeenBaku": "2026-10-10 17:52"
-},
-{
 "title": "SpaceX-ը ցածր հաճախականության ռադիոհաճախականությունների ակտիվներ կգնի",
 "url": "https://www.1in.am/3767557.html",
 "firstSeenBaku": "2026-10-10 16:56"
@@ -1185,13 +1170,6 @@
 "title": "Հայաստանի կանանց հավաքականն այսօր կմրցի Ինդոնեզիայի ընտրանու հետ",
 "url": "https://www.1in.am/3767427.html",
 "firstSeenBaku": "2026-10-10 11:52"
-}
-],
-"primeminister": [
-{
-"title": "Nikol Pashinyan, Masoud Pezeshkian meet in Turkmenistan",
-"url": "https://www.primeminister.am/en/press-release/item/2026/10/09/Nikol-Pashinyan-met-with-President-of-Iran/",
-"firstSeenBaku": "2026-10-09 15:55"
 }
 ],
 "civilnet": [
@@ -1266,21 +1244,6 @@
 "title": "Armenia denies claims another three Azerbaijanis crossed in Syunik",
 "url": "https://oc-media.org/armenia-denies-claims-another-three-azerbaijanis-crossed-in-syunik/",
 "firstSeenBaku": "2026-10-09 17:56"
-},
-{
-"title": "EU Parliament condemns Georgia’s attempts to ban opposition, Azerbaijan’s treatment of critics",
-"url": "https://oc-media.org/eu-parliament-condemns-georgias-attempts-to-ban-opposition-azerbaijans-treatment-of-critics/",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
-"title": "Armenia–Russia Relations",
-"url": "https://oc-media.org/tag/armenia-russia-relations/",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
-"title": "Pashinyan criticises Russia’s suggestion Armenia could become ‘new Ukraine’",
-"url": "https://oc-media.org/pashinyan-criticises-russias-suggestion-armenia-could-become-new-ukraine/",
-"firstSeenBaku": "2026-10-09 15:55"
 }
 ],
 "jam-news": [
@@ -1353,6 +1316,13 @@
 "firstSeenBaku": "2026-10-10 17:52"
 }
 ],
+"arfd": [
+{
+"title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
+"url": "https://www.arfd.am/eng/news/8757/",
+"firstSeenBaku": "2026-10-10 22:54"
+}
+],
 "301am": [
 {
 "title": "Pashinyan Celebrates Amulsar Mine Opening Ahead of COP17 as Environmental Activists Accuse Authorities of Secrecy",
@@ -1407,19 +1377,9 @@
 "firstSeenBaku": "2026-10-09 17:00"
 },
 {
-"title": "I see no economic grounds for Armenia to leave the EAEU: Alexander Korolev October 09 2026, 16:50",
-"url": "https://alphanews.am/en/i-see-no-economic-grounds-for-armenia-to-leave-the-eaeu-alexander-korolev/",
-"firstSeenBaku": "2026-10-09 15:55"
-},
-{
 "title": "Protest in Achapnyak. European Parliament demands immediate release of Armenian prisoners of war Alpha News Room 09.10.2026",
 "url": "https://alphanews.am/en/projects/protest-in-achapnyak-european-parliament-demands-immediate-release-of-armenian-prisoners-of-war-alpha-news-room-09-10-2026/",
 "firstSeenBaku": "2026-10-09 17:56"
-},
-{
-"title": "Pashinyan on need to return prisoners in context of normalization with Baku October 09 2026, 16:20",
-"url": "https://alphanews.am/en/pashinyan-on-need-to-return-prisoners-in-context-of-normalization-with-baku/",
-"firstSeenBaku": "2026-10-09 15:55"
 }
 ]
 }
