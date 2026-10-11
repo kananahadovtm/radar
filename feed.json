@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-11T01:53:43.302612+00:00",
-"generatedAtBaku": "2026-10-11 05:53",
+"generatedAt": "2026-10-11T02:54:14.818603+00:00",
+"generatedAtBaku": "2026-10-11 06:54",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -16,7 +16,7 @@
 },
 "pages": {
 "azertag": 50,
-"apa": 16,
+"apa": 15,
 "qafqazinfo": 21,
 "haqqin": 6,
 "news.am": 22,
@@ -47,7 +47,7 @@
 "301am": 2,
 "alphanews": 0
 },
-"search": 105
+"search": 99
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
