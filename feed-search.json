@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-11T06:58:24.369121+00:00",
-"generatedAtBaku": "2026-10-11 10:58",
+"generatedAt": "2026-10-11T07:53:25.467181+00:00",
+"generatedAtBaku": "2026-10-11 11:53",
 "hours": 30,
 "search": [
 {
@@ -197,7 +197,7 @@
 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiSTc1R2ZaOWhzUGx1WTFoY0IxenIzMjRtWjdkMHljSXE1M043LU9mZGxxQ0dUMkN3Z1BqR3Bza00zU3piR1llOXBBZw?oc=5",
 "source": "CIVILNET",
 "time_baku": "2026-10-10 15:00",
-"query": "Armenia EU"
+"query": "Azerbaijan EU"
 },
 {
 "title": "Kazakhstan, FAO discuss agricultural cooperation and AI projects - Trend News Agency",
@@ -403,6 +403,13 @@
 "query": "European Parliament Azerbaijan"
 },
 {
+"title": "80 procurement procedures worth 3.2 billion drams involving fictitious customers: a criminal case has been opened - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MckdwTUEzSHN5cFRkR25KV08yQS1oRHNNa2x0UlhleFZZb2lKcmVCaHJsdm5IRVp0UzJqS0pxR29kQm9qOFVxbzNUbXVLNDIwNmhra3hLbDhYaUZLaXkweQ?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-10 11:28",
+"query": "European Parliament Armenia"
+},
+{
 "title": "The air temperature in Armenia will not change significantly in the next five days - ArmInfo",
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YTV9CejYyOTktVUxRSzNQVmNpSGh1ME1sczdTbkg1OThZeU45M2diNko1RjRJQWZ5cC1taGJHQWFfU1JsQ3Q1djc0cVdjUDdwX3VaWkFoby1WUy1tZmwtRQ?oc=5",
 "source": "ArmInfo",
@@ -429,6 +436,13 @@
 "source": "Report.az",
 "time_baku": "2026-10-10 11:19",
 "query": "PACE Azerbaijan"
+},
+{
+"title": "'An indelible stain on Norway': Trump fumes over Nobel Peace Prize snub - The Jerusalem Post",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NVgtdWNqWmJtUDJURmZvUmYyS3cyNjk2S2xkOFZfUEdybFVQVWdaRWZnUkNERk1rTGRYVVZPYmUzRW1jdDVRNk5rLVotVjBraWsxZ1RneWtiSFV6d1Jz?oc=5",
+"source": "The Jerusalem Post",
+"time_baku": "2026-10-10 11:11",
+"query": "UN Azerbaijan"
 },
 {
 "title": "European Stocks up - 09-10-26 - Armenpress",
@@ -611,41 +625,6 @@
 "source": "Վարչապետ",
 "time_baku": "2026-10-10 06:22",
 "query": "Армения"
-},
-{
-"title": "'An indelible stain on Norway': Trump fumes over Nobel Peace Prize snub - The Jerusalem Post",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NVgtdWNqWmJtUDJURmZvUmYyS3cyNjk2S2xkOFZfUEdybFVQVWdaRWZnUkNERk1rTGRYVVZPYmUzRW1jdDVRNk5rLVotVjBraWsxZ1RneWtiSFV6d1Jz?oc=5",
-"source": "The Jerusalem Post",
-"time_baku": "2026-10-10 05:48",
-"query": "UN Azerbaijan"
-},
-{
-"title": "Azerbaijan highlights global significance of Baku Call to Action at UN - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wOFIxZGlIYUZCZkwzYkN6Qk1XS2ZDbjBlSnl0bGVIcFJOWk4xUkZMRmFncDBMdXJtaHlxOFI0aGtQQzdTZnJWaTFvYi11cXBJT2RuTHRDQUoyc1lIXzlKbm9waw?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-10 05:11",
-"query": "UN Azerbaijan"
-},
-{
-"title": "Pashinyan: Peace Between Armenia and Azerbaijan Is Established, but Humanitarian Issues Remain Unresolved - MassisPost",
-"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNjUtNzAtbF9PTkd3S08tNGd2Y3pPU3YxNUFLNDhyTWRQeHZnM1daTFJTbzk3UXZtWmg0Sk5CcDdTbDBwRUt1TU5sNWdtaWtZblljR2t1MFl1OGdiek1uZ3ZxbnM1T21iTlpmY0kzOU13bFJ3SFF0QWM1RGM3amlsRmRzMGNNR01jc3pNMGIxX2tYaGd3X3Jla25YTml3UG5XSWZlajhmd19pbVlvMW5VR3F5ZlJhMkcxRURKNnZfb3hBQjZlZC1HNmdRSFJiekk5UVJ3UXRn0gHWAUFVX3lxTFA2NS03MC1sX09OR3dLTy00Z3Zjek9TdjE1QUs0OHJNZFB4dmczV1pMUlNvOTdRdm1aaDRKTkJwN1NsMHBFS3VNTmw1Z21pa1luWWNHa3UwWXU4Z2J6TW5ndnFuczVPbWJOWmZjSTM5TXdsUndIUXRBYzVEYzdqaWxGZHMwY01HTWNzek0wYjFfa1hoZ3dfcmVrblhOaXdQbldJZmVqOGZ3X2ltWW8xblVHcXlmUmEyRzFFREo2dl9veEFCNmVkLUc2Z1FIUmJ6STlRUndRdGc?oc=5",
-"source": "MassisPost",
-"time_baku": "2026-10-10 05:06",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Pashinyan and Pezeshkian Discuss Expanding Armenia-Iran Cooperation and Strategic Projects - MassisPost",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWk5rQjNGSXdHZW9ocUtZV204c21MUUQ5VzdnNmM4WENpSXBsMEkyb1hPaG5hYWpfQ2FUSkk1WHhtNHY3bEYzZFJBQlVTNjFRQk8xSmF5bG1zeklMMUc3RjdCTHV0NTk4RnYyM3B3MWp5SUhpVk5oY00xbGgwRnFhUExDMGNFOVl6ejBub2lQVXV3d3ItV0dNclpENkF6YTVMU0cyWkZlYWMzaUdxazRJUkxHbUYxX09CU25PQzZBSFZKbXR00gHEAUFVX3lxTE9aTmtCM0ZJd0dlb2hxS1lXbThzbUxRRDlXN2c2YzhYQ2lJcGwwSTJvWE9obmFhal9DYVRKSTVYeG00djdsRjNkUkFCVVM2MVFCTzFKYXlsbXN6SUwxRzdGN0JMdXQ1OThGdjIzcHcxanlJSGlWTmhjTTFsaDBGcWFQTEMwY0U5WXp6MG5vaVBVdXd3ci1XR01yWkQ2QXphNUxTRzJaRmVhYzNpR3FrNElSTEdtRjFfT0JTbk9DNkFIVkptdHQ?oc=5",
-"source": "MassisPost",
-"time_baku": "2026-10-10 05:01",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Pashinyan and Pezeshkian Discuss Expanding Armenia-Iran Cooperation and Strategic Projects - MassisPost",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmoxS2h6WTN3aEh6Q2stdDMwZEFOVUMyU0tJaHB4c2hXVmtqS09QWUFlVWVxLW1SS0I4eTZQeEloanBlQWVWclhpbXVDMW9nMGUzQThTMjZvd3c3NDZEQjlLQ2Q1dmZiTDdyaUZtb2sybDFyUFB3blBvWWh2cndncnNiazNoMzRKNzN3RXRzOUZWTW1heVgtWHVNZDhNSkVyYlBlZlRBSzRpNzFrSjQ5eVBuMGZLM0dmdi1ZdFQxVdIBxAFBVV95cUxPWk5rQjNGSXdHZW9ocUtZV204c21MUUQ5VzdnNmM4WENpSXBsMEkyb1hPaG5hYWpfQ2FUSkk1WHhtNHY3bEYzZFJBQlVTNjFRQk8xSmF5bG1zeklMMUc3RjdCTHV0NTk4RnYyM3B3MWp5SUhpVk5oY00xbGgwRnFhUExDMGNFOVl6ejBub2lQVXV3d3ItV0dNclpENkF6YTVMU0cyWkZlYWMzaUdxazRJUkxHbUYxX09CU25PQzZBSFZKbXR0?oc=5",
-"source": "MassisPost",
-"time_baku": "2026-10-10 05:01",
-"query": "NATO Armenia"
 }
 ]
 }

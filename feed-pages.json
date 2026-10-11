@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-11T06:58:24.369121+00:00",
-"generatedAtBaku": "2026-10-11 10:58",
+"generatedAt": "2026-10-11T07:53:25.467181+00:00",
+"generatedAtBaku": "2026-10-11 11:53",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -185,16 +185,6 @@
 "firstSeenBaku": "2026-10-10 12:53"
 },
 {
-"title": "Azərbaycanın 5 boksçusu Avropa çempionatının finalına yüksəlib",
-"url": "https://azertag.az/xeber/azerbaycanin_5_bokschusu_avropa_chempionatinin_finalina_yukselib-4455285",
-"firstSeenBaku": "2026-10-10 11:52"
-},
-{
-"title": "Türkiyə Üzgüçülük Federasiyasının prezidenti: Azərbaycan Avropa Su İdmanı Federasiyasının Konqresinə çox ciddi çalışıb",
-"url": "https://azertag.az/xeber/turkiye_uzguchuluk_federasiyasinin_prezidenti_azerbaycan_avropa_su_idmani_federasiyasinin_konqresine_chox_ciddi_chalisib-4455279",
-"firstSeenBaku": "2026-10-10 11:52"
-},
-{
 "title": "Ramzan Kadırov Bakı-Qroznı təyyarəsinin qəzası ilə əlaqədar bir daha başsağlığı verib VİDEO",
 "url": "https://azertag.az/xeber/ramzan_kadirov_baki_qrozni_teyyaresinin_qezasi_ile_elaqedar_bir_daha_bassagligi_verib_video-4455549",
 "firstSeenBaku": "2026-10-10 17:52"
@@ -257,24 +247,14 @@
 ],
 "apa": [
 {
-"title": "Azərbaycan millisi dünya çempionatında mübarizəyə başlayır 09:36 11 oktyabr 2026",
-"url": "https://apa.az/doyus-novleri/azerbaycan-millisi-dunya-cempionatinda-mubarizeye-baslayir-1003878",
-"firstSeenBaku": "2026-10-11 09:54"
+"title": "Azərbaycan millisi dünya çempionatında 1/8 finalda - YENİLƏNİB 11:11 11 oktyabr 2026",
+"url": "https://apa.az/doyus-novleri/azerbaycan-millisi-dunya-cempionatinda-18-finalda-yenilenib-1003878",
+"firstSeenBaku": "2026-10-11 11:53"
 },
 {
 "title": "Ermənistanın Gəncədə törətdiyi növbəti terrordan 6 il ötür 00:00 11 oktyabr 2026",
 "url": "https://apa.az/daxili-siyaset/ermenistanin-gencede-toretdiyi-novbeti-terrordan-6-il-otur-1003530",
 "firstSeenBaku": "2026-10-11 00:53"
-},
-{
-"title": "Moldovanın keçmiş Baş naziri: Ermənistan itkin düşmüş şəxslərlə bağlı məlumatları paylaşmalıdır 17:25 10 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/moldovanin-kecmis-bas-naziri-ermenistan-itkin-dusmus-sexslerle-bagli-melumatlari-paylasmalidir-1003824",
-"firstSeenBaku": "2026-10-10 17:52"
-},
-{
-"title": "İran Ordusunun Quru Qoşunlarının komandanı: Müharibə başlayandan sonra sərhədlərdə 50-dən çox döyüş və dəstək bölməsi yerləşdirilib 17:06 10 oktyabr 2026",
-"url": "https://apa.az/asiya/iran-ordusunun-quru-qosunlarinin-komandani-muharibe-baslayandan-sonra-serhedlerde-50-den-cox-doyus-ve-destek-bolmesi-yerlesdirilib-1003821",
-"firstSeenBaku": "2026-10-10 17:52"
 },
 {
 "title": "Ermənistanın Gəncədə törətdiyi növbəti terrordan 6 il ötür 00:00 11 oktyabr 2026",
@@ -287,7 +267,12 @@
 "firstSeenBaku": "2026-10-10 16:56"
 },
 {
-"title": "Prezident İlham Əliyev və Ramzan Kadırov “Bakı Ağ Şəhər”də olublar 16:04 10 oktyabr 2026",
+"title": "Moldovanın keçmiş Baş naziri: Ermənistan itkin düşmüş şəxslərlə bağlı məlumatları paylaşmalıdır 17:25",
+"url": "https://apa.az/xarici-siyaset/moldovanin-kecmis-bas-naziri-ermenistan-itkin-dusmus-sexslerle-bagli-melumatlari-paylasmalidir-1003824",
+"firstSeenBaku": "2026-10-10 17:52"
+},
+{
+"title": "Prezident İlham Əliyev və Ramzan Kadırov “Bakı Ağ Şəhər”də olublar 16:04",
 "url": "https://apa.az/resmi-xeber/prezident-ilham-eliyev-ve-ramzan-kadirov-baki-ag-seherde-olublar-1003817",
 "firstSeenBaku": "2026-10-10 16:56"
 },
@@ -339,9 +324,9 @@
 "firstSeenBaku": "2026-10-10 15:53"
 },
 {
-"title": "Bakıda bu əraziyə istinad divarı çəkiləcək - Video",
-"url": "https://qafqazinfo.az/news/detail/bakida-bu-eraziye-istinad-divari-cekilecek-video-524543",
-"firstSeenBaku": "2026-10-10 12:53"
+"title": "Azərbaycan millisi Avstriyanı uddu",
+"url": "https://qafqazinfo.az/news/detail/azerbaycan-millisi-avstriyani-uddu-524609",
+"firstSeenBaku": "2026-10-11 11:53"
 },
 {
 "title": "“Qarabağ” “İmişli”yə, “Şəfa” “Turan Tovuz”a qarşı",
@@ -414,6 +399,11 @@
 "firstSeenBaku": "2026-10-10 13:53"
 },
 {
+"title": "Bakıda bu əraziyə istinad divarı çəkiləcək - Video",
+"url": "https://qafqazinfo.az/news/detail/bakida-bu-eraziye-istinad-divari-cekilecek-video-524543",
+"firstSeenBaku": "2026-10-10 12:53"
+},
+{
 "title": "Deputatlardan ABŞ Konqresinin Senator və Nümayəndələr Palatasına - Müraciət",
 "url": "https://qafqazinfo.az/news/detail/deputatlardan-abs-konqresinin-senator-ve-numayendeler-palatasina-muraciet-524551",
 "firstSeenBaku": "2026-10-10 11:52"
@@ -422,11 +412,6 @@
 "title": "Gürcüstanla sərhədin delimitasiyası və demarkasiyası üzrə Dövlət Komissiyasının - Yeni tərkibi",
 "url": "https://qafqazinfo.az/news/detail/gurcustanla-serhedin-delimitasiyasi-ve-demarkasiyasi-uzre-dovlet-komissiyasinin-yeni-terkibi-524545",
 "firstSeenBaku": "2026-10-10 11:52"
-},
-{
-"title": "“Dünyada orta ömür uzunluğu 73, Azərbaycanda 77-dir”",
-"url": "https://qafqazinfo.az/news/detail/dunyada-orta-omur-uzunlugu-73-azerbaycanda-77-dir-524536",
-"firstSeenBaku": "2026-10-10 09:53"
 }
 ],
 "haqqin": [
@@ -436,7 +421,7 @@
 "firstSeenBaku": "2026-10-10 14:53"
 },
 {
-"title": "Завершился конгресс European Aquatics в Баку 10 октября 2026, 20:09 1407",
+"title": "Завершился конгресс European Aquatics в Баку 10 октября 2026, 20:09 1451",
 "url": "https://haqqin.az/newsarchive/395198",
 "firstSeenBaku": "2026-10-10 20:53"
 },
@@ -453,14 +438,14 @@
 ],
 "news.am": [
 {
+"title": "«Яндекс»-ի տվյալների մշակման կենտրոնի վրա հարվածի հետեւանքով Yandex–ի աշխատանքը խափանվել էր նաեւ Երեւանում",
+"url": "https://news.am/hy/news/1067129",
+"firstSeenBaku": "2026-10-11 11:53"
+},
+{
 "title": "Կրակոցներ Երեւանում. կան վիրավորներ",
 "url": "https://news.am/hy/news/1067111",
 "firstSeenBaku": "2026-10-11 09:54"
-},
-{
-"title": "Փաշինյանի միջնորդությամբ արգելանք է դրված ոչ միայն իմ, այլև` կնոջս բանկային հաշիվների վրա. Էդգար Ղազարյան",
-"url": "https://news.am/hy/news/1067093",
-"firstSeenBaku": "2026-10-10 20:53"
 },
 {
 "title": "10:31 Սահմանային հսկողության համակարգի խափանումը ուշացումներ է առաջացրել Նյու Յորքի Ջոն Քենեդիի անվան օդանավակայանում",
@@ -513,8 +498,8 @@
 "firstSeenBaku": "2026-10-10 20:53"
 },
 {
-"title": "10 հկտ | 19:59 Երեւանի պատմության ամենաբարձր շենքն է կառուցվում. Փաշինյանը՝ Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսին",
-"url": "https://news.am/hy/news/1067089",
+"title": "10 հկտ | 20:28 Փաշինյանի միջնորդությամբ արգելանք է դրված ոչ միայն իմ, այլև` կնոջս բանկային հաշիվների վրա. Էդգար Ղազարյան",
+"url": "https://news.am/hy/news/1067093",
 "firstSeenBaku": "2026-10-10 20:53"
 },
 {
@@ -526,6 +511,11 @@
 "title": "Կտրվի Ամուլսարի հանքավայրի շահագործման մեկնարկը. Փաշինյանը Վայոց ձորում է",
 "url": "https://news.am/hy/stories/2901",
 "firstSeenBaku": "2026-10-10 11:52"
+},
+{
+"title": "Երեւանի պատմության ամենաբարձր շենքն է կառուցվում. Փաշինյանը՝ Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսին հոկտեմբերի 10, 19:59",
+"url": "https://news.am/hy/news/1067089",
+"firstSeenBaku": "2026-10-10 20:53"
 },
 {
 "title": "«Keep Learning՝ Շարունակիր սովորել». Հայաստանում բացվել է Պրոտոն ակադեմիան հոկտեմբերի 10, 16:42",
@@ -585,11 +575,6 @@
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
-"title": "Վարչապետն Ամուլսարի հանքավայրի շահագործման մեկնարկը կարևոր քայլ է համարում Հայաստանի տնտեսության զարգացման համար 14:03, 10 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262477",
-"firstSeenBaku": "2026-10-10 14:53"
-},
-{
 "title": "Հայաստան Դիլեր չհանդիսացողների համար էլեկտրամոբիլների անմաքս ներմուծման քվոտան հոկտեմբերի 10-ին կսպառվի․ ՊԵԿ 15:05, 10 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1262476",
 "firstSeenBaku": "2026-10-10 15:53"
@@ -633,11 +618,6 @@
 "title": "17:20, 10 հոկտեմբերի Հայաստանը ներկայացված է Հռոմում անցկացվող «From Seeds to Foods» գլոբալ ցուցահանդեսում՝ իր խոհանոցով, պատմական ու մշակութային ժառանգությամբ",
 "url": "https://armenpress.am/hy/article/1262489",
 "firstSeenBaku": "2026-10-10 17:52"
-},
-{
-"title": "16:38, 10 հոկտեմբերի Հոկտեմբերի 11-ին Երևանի մի շարք փողոցներում կսահմանափակվի երթևեկությունը",
-"url": "https://armenpress.am/hy/article/1262486",
-"firstSeenBaku": "2026-10-10 16:56"
 },
 {
 "title": "Լուսանկար «Էրեբունի-Երևան 2808» տոնական հրավառությունը 00:12, 11 հոկտեմբերի",
@@ -708,6 +688,11 @@
 }
 ],
 "azatutyun": [
+{
+"title": "Yandex-ի խափանումներ այդ թվում Հայաստանում՝ տվյալների կենտրոնի վրա հարձակումից հետո",
+"url": "https://www.azatutyun.am/a/33874452.html",
+"firstSeenBaku": "2026-10-11 11:53"
+},
 {
 "title": "«Պուտինն ասաց՝ 10 տարի փորձել է կարգավորել հայ-ադրբեջանական հարցը, իսկ ես դա արեցի 2 օրում»․ Թրամփ",
 "url": "https://www.azatutyun.am/a/33874094.html",
@@ -840,11 +825,6 @@
 "firstSeenBaku": "2026-10-10 15:53"
 },
 {
-"title": "Պուտինը Թրամփին փոխանցել է պատերազմը կանգնեցնելու՝ Իրանի տես...",
-"url": "https://hraparak.am/am/post/cd422f5745a2e1a87a2480a7d0887bb0",
-"firstSeenBaku": "2026-10-10 15:53"
-},
-{
 "title": "«Հրապարակ»․ «Ինձ սխալ եք հասկացել, ես դա նկատի չունեի» փաշինյանական մե...",
 "url": "https://hraparak.am/am/post/5e7b0c075a5f4e00ce79763eb7c624ea",
 "firstSeenBaku": "2026-10-10 10:57"
@@ -857,9 +837,9 @@
 ],
 "1in": [
 {
-"title": "Երբ Երևանի տաքսու ճակատագիրը որոշվում է Մոսկվայում Հեղինակ՝ Արամ Ամատունի 14:00 2026.10.10",
-"url": "https://www.1in.am/3767488.html",
-"firstSeenBaku": "2026-10-10 14:53"
+"title": "Երևանի նոր բարձրությունը և մեծ կապիտալի քաղաքականությունը Հեղինակ՝ Արամ Ամատունի 11:00 2026.10.11",
+"url": "https://www.1in.am/3767724.html",
+"firstSeenBaku": "2026-10-11 11:53"
 },
 {
 "title": "ԱՊՀ-ում Փաշինյանի շեշտադրումը Ալմաթիի հռչակագրի վրա կազդի հայ-ռուսական ճգնաժամի ընթացքի վրա Հեղինակ՝ Ռուբեն Մեհրաբյան 22:00 2026.10.10",
@@ -872,19 +852,14 @@
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
-"title": "Իրանական գազը և Հայաստանի էներգետիկ ինքնիշխանության գինը 10:45 2026.10.11",
-"url": "https://www.1in.am/3767494.html",
-"firstSeenBaku": "2026-10-10 18:52"
+"title": "Երբ Երևանի տաքսու ճակատագիրը որոշվում է Մոսկվայում",
+"url": "https://www.1in.am/3767488.html",
+"firstSeenBaku": "2026-10-10 14:53"
 },
 {
 "title": "«Իզվեստիա»․ Վարոս Սիմոնյանը կարող է առնչություն ունենալ կեղծ հավաստագրերի տրամադրման հետ",
 "url": "https://www.1in.am/3767500.html",
 "firstSeenBaku": "2026-10-10 21:51"
-},
-{
-"title": "«Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսը․ Փաշինյան «Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսը։ Սոցցանցի իր էջում գրել է վարչապետ Նիկոլ Փաշինյանը՝ հրապարակելով նաև տեսանյութ։",
-"url": "https://www.1in.am/3767676.html",
-"firstSeenBaku": "2026-10-11 00:53"
 },
 {
 "title": "Կրակոցներ Երևանում. կան վիրավորներ",
@@ -894,6 +869,11 @@
 {
 "title": "Ֆուտզալի Հայաստանի Բարձրագույն խմբի առաջնությանը կմասնակցի 9 թիմ․ ՀՖՖ",
 "url": "https://www.1in.am/3767682.html",
+"firstSeenBaku": "2026-10-11 00:53"
+},
+{
+"title": "«Համաշխարհային առևտրի կենտրոն Երևան» նախագծի շնորհանդեսը․ Փաշինյան",
+"url": "https://www.1in.am/3767676.html",
 "firstSeenBaku": "2026-10-11 00:53"
 },
 {
@@ -917,14 +897,9 @@
 "firstSeenBaku": "2026-10-10 21:51"
 },
 {
-"title": "Կառավարման ակադեմիայում հերթական դասընթացին հաջորդեց ծառատունկ. Փաշինյան",
-"url": "https://www.1in.am/3767655.html",
-"firstSeenBaku": "2026-10-10 21:51"
-},
-{
-"title": "Երևանը ոչ միայն իր թիկունքում, այլև առջևում ունի 2808 տարի. Փաշինյան",
-"url": "https://www.1in.am/3767652.html",
-"firstSeenBaku": "2026-10-10 21:51"
+"title": "2026-10-10 Իրանական գազը և Հայաստանի էներգետիկ ինքնիշխանության գինը",
+"url": "https://www.1in.am/3767494.html",
+"firstSeenBaku": "2026-10-10 18:52"
 },
 {
 "title": "SpaceX-ը ցածր հաճախականության ռադիոհաճախականությունների ակտիվներ կգնի",
@@ -984,13 +959,6 @@
 "title": "Opinion from Yerevan: Baku steps up pressure on Armenia with new tools",
 "url": "https://jam-news.net/opinion-on-bakus-tougher-rhetoric/",
 "firstSeenBaku": "2026-10-10 15:53"
-}
-],
-"un-press": [
-{
-"title": "Russian Strikes against Ukraine Have Reached ‘New Horrifying Level’, Top United Nations Peacebuilding Official Warns Security Council, amid Calls for Immediate Ceasefire",
-"url": "https://press.un.org/en/2026/sc16472.doc.htm",
-"firstSeenBaku": "2026-10-10 05:02"
 }
 ],
 "armenianweekly": [
