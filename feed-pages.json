@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-12T03:58:47.596046+00:00",
-"generatedAtBaku": "2026-10-12 07:58",
+"generatedAt": "2026-10-12T04:58:05.013711+00:00",
+"generatedAtBaku": "2026-10-12 08:58",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -23,6 +23,11 @@
 "title": "Azərbaycanda sabaha gözlənilən hava proqnozu açıqlanıb",
 "url": "https://azertag.az/xeber/azerbaycanda_sabaha_gozlenilen_hava_proqnozu_achiqlanib-4456029",
 "firstSeenBaku": "2026-10-11 12:54"
+},
+{
+"title": "Hazırda Bakıda sıxlıq qeydə alınan yollar açıqlanıb",
+"url": "https://azertag.az/xeber/hazirda_bakida_sixliq_qeyde_alinan_yollar_achiqlanib-4456443",
+"firstSeenBaku": "2026-10-12 08:58"
 },
 {
 "title": "Azərbaycan üçün əsas məsələ etimadı və uzunmüddətli tərəfdaşlığı möhkəmləndirməkdir ŞƏRH",
@@ -122,6 +127,16 @@
 ],
 "apa": [
 {
+"title": "Bakının Yasamal rayonunda elektrik enerjisinin verilişində fasilə yaranacaq 08:31 12 oktyabr 2026",
+"url": "https://apa.az/senaye-ve-energetika/bakinin-yasamal-rayonunda-elektrik-enerjisinin-verilisinde-fasile-yaranacaq-1004058",
+"firstSeenBaku": "2026-10-12 08:58"
+},
+{
+"title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:22 12 oktyabr 2026",
+"url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1004051",
+"firstSeenBaku": "2026-10-12 08:58"
+},
+{
 "title": "Bakı-Qazax magistralında avtomobilin vurduğu piyada xəstəxanada ölüb 20:42 11 oktyabr 2026",
 "url": "https://apa.az/hadise/baki-qazax-magistralinda-avtomobilin-vurdugu-piyada-xestexanada-olub-1003977",
 "firstSeenBaku": "2026-10-11 20:54"
@@ -129,11 +144,6 @@
 {
 "title": "Kambocanın Baş naziri Azərbaycana rəsmi səfərə gəlib - FOTOLENT - YENİLƏNİB 19:17 11 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/kambocanin-bas-naziri-azerbaycana-resmi-sefere-gelib-fotolent-yenilenib-1003955",
-"firstSeenBaku": "2026-10-11 19:53"
-},
-{
-"title": "Esmira Fuad: Azərbaycan dünyəvi dövlətdir və öz prinsipləri var 19:10 11 oktyabr 2026",
-"url": "https://apa.az/sosial/esmira-fuad-azerbaycan-dunyevi-dovletdir-ve-oz-prinsipleri-var-1003967",
 "firstSeenBaku": "2026-10-11 19:53"
 },
 {
@@ -223,6 +233,11 @@
 "firstSeenBaku": "2026-10-11 12:54"
 },
 {
+"title": "08:07 Վաշինգտոնում հանդիսավորությամբ նշվել է Հայաստանի Հանրապետության անկախության 35-ամյակը (ֆոտո)",
+"url": "https://news.am/hy/news/1067227",
+"firstSeenBaku": "2026-10-12 08:58"
+},
+{
 "title": "01:01 Հակոբ Շարբաթյանի պատվին Չեռնոգորիայում հնչեց Հայաստանի հիմնը (տեսանյութ)",
 "url": "https://sport.news.am/arm/news/169505",
 "firstSeenBaku": "2026-10-12 01:54"
@@ -290,11 +305,6 @@
 {
 "title": "11 հկտ | 19:09 Խոցված անօդաչու թռչող սարքի բեկորներն ընկել են Աբխազիայում՝ Ռուսաստանի սահմանի մոտ",
 "url": "https://news.am/hy/news/1067193",
-"firstSeenBaku": "2026-10-11 19:53"
-},
-{
-"title": "11 հկտ | 19:01 Հայաստանը հայտնվել է տարածաշրջանի ամենաթանկ բենզին ունեցող երկրների շարքում",
-"url": "https://news.am/hy/news/1067191",
 "firstSeenBaku": "2026-10-11 19:53"
 },
 {
@@ -385,6 +395,11 @@
 }
 ],
 "tert": [
+{
+"title": "Երևանում և մարզերում կդադարեցվի մի շարք հասցեների էլեկտրամատակարարումը",
+"url": "https://www.tert.am/am/news/2026/10/12/arm-electro-center/4286538",
+"firstSeenBaku": "2026-10-12 08:58"
+},
 {
 "title": "Եվրահանձնաժողովը պատրաստում է Ռուսաստանի քաղաքացիների համար վիզային նոր սահմանափակումներ․ Politico",
 "url": "https://www.tert.am/am/news/2026/10/11/russia-citizen/4286525",
@@ -530,6 +545,11 @@
 "title": "2026-10-11 Սահմանը վերադարձնել հայկական պետությանը",
 "url": "https://www.1in.am/3767718.html",
 "firstSeenBaku": "2026-10-11 13:53"
+},
+{
+"title": "2026-10-11 Երևանի նոր բարձրությունը և մեծ կապիտալի քաղաքականությունը",
+"url": "https://www.1in.am/3767724.html",
+"firstSeenBaku": "2026-10-11 11:53"
 },
 {
 "title": "Ֆուտբոլի Հայաստանի հավաքականը հոկտեմբերի 14-17-ը մարզական հավաք կանցկացնի. Մ-17",
