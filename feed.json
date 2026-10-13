@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-13T03:57:48.231271+00:00",
-"generatedAtBaku": "2026-10-13 07:57",
+"generatedAt": "2026-10-13T04:57:58.572993+00:00",
+"generatedAtBaku": "2026-10-13 08:57",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -16,16 +16,17 @@
 },
 "pages": {
 "azertag": 56,
-"apa": 12,
+"apa": 13,
+"qafqazinfo": 16,
 "haqqin": 4,
-"news.am": 38,
+"news.am": 35,
 "armenpress-hy": 20,
-"armenpress-en": 23,
+"armenpress-en": 22,
 "azatutyun": 14,
-"tert": 20,
+"tert": 19,
 "hetq": 11,
 "hraparak": 10,
-"1in": 17,
+"1in": 20,
 "primeminister": 0,
 "civilnet": 4,
 "oc-media": 4,
@@ -40,17 +41,16 @@
 "un-press": 2,
 "un-azerbaijan": 0,
 "un-armenia": 0,
-"armenianweekly": 2,
+"armenianweekly": 0,
 "armenian-assembly": 0,
 "arfd": 0,
 "301am": 3,
 "alphanews": 4
 },
-"search": 212
+"search": 218
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
-"qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
