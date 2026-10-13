@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-13T20:05:58.489644+00:00",
-"generatedAtBaku": "2026-10-14 00:05",
+"generatedAt": "2026-10-13T21:08:08.818038+00:00",
+"generatedAtBaku": "2026-10-14 01:08",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -68,6 +68,11 @@
 "title": "Milli Məclisin Azərbaycan-Türkiyə parlamentlərarası əlaqələr üzrə işçi qrupu bəyanat yayıb",
 "url": "https://azertag.az/xeber/milli_meclisin_azerbaycan_turkiye_parlamentlerarasi_elaqeler_uzre_ischi_qrupu_beyanat_yayib-4459731",
 "firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "Corc Vaşinqtonun prezidentliyi dövrünə aid sikkə hərracda 2,9 milyon dollara satılıb",
+"url": "https://azertag.az/xeber/corc_vasinqtonun_prezidentliyi_dovrune_aid_sikke_herracda_29_milyon_dollara_satilib-4460415",
+"firstSeenBaku": "2026-10-14 01:08"
 },
 {
 "title": "Meksika qəzetində azərbaycanlı rəssamın sərgisindən bəhs edən məqalə dərc olunub",
@@ -317,11 +322,6 @@
 "firstSeenBaku": "2026-10-13 18:02"
 },
 {
-"title": "Azərbaycan və Laos prezidentləri mətbuata bəyanatlarla çıxış ediblər - YENİLƏNİB-1 17:13 13 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/azerbaycan-ve-laos-prezidentleri-metbuata-beyanatlarla-cixis-edibler-yenilenib-1-1004520",
-"firstSeenBaku": "2026-10-13 18:02"
-},
-{
 "title": "Azərbaycana qarşı ideoloji təxribat cəhdləri: Bəzi qüvvələr məktəbli forması bəhanəsi ilə ölkəmizin daxili işlərinə qarışır - TƏHLİL 13:15",
 "url": "https://apa.az/siyasi/azerbaycana-qarsi-ideoloji-texribat-cehdleri-bezi-quvveler-mektebli-formasi-behanesi-ile-olkemizin-daxili-islerine-qarisir-tehlil-1004580",
 "firstSeenBaku": "2026-10-13 13:57"
@@ -329,24 +329,9 @@
 ],
 "qafqazinfo": [
 {
-"title": "Leyla Əliyeva “44”ün təqdimat mərasimindən paylaşım etdi - Video",
-"url": "https://qafqazinfo.az/news/detail/leyla-eliyeva-44un-teqdimat-merasiminden-paylasim-etdi-video-524892",
-"firstSeenBaku": "2026-10-13 19:58"
-},
-{
 "title": "“Azərbaycanda hicabın qadağan olunmasını heç yerdə görmürəm” - Video",
 "url": "https://qafqazinfo.az/news/detail/azerbaycanda-hicabin-qadagan-olunmasini-hec-yerde-gormurem-video-524876",
 "firstSeenBaku": "2026-10-13 19:00"
-},
-{
-"title": "YAP-dan türkiyəli rəsmilərin Azərbaycanla bağlı açıqlamalarına - Etiraz",
-"url": "https://qafqazinfo.az/news/detail/yap-dan-turkiyeli-resmilerin-azerbaycanla-bagli-aciqlamalarina-etiraz-524846",
-"firstSeenBaku": "2026-10-13 14:58"
-},
-{
-"title": "Azərbaycanda ilk dəfə meyitdən ürək köçürülən Rəşad vəfat etdi - Foto",
-"url": "https://qafqazinfo.az/news/detail/azerbaycanda-ilk-defe-meyitden-urek-kocurulen-resad-vefat-etdi-foto-524840",
-"firstSeenBaku": "2026-10-13 14:58"
 },
 {
 "title": "Leyla Əliyeva “44”ün təqdimat mərasimindən paylaşım etdi - Video",
@@ -379,6 +364,11 @@
 "firstSeenBaku": "2026-10-13 09:56"
 },
 {
+"title": "Leyla Əliyeva “44”ün təqdimat mərasimindən paylaşım etdi - Video",
+"url": "https://qafqazinfo.az/news/detail/leyla-eliyeva-44un-teqdimat-merasiminden-paylasim-etdi-video-524892",
+"firstSeenBaku": "2026-10-13 19:58"
+},
+{
 "title": "NATO təyyarəsi 7 saat yarım Qara dənizdə manevr etdi",
 "url": "https://qafqazinfo.az/news/detail/nato-teyyaresi-7-saat-yarim-qara-denizde-manevr-etdi-524885",
 "firstSeenBaku": "2026-10-13 19:00"
@@ -409,8 +399,8 @@
 "firstSeenBaku": "2026-10-13 15:57"
 },
 {
-"title": "İlham Əliyevin adından rəsmi nahar verildi - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/ilham-eliyevin-adindan-resmi-nahar-verildi-fotolar-524842",
+"title": "YAP-dan türkiyəli rəsmilərin Azərbaycanla bağlı açıqlamalarına - Etiraz",
+"url": "https://qafqazinfo.az/news/detail/yap-dan-turkiyeli-resmilerin-azerbaycanla-bagli-aciqlamalarina-etiraz-524846",
 "firstSeenBaku": "2026-10-13 14:58"
 },
 {
@@ -422,6 +412,11 @@
 "title": "Azərbaycan-Laos biznes-forumu keçiriləcək - Prezident açıqladı",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-laos-biznes-forumu-kecirilecek-prezident-aciqladi-524825",
 "firstSeenBaku": "2026-10-13 11:59"
+},
+{
+"title": "Azərbaycanda ilk dəfə meyitdən ürək köçürülən Rəşad vəfat etdi - Foto",
+"url": "https://qafqazinfo.az/news/detail/azerbaycanda-ilk-defe-meyitden-urek-kocurulen-resad-vefat-etdi-foto-524840",
+"firstSeenBaku": "2026-10-13 14:58"
 },
 {
 "title": "12.10.2026 22:22 Bakıda genişmiqyaslı əməliyyat - 200-dən çox saxlanılan var",
@@ -439,11 +434,6 @@
 "title": "Новость дня Президенты Азербайджана и Лаоса выступили с заявлениями",
 "url": "https://haqqin.az/newsarchive/395372",
 "firstSeenBaku": "2026-10-13 11:07"
-},
-{
-"title": "Три пути, одно изгнание Места памяти Западного Азербайджана 12 октября 2026, 20:03 3424",
-"url": "https://haqqin.az/newsarchive/395326",
-"firstSeenBaku": "2026-10-12 20:55"
 },
 {
 "title": "«Непоколебимый полдень»: ядерные учения НАТО",
@@ -571,16 +561,6 @@
 "title": "Առաջիկայում պետք է կենտրոնանանք Ադրբեջանի հետ Խաղաղության պայմանագիրը ստորագրելու վրա. Փաշինյան",
 "url": "https://news.am/hy/stories/2940",
 "firstSeenBaku": "2026-10-13 11:07"
-},
-{
-"title": "Ադրբեջանում բողոքի ակցիաները չեն մարում․ ձերբակալվել է 37 մարդ",
-"url": "https://news.am/hy/stories/2937",
-"firstSeenBaku": "2026-10-12 19:03"
-},
-{
-"title": "COP17–ի պատճառով հոկտեմբերի 15–ին և 16–ին Երևանում փակ փողոցներ կլինեն",
-"url": "https://news.am/hy/stories/2936",
-"firstSeenBaku": "2026-10-12 19:03"
 },
 {
 "title": "Ապագայում կորոշենք՝ ամուսնանում ենք, թե ոչ․ Միրզոյանը՝ ԵՄ–ի հետ հարաբերությունների մասին ՀՀ արտաքին գործերի և միջազգային առևտրի նախարար Արարատ Միրզոյանն առաջարկում է այս փուլում հոկտեմբերի 13, 17:30",
@@ -720,6 +700,16 @@
 "firstSeenBaku": "2026-10-13 19:00"
 },
 {
+"title": "00:15 Վարշավայում հանդիպել են Հայաստանի և Կոսովոյի ԱԳ նախարարները",
+"url": "https://armenpress.am/hy/article/1262721",
+"firstSeenBaku": "2026-10-14 01:08"
+},
+{
+"title": "00:04 Արարատ Միրզոյանը հեռախոսազրույց է ունեցել Իրաքի ԱԳ նախարարի հետ",
+"url": "https://armenpress.am/hy/article/1262720",
+"firstSeenBaku": "2026-10-14 01:08"
+},
+{
 "title": "21:58, 13 հոկտեմբերի Հայաստանում քննարկվել են հոգեկան առողջության ոլորտում մարդու իրավունքների պաշտպանության և ծառայությունների հասանելիության հարցերը",
 "url": "https://armenpress.am/hy/article/1262718",
 "firstSeenBaku": "2026-10-13 23:09"
@@ -738,11 +728,6 @@
 "title": "18:17, 13 հոկտեմբերի Երևանի ավագանին ընդունել է քաղաքապետարանի աշխատակիցների աշխատավարձերի հաշվարկման գործակիցների փոփոխության նախագիծը",
 "url": "https://armenpress.am/hy/article/1262705",
 "firstSeenBaku": "2026-10-13 19:00"
-},
-{
-"title": "17:44, 13 հոկտեմբերի ՀՀ ՄԻՊ աշխատակազմի գլխավոր քարտուղարն ընդունել է Հայաստանի եվրոպական համալսարանի ուսանողներին",
-"url": "https://armenpress.am/hy/article/1262702",
-"firstSeenBaku": "2026-10-13 18:02"
 },
 {
 "title": "Քաղաքականություն Միրզոյանն ու Վադեֆուլը քննարկել են Հայաստան-Գերմանիա առևտրատնտեսական հարաբերությունները 15:55, 13 հոկտեմբերի",
@@ -1136,11 +1121,6 @@
 "title": "2026-10-12 22:39:00 Հանդիպել են Հայաստանի և Լեհաստանի արտաքին գերատեսչությունների ղեկավարները",
 "url": "https://hetq.am/hy/article/184644",
 "firstSeenBaku": "2026-10-12 22:59"
-},
-{
-"title": "2026-10-12 18:31:00 Հայաստանի ԱԳՄԱ նախարարը հեռախոսազրույց է ունեցել Եգիպտոսի ԱԳ նախարարի հետ",
-"url": "https://hetq.am/hy/article/184639",
-"firstSeenBaku": "2026-10-12 19:03"
 }
 ],
 "hraparak": [
@@ -1232,17 +1212,7 @@
 "firstSeenBaku": "2026-10-13 23:09"
 },
 {
-"title": "ՀՀ ՄԻՊ աշխատակազմի գլխավոր քարտուղարն ընդունել է Հայաստանի եվրոպական համալսարանի ուսանողներին",
-"url": "https://www.1in.am/3768554.html",
-"firstSeenBaku": "2026-10-14 00:05"
-},
-{
-"title": "Քննարկվել են նոր Սահմանադրության նախագծին առնչվող հարցեր",
-"url": "https://www.1in.am/3768620.html",
-"firstSeenBaku": "2026-10-14 00:05"
-},
-{
-"title": "Չինաստանը մեծացնում է Բաքվի կշիռը. Հայաստանի ռազմավարական անելիքը 00:00 2026.10.14",
+"title": "Չինաստանը մեծացնում է Բաքվի կշիռը. Հայաստանի ռազմավարական անելիքը 01:00 2026.10.14",
 "url": "https://www.1in.am/3768297.html",
 "firstSeenBaku": "2026-10-13 19:58"
 },
@@ -1252,14 +1222,14 @@
 "firstSeenBaku": "2026-10-13 19:00"
 },
 {
-"title": "Երևան-Լոնդոն ուղիղ չվերները՝ քննարկման առանցքում ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարար Դավիթ Խուդաթյանն այսօր ընդունել է Հայաստանում Միացյալ Թագավորության արտակարգ և լիազոր դեսպան Ալեքսանդրա Քոուլին։ … 23:20 2026.10.13",
-"url": "https://www.1in.am/3768579.html",
-"firstSeenBaku": "2026-10-14 00:05"
+"title": "Ոչ նյութական մշակութային ժառանգության միջազգային օրվան միացել է Հայաստանի 170 բնակավայր Ոչ նյութական մշակութային ժառանգության միջազգային օրվան միացել է Հայաստանի 170 բնակավայր: Այս մասին հայտնում են ՀՀ կրթության, գիտության, մշակույթի և … 00:20 2026.10.14",
+"url": "https://www.1in.am/3768426.html",
+"firstSeenBaku": "2026-10-14 01:08"
 },
 {
-"title": "Միրզոյանն ու Սիբիհան քննարկել են Հայաստան–Ուկրաինա հարաբերությունների զարգացման հնարավորությունները Վարշավայի անվտանգության ֆորումի շրջանակներում Հայաստանի արտաքին գործերի և միջազգային առևտրի նախարար Արարատ Միրզոյանը հանդիպել է Ուկրաինայի արտաքին գործերի նախարար Անդրիյ …",
-"url": "https://www.1in.am/3768528.html",
-"firstSeenBaku": "2026-10-13 23:09"
+"title": "ՀՀ ՄԻՊ աշխատակազմի գլխավոր քարտուղարն ընդունել է Հայաստանի եվրոպական համալսարանի ուսանողներին Հայաստանի մարդու իրավունքների պաշտպանի աշխատակազմի գլխավոր քարտուղար Անդրանիկ Եղոյանն ընդունել է Հայաստանի եվրոպական համալսարանի իրավագիտության ֆակուլտետի 1-ին և լեզվաբանության (թարգմանչական …",
+"url": "https://www.1in.am/3768554.html",
+"firstSeenBaku": "2026-10-14 00:05"
 },
 {
 "title": "Ադրբեջանի իշխող կուսակցությունը կոշտ է արձագանքել Էրդողանի խորհրդականին",
@@ -1277,9 +1247,24 @@
 "firstSeenBaku": "2026-10-12 20:55"
 },
 {
+"title": "Քննարկվել են նոր Սահմանադրության նախագծին առնչվող հարցեր",
+"url": "https://www.1in.am/3768620.html",
+"firstSeenBaku": "2026-10-14 00:05"
+},
+{
 "title": "ԹՐԻՓՓ-ը կարող է նպաստել խաղաղությանն ու բարգավաճմանը․ Միրզոյան",
 "url": "https://www.1in.am/3768623.html",
 "firstSeenBaku": "2026-10-14 00:05"
+},
+{
+"title": "Երևան-Լոնդոն ուղիղ չվերները՝ քննարկման առանցքում",
+"url": "https://www.1in.am/3768579.html",
+"firstSeenBaku": "2026-10-14 00:05"
+},
+{
+"title": "Միրզոյանն ու Սիբիհան քննարկել են Հայաստան–Ուկրաինա հարաբերությունների զարգացման հնարավորությունները",
+"url": "https://www.1in.am/3768528.html",
+"firstSeenBaku": "2026-10-13 23:09"
 },
 {
 "title": "Միրզոյանն Իրաքի փոխվարչապետի հետ քննարկել է տարածաշրջանային հարցեր",
@@ -1295,16 +1280,6 @@
 "title": "Պուտինը և ԱՄԷ նախագահը քննարկել են Թրամփի հետ դիզելային վառելիքի շուրջ համաձայնությունները",
 "url": "https://www.1in.am/3768522.html",
 "firstSeenBaku": "2026-10-13 20:57"
-},
-{
-"title": "Քննարկվել են Հայաստան-Բելգիա երկկողմ հարաբերությունների զարգացմանն վերաբերող հարցեր",
-"url": "https://www.1in.am/3768501.html",
-"firstSeenBaku": "2026-10-13 19:58"
-},
-{
-"title": "Միրզոյանն ու Վադեֆուլը քննարկել են Հայաստան-Գերմանիա առևտրատնտեսական հարաբերությունները",
-"url": "https://www.1in.am/3768478.html",
-"firstSeenBaku": "2026-10-13 19:58"
 },
 {
 "title": "Yandex Armenia-ն շարունակում է վերականգնել ծառայությունների աշխատանքը",
@@ -1414,11 +1389,6 @@
 "title": "Protests Against Hijab Ban Escalate in Baku: 37 Arrested, Social Media Platforms Disrupted",
 "url": "https://www.301.am/2026/10/12/protests-against-hijab-ban-escalate-in-baku-37-arrested-social-media-platforms-disrupted/",
 "firstSeenBaku": "2026-10-12 22:59"
-},
-{
-"title": "Armenian Mother Who Fought Off Armed Azerbaijani Soldier Speaks Out After Pashinyan Said She Should Have Waited for Police",
-"url": "https://www.301.am/2026/10/12/armenian-mother-who-fought-off-armed-azerbaijani-soldier-speaks-out-after-pashinyan-said-she-should-have-waited-for-police/",
-"firstSeenBaku": "2026-10-12 19:03"
 }
 ],
 "alphanews": [
