@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-14T21:07:39.420381+00:00",
-"generatedAtBaku": "2026-10-15 01:07",
+"generatedAt": "2026-10-14T22:07:13.743602+00:00",
+"generatedAtBaku": "2026-10-15 02:07",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -8,6 +8,11 @@
 "title": "AZƏRBAYCANIN İSTEDADLARI",
 "url": "https://azertag.az/bolme/istedadlar",
 "firstSeenBaku": "2026-10-14 13:12"
+},
+{
+"title": "Azərbaycan Respublikası Media və Yayım Şurasının və Səhiyyə Nazirliyinin birgə açıqlaması",
+"url": "https://azertag.az/xeber/azerbaycan_respublikasi_media_ve_yayim_surasinin_ve_sehiyye_nazirliyinin_birge_achiqlamasi-4462668",
+"firstSeenBaku": "2026-10-15 01:07"
 },
 {
 "title": "Prezident İlham Əliyevin adından AQEM-in 7-ci Zirvə Görüşünün iştirakçılarının şərəfinə şam yeməyi verilib VİDEO",
@@ -60,11 +65,6 @@
 "firstSeenBaku": "2026-10-14 14:10"
 },
 {
-"title": "Azərbaycan Respublikası Media və Yayım Şurasının və Səhiyyə Nazirliyinin birgə açıqlaması",
-"url": "https://azertag.az/xeber/azerbaycan_respublikasi_media_ve_yayim_surasinin_ve_sehiyye_nazirliyinin_birge_achiqlamasi-4462668",
-"firstSeenBaku": "2026-10-15 01:07"
-},
-{
 "title": "Prezident İlham Əliyev Tacikistan Prezidenti ilə görüşüb VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyev_tacikistan_prezidenti_ile_gorusub_video-4462578",
 "firstSeenBaku": "2026-10-14 23:13"
@@ -83,6 +83,11 @@
 "title": "Prezident İlham Əliyevin İsrail Prezidenti ilə görüşü olub VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyevin_israil_prezidenti_ile_gorusu_olub_video-4462233",
 "firstSeenBaku": "2026-10-14 22:09"
+},
+{
+"title": "Parisdə Cənubi Qafqazda dəyişən geosiyasi şəraitdə Azərbaycanın artan rolu təhlil olunub",
+"url": "https://azertag.az/xeber/parisde_cenubi_qafqazda_deyisen_geosiyasi_seraitde_azerbaycanin_artan_rolu_tehlil_olunub-4462680",
+"firstSeenBaku": "2026-10-15 02:07"
 },
 {
 "title": "Danimarka Almaniya ilə sərhəddə nəzarət tədbirlərini 2027-ci ilin mayınadək uzadıb",
@@ -215,14 +220,14 @@
 "firstSeenBaku": "2026-10-14 18:09"
 },
 {
-"title": "Prezident İlham Əliyev Özbəkistan Prezidenti ilə görüşüb YENİLƏNİB VİDEO",
-"url": "https://azertag.az/xeber/4462491",
-"firstSeenBaku": "2026-10-15 00:09"
-},
-{
 "title": "Prezident İlham Əliyevin adından AQEM-in 7-ci Zirvə Görüşünün iştirakçılarının şərəfinə şam yeməyi verilib VİDEO",
 "url": "https://azertag.az/xeber/4462608",
 "firstSeenBaku": "2026-10-15 01:07"
+},
+{
+"title": "Prezident İlham Əliyev Özbəkistan Prezidenti ilə görüşüb YENİLƏNİB VİDEO",
+"url": "https://azertag.az/xeber/4462491",
+"firstSeenBaku": "2026-10-15 00:09"
 }
 ],
 "apa": [
@@ -337,11 +342,6 @@
 "firstSeenBaku": "2026-10-14 18:09"
 },
 {
-"title": "Bakıda Azərbaycan və Kamboca Baş nazirlərinin görüşü olub 17:23 14 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/bakida-azerbaycan-ve-kamboca-bas-nazirlerinin-gorusu-olub-1005059",
-"firstSeenBaku": "2026-10-14 18:09"
-},
-{
 "title": "Ermənistan ordusunun Tərtər qəbiristanlığını atəşə tutmasının ildönümüdür 00:00 15 oktyabr 2026",
 "url": "https://apa.az/daxili-siyaset/ermenistan-ordusunun-terter-qebiristanligini-atese-tutmasinin-ildonumudur-1005020?locale=az",
 "firstSeenBaku": "2026-10-15 00:09"
@@ -407,11 +407,6 @@
 "title": "Bakıda “Kəlağayı” yürüşü - Video - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/bakida-kelagayi-yurusu-video-fotolar-524989",
 "firstSeenBaku": "2026-10-14 16:08"
-},
-{
-"title": "Leyla Əliyeva “44”ün təqdimat mərasimindən paylaşım etdi - Video",
-"url": "https://qafqazinfo.bax.tv/embed/227821.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=son-xeberler",
-"firstSeenBaku": "2026-10-13 19:58"
 },
 {
 "title": "Asiyanın diqqəti Bakıda - Gündəmdə hansı məsələlər var?",
@@ -492,11 +487,6 @@
 "title": "İstanbuldan Bakıya 16 min dərman gətirmək istədi - Qarşısı alındı",
 "url": "https://qafqazinfo.az/news/detail/istanbuldan-bakiya-16-min-derman-getirmek-istedi-qarsisi-alindi-524988",
 "firstSeenBaku": "2026-10-14 15:08"
-},
-{
-"title": "“Fransalı nazirin Azərbaycanı əsassız iddialarla hədəf almasını qətiyyətlə pisləyirik”",
-"url": "https://qafqazinfo.az/news/detail/fransali-nazirin-azerbaycani-esassiz-iddialarla-hedef-almasini-qetiyyetle-pisleyirik-524982",
-"firstSeenBaku": "2026-10-14 14:10"
 }
 ],
 "haqqin": [
@@ -506,17 +496,17 @@
 "firstSeenBaku": "2026-10-14 10:07"
 },
 {
-"title": "Что такое НАТО 3.0 и при чем тут Южный Кавказ НАШ ОБЗОР 14 октября 2026, 17:43 3102",
+"title": "Что такое НАТО 3.0 и при чем тут Южный Кавказ НАШ ОБЗОР 14 октября 2026, 17:43 3198",
 "url": "https://haqqin.az/newsarchive/395530",
 "firstSeenBaku": "2026-10-14 18:09"
 },
 {
-"title": "Проиранская группировка признала атаку на Азербайджан Ее целью был и Трамп 14 октября 2026, 15:20 4020",
+"title": "Проиранская группировка признала атаку на Азербайджан Ее целью был и Трамп 14 октября 2026, 15:20 4109",
 "url": "https://haqqin.az/newsarchive/395507",
 "firstSeenBaku": "2026-10-14 16:08"
 },
 {
-"title": "МИД Азербайджана резко осадил французского министра 14 октября 2026, 14:17 3311",
+"title": "МИД Азербайджана резко осадил французского министра 14 октября 2026, 14:17 3377",
 "url": "https://haqqin.az/newsarchive/395498",
 "firstSeenBaku": "2026-10-14 15:08"
 },
@@ -541,14 +531,9 @@
 "firstSeenBaku": "2026-10-14 20:13"
 },
 {
-"title": "Встреча Ильхама Алиева и Ицхака Герцога фото; обновлено 19:14",
+"title": "Встреча Ильхама Алиева и Ицхака Герцога фото; обновлено 19:14 14 октября 2026, 19:14 6070",
 "url": "https://haqqin.az/newsarchive/395519",
 "firstSeenBaku": "2026-10-14 17:16"
-},
-{
-"title": "Граждан Азербайджана вернули из Германии",
-"url": "https://haqqin.az/newsarchive/395539",
-"firstSeenBaku": "2026-10-14 19:10"
 }
 ],
 "news.am": [
@@ -600,11 +585,6 @@
 {
 "title": "14 հկտ | 19:15 Շիկահողի անտառում ադրբեջանցիների ծառահատված 60 հեկտարը՝ սահմանազատման հարց. COP17-ը կապ չունի՞",
 "url": "https://news.am/hy/news/1067862",
-"firstSeenBaku": "2026-10-14 20:13"
-},
-{
-"title": "14 հկտ | 19:10 Զանգեզուրի պղնձամոլիբդենային կոմբինատը ներդնում է նոր ու ժամանակակից ISO 27001 ստանդարտ",
-"url": "https://news.am/hy/news/1067860",
 "firstSeenBaku": "2026-10-14 20:13"
 },
 {
@@ -661,6 +641,11 @@
 "title": "Վարչապետի մոտ քննարկվել են ՀՀ միգրացիոն կառավարման համակարգի վերափոխման հիմնական ուղղությունները Վարչապետ Նիկոլ Փաշինյանի գլխավորությամբ տեղի է ունեցել խորհրդակցություն, որի ընթացքում հոկտեմբերի 14, 17:37",
 "url": "https://news.am/hy/news/1067840",
 "firstSeenBaku": "2026-10-14 18:09"
+},
+{
+"title": "Զանգեզուրի պղնձամոլիբդենային կոմբինատը ներդնում է նոր ու ժամանակակից ISO 27001 ստանդարտ Թվայնացումն այսօր ցանկացած խոշոր արդյունաբերության շարժիչ ուժն է, սակայն տեխնոլոգիական հոկտեմբերի 14, 19:10",
+"url": "https://news.am/hy/news/1067860",
+"firstSeenBaku": "2026-10-14 20:13"
 },
 {
 "title": "«Դասարանից՝ ուղեծիր»․ Ucom-ի աջակցությամբ «Տիեզերք 1.0» ուսումնական փաթեթը ներդրվում է Հայաստանի ևս 15 դպրոցներում հոկտեմբերի 14, 13:27",
@@ -972,11 +957,6 @@
 "firstSeenBaku": "2026-10-14 14:10"
 },
 {
-"title": "Armenia Armenian infrastructure minister Davit Khudatyan receives UK ambassador 19:03, 13 October",
-"url": "https://armenpress.am/en/article/1262708",
-"firstSeenBaku": "2026-10-13 19:58"
-},
-{
 "title": "Mher Sahakyan SCO offers favourable platform for Armenia to develop political and economic ties with other countries – China expert 09:15, 2 September",
 "url": "https://armenpress.am/en/article/1259390",
 "firstSeenBaku": "2026-10-14 13:12"
@@ -1167,11 +1147,6 @@
 "title": "3 «Անկլավ, էքսկլավ չի լինելու»․ Փաշինյանը ներկայացրել է Ադրբեջանի հետ խաղաղության իր պատկերացումը",
 "url": "https://www.azatutyun.am/a/33876275.html",
 "firstSeenBaku": "2026-10-14 10:07"
-},
-{
-"title": "2 Ո՞վ կլինի Սահմանադրական դատարանի հաջորդ նախագահը",
-"url": "https://www.azatutyun.am/a/33866001.html",
-"firstSeenBaku": "2026-10-13 19:58"
 }
 ],
 "tert": [
@@ -1321,11 +1296,6 @@
 "title": "2026-10-13 22:06:00 Արևելյան գործընկերության մեկնարկից ի վեր Հայաստան-ԵՄ հարաբերություններն էական առաջընթաց են արձանագրել. Միրզոյան",
 "url": "https://hetq.am/hy/article/184679",
 "firstSeenBaku": "2026-10-13 23:09"
-},
-{
-"title": "2026-10-13 19:48:00 Արարատ Միրզոյանը հանդիպել է Ուկրաինայի ԱԳ նախարարին",
-"url": "https://hetq.am/hy/article/184676",
-"firstSeenBaku": "2026-10-13 19:58"
 },
 {
 "title": "Կնճիռների հարթեցման համար Հայաստանում օգտագործվում են չգրանցված դեղամիջոցներ",
