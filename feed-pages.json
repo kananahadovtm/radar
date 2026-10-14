@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-14T00:00:25.966199+00:00",
-"generatedAtBaku": "2026-10-14 04:00",
+"generatedAt": "2026-10-14T01:15:54.141940+00:00",
+"generatedAtBaku": "2026-10-14 05:15",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -215,14 +215,14 @@
 "firstSeenBaku": "2026-10-13 12:57"
 },
 {
-"title": "YAP Türkiyənin siyasi dairələrini Azərbaycanın suverenliyinə və daxili işlərinə hörmət etməyə çağırıb",
-"url": "https://azertag.az/xeber/4459251",
-"firstSeenBaku": "2026-10-13 18:02"
-},
-{
 "title": "Milli Məclisin Azərbaycan-Türkiyə parlamentlərarası əlaqələr üzrə işçi qrupu bəyanat yayıb",
 "url": "https://azertag.az/xeber/4459731",
 "firstSeenBaku": "2026-10-14 02:05"
+},
+{
+"title": "YAP Türkiyənin siyasi dairələrini Azərbaycanın suverenliyinə və daxili işlərinə hörmət etməyə çağırıb",
+"url": "https://azertag.az/xeber/4459251",
+"firstSeenBaku": "2026-10-13 18:02"
 },
 {
 "title": "Azərbaycan və Laos prezidentləri mətbuata bəyanatlarla çıxış ediblər YENİLƏNİB VİDEO",
@@ -294,11 +294,6 @@
 {
 "title": "Azərbaycanda mənzillərin kirayə ilə özünü ödəmə müddəti 23 ilə çatıb 17:47 13 oktyabr 2026",
 "url": "https://apa.az/maliyye/azerbaycanda-menzillerin-kiraye-ile-ozunu-odeme-muddeti-23-ile-catib-1004693",
-"firstSeenBaku": "2026-10-13 18:02"
-},
-{
-"title": "Prezidentin sosial şəbəkə hesablarında Laos Prezidentinin Azərbaycana səfəri ilə bağlı videoçarx paylaşılıb 17:45 13 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/prezidentin-sosial-sebeke-hesablarinda-laos-prezidentinin-azerbaycana-seferi-ile-bagli-videocarx-paylasilib-1004690",
 "firstSeenBaku": "2026-10-13 18:02"
 },
 {
@@ -392,16 +387,6 @@
 "title": "YAP-dan türkiyəli rəsmilərin Azərbaycanla bağlı açıqlamalarına - Etiraz",
 "url": "https://qafqazinfo.az/news/detail/yap-dan-turkiyeli-resmilerin-azerbaycanla-bagli-aciqlamalarina-etiraz-524846",
 "firstSeenBaku": "2026-10-13 14:58"
-},
-{
-"title": "Azərbaycanda ilk dəfə meyitdən ürək köçürülən Rəşad vəfat etdi - Foto",
-"url": "https://qafqazinfo.az/news/detail/azerbaycanda-ilk-defe-meyitden-urek-kocurulen-resad-vefat-etdi-foto-524840",
-"firstSeenBaku": "2026-10-13 14:58"
-},
-{
-"title": "12.10.2026 22:22 Bakıda genişmiqyaslı əməliyyat - 200-dən çox saxlanılan var",
-"url": "https://qafqazinfo.az/news/detail/bakida-genismiqyasli-emeliyyat-200-den-cox-saxlanilan-var-524762",
-"firstSeenBaku": "2026-10-12 22:59"
 }
 ],
 "haqqin": [
@@ -573,16 +558,6 @@
 "firstSeenBaku": "2026-10-12 23:55"
 },
 {
-"title": "Հայաստանի երկաթուղիները՝ մեծ աշխարհաքաղաքականության ուշադրության կենտրոնում. «Ռազմաքաղաքական վերլուծություն» հոկտեմբերի 12, 22:38",
-"url": "https://news.am/hy/news/1067383",
-"firstSeenBaku": "2026-10-12 22:59"
-},
-{
-"title": "Կարո՞ղ են արդյոք Հայաստանն ու Ադրբեջանն այդպես էլ չստորագրել խաղաղության պայմանագիրը. ամերիկացի փորձագետ հոկտեմբերի 12, 22:01",
-"url": "https://news.am/hy/news/1067384",
-"firstSeenBaku": "2026-10-12 22:59"
-},
-{
 "title": "Արցախից տեղահանված 45.098 քաղաքացու շնորհվել է ՀՀ քաղաքացիություն. Արմեն Ղազարյան հոկտեմբերի 13, 13:01",
 "url": "https://news.am/hy/news/1067538",
 "firstSeenBaku": "2026-10-13 13:57"
@@ -611,6 +586,230 @@
 "title": "Ոչ նյութական մշակութային ժառանգության միջազգային օրվան միացել է Հայաստանի 170 բնակավայր Հոկտեմբերի 17-ը Ոչ նյութական մշակութային ժառանգության միջազգային օրն է, և Հայաստանը ևս նշում հոկտեմբերի 13, 11:52",
 "url": "https://news.am/hy/news/1067519",
 "firstSeenBaku": "2026-10-13 11:59"
+}
+],
+"armenpress-hy": [
+{
+"title": "Մեր եվրոպական ձգտումները ստացել են իրավական և քաղաքական ձևակերպում. Միրզոյանի ելույթը «ԵՄ Արևելյան գործընկերության վերաիմաստավորումը» խորագրով կլոր սեղան-քննարկմանը 22:29, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262719",
+"firstSeenBaku": "2026-10-13 23:09"
+},
+{
+"title": "Ինչ է սպասվում Երևանում կայանալիք COP17 համաժողովում 10:14, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262628",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Կարմիր գրքի էջերից՝ վերադարձ բնություն․ Երևանի կենդանաբանական այգու հազվագյուտ բնակիչները 10:04, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262626",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Հայաստան Հայաստանը և Կիպրոսը կխորացնեն միջխորհրդարանական համագործակցությունը. քննարկվել են նաև վիզաների ազատականացման հեռանկարները Հայաստանը և Կիպրոսը կարևորում են միջխորհրդարանական կապերի ամրապնդումն ու երկկողմ համագործակցության ընդլայնումը՝ հատկապես տնտեսության, զբոսաշրջության և առևտրի ո... 18:26,",
+"url": "https://armenpress.am/hy/article/1262707",
+"firstSeenBaku": "2026-10-13 19:00"
+},
+{
+"title": "Քաղաքականություն Միրզոյանն ու Սիբիհան քննարկել են Հայաստան–Ուկրաինա հարաբերությունների զարգացման հնարավորությունները 17:12, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262696",
+"firstSeenBaku": "2026-10-13 18:02"
+},
+{
+"title": "Քաղաքականություն Ալեն Սիմոնյանն ու Էրիկ Դե Մույնքն անդրադարձել են ՀՀ-ԵՄ կապերին վերաբերող թեմաների 15:12, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262677",
+"firstSeenBaku": "2026-10-13 15:57"
+},
+{
+"title": "Հայաստան Հանրապետության տարածքում առաջիկա օրերին սպասվում է փոփոխական եղանակ 20:00, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262712",
+"firstSeenBaku": "2026-10-13 20:57"
+},
+{
+"title": "Հայաստան ՄԻՊ ներկայացուցիչներն այցելել են «Նուբարաշեն» ՔԿՀ 19:10, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262710",
+"firstSeenBaku": "2026-10-13 19:58"
+},
+{
+"title": "Հայաստան Գյումրիի Հաղթանակ զբոսայգում 12 ծառ է հատվել․ վնասը գնահատվել է 630 հազար դրամ 18:58, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262709",
+"firstSeenBaku": "2026-10-13 19:00"
+},
+{
+"title": "00:15 Վարշավայում հանդիպել են Հայաստանի և Կոսովոյի ԱԳ նախարարները",
+"url": "https://armenpress.am/hy/article/1262721",
+"firstSeenBaku": "2026-10-14 01:08"
+},
+{
+"title": "00:04 Արարատ Միրզոյանը հեռախոսազրույց է ունեցել Իրաքի ԱԳ նախարարի հետ",
+"url": "https://armenpress.am/hy/article/1262720",
+"firstSeenBaku": "2026-10-14 01:08"
+},
+{
+"title": "21:58, 13 հոկտեմբերի Հայաստանում քննարկվել են հոգեկան առողջության ոլորտում մարդու իրավունքների պաշտպանության և ծառայությունների հասանելիության հարցերը",
+"url": "https://armenpress.am/hy/article/1262718",
+"firstSeenBaku": "2026-10-13 23:09"
+},
+{
+"title": "21:38, 13 հոկտեմբերի Հայաստանը երկրորդ տարին անընդմեջ միասնական տաղավարով մասնակցում է «Bar Convent Berlin» ցուցահանդեսին",
+"url": "https://armenpress.am/hy/article/1262717",
+"firstSeenBaku": "2026-10-13 21:55"
+},
+{
+"title": "20:56, 13 հոկտեմբերի ՀՀ քննչական կոմիտեի Երևան քաղաքի քննչական վարչության պետ է նշանակվել Էդվարդ Կարապետյանը",
+"url": "https://armenpress.am/hy/article/1262715",
+"firstSeenBaku": "2026-10-13 20:57"
+},
+{
+"title": "18:17, 13 հոկտեմբերի Երևանի ավագանին ընդունել է քաղաքապետարանի աշխատակիցների աշխատավարձերի հաշվարկման գործակիցների փոփոխության նախագիծը",
+"url": "https://armenpress.am/hy/article/1262705",
+"firstSeenBaku": "2026-10-13 19:00"
+},
+{
+"title": "Քաղաքականություն Միրզոյանն ու Վադեֆուլը քննարկել են Հայաստան-Գերմանիա առևտրատնտեսական հարաբերությունները 15:55, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262684",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "Տնտեսություն Անշարժ գույքի գործակալի ծառայությունների մատուցման ոլորտում բացահայտվել է չհայտարարագրված հարկման օբյեկտ Հայաստանի պետական եկամուտների կոմիտեն բացահայտել է անշարժ գույքի գործակալի ծառայությունների մատուցման ոլորտում հարկման օբյեկտը չհայտարարագրելու և հարկային մարմ... 11:03, 13 հոկտեմբեր",
+"url": "https://armenpress.am/hy/article/1262637",
+"firstSeenBaku": "2026-10-13 11:59"
+},
+{
+"title": "Տեսանյութ Թյուրընկալում կա. Գալջյանը Երևանի քաղաքապետարանում աշխատավարձերի բարձրացման մասին 10:41, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262633",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Տեսանյութ Երևան քաղաքի ավագանու նիստ 09:59, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262625",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Տեսանյութ Մանոն ու Նանոն. Կարմիր գրքի կենդանատեսակները Երևանի կենդանաբանական այգում 09:10, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262620",
+"firstSeenBaku": "2026-10-13 09:56"
+},
+{
+"title": "Քաղաքականություն Միրզոյանն այցելել է տիեզերական տեխնոլոգիաների ոլորտում մասնագիտացած լեհական «Creotech Instruments» ընկերություն 10:38, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262632",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Մշակույթ Ոչ նյութական մշակութային ժառանգության միջազգային օրվան միացել է Հայաստանի 170 բնակավայր 13:02, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262661",
+"firstSeenBaku": "2026-10-13 13:57"
+},
+{
+"title": "Մշակույթ Հայաստանի պատմության թանգարանը մեր երկիրը հնագույն ժամանակներից լավագույնս բնորոշող նմուշները կցուցադրի Ակրոպոլիսում 09:00, 13 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262600",
+"firstSeenBaku": "2026-10-13 09:56"
+}
+],
+"armenpress-en": [
+{
+"title": "Armenian, Ukrainian FMs discuss developing bilateral ties 17:13, 13 October",
+"url": "https://armenpress.am/en/article/1262696",
+"firstSeenBaku": "2026-10-13 18:02"
+},
+{
+"title": "Pashinyan inspects final preparations for COP17 in Yerevan 16:45, 13 October",
+"url": "https://armenpress.am/en/article/1262690",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "Armenia, Germany discuss strategic partnership, economic cooperation 16:03, 13 October",
+"url": "https://armenpress.am/en/article/1262684",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "What to expect at COP17 in Yerevan: Key events and priorities 10:31, 13 October",
+"url": "https://armenpress.am/en/article/1262628",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Armenia Edvard Asryan receives delegation from India’s College of Defence Management Armenia’s First Deputy Minister of Defence and Chief of the General Staff of the Armed Forces, Lieutenant General Edvard Asryan, received a delegation led by th... 20:37, 13 October",
+"url": "https://armenpress.am/en/article/1262711",
+"firstSeenBaku": "2026-10-13 20:57"
+},
+{
+"title": "Armenia Armenia and Cyprus to deepen interparliamentary cooperation; visa liberalisation prospects also discussed 18:40, 13 October",
+"url": "https://armenpress.am/en/article/1262707",
+"firstSeenBaku": "2026-10-13 19:00"
+},
+{
+"title": "Politics Security Council Secretary, Belgian ambassador discuss Armenia–EU ties 15:18, 13 October",
+"url": "https://armenpress.am/en/article/1262677",
+"firstSeenBaku": "2026-10-13 15:57"
+},
+{
+"title": "Politics Armenian Speaker of Parliament, Belgian ambassador discuss bilateral ties, economic cooperation 14:29, 13 October",
+"url": "https://armenpress.am/en/article/1262670",
+"firstSeenBaku": "2026-10-13 14:58"
+},
+{
+"title": "Armenia Armenia takes part in Bar Convent Berlin with national pavilion for second consecutive year 21:53, 13 October",
+"url": "https://armenpress.am/en/article/1262717",
+"firstSeenBaku": "2026-10-13 21:55"
+},
+{
+"title": "Armenia Armenia’s Human Rights Defender says stereotypes limit women’s participation in armed forces 16:36, 13 October",
+"url": "https://armenpress.am/en/article/1262688",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "19:03, 13 October Armenian infrastructure minister Davit Khudatyan receives UK ambassador",
+"url": "https://armenpress.am/en/article/1262708",
+"firstSeenBaku": "2026-10-13 19:58"
+},
+{
+"title": "17:22, 13 October Central Bank of Armenia: exchange rates and prices of precious metals - 13-10-26",
+"url": "https://armenpress.am/en/article/1262699",
+"firstSeenBaku": "2026-10-13 18:02"
+},
+{
+"title": "16:56, 13 October Armenian Justice Minister, head of Georgia’s forensic bureau discuss cooperation",
+"url": "https://armenpress.am/en/article/1262693",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "16:50, 13 October Armenian deputy defense minister attends AUSA annual exhibition and conference in Washington",
+"url": "https://armenpress.am/en/article/1262692",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "16:08, 13 October Minister presents progress of housing and integration programs for people displaced from Karabakh",
+"url": "https://armenpress.am/en/article/1262685",
+"firstSeenBaku": "2026-10-13 17:06"
+},
+{
+"title": "Economy Amulsar gold mine begins operations, expected to boost Armenia’s economy The Amulsar gold mine, the first gold mine to be commissioned in Armenia since independence, launched its operations over the weekend, marking a new phase in on... 10:13, 13 October",
+"url": "https://armenpress.am/en/article/1262623",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Videos Public transport privileges: Yerevan Deputy Mayor provides details 10:49, 13 October",
+"url": "https://armenpress.am/en/article/1262634",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Videos Pallas’s cats (manuls) at Yerevan Zoo: Meet Mano and Nano 09:24, 13 October",
+"url": "https://armenpress.am/en/article/1262620",
+"firstSeenBaku": "2026-10-13 09:56"
+},
+{
+"title": "Politics Armenian FM visits Polish space technology company Creotech Instruments 10:48, 13 October",
+"url": "https://armenpress.am/en/article/1262632",
+"firstSeenBaku": "2026-10-13 11:07"
+},
+{
+"title": "Culture 170 communities in Armenia join International Day of Intangible Cultural Heritage 13:13, 13 October",
+"url": "https://armenpress.am/en/article/1262661",
+"firstSeenBaku": "2026-10-13 13:57"
+},
+{
+"title": "Culture “Ancient Armenia” exhibition to open at Acropolis Museum 09:20, 13 October",
+"url": "https://armenpress.am/en/article/1262600",
+"firstSeenBaku": "2026-10-13 09:56"
 }
 ],
 "azatutyun": [
@@ -755,11 +954,6 @@
 "title": "2026-10-12 23:07:00 COP17-ի շրջանակում հոկտեմբերի 15-ին և 16-ին Երևանում կգործեն երթևեկության ժամանակավոր սահմանափակումներ",
 "url": "https://hetq.am/hy/article/184646",
 "firstSeenBaku": "2026-10-12 23:55"
-},
-{
-"title": "2026-10-12 22:39:00 Հանդիպել են Հայաստանի և Լեհաստանի արտաքին գերատեսչությունների ղեկավարները",
-"url": "https://hetq.am/hy/article/184644",
-"firstSeenBaku": "2026-10-12 22:59"
 }
 ],
 "hraparak": [
@@ -921,11 +1115,6 @@
 "title": "13 October, 17:21 What does Armenia’s largest opposition party make of the country's European ambitions?",
 "url": "https://civilnet.am/en/news/1014741",
 "firstSeenBaku": "2026-10-13 18:02"
-},
-{
-"title": "12 October, 22:05 Armenia’s Amulsar gold mine begins operation after years of delay",
-"url": "https://civilnet.am/en/news/1014724",
-"firstSeenBaku": "2026-10-12 22:59"
 }
 ],
 "oc-media": [
@@ -1001,11 +1190,6 @@
 "title": "Azerbaijan Destroys More Armenian War Memorials in Occupied Artsakh as Cultural Genocide Continues",
 "url": "https://www.301.am/2026/10/13/azerbaijan-destroys-more-armenian-war-memorials-in-occupied-artsakh-as-cultural-genocide-continues/",
 "firstSeenBaku": "2026-10-13 15:57"
-},
-{
-"title": "Protests Against Hijab Ban Escalate in Baku: 37 Arrested, Social Media Platforms Disrupted",
-"url": "https://www.301.am/2026/10/12/protests-against-hijab-ban-escalate-in-baku-37-arrested-social-media-platforms-disrupted/",
-"firstSeenBaku": "2026-10-12 22:59"
 }
 ],
 "alphanews": [
