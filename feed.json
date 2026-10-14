@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-14T03:06:25.237233+00:00",
-"generatedAtBaku": "2026-10-14 07:06",
+"generatedAt": "2026-10-14T04:09:42.423160+00:00",
+"generatedAtBaku": "2026-10-14 08:09",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -17,14 +17,15 @@
 "pages": {
 "azertag": 49,
 "apa": 8,
+"qafqazinfo": 12,
 "haqqin": 6,
-"news.am": 32,
+"news.am": 31,
 "armenpress-hy": 23,
-"armenpress-en": 21,
+"armenpress-en": 22,
 "azatutyun": 11,
 "hetq": 15,
 "hraparak": 14,
-"1in": 16,
+"1in": 19,
 "primeminister": 0,
 "civilnet": 1,
 "oc-media": 4,
@@ -49,7 +50,6 @@
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
-"qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "tert": "522 Server Error: <none> for url: https://tert.am/am",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
