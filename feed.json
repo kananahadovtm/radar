@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-14T01:15:54.141940+00:00",
-"generatedAtBaku": "2026-10-14 05:15",
+"generatedAt": "2026-10-14T02:05:19.805332+00:00",
+"generatedAtBaku": "2026-10-14 06:05",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -15,15 +15,12 @@
 "caucasar": 4
 },
 "pages": {
-"azertag": 50,
+"azertag": 49,
 "apa": 9,
-"qafqazinfo": 17,
+"qafqazinfo": 16,
 "haqqin": 6,
-"news.am": 33,
-"armenpress-hy": 23,
-"armenpress-en": 21,
+"news.am": 32,
 "azatutyun": 11,
-"hetq": 17,
 "hraparak": 14,
 "1in": 16,
 "primeminister": 0,
@@ -46,12 +43,15 @@
 "301am": 1,
 "alphanews": 6
 },
-"search": 184
+"search": 187
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"armenpress-hy": "HTTPSConnectionPool(host='armenpress.am', port=443): Read timed out. (read timeout=30)",
+"armenpress-en": "HTTPSConnectionPool(host='armenpress.am', port=443): Read timed out.",
 "tert": "522 Server Error: <none> for url: https://tert.am/am",
+"hetq": "HTTPSConnectionPool(host='hetq.am', port=443): Read timed out.",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
