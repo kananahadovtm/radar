@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-15T10:10:44.747306+00:00",
-"generatedAtBaku": "2026-10-15 14:10",
+"generatedAt": "2026-10-15T11:08:49.110776+00:00",
+"generatedAtBaku": "2026-10-15 15:08",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -8,6 +8,11 @@
 "title": "AZƏRBAYCANIN İSTEDADLARI",
 "url": "https://azertag.az/bolme/istedadlar",
 "firstSeenBaku": "2026-10-14 13:12"
+},
+{
+"title": "Bakıda AQEM-in 7-ci Zirvə Görüşü keçirilir Prezident İlham Əliyev tədbirdə çıxış edib YENİLƏNİB",
+"url": "https://azertag.az/xeber/bakida_aqem_in_7_ci_zirve_gorusu_kechirilirprezident_ilham_aliyev_tedbirde_chixis_edib_yenilenib-4463136",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Prezident: Sülh hələ də kövrəkdir, onu qorumaq və möhkəmləndirmək lazımdır",
@@ -45,11 +50,6 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "Bakıda AQEM-in 7-ci Zirvə Toplantısı keçirilir Prezident İlham Əliyev tədbirdə çıxış edib YENİLƏNƏCƏK",
-"url": "https://azertag.az/xeber/bakida_aqem_in_7_ci_zirve_toplantisi_kechirilirprezident_ilham_aliyev_tedbirde_chixis_edib__yenilenecek-4463136",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
 "title": "Azərbaycanda “Rəqəmsal rabitə” informasiya sistemi yaradılıb",
 "url": "https://azertag.az/xeber/azerbaycanda_reqemsal_rabite_informasiya_sistemi_yaradilib-4463304",
 "firstSeenBaku": "2026-10-15 13:11"
@@ -75,13 +75,13 @@
 "firstSeenBaku": "2026-10-14 23:13"
 },
 {
-"title": "Prezident İlham Əliyev Özbəkistan Prezidenti ilə görüşüb YENİLƏNİB VİDEO",
-"url": "https://azertag.az/xeber/prezident_ilham_aliyev_ozbekistan_prezidenti_ile_gorusub___yenilenib__video-4462491",
+"title": "Prezident İlham Əliyev Tacikistan Prezidenti ilə görüşüb VİDEO",
+"url": "https://azertag.az/xeber/prezident_ilham_aliyev_tacikistan_prezidenti_ile_gorusub_video-4462578",
 "firstSeenBaku": "2026-10-14 23:13"
 },
 {
-"title": "Prezident İlham Əliyev Tacikistan Prezidenti ilə görüşüb VİDEO",
-"url": "https://azertag.az/xeber/prezident_ilham_aliyev_tacikistan_prezidenti_ile_gorusub_video-4462578",
+"title": "Prezident İlham Əliyev Özbəkistan Prezidenti ilə görüşüb YENİLƏNİB VİDEO",
+"url": "https://azertag.az/xeber/prezident_ilham_aliyev_ozbekistan_prezidenti_ile_gorusub___yenilenib__video-4462491",
 "firstSeenBaku": "2026-10-14 23:13"
 },
 {
@@ -98,6 +98,71 @@
 "title": "Prezident İlham Əliyev Çin Kommunist Partiyası Mərkəzi Komitəsinin Siyasi Bürosunun üzvünü qəbul edib VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyev_chin_kommunist_partiyasi_merkezi_komitesinin_siyasi_burosunun_uzvunu_qebul_edib_video-4462215",
 "firstSeenBaku": "2026-10-14 22:09"
+},
+{
+"title": "Azərbaycan Türk dünyasının iqtisadi və enerji təhlükəsizliyinin təmin olunmasında mühüm rol oynayır - ŞƏRH",
+"url": "https://azertag.az/xeber/azerbaycan_turk_dunyasinin_iqtisadi_ve_enerji_tehlukesizliyinin_temin_olunmasinda_muhum_rol_oynayir____serh-4463970",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Şri-Lankalı nazir: AQEM Azərbaycanın sədrliyi dövründə böyüməyə, güclənməyə davam edəcək",
+"url": "https://azertag.az/xeber/sri_lankali_nazir_aqem_azerbaycanin_sedrliyi_dovrunde_boyumeye_guclenmeye_davam_edecek-4463967",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "“Azərişıq”: Azərbaycanda elektrik enerjisi itkilərində azalma tendensiyası daim müşahidə olunur",
+"url": "https://azertag.az/xeber/azerisiq_azerbaycanda_elektrik_enerjisi_itkilerinde_azalma_tendensiyasi_daim_musahide_olunur-4463961",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Qarabağ həqiqətlərinin rəqəmsal mediada təbliği müzakirə olunub",
+"url": "https://azertag.az/xeber/qarabag_heqiqetlerinin_reqemsal_mediada_tebligi_muzakire_olunub-4463958",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Bəhreyn XİN: Azərbaycan nəqliyyat sistemlərinin səmərəliliyinin təmin edilməsində mühüm rol oynayır",
+"url": "https://azertag.az/xeber/behreyn_xin_azerbaycan_neqliyyat_sistemlerinin_semereliliyinin_temin_edilmesinde_muhum_rol_oynayir-4463946",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Azərbaycanın biznes və investisiya imkanları “Rebuild Garabagh” sərgisində nümayiş olunur",
+"url": "https://azertag.az/xeber/azerbaycanin_biznes_ve_investisiya_imkanlari_rebuild_garabagh_sergisinde_numayis_olunur-4463940",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Azərbaycanın U-23 minifutbol millisi dünya çempionatının pley-off mərhələsində",
+"url": "https://azertag.az/xeber/azerbaycanin_u_23_minifutbol_millisi_dunya_chempionatinin_pley_off_merhelesinde-4463928",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Azərbaycan alimləri Türkiyədə keçirilən beynəlxalq üzümçülük simpoziumunda iştirak ediblər",
+"url": "https://azertag.az/xeber/azerbaycan_alimleri_turkiyede_kechirilen_beynelxalq_uzumchuluk_simpoziumunda_istirak_edibler-4463916",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "® “AccessBank” və AYİB Azərbaycanda sahibkarların beynəlxalq ticarət imkanlarının genişləndirilməsini dəstəkləyir",
+"url": "https://azertag.az/xeber/_accessbank_ve_ayib_azerbaycanda_sahibkarlarin_beynelxalq_ticaret_imkanlarinin_genislendirilmesini_destekleyir-4463913",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Pakistanın Misirdəki səfiri azərbaycanlı tədqiqatçı-alimi təltif edib",
+"url": "https://azertag.az/xeber/pakistanin_misirdeki_sefiri_azerbaycanli_tedqiqatchi_alimi_teltif_edib-4463889",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Azərbaycan Almatıda Türk Dünyası Milli Elmlər Akademiyaları Birliyinin iclasında iştirak edəcək",
+"url": "https://azertag.az/xeber/azerbaycan_almatida_turk_dunyasi_milli_elmler_akademiyalari_birliyinin_iclasinda_istirak_edecek-4463871",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Azərbaycanın gimnastika komandası Avropa çempionatının finalına yüksəlib",
+"url": "https://azertag.az/xeber/azerbaycanin_gimnastika_komandasi_avropa_chempionatinin_finalina_yukselib-4463847",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Kambocanın Baş naziri: Dialoq və beynəlxalq hüquq çərçivəsində sülhə nail olmaq lazımdır",
+"url": "https://azertag.az/xeber/kambocanin_bas_naziri_dialoq_ve_beynelxalq_huquq_cherchivesinde_sulhe_nail_olmaq_lazimdir-4463793",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Vanq Yin: Çin Azərbaycanın AQEM-ə sədrliyini yüksək qiymətləndirir",
@@ -215,43 +280,8 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "Prezident İlham Əliyev: Azərbaycan Avrasiya məkanında birləşdirici mərkəz kimi getdikcə daha böyük rol oynayır",
-"url": "https://azertag.az/xeber/prezident_ilham_aliyev_azerbaycan_avrasiya_mekaninda_birlesdirici_merkez_kimi_getdikce_daha_boyuk_rol_oynayir-4463298",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Mərkəzi Bank: Azərbaycanda ortasəviyyəli təmərküzləşmə müşahidə olunur",
-"url": "https://azertag.az/xeber/merkezi_bank_azerbaycanda_ortaseviyyeli_temerkuzlesme_musahide_olunur-4463295",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Əminə Məlikova: Kəlağayı Azərbaycan qadınını sosial mənsubiyyətindən asılı olmayaraq bərabərləşdirən rəmzdir",
-"url": "https://azertag.az/xeber/emine_melikova_kelagayi_azerbaycan_qadinini_sosial_mensubiyyetinden_asili_olmayaraq_beraberlesdiren_remzdir-4463277",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Parisdə Azərbaycanın mədəniyyəti və turizm potensialı fransız mütəxəssislərə təqdim olunub",
-"url": "https://azertag.az/xeber/parisde_azerbaycanin_medeniyyeti_ve_turizm_potensiali_fransiz_mutexessislere_teqdim_olunub-4463244",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
 "title": "“Rəqəmsal rabitə” informasiya sisteminin yaradılması və bununla əlaqədar bir sıra məsələlərin tənzimlənməsi haqqında Azərbaycan Respublikası Prezidentinin Fərmanı",
 "url": "https://azertag.az/xeber/reqemsal_rabite_informasiya_sisteminin_yaradilmasi_ve_bununla_elaqedar_bir_sira_meselelerin_tenzimlenmesi_haqqinda__azerbaycan_respublikasi_prezidentinin_fermani-4463274",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Azərbaycanda İslam maliyyəsi mexanizmlərinin tətbiqini məqsədilə normativ-hüquqi akt layihələri hazırlanıb",
-"url": "https://azertag.az/xeber/azerbaycanda_islam_maliyyesi_mexanizmlerinin_tetbiqini_meqsedile_normativ_huquqi_akt_layiheleri_hazirlanib-4463250",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Azərbaycan klubu braziliyalı voleybolçunu heyətinə qatıb",
-"url": "https://azertag.az/xeber/azerbaycan_klubu_braziliyali_voleybolchunu_heyetine_qatib-4463223",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Azərbaycan Yaponiyanın məşhur “VIVANT” serialının ikinci mövsümündə geniş təqdim olunacaq",
-"url": "https://azertag.az/xeber/azerbaycan_yaponiyanin_meshur_vivant_serialinin_ikinci_movsumunde_genis_teqdim_olunacaq-4463229",
 "firstSeenBaku": "2026-10-15 12:12"
 },
 {
@@ -281,6 +311,46 @@
 }
 ],
 "apa": [
+{
+"title": "Bakıda Azərbaycan, Özbəkistan və Türkmənistan XİN rəhbərlərinin üçtərəfli görüşü keçirilib 14:51 15 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/bakida-azerbaycan-ozbekistan-ve-turkmenistan-xin-rehberlerinin-ucterefli-gorusu-kecirilib-1005376",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Hakan Fidan və Lavrov Bakıda görüşüb 14:46 15 oktyabr 2026",
+"url": "https://apa.az/asiya/hakan-fidan-ve-lavrov-bakida-gorusub-1005375",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Bəhreyn XİN rəhbəri AQEM-in Bakı sammitindən Hörmüz boğazında təhlükəsizliyin təmin olunmasına çağırıb 14:40 15 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/behreyn-xin-rehberi-aqem-in-baki-sammitinden-hormuz-bogazinda-tehlukesizliyin-temin-olunmasina-cagirib-1005371",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Pezeşkian sabah Ermənistana səfər edəcək 14:39 15 oktyabr 2026",
+"url": "https://apa.az/asiya/pezeskian-sabah-ermenistana-sefer-edecek-1005369",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Paşinyan: Ermənistanın Rusiya ilə heç vaxt sərin münasibətləri olmayıb 14:35 15 oktyabr 2026",
+"url": "https://apa.az/mdb-olkeleri/pasinyan-ermenistanin-rusiya-ile-hec-vaxt-serin-munasibetleri-olmayib-1005365",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "MDB-nin Əmək, Məşğulluq və Əhalinin Sosial Müdafiəsi üzrə Məşvərət Şurasına sədrlik Azərbaycana keçir 14:16 15 oktyabr 2026",
+"url": "https://apa.az/sosial/mdb-nin-emek-mesgulluq-ve-ehalinin-sosial-mudafiesi-uzre-mesveret-surasina-sedrlik-azerbaycana-kecir-1005348",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Van İ: Çin Azərbaycanın AQEM-in gücləndirilməsinə yönəlmiş səylərini yüksək qiymətləndirir 14:13 15 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/van-i-cin-azerbaycanin-aqem-in-guclendirilmesine-yonelmis-seylerini-yuksek-qiymetlendirir-1005345",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Bakıda AQEM-in 7-ci Zirvə Toplantısı keçirilir, Prezident İlham Əliyev tədbirdə çıxış edib - YENİLƏNİB-3 14:12 15 oktyabr 2026",
+"url": "https://apa.az/resmi-xeber/bakida-aqem-in-7-ci-zirve-toplantisi-kecirilir-prezident-ilham-eliyev-tedbirde-cixis-edib-yenilenib-3-1005226",
+"firstSeenBaku": "2026-10-15 15:08"
+},
 {
 "title": "İqor Sergeyenko: Azərbaycan AQEM-ə səmərəli sədrlik edir 14:07 15 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/iqor-sergeyenko-azerbaycan-aqem-e-semereli-sedrlik-edir-1005339",
@@ -347,49 +417,9 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "Tokayev: Azərbaycan AQEM-i dünyada önəmli təşkilata çevirmək üçün böyük iş görür 12:36 15 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/tokayev-azerbaycan-aqem-i-dunyada-onemli-teskilata-cevirmek-ucun-boyuk-is-gorur-1005289",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Azərbaycanda əmanətlərin sığortalanması ilə bağlı yeni mexanizm hazırlanır 12:34 15 oktyabr 2026",
-"url": "https://apa.az/maliyye/azerbaycanda-emanetlerin-sigortalanmasi-ile-bagli-yeni-mexanizm-hazirlanir-1005288",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Prezident: Biz döyüş meydanında qisas aldıq və Ermənistana sülh təklif etdik 12:33 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/prezident-biz-doyus-meydaninda-qisas-aldiq-ve-ermenistana-sulh-teklif-etdik-1005285",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Prezident: Azərbaycan ikili standartların tətbiqi ilə bağlı zərərli praktikaya qarşı fəal şəkildə çıxış edir 12:30 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/prezident-azerbaycan-ikili-standartlarin-tetbiqi-ile-bagli-zererli-praktikaya-qarsi-feal-sekilde-cixis-edir-1005281",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Azərbaycan-Qırğızıstan hərbi əməkdaşlığı müzakirə olunub 12:30 15 oktyabr 2026",
-"url": "https://apa.az/herbi/azerbaycan-qirgizistan-herbi-emekdasligi-muzakire-olunub-1005284",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Bakıda AQEM-in 7-ci Zirvə Toplantısı keçirilir, Prezident İlham Əliyev tədbirdə çıxış edib - YENİLƏNİB-2 12:24 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/bakida-aqem-in-7-ci-zirve-toplantisi-kecirilir-prezident-ilham-eliyev-tedbirde-cixis-edib-yenilenib-2-1005226",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Prezident: Müharibə bizim seçimimiz olmayıb, bizi buna Ermənistan məcbur edib 12:19 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/prezident-muharibe-bizim-secimimiz-olmayib-bizi-buna-ermenistan-mecbur-edib-1005276",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Azərbaycanın AQEM-ə sədrliyinin müddəti daha 2 il uzadılıb 12:19 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/azerbaycanin-aqem-e-sedrliyinin-muddeti-daha-2-il-uzadilib-1005279",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Bakıda AQEM-in 7-ci Zirvə Toplantısı keçirilir, Prezident İlham Əliyev tədbirdə çıxış edib - YENİLƏNİB-2 12:24 15 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/bakida-aqem-in-7-ci-zirve-toplantisi-kecirilir-prezident-ilham-eliyev-tedbirde-cixis-edib-yenilenib-2-1005226?locale=az",
-"firstSeenBaku": "2026-10-15 13:11"
+"title": "Bakıda AQEM-in 7-ci Zirvə Toplantısı keçirilir, Prezident İlham Əliyev tədbirdə çıxış edib - YENİLƏNİB-3 14:12 15 oktyabr 2026",
+"url": "https://apa.az/resmi-xeber/bakida-aqem-in-7-ci-zirve-toplantisi-kecirilir-prezident-ilham-eliyev-tedbirde-cixis-edib-yenilenib-3-1005226?locale=az",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Ceyhun Bayramov Çin xarici işlər naziri ilə görüşüb - YENİLƏNİB 08:58 15 oktyabr 2026",
@@ -417,22 +447,12 @@
 "firstSeenBaku": "2026-10-14 13:12"
 },
 {
-"title": "Bakıda inklüziv məşğulluq sahəsinə həsr olunmuş I beynəlxalq konfrans keçirilib - FOTO 11:29 15 oktyabr 2026",
-"url": "https://apa.az/sosial/bakida-inkluziv-mesgulluq-sahesine-hesr-olunmus-i-beynelxalq-konfrans-kecirilib-foto-1005218",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Mirzoyan: Ermənistan-Türkiyə sərhədi hər an açıla bilər 11:51 15 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/mirzoyan-ermenistan-turkiye-serhedi-her-an-acila-biler-1005254",
-"firstSeenBaku": "2026-10-15 12:12"
+"title": "Azərbaycan-Qırğızıstan hərbi əməkdaşlığı müzakirə olunub 12:30 15 oktyabr 2026",
+"url": "https://apa.az/herbi/azerbaycan-qirgizistan-herbi-emekdasligi-muzakire-olunub-1005284",
+"firstSeenBaku": "2026-10-15 13:11"
 }
 ],
 "qafqazinfo": [
-{
-"title": "“Sülh hələ də kövrəkdir, onu qorumaq lazımdır”",
-"url": "https://qafqazinfo.az/news/detail/sulh-hele-de-kovrekdir-onu-qorumaq-lazimdir-525116",
-"firstSeenBaku": "2026-10-15 14:10"
-},
 {
 "title": "“Bizi müharibəyə Ermənistan məcbur edib”",
 "url": "https://qafqazinfo.az/news/detail/bizi-muharibeye-ermenistan-mecbur-edib-525106",
@@ -441,6 +461,21 @@
 {
 "title": "Bakıda maşınla toqquşan atın sahibi saxlanıldı - Video - Yenilənib",
 "url": "https://qafqazinfo.az/news/detail/bakida-masinla-toqqusan-atin-sahibi-saxlanildi-video-yenilenib-525079",
+"firstSeenBaku": "2026-10-15 11:21"
+},
+{
+"title": "Bakıda görüşdülər - Foto",
+"url": "https://qafqazinfo.az/news/detail/bakida-gorusduler-foto-525127",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Bakıda MDB dövlətlərinin Məşvərət Şurasının 39-cu iclası keçirildi - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/bakida-mdb-dovletlerinin-mesveret-surasinin-39-cu-iclasi-kecirildi-fotolar-525123",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Bakıda maşınla toqquşan atın sahibi saxlanıldı - Video - Yenilənib",
+"url": "https://qafqazinfo.bax.tv/embed/227892.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=hadise-ve-olaylar",
 "firstSeenBaku": "2026-10-15 11:21"
 },
 {
@@ -454,9 +489,9 @@
 "firstSeenBaku": "2026-10-15 14:10"
 },
 {
-"title": "Bakıda maşınla toqquşan atın sahibi saxlanıldı - Video - Yenilənib",
-"url": "https://qafqazinfo.bax.tv/embed/227892.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=hadise-ve-olaylar",
-"firstSeenBaku": "2026-10-15 11:21"
+"title": "Bu gün Bakıdan İrəvana təyyarə uçacaq - Kimləri aparacaq?",
+"url": "https://qafqazinfo.az/news/detail/bu-gun-bakidan-irevana-teyyare-ucacaq-kimleri-aparacaq-525100",
+"firstSeenBaku": "2026-10-15 13:11"
 },
 {
 "title": "Azərbaycanla anklavların mübadiləsini istisna etmədi",
@@ -464,9 +499,9 @@
 "firstSeenBaku": "2026-10-15 14:10"
 },
 {
-"title": "Bu gün Bakıdan İrəvana təyyarə uçacaq - Kimləri aparacaq?",
-"url": "https://qafqazinfo.az/news/detail/bu-gun-bakidan-irevana-teyyare-ucacaq-kimleri-aparacaq-525100",
-"firstSeenBaku": "2026-10-15 13:11"
+"title": "“Sülh hələ də kövrəkdir, onu qorumaq lazımdır”",
+"url": "https://qafqazinfo.az/news/detail/sulh-hele-de-kovrekdir-onu-qorumaq-lazimdir-525116",
+"firstSeenBaku": "2026-10-15 14:10"
 },
 {
 "title": "Azərbaycan millisi Slovakiyaya qarşı",
@@ -474,9 +509,14 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "Türkmənistan Prezidenti də Bakıdadır - Foto",
-"url": "https://qafqazinfo.az/news/detail/turkmenistan-prezidenti-de-bakidadir-foto-525069",
-"firstSeenBaku": "2026-10-15 10:07"
+"title": "“Fənərbaxça” Bakıdadır - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/fenerbaxca-bakidadir-fotolar-523743",
+"firstSeenBaku": "2026-10-14 13:12"
+},
+{
+"title": "Bakının yollarında Formula 1 həyəcanı davam edir - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/bakinin-yollarinda-formula-1-heyecani-davam-edir-fotolar-522862",
+"firstSeenBaku": "2026-10-14 13:12"
 },
 {
 "title": "Niyazi Bayramov növbəti dəfə vətəndaşlarla görüşüb - Fotolar",
@@ -492,16 +532,6 @@
 "title": "“Fatma Şahin, Azərbaycanın daxili işlərinə müdaxilə etməyin!” - Təmraz Tağıyev",
 "url": "https://qafqazinfo.az/news/detail/fatma-sahin-azerbaycanin-daxili-islerine-mudaxile-etmeyin-temraz-tagiyev-525086",
 "firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "“Fənərbaxça” Bakıdadır - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/fenerbaxca-bakidadir-fotolar-523743",
-"firstSeenBaku": "2026-10-14 13:12"
-},
-{
-"title": "Bakının yollarında Formula 1 həyəcanı davam edir - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/bakinin-yollarinda-formula-1-heyecani-davam-edir-fotolar-522862",
-"firstSeenBaku": "2026-10-14 13:12"
 },
 {
 "title": "Paşinyan sülh sazişinin bu tarixə qədər imzalanacağını düşünür",
@@ -522,6 +552,11 @@
 "title": "İtaliya hərbçiləri Azərbaycanda - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/italiya-herbcileri-azerbaycanda-fotolar-525076",
 "firstSeenBaku": "2026-10-15 11:21"
+},
+{
+"title": "Türkmənistan Prezidenti də Bakıdadır - Foto",
+"url": "https://qafqazinfo.az/news/detail/turkmenistan-prezidenti-de-bakidadir-foto-525069",
+"firstSeenBaku": "2026-10-15 10:07"
 },
 {
 "title": "Bakıda tozlu hava müşahidə olunur - İki gün davam edəcək",
@@ -546,9 +581,19 @@
 "firstSeenBaku": "2026-10-15 12:12"
 },
 {
-"title": "От ипотечных долгов в Чикаго до TRIPP+ и активов в Армении Следствие ведут журналисты 02:23 3775",
+"title": "От ипотечных долгов в Чикаго до TRIPP+ и активов в Армении Следствие ведут журналисты 02:23 3845",
 "url": "https://haqqin.az/newsarchive/395557",
 "firstSeenBaku": "2026-10-15 03:03"
+},
+{
+"title": "В Азербайджане изменят правила работы ломбардов",
+"url": "https://haqqin.az/newsarchive/395618",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Пезешкиан приедет в Ереван. В Тегеране назвали цель визита",
+"url": "https://haqqin.az/newsarchive/395615",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Токаев и Герцог встретились в Баку",
@@ -566,22 +611,17 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "В Азербайджане создадут информационную систему «Цифровая связь»",
-"url": "https://haqqin.az/newsarchive/395595",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Пашинян назвал срок заключения мира с Азербайджаном",
-"url": "https://haqqin.az/newsarchive/395593",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "Что такое НАТО 3.0 и при чем тут Южный Кавказ НАШ ОБЗОР 14 октября 2026, 17:43 4243",
+"title": "Что такое НАТО 3.0 и при чем тут Южный Кавказ НАШ ОБЗОР 14 октября 2026, 17:43 4309",
 "url": "https://haqqin.az/newsarchive/395530",
 "firstSeenBaku": "2026-10-14 18:09"
 }
 ],
 "news.am": [
+{
+"title": "Իրանի նախագահը կմասնակցի Հայաստանում կայանալիք CBD COP17-ին",
+"url": "https://news.am/hy/news/1068039",
+"firstSeenBaku": "2026-10-15 15:08"
+},
 {
 "title": "Արծվաշենը տեղաշարժվում, բերվում մոտեցվում է՝ մի քիչ աջ, մի քիչ ձախ տանելով. Փաշինյան",
 "url": "https://news.am/hy/news/1068012",
@@ -596,6 +636,36 @@
 "title": "Այսօր երեկոյան Բաքվից օդանավ է ժամանելու Երևան",
 "url": "https://news.am/hy/news/1067971",
 "firstSeenBaku": "2026-10-15 12:12"
+},
+{
+"title": "14:48 Գուտերեշը կառավարությունում է. նա հանդիպել է Փաշինյանի հետ (վիդեո)",
+"url": "https://news.am/hy/news/1068044",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:45 Ինչո՞ւ չեն ուղարկում փոստով․ Փաշինյանը՝ Բաքվում պահվող հայերին հասցեագրված նամակների մասին",
+"url": "https://news.am/hy/news/1068041",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:41 Հայաստանը միջազգային գործընկերների հետ միշտ շփվում է կոռեկտության սահմաններում. Փաշինյանը՝ Լուկաշենկոյի հետ հանդիպումների և շփումների մասին",
+"url": "https://news.am/hy/news/1068040",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:25 Երևանը նոր ատոմային էլեկտրակայանի կառուցման հարցում լավագույն լուծումն է փնտրում․ Փաշինյան",
+"url": "https://news.am/hy/news/1068037",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:18 Ռուսաստանի հետ Հայաստանի շփումները երբեք սառը չեն եղել․ Փաշինյան",
+"url": "https://news.am/hy/news/1068035",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:09 Թուրքիան կմասնակցի COP-17-ին, սակայն Ադրբեջանի մասով տեղեկություն չկա․ Փաշինյան",
+"url": "https://news.am/hy/news/1068034",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "14:07 Ադրբեջանը հունվարից սեպտեմբեր ընկած ժամանակահատվածում 8,6 մլրդ խմ գազ է մատակարարել Եվրոպա",
@@ -678,28 +748,8 @@
 "firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "11:58 Լսե'ք՝ իրականում ինչ է ուզում հայ ժողովուրդը. գերիները պիտի ազատ արձակվեն, արցախցիները՝ վերադառնան. Սողոմոնյան",
-"url": "https://news.am/hy/news/1067982",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "11:49 «Ընթանում է մինչև վերջին կոպեկը վերադարձնելու գործընթացը». Փաշինյանը մեկնաբանել է «ՀԷՑ»-ի վերաբերյալ որոշումը",
-"url": "https://news.am/hy/news/1067975",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "11:46 Եվրոպայում Հայաստանն ընկալվում է որպես հակաժողովրդական պետություն. հայտարարություն",
-"url": "https://news.am/hy/news/1067976",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "11:45 Փաշինյանի ճեպազրույցը՝ կառավարության նիստից հետո",
+"title": "Ուղիղ Փաշինյանի ճեպազրույցը՝ կառավարության նիստից հետո",
 "url": "https://news.am/hy/news/1067977",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
-"title": "11:38 Թրամփի դարաշրջանի հակաթրենդը. ինչու են կանայք հրաժարվում «Մար-ա-Լագո դեմքից»",
-"url": "https://style.news.am/arm/news/116655",
 "firstSeenBaku": "2026-10-15 12:12"
 },
 {
@@ -708,9 +758,14 @@
 "firstSeenBaku": "2026-10-15 10:07"
 },
 {
-"title": "Ուղիղ Նիկոլ Փաշինյանը կառավարության հերթական նիստն է վարում",
-"url": "https://news.am/hy/news/1067950",
-"firstSeenBaku": "2026-10-15 11:21"
+"title": "Գուտերեշը կառավարությունում է. նա հանդիպել է Փաշինյանի հետ",
+"url": "https://news.am/hy/stories/2971",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "Ռուսներին ասում ենք՝ գնանք, մեր գլխի ճարը տեսնենք, եթե ներդրումը նպատակահարմար չէ․ Փաշինյան",
+"url": "https://news.am/hy/stories/2970",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Ոնց որ զենքը պահել էին մեր վրա, ասում էին` գիտության փողն ավելացրեք. Փաշինյան",
@@ -748,26 +803,6 @@
 "firstSeenBaku": "2026-10-14 16:08"
 },
 {
-"title": "Ինչ պայմաններում են պահվում ադրբեջանցին եւ նախագահը, որի ժամանակ ադրբեջանցի թիթեռը չէր կարող թռչել",
-"url": "https://news.am/hy/stories/2958",
-"firstSeenBaku": "2026-10-14 13:12"
-},
-{
-"title": "Դшնակահարություն` Երևանի կենտրոնում. 7 ձերբակալված կա",
-"url": "https://news.am/hy/stories/2957",
-"firstSeenBaku": "2026-10-14 13:12"
-},
-{
-"title": "Նույնիսկ ադրբեջանցիների մտքով չի անցել կալանավորել հոր ու որդու. Միկոյան",
-"url": "https://news.am/hy/stories/2956",
-"firstSeenBaku": "2026-10-14 12:11"
-},
-{
-"title": "Ինչպիսի՞ տեսք պետք է ունենա խաղաղությունը. Նիկոլ Փաշինյան",
-"url": "https://news.am/hy/stories/2955",
-"firstSeenBaku": "2026-10-14 12:11"
-},
-{
 "title": "«Հրապարակ»․ Նիկոլ Փաշինյանին Ադրբեջանը ժամանակ է տվել հոկտեմբերի 15, 08:14",
 "url": "https://news.am/hy/news/1067914",
 "firstSeenBaku": "2026-10-15 09:07"
@@ -803,11 +838,6 @@
 "firstSeenBaku": "2026-10-15 09:07"
 },
 {
-"title": "COP17. Երևանում որ փողոցներն են փակ լինելու հոկտեմբերի 15-ին և 16-ին. ՆԳՆ–ի հորդորը հոկտեմբերի 15, 10:31",
-"url": "https://news.am/hy/news/1067944",
-"firstSeenBaku": "2026-10-15 11:21"
-},
-{
 "title": "Renault-ը մտադիր է սահմանափակ սերիայով Gordini էլեկտրական սպորտային ավտոմեքենա թողարկել Renault-ը դիտարկում է 8 Gordini կոնցեպտի հիման վրա էլեկտրական սպորտային ավտոմեքենա սահմանափակ սերիայով հոկտեմբերի 15, 06:49",
 "url": "https://news.am/hy/news/1067771",
 "firstSeenBaku": "2026-10-15 07:07"
@@ -815,29 +845,29 @@
 ],
 "armenpress-hy": [
 {
-"title": "Արարատ Միրզոյանն ու Իգնասիո Կասիսն առանձնազրույց են ունեցել 10:26, 15 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262837",
-"firstSeenBaku": "2026-10-15 11:21"
+"title": "Թուրքիան նախարարական մակարդակով կմասնակցի Երևանում կայանալիք COP17-ին 13:09, 15 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262868",
+"firstSeenBaku": "2026-10-15 13:11"
 },
 {
-"title": "ՄԱԿ-ի գլխավոր քարտուղարը ժամանել է Երևան 00:30, 15 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262789",
-"firstSeenBaku": "2026-10-15 01:07"
+"title": "Արարատ Միրզոյանը չի բացառում, որ Հայաստան-Թուրքիա կարգավորման գործընթացում բանագնացների կարիք այլևս չլինի 13:04, 15 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262866",
+"firstSeenBaku": "2026-10-15 13:11"
+},
+{
+"title": "Մեր երկաթուղին պետք է լինի մրցունակ. Փաշինյանը՝ ռուսական կողմի հետ քննարկումների մասին 12:40, 15 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262863",
+"firstSeenBaku": "2026-10-15 13:11"
+},
+{
+"title": "Փաշինյանն անդրադարձավ Հայաստանի և Ադրբեջանի միջև անկլավների և էքսկլավների խնդրին 12:25, 15 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262858",
+"firstSeenBaku": "2026-10-15 13:11"
 },
 {
 "title": "Քաղաքականություն ՀՀ ԱԺ նախագահն ու Միջերկրածովյան խորհրդարանական վեհաժողովի նախագահը քննարկել են մի շարք հարցեր Եվրոպայի խորհրդի խորհրդարանների նախագահների եվրոպական համաժողովի շրջանակում Հռոմում գտնվող ՀՀ Ազգային ժողովի նախագահ Ռուբեն Ռուբինյանը հոկտեմբերի 15-ին հանդիպել... 14:06, 15 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1262877",
 "firstSeenBaku": "2026-10-15 14:10"
-},
-{
-"title": "Քաղաքականություն Մեր երկաթուղին պետք է լինի մրցունակ. Փաշինյանը՝ ռուսական կողմի հետ քննարկումների մասին 12:40, 15 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262863",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "Քաղաքականություն Փաշինյանն անդրադարձավ Հայաստանի և Ադրբեջանի միջև անկլավների և էքսկլավների խնդրին 12:25, 15 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262858",
-"firstSeenBaku": "2026-10-15 13:11"
 },
 {
 "title": "Տնտեսություն Բիզնեսի և հանքարդյունաբերության առաջնորդներից Մարկ Կուտիֆանին երրորդ Mining Armenia Forum-ի գլխավոր խոսնակն է 11:29, 15 հոկտեմբերի",
@@ -865,6 +895,21 @@
 "firstSeenBaku": "2026-10-14 18:09"
 },
 {
+"title": "14:24 Հայաստանի և Ադրբեջանի միջև կայուն խաղաղության հաստատումն արդեն իրատեսական է․ ԵԱՀԿ նախագահ",
+"url": "https://armenpress.am/hy/article/1262881",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:19 Դա լուծման հնարավոր տարբերակներից մեկն է. Արարատ Միրզոյանը՝ անկլավ-էքսկլավների փոխանակման մասին",
+"url": "https://armenpress.am/hy/article/1262880",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:15 Ռուբեն Ռուբինյանն ու Կլոդ Վիզլերը քննարկել են Հայաստան–Լյուքսեմբուրգ համագործակցության զարգացման հեռանկարները",
+"url": "https://armenpress.am/hy/article/1262878",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
 "title": "13:58 Հայաստանի համար ԵԱՀԿ-ի հետ կապված ընկալումները փոխվել են․ Միրզոյան",
 "url": "https://armenpress.am/hy/article/1262876",
 "firstSeenBaku": "2026-10-15 14:10"
@@ -873,26 +918,6 @@
 "title": "13:26 Թրամփը չգիտի, թե Թեհրանում հատկապես ում հետ է բանակցություններ վարում Վաշինգտոնը",
 "url": "https://armenpress.am/hy/article/1262871",
 "firstSeenBaku": "2026-10-15 14:10"
-},
-{
-"title": "13:09 Թուրքիան նախարարական մակարդակով կմասնակցի Երևանում կայանալիք COP17-ին",
-"url": "https://armenpress.am/hy/article/1262868",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "13:05 Ապօրինի շինությունները քանդվելու են․ Փաշինյան",
-"url": "https://armenpress.am/hy/article/1262869",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "13:04 Արարատ Միրզոյանը չի բացառում, որ Հայաստան-Թուրքիա կարգավորման գործընթացում բանագնացների կարիք այլևս չլինի",
-"url": "https://armenpress.am/hy/article/1262866",
-"firstSeenBaku": "2026-10-15 13:11"
-},
-{
-"title": "12:53 Արարատ Միրզոյանի և Իգնասիո Կասիսի համատեղ մամուլի ասուլիսը",
-"url": "https://armenpress.am/hy/article/1262865",
-"firstSeenBaku": "2026-10-15 13:11"
 },
 {
 "title": "Հայաստան ՊԵԿ-ը բացահայտել է առանձնապես խոշոր չափերի խարդախության դեպք Հայաստանի Հանրապետության պետական եկամուտների կոմիտեի հետաքննության և օպերատիվ հետախուզության վարչությունը բացահայտել է առանձնապես խոշոր չափերի խարդախության դեպք... 16:22, 14 հոկտեմբերի",
@@ -1020,6 +1045,26 @@
 "title": "Press centre Armenia sees improvements in early detection of breast cancer 13:33, 6 October",
 "url": "https://armenpress.am/en/article/1262097",
 "firstSeenBaku": "2026-10-14 13:12"
+},
+{
+"title": "14:37 OSCE Chairperson-in-Office says sustainable peace between Armenia, Azerbaijan now realistic",
+"url": "https://armenpress.am/en/article/1262881",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:23 Armenian FM says various possibilities exist for resolving enclave-exclave issue",
+"url": "https://armenpress.am/en/article/1262880",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:19 Armenian Speaker of Parliament meets Luxembourg counterpart",
+"url": "https://armenpress.am/en/article/1262878",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
+"title": "14:10 Armenian Parliament Speaker meets PAM President",
+"url": "https://armenpress.am/en/article/1262877",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "14:05 Armenia seeks to develop new areas of cooperation with OSCE, says FM",
@@ -1179,6 +1224,11 @@
 ],
 "azatutyun": [
 {
+"title": "Ալիևը կրկին Հայաստանին է մեղադրել պատերազմը սկսելու համար",
+"url": "https://www.azatutyun.am/a/33877172.html",
+"firstSeenBaku": "2026-10-15 15:08"
+},
+{
 "title": "Թուրքիայից COP 17-ին նախարարական մակարդակով մասնակցություն լինելու է. Փաշինյան",
 "url": "https://www.azatutyun.am/a/33877138.html",
 "firstSeenBaku": "2026-10-15 14:10"
@@ -1204,14 +1254,14 @@
 "firstSeenBaku": "2026-10-15 12:12"
 },
 {
-"title": "Ըստ Միրզոյանի՝ Բաքվի դիրքորոշումը անկլավների հարցում կառուցողական է",
-"url": "https://www.azatutyun.am/a/33877033.html",
-"firstSeenBaku": "2026-10-15 12:12"
-},
-{
 "title": "Փաշինյանը անկլավների հարցում նաև գյուղերի «տեղաշարժման» տարբերակն է առաջ քաշում",
 "url": "https://www.azatutyun.am/a/33877076.html",
 "firstSeenBaku": "2026-10-15 13:11"
+},
+{
+"title": "Ըստ Միրզոյանի՝ Բաքվի դիրքորոշումը անկլավների հարցում կառուցողական է",
+"url": "https://www.azatutyun.am/a/33877033.html",
+"firstSeenBaku": "2026-10-15 12:12"
 },
 {
 "title": "«Անկլավ, էքսկլավ չի լինելու»․ Փաշինյանը ներկայացրել է Ադրբեջանի հետ խաղաղության իր պատկերացումը",
@@ -1259,12 +1309,17 @@
 "firstSeenBaku": "2026-10-14 18:09"
 },
 {
-"title": "5 Yandex-ը Հայաստանում կրկին խափանումներով է աշխատում",
-"url": "https://www.azatutyun.am/a/33876300.html",
-"firstSeenBaku": "2026-10-14 11:21"
+"title": "5 Սահմանադրական դատարանի նախագահ չի ընտրվել",
+"url": "https://www.azatutyun.am/a/33876701.html",
+"firstSeenBaku": "2026-10-14 21:11"
 }
 ],
 "tert": [
+{
+"title": "Իրանի նախագահ Մասուդ Փեզեշքիանը կարճատև այցով Հայաստան կժամանի ուրբաթ՝ հոկտեմբերի 16-ին. Բաղայի",
+"url": "https://www.tert.am/am/news/2026/10/15/pashinyan-pezeshkian/4286992",
+"firstSeenBaku": "2026-10-15 15:08"
+},
 {
 "title": "Ադրբեջանի և Հայաստանի միջև խաղաղությունը նոր հեռանկարներ է ստեղծում Արևելքի և Արևմուտքի միջև կապերի համար. Տոկաև",
 "url": "https://www.tert.am/am/news/2026/10/15/tokayev-armenia-azerbaijan/4286988",
@@ -1319,11 +1374,6 @@
 "title": "Ադրբեջանը երկրի առաջին դեմքի մակարդակով շարունակում է իր ծավալապաշտական հռետորաբանությունը՝ թիրшխավորելով Հայաստանի կարևորագույն էկոհամակարգերը․ Լիանա Մանուկյան",
 "url": "https://www.tert.am/am/news/2026/10/14/liana-manukyan/4286883",
 "firstSeenBaku": "2026-10-14 19:10"
-},
-{
-"title": "Ասել եմ՝ բարև չեմ տալո՞ւ, թե՞ ասել եմ՝ տեսնեմ, ճամփես փոխելու եմ. ասել եմ՝ Բելառուս չենք գնալու, չենք գնացել. Փաշինյան",
-"url": "https://www.tert.am/am/news/2026/10/15/nikol-pashinyan-lukashenko/4286980",
-"firstSeenBaku": "2026-10-15 14:10"
 },
 {
 "title": "COP17 միջոցառումների ֆոնին Երևանը խցանումների մեջ է․ քաղաքացիները՝ անորոշության, տրանսպորտը՝ հարցականի տակ․ «Ժողովուրդ»",
@@ -1816,11 +1866,6 @@
 "title": "Progress or disaster? Armenia begins operations at Amulsar mine",
 "url": "https://jam-news.net/operations-begin-at-amulsar-mine/",
 "firstSeenBaku": "2026-10-14 13:12"
-},
-{
-"title": "Škoda plant to open in Baku: Project progress so far",
-"url": "https://jam-news.net/skoda-group-plans-rail-vehicle-production-plant-in-baku/",
-"firstSeenBaku": "2026-10-14 16:08"
 }
 ],
 "eeas-press": [
@@ -2057,6 +2102,11 @@
 }
 ],
 "osce": [
+{
+"title": "Press release OSCE RFoM concludes his official visit to Mongolia, organizes media literacy training in Ulaanbaatar Date Date 8 October 2026 Location Location ULAANBAATAR",
+"url": "https://rfom.osce.org/representative-freedom-media/668340",
+"firstSeenBaku": "2026-10-15 15:08"
+},
 {
 "title": "Media advisory OSCE Representative on Freedom of the Media to pay an official visit to Kyrgyzstan and convene the Central Asia Media Conference in Bishkek Date Date 5 October 2026 Location Location VIENNA",
 "url": "https://rfom.osce.org/representative-freedom-media/668226",
@@ -2590,6 +2640,11 @@
 "title": "FREE ARMENIAN HOSTAGES",
 "url": "https://www.301.am/free-armenian-hostages/",
 "firstSeenBaku": "2026-10-15 11:21"
+},
+{
+"title": "Families Demand Return of Remains of 51 Fallen Armenians from Occupied Artsakh",
+"url": "https://www.301.am/2026/10/08/families-demand-return-of-remains-of-51-fallen-armenians-from-occupied-artsakh/",
+"firstSeenBaku": "2026-10-15 15:08"
 },
 {
 "title": "Over 100 Members of Congress Urge Secretary Rubio to Cut U.S. Military Aid to Azerbaijan",
