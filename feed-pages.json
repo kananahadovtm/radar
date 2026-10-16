@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-16T02:08:10.114316+00:00",
-"generatedAtBaku": "2026-10-16 06:08",
+"generatedAt": "2026-10-16T03:07:30.970832+00:00",
+"generatedAtBaku": "2026-10-16 07:07",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -314,14 +314,14 @@
 "firstSeenBaku": "2026-10-15 11:21"
 },
 {
-"title": "Azərbaycanın AQEM-ə sədrliyi 2028-ci ilədək uzadıldı - XİN",
-"url": "https://qafqazinfo.az/news/detail/azerbaycanin-aqem-e-sedrliyi-2028-ci-iledek-uzadildi-xin-525197",
-"firstSeenBaku": "2026-10-16 00:05"
-},
-{
 "title": "Naxçıvanın Nazirlər Kabinetinə yeni səlahiyyət verildi",
 "url": "https://qafqazinfo.az/news/detail/naxcivanin-nazirler-kabinetine-yeni-selahiyyet-verildi-525164",
 "firstSeenBaku": "2026-10-15 19:13"
+},
+{
+"title": "Azərbaycanın AQEM-ə sədrliyi 2028-ci ilədək uzadıldı - XİN",
+"url": "https://qafqazinfo.az/news/detail/azerbaycanin-aqem-e-sedrliyi-2028-ci-iledek-uzadildi-xin-525197",
+"firstSeenBaku": "2026-10-16 00:05"
 },
 {
 "title": "Natiq Əliyev Sahil qəsəbəsində sakinlərlə görüşdü - Fotolar",
@@ -352,11 +352,6 @@
 "title": "Bakı Bəyannaməsi qəbul edildi",
 "url": "https://qafqazinfo.az/news/detail/baki-beyannamesi-qebul-edildi-525139",
 "firstSeenBaku": "2026-10-15 17:21"
-},
-{
-"title": "Öz ölkəsində qadınların hüquqlarını qorumayanlar - Azərbaycana dərs keçir",
-"url": "https://qafqazinfo.az/news/detail/oz-olkesinde-qadinlarin-huquqlarini-qorumayanlar-azerbaycana-ders-kecir-525091",
-"firstSeenBaku": "2026-10-15 16:08"
 }
 ],
 "haqqin": [
@@ -578,7 +573,7 @@
 "firstSeenBaku": "2026-10-15 16:08"
 },
 {
-"title": "Renault-ը մտադիր է սահմանափակ սերիայով Gordini էլեկտրական սպորտային ավտոմեքենա թողարկել Renault-ը դիտարկում է 8 Gordini կոնցեպտի հիման վրա էլեկտրական սպորտային ավտոմեքենա սահմանափակ սերիայով հոկտեմբերի 15, 06:49",
+"title": "Renault-ը մտադիր է սահմանափակ սերիայով Gordini էլեկտրական սպորտային ավտոմեքենա թողարկել հոկտեմբերի 15, 06:49",
 "url": "https://news.am/hy/news/1067771",
 "firstSeenBaku": "2026-10-15 07:07"
 }
@@ -1167,11 +1162,6 @@
 "firstSeenBaku": "2026-10-16 05:13"
 },
 {
-"title": "2026-10-14 Հայաստանը՝ հակաքաղցկեղային նոր դեղամիջոցների առաջին հաստատողը. համարձակ որոշման գինը",
-"url": "https://www.1in.am/3768881.html",
-"firstSeenBaku": "2026-10-15 21:12"
-},
-{
 "title": "Ծանրորդ Սամվել Մարտիրոսյանը բրոնզե մեդալ է նվաճել Հայաստանի ծանրամարտի երիտասարդական հավաքականի անդամները շարունակում են հաջող ելույթները երիտասարդների ու Մ23 տարեկանների Եվրոպայի առաջնությունում: Ալբանիայի Դուրես քաղաքում ընթացող երիտասարդների …",
 "url": "https://www.1in.am/3769080.html",
 "firstSeenBaku": "2026-10-15 21:12"
@@ -1266,6 +1256,18 @@
 "title": "Production starts in Azerbaijan’s first Israeli weapons factory",
 "url": "https://oc-media.org/production-starts-in-azerbaijans-first-israeli-weapons-factory/",
 "firstSeenBaku": "2026-10-15 21:12"
+}
+],
+"jam-news": [
+{
+"title": "Fidan says 'everything is fine' in Baku, but relations remain strained",
+"url": "https://jam-news.net/fidan-says-everything-is-fine-in-baku-but-relations-remain-strained/",
+"firstSeenBaku": "2026-10-16 07:07"
+},
+{
+"title": "Russia seeks to retain Armenian railway concession as Yerevan avoids confrontation",
+"url": "https://jam-news.net/russia-seeks-to-retain-armenian-railway-concession-as-yerevan-avoids-confrontation/",
+"firstSeenBaku": "2026-10-16 07:07"
 }
 ],
 "eeas-press": [
