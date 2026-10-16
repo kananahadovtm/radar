@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-16T16:10:53.122700+00:00",
-"generatedAtBaku": "2026-10-16 20:10",
+"generatedAt": "2026-10-16T17:09:36.271635+00:00",
+"generatedAtBaku": "2026-10-16 21:09",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,25 +9,25 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 100,
+"bagramyan26": 99,
 "HRAPARAKAM": 11,
 "ArmenianVendetta": 17,
 "caucasar": 7
 },
 "pages": {
-"azertag": 63,
-"apa": 21,
+"azertag": 60,
+"apa": 20,
 "qafqazinfo": 16,
-"haqqin": 6,
+"haqqin": 8,
 "news.am": 42,
-"armenpress-hy": 27,
-"armenpress-en": 38,
+"armenpress-hy": 25,
+"armenpress-en": 37,
 "azatutyun": 13,
-"tert": 14,
-"hetq": 22,
-"hraparak": 16,
+"tert": 15,
+"hetq": 21,
+"hraparak": 15,
 "primeminister": 5,
-"civilnet": 5,
+"civilnet": 6,
 "oc-media": 10,
 "jam-news": 2,
 "eeas-press": 1,
@@ -35,7 +35,7 @@
 "eeas-armenia": 0,
 "euma": 0,
 "europarl": 0,
-"osce": 8,
+"osce": 7,
 "nato": 1,
 "un-press": 0,
 "un-azerbaijan": 0,
@@ -46,7 +46,7 @@
 "301am": 4,
 "alphanews": 16
 },
-"search": 377
+"search": 364
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
