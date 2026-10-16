@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-16T20:01:30.045164+00:00",
-"generatedAtBaku": "2026-10-17 00:01",
+"generatedAt": "2026-10-16T21:07:24.985095+00:00",
+"generatedAtBaku": "2026-10-17 01:07",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,18 +9,18 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 88,
-"HRAPARAKAM": 10,
+"bagramyan26": 82,
+"HRAPARAKAM": 9,
 "ArmenianVendetta": 13,
 "caucasar": 5
 },
 "pages": {
-"azertag": 58,
+"azertag": 57,
 "apa": 20,
-"qafqazinfo": 15,
+"qafqazinfo": 14,
 "haqqin": 5,
-"news.am": 38,
-"armenpress-hy": 23,
+"news.am": 37,
+"armenpress-hy": 22,
 "armenpress-en": 30,
 "azatutyun": 13,
 "tert": 16,
@@ -28,7 +28,7 @@
 "hraparak": 20,
 "primeminister": 5,
 "civilnet": 7,
-"oc-media": 10,
+"oc-media": 9,
 "jam-news": 2,
 "eeas-press": 1,
 "eeas-azerbaijan": 0,
@@ -40,13 +40,12 @@
 "un-press": 0,
 "un-azerbaijan": 0,
 "un-armenia": 0,
-"armenianweekly": 3,
+"armenianweekly": 2,
 "armenian-assembly": 0,
 "arfd": 0,
-"301am": 4,
 "alphanews": 15
 },
-"search": 310
+"search": 296
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
@@ -56,6 +55,7 @@
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
-"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/",
+"301am": "HTTPSConnectionPool(host='www.301.am', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.301.am', port=443): Failed to resolve 'www.301.am' ([Errno -3] Temporary failure in name resolution)\"))"
 }
 }
