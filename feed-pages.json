@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-16T22:06:23.120338+00:00",
-"generatedAtBaku": "2026-10-17 02:06",
+"generatedAt": "2026-10-16T23:03:35.569526+00:00",
+"generatedAtBaku": "2026-10-17 03:03",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -50,24 +50,9 @@
 "firstSeenBaku": "2026-10-16 14:10"
 },
 {
-"title": "Bakıda AQEM-in 7-ci Zirvə Görüşü keçirilib Prezident İlham Əliyev tədbirdə çıxış edib YENİLƏNİB-2 VİDEO",
-"url": "https://azertag.az/xeber/bakida_aqem_in_7_ci_zirve_gorusu_kechirilib_prezident_ilham_aliyev_tedbirde_chixis_edib_yenilenib_2__video-4463136",
-"firstSeenBaku": "2026-10-15 20:10"
-},
-{
 "title": "Prezident İlham Əliyev Qətər Dövlətinin Əmiri ilə görüşüb YENİLƏNİB VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyev_qeter_dovletinin_emiri_ile_gorusub__yenilenib__video-4464177",
 "firstSeenBaku": "2026-10-15 21:12"
-},
-{
-"title": "Prezident İlham Əliyev Türkiyənin xarici işlər nazirini qəbul edib VİDEO",
-"url": "https://azertag.az/xeber/prezident_ilham_aliyev_turkiyenin_xarici_isler_nazirini_qebul_edib_video-4464192",
-"firstSeenBaku": "2026-10-15 20:10"
-},
-{
-"title": "Bakıda Azərbaycan və Qazaxıstan prezidentləri görüşüblər, Trans-Xəzər Fiber-Optik Kabel Xəttinin açılışını ediblər VİDEO",
-"url": "https://azertag.az/xeber/bakida_azerbaycan_ve_qazaxistan_prezidentleri_gorusubler_trans_xezer_fiber_optik_kabel_xettinin_achilisini_edibler_video-4464066",
-"firstSeenBaku": "2026-10-15 20:10"
 },
 {
 "title": "Prezident İlham Əliyevin sosial media hesablarında Trans-Xəzər Fiber-Optik Kabel Xəttinin açılışı ilə bağlı videoçarx paylaşılıb VİDEO",
@@ -250,14 +235,14 @@
 "firstSeenBaku": "2026-10-16 17:19"
 },
 {
+"title": "Azərbaycan-Türkiyə münasibətlərinin cari vəziyyəti müzakirə olunub",
+"url": "https://azertag.az/xeber/4465047",
+"firstSeenBaku": "2026-10-16 14:10"
+},
+{
 "title": "“Dövlət adından yaradılan bir sıra publik hüquqi şəxslərin fəaliyyətinin yenidən təşkili ilə bağlı tədbirlər haqqında” Azərbaycan Respublikası Prezidentinin 2026-cı il 25 iyun tarixli 700 nömrəli Fərmanının icrası ilə əlaqədar Azərbaycan Respublikası Prezidentinin bəzi fərmanlarında və sərəncamların",
 "url": "https://azertag.az/xeber/4465689",
 "firstSeenBaku": "2026-10-16 21:09"
-},
-{
-"title": "Prezident İlham Əliyev Gürcüstanın ölkəmizdə yeni təyin olunmuş səfirini qəbul edib VİDEO",
-"url": "https://azertag.az/xeber/4465683",
-"firstSeenBaku": "2026-10-17 02:06"
 }
 ],
 "apa": [
@@ -340,11 +325,6 @@
 "title": "Dünya Bankının qlobal konfransı 2027-ci ildə Bakıda keçiriləcək 17:26 16 oktyabr 2026",
 "url": "https://apa.az/maliyye/dunya-bankinin-qlobal-konfransi-2027-ci-ilde-bakida-kecirilecek-1005818",
 "firstSeenBaku": "2026-10-16 18:12"
-},
-{
-"title": "Ziraat Bank Azərbaycanın 15 mln. manatlıq istiqrazlarının II tranşına abunə başladı 17:14 16 oktyabr 2026",
-"url": "https://apa.az/maliyye/ziraat-bank-azerbaycanin-15-mln-manatliq-istiqrazlarinin-ii-transina-abune-basladi-1005811",
-"firstSeenBaku": "2026-10-16 17:19"
 },
 {
 "title": "Ermənistanın Gəncəni beşinci dəfə raket hücumuna məruz qoymasının ildönümüdür 00:00 17 oktyabr 2026",
@@ -436,9 +416,19 @@
 ],
 "haqqin": [
 {
-"title": "Турецкий журналист призывал к свержению власти в Азербайджане. Баку объявил его в розыск 16 октября 2026, 15:03 4980",
+"title": "«Абсурдный пережиток прошлого» и Азербайджан дела минувших лет 02:29 320",
+"url": "https://haqqin.az/newsarchive/395772",
+"firstSeenBaku": "2026-10-17 03:03"
+},
+{
+"title": "Турецкий журналист призывал к свержению власти в Азербайджане. Баку объявил его в розыск 16 октября 2026, 15:03 5023",
 "url": "https://haqqin.az/newsarchive/395745",
 "firstSeenBaku": "2026-10-16 15:08"
+},
+{
+"title": "Еще три медали Азербайджана на чемпионате Европы в Албании ФОТО",
+"url": "https://haqqin.az/newsarchive/395801",
+"firstSeenBaku": "2026-10-17 03:03"
 },
 {
 "title": "Армения и Иран близки к подписанию документа о стратегическом партнерстве",
@@ -448,11 +438,6 @@
 {
 "title": "Алиев: «У нас свой путь, своя цель...»",
 "url": "https://haqqin.az/newsarchive/395784",
-"firstSeenBaku": "2026-10-16 21:09"
-},
-{
-"title": "Объявленный Азербайджаном в розыск турецкий журналист принес извинения",
-"url": "https://haqqin.az/newsarchive/395782",
 "firstSeenBaku": "2026-10-16 21:09"
 }
 ],
@@ -895,11 +880,6 @@
 "title": "Sports Iranian sports minister visits Yerevan State College of Olympic Reserve The delegation led by Iranian Minister of Sports and Youth Ahmad Donyamali visited the Yerevan State Sports College of Olympic Reserve as part of his official v... 17:42, 9 October",
 "url": "https://armenpress.am/en/article/1262435",
 "firstSeenBaku": "2026-10-16 19:09"
-},
-{
-"title": "Sports Armenia and Iran sign memorandum on cooperation in sport and youth affairs 18:24, 8 October",
-"url": "https://armenpress.am/en/article/1262350",
-"firstSeenBaku": "2026-10-15 20:10"
 }
 ],
 "azatutyun": [
@@ -1116,21 +1096,6 @@
 "title": "2026-10-16 00:48:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/184744",
 "firstSeenBaku": "2026-10-16 01:09"
-},
-{
-"title": "2026-10-15 19:48:00 Ռուբեն Ռուբինյանը հանդիպել է Լիտվայի Սեյմի նախագահի հետ",
-"url": "https://hetq.am/hy/article/184741",
-"firstSeenBaku": "2026-10-15 20:10"
-},
-{
-"title": "2026-10-15 19:26:00 Ռուբեն Ռուբինյանը Հռոմում հանդիպել է Ֆրանսիայի ԱԺ նախագահին",
-"url": "https://hetq.am/hy/article/184740",
-"firstSeenBaku": "2026-10-15 20:10"
-},
-{
-"title": "MapFact. որքա՞ն տարածք է օկուպացրել Ադրբեջանը Կապան-Մեղրի հատվածում 2020 թ.-ից 2026-10-08T18:03:00+04:00",
-"url": "https://hetq.am/hy/article/184531",
-"firstSeenBaku": "2026-10-15 20:10"
 }
 ],
 "hraparak": [
@@ -1274,11 +1239,6 @@
 "firstSeenBaku": "2026-10-15 22:07"
 },
 {
-"title": "15 October, 20:05 Armenia’s nuclear future and Aliyev’s threats",
-"url": "https://civilnet.am/en/news/1014798",
-"firstSeenBaku": "2026-10-15 20:10"
-},
-{
 "title": "Foreign leaders arrive in Yerevan for COP17",
 "url": "https://civilnet.am/en/stories/967",
 "firstSeenBaku": "2026-10-16 22:06"
@@ -1292,11 +1252,6 @@
 "title": "Pashinyan wants peace treaty with Azerbaijan ratified before 2031",
 "url": "https://civilnet.am/en/stories/959",
 "firstSeenBaku": "2026-10-15 22:07"
-},
-{
-"title": "Armenia between Rosatom and Westinghouse",
-"url": "https://civilnet.am/en/stories/957",
-"firstSeenBaku": "2026-10-15 20:10"
 }
 ],
 "oc-media": [
@@ -1339,11 +1294,6 @@
 "title": "Azerbaijan students launch school strike over hijab restrictions",
 "url": "https://oc-media.org/azerbaijan-students-launch-school-strike-over-hijab-restrictions/",
 "firstSeenBaku": "2026-10-16 20:10"
-},
-{
-"title": "Production starts in Azerbaijan’s first Israeli weapons factory",
-"url": "https://oc-media.org/production-starts-in-azerbaijans-first-israeli-weapons-factory/",
-"firstSeenBaku": "2026-10-15 21:12"
 }
 ],
 "jam-news": [
@@ -1370,11 +1320,6 @@
 "title": "Press release OSCE Chairman-in-Office highlights dialogue and engagement during visit to Georgia Date Date 16 October 2026 Location Location TBILISI",
 "url": "https://www.osce.org/chairpersonship/668778",
 "firstSeenBaku": "2026-10-16 20:10"
-},
-{
-"title": "Press release OSCE Chairman-in-Office highlights partnership and commitment to lasting peace during visit to Armenia Date Date 15 October 2026 Location Location YEREVAN",
-"url": "https://www.osce.org/chairpersonship/668721",
-"firstSeenBaku": "2026-10-15 20:10"
 },
 {
 "title": "News Item Combating Illicit Trafficking of SALW, Ammunition and Explosives in focus of OSCE training in Turkmenistan Date Date 16 October 2026",
