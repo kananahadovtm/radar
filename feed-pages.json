@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-17T12:00:23.888314+00:00",
-"generatedAtBaku": "2026-10-17 16:00",
+"generatedAt": "2026-10-17T13:11:40.345937+00:00",
+"generatedAtBaku": "2026-10-17 17:11",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -30,11 +30,6 @@
 "firstSeenBaku": "2026-10-16 14:10"
 },
 {
-"title": "Azərbaycanda bu ilin səkkiz ayında 56 mindən çox körpə doğulub",
-"url": "https://azertag.az/xeber/azerbaycanda_bu_ilin_sekkiz_ayinda_56_minden_chox_korpe_dogulub-4465686",
-"firstSeenBaku": "2026-10-16 13:11"
-},
-{
 "title": "FIFA U-20 dünya çempionatının brendi Qız Qalasında və Bakı Olimpiya Stadionunda nümayiş etdirilib",
 "url": "https://azertag.az/xeber/fifa_u_20_dunya_chempionatinin_brendi_qiz_qalasinda_ve_baki_olimpiya_stadionunda_numayis_etdirilib-4467171",
 "firstSeenBaku": "2026-10-17 12:02"
@@ -50,6 +45,11 @@
 "firstSeenBaku": "2026-10-16 14:10"
 },
 {
+"title": "“Gürcüstanda azərbaycandilli məktəblərdə təhsil alan şagirdlərin ana dilini mənimsəməsinə təsir edən amillər” adlı kitabın təqdimatı olub",
+"url": "https://azertag.az/xeber/gurcustanda_azerbaycandilli_mekteblerde_tehsil_alan_sagirdlerin_ana_dilini_menimsemesine_tesir_eden_amiller_adli_kitabin_teqdimati_olub-4467435",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
 "title": "V.F.Ələsgərovun “Şərəf” ordeni ilə təltif edilməsi haqqında Azərbaycan Respublikası Prezidentinin Sərəncamı",
 "url": "https://azertag.az/xeber/vfelesgerovun_seref_ordeni_ile_teltif_edilmesi_haqqinda_azerbaycan_respublikasi_prezidentinin_serencami-4467369",
 "firstSeenBaku": "2026-10-17 16:00"
@@ -60,9 +60,9 @@
 "firstSeenBaku": "2026-10-17 15:01"
 },
 {
-"title": "Azərbaycan beynəlxalq təhsil sərgisində",
-"url": "https://azertag.az/xeber/azerbaycan_beynelxalq_tehsil_sergisinde-4467333",
-"firstSeenBaku": "2026-10-17 16:00"
+"title": "Azərbaycan beynəlxalq təhsil sərgisində VİDEO",
+"url": "https://video.azertag.az/site/video/344865",
+"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "“2026 G20 Dinlərarası Forumu”nda Azərbaycan da təmsil olunub",
@@ -160,11 +160,6 @@
 "firstSeenBaku": "2026-10-16 21:09"
 },
 {
-"title": "Prezident İlham Əliyevin mesajları Qərb institutlarına ciddi xəbərdarlıq idi ŞƏRH",
-"url": "https://azertag.az/xeber/prezident_ilham_aliyevin_mesajlari_qerb_institutlarina_ciddi_xeberdarliq_idi__serh-4466706",
-"firstSeenBaku": "2026-10-16 20:10"
-},
-{
 "title": "Azərbaycan və Banqladeş arasında ikitərəfli münasibətlərin inkişaf perspektivləri müzakirə edilib",
 "url": "https://azertag.az/xeber/azerbaycan_ve_banqlades_arasinda_ikiterefli_munasibetlerin_inkisaf_perspektivleri_muzakire_edilib-4466568",
 "firstSeenBaku": "2026-10-16 19:09"
@@ -208,6 +203,16 @@
 "title": "Prezident İlham Əliyev yubiley münasibətilə paralimpiya hərəkatının iştirakçılarını təbrik edib",
 "url": "https://azertag.az/xeber/4466667",
 "firstSeenBaku": "2026-10-17 15:01"
+},
+{
+"title": "Prezident İlham Əliyevin mesajları Qərb institutlarına ciddi xəbərdarlıq idi ŞƏRH",
+"url": "https://azertag.az/xeber/prezident_ilham_aliyevin_mesajlari_qerb_institutlarina_ciddi_xeberdarliq_idi__serh-4466706",
+"firstSeenBaku": "2026-10-16 20:10"
+},
+{
+"title": "Azərbaycan beynəlxalq təhsil sərgisində VİDEO",
+"url": "https://azertag.az/xeber/azerbaycan_beynelxalq_tehsil_sergisinde_video-4467333",
+"firstSeenBaku": "2026-10-17 17:11"
 }
 ],
 "apa": [
@@ -264,9 +269,19 @@
 ],
 "qafqazinfo": [
 {
+"title": "Dəhşətli qəzada bir ailənin iki üzvü öldü - Yaralılar Bakıya gətirildi - Yenilənib",
+"url": "https://qafqazinfo.az/news/detail/dehsetli-qezada-bir-ailenin-iki-uzvu-oldu-yaralilar-bakiya-getirildi-yenilenib-525380",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
 "title": "Beynəlxalq axtarışa verilən jurnalist Azərbaycan dövləti və xalqından üzr istədi - “Peşmanam”",
 "url": "https://qafqazinfo.az/news/detail/beynelxalq-axtarisa-verilen-jurnalist-azerbaycan-dovleti-ve-xalqindan-uzr-istedi-pesmanam-525319",
 "firstSeenBaku": "2026-10-16 20:10"
+},
+{
+"title": "Yunanıstandakı Azərbaycan icması ilə görüş keçirildi - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/yunanistandaki-azerbaycan-icmasi-ile-gorus-kecirildi-fotolar-525390",
+"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "“Bizim öz yolumuz var” - İlham Əliyev",
@@ -316,22 +331,37 @@
 ],
 "haqqin": [
 {
-"title": "TRIPP, «мягкий» Аракчи и жесткий КСИР Обзор на haqqin.az 13:05 1613",
+"title": "TRIPP, «мягкий» Аракчи и жесткий КСИР Обзор на haqqin.az 13:05 2010",
 "url": "https://haqqin.az/newsarchive/395818",
 "firstSeenBaku": "2026-10-17 14:03"
 },
 {
-"title": "Правительство в Баку подает пример: руки прочь от наших школ! Die Weltwoche 11:03 3633",
+"title": "Правительство в Баку подает пример: руки прочь от наших школ! Die Weltwoche 11:03 3984",
 "url": "https://haqqin.az/newsarchive/395809",
 "firstSeenBaku": "2026-10-17 11:15"
 },
 {
-"title": "«Абсурдный пережиток прошлого» и Азербайджан дела минувших лет 02:29 5837",
+"title": "Россия о том, что ее объединяет с Арменией: победы, маршал Баграмян...",
+"url": "https://haqqin.az/newsarchive/395836",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "И в Баку учения НАТО",
+"url": "https://haqqin.az/newsarchive/395835",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "«Абсурдный пережиток прошлого» и Азербайджан дела минувших лет 02:29 6200",
 "url": "https://haqqin.az/newsarchive/395772",
 "firstSeenBaku": "2026-10-17 03:03"
 }
 ],
 "news.am": [
+{
+"title": "Մոսկվայից Երևան, Բիշքեկ և Աստանա չվերթերի ուղևորները ժամեր շարունակ չեն կարողանում մեկնել Շերեմետևոյից",
+"url": "https://news.am/hy/news/1068557",
+"firstSeenBaku": "2026-10-17 17:11"
+},
 {
 "title": "Առաջիկա շաբաթ տեղումներ են սպասվում. եղանակը Հայաստանում",
 "url": "https://news.am/hy/news/1068549",
@@ -351,6 +381,11 @@
 "title": "Վեճ դպրոցական գլխաշորերի շուրջ. Ադրբեջանը թուրք լրագրողին միջազգային հետախուզում է հայտարարել",
 "url": "https://news.am/hy/news/1068474",
 "firstSeenBaku": "2026-10-17 01:07"
+},
+{
+"title": "16:34 Հայաստանում կստեղծվի հանքարդյունաբերության և մետալուրգիայի ոլորտի վերլուծական կենտրոն",
+"url": "https://news.am/hy/news/1068559",
+"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "13:35 Հայաստանը պետք է հրաժարվի լեռնահանքային ոլորտում ծայրահեղություններից․ Թունյան",
@@ -423,16 +458,6 @@
 "firstSeenBaku": "2026-10-17 11:15"
 },
 {
-"title": "10:07 Առանց հզոր Գյումրու չի կարող լինել հզոր Հայաստան. «Ուժեղ Հայաստան»",
-"url": "https://news.am/hy/news/1068502",
-"firstSeenBaku": "2026-10-17 11:15"
-},
-{
-"title": "09:22 Ուղիղ ՈՒՂԻՂ. Հանքարդյունաբերության ոլորտի գլխավոր իրադարձությունը՝ Mining Armenia Forum-ը. օր 2",
-"url": "https://news.am/hy/news/1068495",
-"firstSeenBaku": "2026-10-17 10:03"
-},
-{
 "title": "Ուղիղ Փաշինյանը չարձագանքեց Ալիևի մեղադրանքներին. ինչո՞ւ է Բաքուն շարունակում ագրեսիվ խոսույթը I 20:00",
 "url": "https://news.am/hy/news/1068441",
 "firstSeenBaku": "2026-10-16 21:09"
@@ -488,11 +513,6 @@
 "firstSeenBaku": "2026-10-16 13:11"
 },
 {
-"title": "Ինչպես են Փաշինյանն ու Գուտերեշը դիմավորում Կոբաիձեին",
-"url": "https://news.am/hy/stories/2991",
-"firstSeenBaku": "2026-10-16 12:10"
-},
-{
 "title": "«Հրապարակ». Սիմոնյանի փոխարեն՝ Ռուբինյանը. վերջինս ընտանիքի հետ տեղափոխվել է կառավարական առանձնատուն հոկտեմբերի 17, 08:32",
 "url": "https://news.am/hy/news/1068483",
 "firstSeenBaku": "2026-10-17 09:04"
@@ -536,14 +556,14 @@
 "title": "Երևանում COP17-ի ընթացքում հայտարարել են կենսաբազմազանության ոլորտում գլոբալ ծրագրի իրականացման դանդաղության մասին հոկտեմբերի 16, 15:02",
 "url": "https://news.am/hy/news/1068349",
 "firstSeenBaku": "2026-10-16 17:19"
-},
-{
-"title": "Արտո Չաքմաքչյանի այրին Կանադայում ՀՀ դեսպանությանն է նվիրաբերել արվեստագետի «Քայլող մարդը» քանդակի մանրակերտը Հայաստանի Հանրապետության անկախության 35-րդ տարեդարձի առթիվ կանադահայ անվանի քանդակագործ հոկտեմբերի 16, 10:14",
-"url": "https://news.am/hy/news/1068216",
-"firstSeenBaku": "2026-10-16 11:19"
 }
 ],
 "armenpress-hy": [
+{
+"title": "COP17. Հայաստանի տաղավարում ներկայացված է բնության և հայ մարդու դարավոր կապը 16:18, 17 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263127",
+"firstSeenBaku": "2026-10-17 17:11"
+},
 {
 "title": "Հայաստանն ու Ղրղզստանը նոր էջ կբացեն երկկողմ հարաբերություններում 12:25, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263107",
@@ -558,11 +578,6 @@
 "title": "Լեոնարդո Դի Կապրիոն աջակցություն է հայտնել Հայաստանի ու Կոլումբիայի նախաձեռնությանը ՝ ուղղված վտանգված տեսակների վերականգնմանը 12:08, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263104",
 "firstSeenBaku": "2026-10-17 13:03"
-},
-{
-"title": "Ղրղզստանը շահագրգռված է Հայաստանի հետ բարեկամական կապերի զարգացմամբ. Սադիր Ժապարով 11:28, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263099",
-"firstSeenBaku": "2026-10-17 12:02"
 },
 {
 "title": "Քաղաքականություն COP17-ը Հայաստանի համար միջազգային համագործակցության նոր հնարավորություններ կստեղծի. Արարատ Միրզոյան ՄԱԿ-ի Կենսաբազմազանության մասին կոնվենցիայի կողմերի 17-րդ համաժողովը՝ COP17-ը, Հայաստանի համար նոր հնարավորություններ կբացի ինչպես կենսաբազմազանության պահպանութ... 14:05, 17 հոկտեմբե",
@@ -600,6 +615,11 @@
 "firstSeenBaku": "2026-10-17 13:03"
 },
 {
+"title": "16:47 ՀՀ վարչապետի ելույթը Հայաստանի հանքարդյունաբերական ֆորումում",
+"url": "https://armenpress.am/hy/article/1263133",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
 "title": "Տնտեսություն ՀՀ կառավարությունը կսուբսիդավորի էլեկտրաէներգիայի կուտակիչների վարկերի և լիզինգի տոկոսադրույքները Հայաստանի կառավարությունը կսուբսիդավորի էլեկտրաէներգիայի կուտակիչների վարկերի և լիզինգի տոկոսադրույքները։«Արմենպրես»-ի փոխանցմամբ՝ այս մասին «Ֆեյսբուք»-ի իր էջո... 12:33, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263108",
 "firstSeenBaku": "2026-10-17 13:03"
@@ -608,6 +628,11 @@
 "title": "Տնտեսություն Գևորգ Պապոյանն ու Իբրահիմ Յումաքլին քննարկել են Հայաստան-Թուրքիա ուղիղ առևտրի հաստատմամբ բացվող հնարավորությունները 16:54, 16 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263051",
 "firstSeenBaku": "2026-10-16 17:19"
+},
+{
+"title": "Լուսանկար COP17. Հայաստանի ազգային տաղավարը 16:19, 17 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263131",
+"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "Լուսանկար Հունահռոմեական ոճի ըմբշամարտի Հայաստանի հավաքականի բաց մարզումը 14:05, 17 հոկտեմբերի",
@@ -622,11 +647,6 @@
 {
 "title": "Լուսանկար Հայաստանի և Ղրղզստանի միջև փաստաթղթերի ստորագրման արարողությունը 11:26, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263098",
-"firstSeenBaku": "2026-10-17 12:02"
-},
-{
-"title": "Լուսանկար ՀՀ վարչապետ Նիկոլ Փաշինյանի և Ղրղզստանի նախագահ Սադիր Ժապարովի ընդլայնված կազմով հանդիպումը 11:23, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263097",
 "firstSeenBaku": "2026-10-17 12:02"
 },
 {
@@ -687,7 +707,17 @@
 "firstSeenBaku": "2026-10-17 13:03"
 },
 {
-"title": "Politics Sadyr Japarov invites Nikol Pashinyan to Kyrgyzstan for second Global Mountain Summit “Bishkek+25” Kyrgyz President Sadyr Japarov has invited Armenian Prime Minister Nikol Pashinyan to Kyrgyzstan to attend the second Global Mountain Summit “Bishkek+25”.The Ky... 14:48, 17 October",
+"title": "Politics COP17 will create new opportunities for international cooperation for Armenia, says Ararat Mirzoyan The 17th Conference of the Parties to the UN Convention on Biological Diversity, COP17, will open up new opportunities for Armenia to conserve biodiversity and ... 16:41, 17 October",
+"url": "https://armenpress.am/en/article/1263121",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "Politics COP17 also holds political, economic and security significance for Armenia, says Alen Simonyan 16:28, 17 October",
+"url": "https://armenpress.am/en/article/1263117",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "Politics Sadyr Japarov invites Nikol Pashinyan to Kyrgyzstan for second Global Mountain Summit “Bishkek+25” 14:48, 17 October",
 "url": "https://armenpress.am/en/article/1263113",
 "firstSeenBaku": "2026-10-17 15:01"
 },
@@ -700,11 +730,6 @@
 "title": "Politics Armenia’s 35th independence anniversary celebrated in Moscow 12:22, 17 October",
 "url": "https://armenpress.am/en/article/1263101",
 "firstSeenBaku": "2026-10-17 13:03"
-},
-{
-"title": "President Armenian and Kyrgyz presidents highlight cooperation in international and multilateral forums 19:20, 16 October",
-"url": "https://armenpress.am/en/article/1263070",
-"firstSeenBaku": "2026-10-16 20:10"
 },
 {
 "title": "Yerevan Tigran Avinyan comments on agreement establishing sister-city relations between Yerevan and Bishkek 14:51, 17 October",
@@ -799,11 +824,6 @@
 "firstSeenBaku": "2026-10-17 13:03"
 },
 {
-"title": "Լիխաչյով. Հայաստանում դրական են ընկալում ВВЭР-1000-ի առաջարկը",
-"url": "https://www.azatutyun.am/a/likhachyov-hayastanoum-drakan-en-ynkaloum-%D0%B2%D0%B2%D1%8D%D1%80-1000-i-karoutsman-arajarky/33877992.html",
-"firstSeenBaku": "2026-10-16 18:12"
-},
-{
 "title": "Միրզոյանը չի բացառում, որ անկլավ/էքսկլավների հարցը սահմանազատման շրջանակում ավելի շուտ լուծվի",
 "url": "https://www.azatutyun.am/a/33877704.html",
 "firstSeenBaku": "2026-10-16 11:19"
@@ -842,6 +862,11 @@
 "title": "1 «Հենց հիմա զանգում է». Հաջիևը զանգահարել է Սիմոնյանին ճեպազրույցի ընթացքում",
 "url": "https://www.azatutyun.am/a/33877733.html",
 "firstSeenBaku": "2026-10-16 11:19"
+},
+{
+"title": "5 Լիխաչյով. Հայաստանում դրական են ընկալում ВВЭР-1000-ի առաջարկը",
+"url": "https://www.azatutyun.am/a/likhachyov-hayastanoum-drakan-en-ynkaloum-%D0%B2%D0%B2%D1%8D%D1%80-1000-i-karoutsman-arajarky/33877992.html",
+"firstSeenBaku": "2026-10-16 18:12"
 }
 ],
 "tert": [
@@ -851,9 +876,9 @@
 "firstSeenBaku": "2026-10-17 16:00"
 },
 {
-"title": "Հայաստանն ու Ղրղզստանը նոր էջ կբացեն երկկողմ հարաբերություններում․ պաշտոնական այցի շրջանակում կայացել է Նիկոլ Փաշինյանի և Սադիր ժապարովի հանդիպումը",
-"url": "https://www.tert.am/am/news/2026/10/17/armenia-kyrgyzstan/4287234",
-"firstSeenBaku": "2026-10-17 13:03"
+"title": "Ընդերքը ՀՀ ժողովրդի ու պետության սեփականությունն է, հանքարդյունաբերության ոլորտը շահագործողն է․ Նիկոլ Փաշինյան",
+"url": "https://www.tert.am/am/news/2026/10/17/nikol-pashinyan-/4287261",
+"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "«Ուժեղ Հայաստանը» Եվրոպան կմոտեցնի Հայաստանին` դարձնելով դեղորայքը ավելի մատչելի ու որակյալ․ Նարեկ Կարապետյան (տեսանյութ)",
@@ -933,6 +958,26 @@
 ],
 "hetq": [
 {
+"title": "2026-10-17 16:50:00 Եվրոպացի առաջնորդները Վլադիմիր Զելենսկիից չեն պահանջել դադարեցնել Թրամփի հասցեին քննադատությունները",
+"url": "https://hetq.am/hy/article/184792",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "2026-10-17 16:35:00 ԱՄՆ Կոնգրեսում Թրամփի և Պուտինի «դիզելային համաձայնագիրը» արգելափակող օրինագիծ է ներկայացվել",
+"url": "https://hetq.am/hy/article/184789",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "2026-10-17 16:25:00 Բաքվում կամ Երևանում «3+3 ձևաչափով» հանդիպման անցկացումը գտնվում է համաձայնեցման փուլում. ՌԴ ԱԳՆ",
+"url": "https://hetq.am/hy/article/184787",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
+"title": "2026-10-17 16:20:00 «Ռոսատոմ»ը Հայաստանից դրական ազդակներ է ստացել նոր էներգաբլոկի կառուցման մասով. Լիխաչով",
+"url": "https://hetq.am/hy/article/184786",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
 "title": "2026-10-17 13:26:00 Հայաստանի վարչապետը և Ղրղզստանի նախագահը ստորագրել են համատեղ հայտարարություն",
 "url": "https://hetq.am/hy/article/184784",
 "firstSeenBaku": "2026-10-17 14:03"
@@ -1010,6 +1055,11 @@
 "firstSeenBaku": "2026-10-16 18:12"
 },
 {
+"title": "Ադրբեջանը ներխուժել է Շիկահող, հատում է մեր ծառերը, ասում են` դա քաղաք...",
+"url": "https://hraparak.am/am/post/9a85f1090bb816940be9395fbdd71a62",
+"firstSeenBaku": "2026-10-17 17:11"
+},
+{
 "title": "«Հրապարակ»․ Եվրոպան նորից երես է թեքում Փաշինյանից",
 "url": "https://hraparak.am/am/post/705e638ac49fffe1ae12ec686e8501ec",
 "firstSeenBaku": "2026-10-17 11:15"
@@ -1020,19 +1070,9 @@
 "firstSeenBaku": "2026-10-17 09:04"
 },
 {
-"title": "«Հրապարակ». Նիկոլ Փաշինյանի «դաբրոյին» է սպասում",
-"url": "https://hraparak.am/am/post/60e28a3abec82a7598cc9ecb7dbdcd35",
-"firstSeenBaku": "2026-10-17 08:06"
-},
-{
 "title": "«Ուժեղ Հայաստանը» Եվրոպան կմոտեցնի Հայաստանին` դարձնելով դեղորայքը ավելի մատչել...",
 "url": "https://hraparak.am/am/post/4225a972f774ad4bad057b895662eeb7",
 "firstSeenBaku": "2026-10-17 14:03"
-},
-{
-"title": "#Ուղիղ․ Հայաստանի հանքարդյունաբերական ֆորում 2026 / օր 2",
-"url": "https://hraparak.am/am/post/a680a7de6ea52ec8fcdcde2cb6e4e977",
-"firstSeenBaku": "2026-10-17 10:03"
 },
 {
 "title": "COP29՝ Ադրբեջանում, COP17՝ Հայաստանում․ համեմատություն և տար...",
@@ -1070,6 +1110,11 @@
 "firstSeenBaku": "2026-10-17 11:15"
 },
 {
+"title": "#Ուղիղ․ Հայաստանի հանքարդյունաբերական ֆորում 2026 / օր 2",
+"url": "https://hraparak.am/am/post/a680a7de6ea52ec8fcdcde2cb6e4e977",
+"firstSeenBaku": "2026-10-17 10:03"
+},
+{
 "title": "«Հրապարակ»․ Ալիեւի շանտաժին ի պատասխան՝ պրոադրբեջանական «մու...",
 "url": "https://hraparak.am/am/post/eb26de23c9c6b150a6a85722cec4ea3d",
 "firstSeenBaku": "2026-10-17 10:03"
@@ -1085,24 +1130,24 @@
 "firstSeenBaku": "2026-10-17 09:04"
 },
 {
+"title": "«Հրապարակ». Նիկոլ Փաշինյանի «դաբրոյին» է սպասում",
+"url": "https://hraparak.am/am/post/60e28a3abec82a7598cc9ecb7dbdcd35",
+"firstSeenBaku": "2026-10-17 08:06"
+},
+{
 "title": "Մասուդ Փեզեշքիանի այցը Հայաստան, Անկլավ-էքսկլավներ. Միրզոյան...",
 "url": "https://hraparak.am/am/post/05007ea693c0bbb77e988b09ddddd69f",
 "firstSeenBaku": "2026-10-17 00:01"
 },
 {
-"title": "Գերմանացի մասնագետը ռեկորդ է սահմանել ֆուտբոլային գլխավոր մա...",
-"url": "https://hraparak.am/am/post/5ffb0d4009d306563c7fb5d08bd4b3ab",
-"firstSeenBaku": "2026-10-16 23:10"
-},
-{
-"title": "Փաշինյանը Սոֆյա Հովսեփյանից 6 միլիոն դրամ է պահանջում",
-"url": "https://hraparak.am/am/post/1b445f8b29a92982890539901e91243d",
-"firstSeenBaku": "2026-10-16 12:10"
-},
-{
 "title": "Հայաստանի հանքարդյունաբերական ֆորում 2026-ը կհամախմբի ոլորտի միջազգայի...",
 "url": "https://hraparak.am/am/post/2ad64b5613b62e6620af9a9d8b038aa3",
 "firstSeenBaku": "2026-10-16 14:10"
+},
+{
+"title": "Գերմանացի մասնագետը ռեկորդ է սահմանել ֆուտբոլային գլխավոր մարզիչների շ...",
+"url": "https://hraparak.am/am/post/5ffb0d4009d306563c7fb5d08bd4b3ab",
+"firstSeenBaku": "2026-10-16 23:10"
 },
 {
 "title": "Ինտերնետ չկա, VAR-ը չի գործում. սա Հայաստանն է",
@@ -1274,6 +1319,11 @@
 }
 ],
 "301am": [
+{
+"title": "Pashinyan Celebrates Amulsar Mine Opening Ahead of COP17 as Environmental Activists Accuse Authorities of Secrecy",
+"url": "https://www.301.am/2026/10/10/pashinyan-celebrates-amulsar-mine-opening-ahead-of-cop17-as-environmental-activists-accuse-authorities-of-secrecy/",
+"firstSeenBaku": "2026-10-17 17:11"
+},
 {
 "title": "France Investigates Suspected Corruption in Thales’ Foreign Deals, Including Azerbaijan",
 "url": "https://www.301.am/2026/10/10/france-investigates-suspected-corruption-in-thales-foreign-deals-including-azerbaijan/",
