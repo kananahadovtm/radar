@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-17T21:02:40.677748+00:00",
-"generatedAtBaku": "2026-10-18 01:02",
+"generatedAt": "2026-10-17T22:00:38.074030+00:00",
+"generatedAtBaku": "2026-10-18 02:00",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,26 +9,25 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 29,
-"HRAPARAKAM": 8,
-"ArmenianVendetta": 6,
-"caucasar": 3
+"bagramyan26": 24,
+"HRAPARAKAM": 7,
+"ArmenianVendetta": 4,
+"caucasar": 2
 },
 "pages": {
-"azertag": 41,
+"azertag": 40,
 "apa": 11,
 "qafqazinfo": 9,
 "haqqin": 6,
 "news.am": 27,
 "armenpress-hy": 21,
-"armenpress-en": 23,
+"armenpress-en": 22,
 "azatutyun": 5,
-"tert": 14,
-"hetq": 8,
+"tert": 13,
+"hetq": 7,
 "hraparak": 10,
-"primeminister": 4,
 "civilnet": 10,
-"oc-media": 2,
+"oc-media": 1,
 "jam-news": 1,
 "eeas-press": 0,
 "eeas-azerbaijan": 0,
@@ -44,14 +43,15 @@
 "armenian-assembly": 0,
 "arfd": 1,
 "301am": 3,
-"alphanews": 5
+"alphanews": 4
 },
-"search": 121
+"search": 109
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
+"primeminister": "HTTPSConnectionPool(host='www.primeminister.am', port=443): Max retries exceeded with url: /en/press-release (Caused by NameResolutionError(\"HTTPSConnection(host='www.primeminister.am', port=443): Failed to resolve 'www.primeminister.am' ([Errno -3] Temporary failure in name resolution)\"))",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
