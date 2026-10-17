@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-17T14:02:11.192077+00:00",
-"generatedAtBaku": "2026-10-17 18:02",
+"generatedAt": "2026-10-17T15:00:18.410992+00:00",
+"generatedAtBaku": "2026-10-17 19:00",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,16 +9,19 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 63,
-"HRAPARAKAM": 8,
-"ArmenianVendetta": 10,
+"bagramyan26": 62,
+"HRAPARAKAM": 7,
+"ArmenianVendetta": 9,
 "caucasar": 5
 },
 "pages": {
+"azertag": 41,
+"apa": 10,
+"qafqazinfo": 10,
 "haqqin": 5,
 "news.am": 34,
-"armenpress-hy": 22,
-"armenpress-en": 25,
+"armenpress-hy": 21,
+"armenpress-en": 24,
 "azatutyun": 10,
 "tert": 16,
 "hetq": 15,
@@ -37,19 +40,16 @@
 "un-press": 1,
 "un-azerbaijan": 0,
 "un-armenia": 0,
-"armenianweekly": 1,
+"armenianweekly": 2,
 "armenian-assembly": 0,
 "arfd": 0,
 "301am": 3,
 "alphanews": 12
 },
-"search": 240
+"search": 239
 },
 "errors": {
-"azertag": "HTTPSConnectionPool(host='azertag.az', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='azertag.az', port=443): Failed to resolve 'azertag.az' ([Errno -3] Temporary failure in name resolution)\"))",
-"apa": "HTTPSConnectionPool(host='apa.az', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='apa.az', port=443): Failed to resolve 'apa.az' ([Errno -3] Temporary failure in name resolution)\"))",
-"report": "HTTPSConnectionPool(host='report.az', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='report.az', port=443): Failed to resolve 'report.az' ([Errno -3] Temporary failure in name resolution)\"))",
-"qafqazinfo": "HTTPSConnectionPool(host='qafqazinfo.az', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='qafqazinfo.az', port=443): Failed to resolve 'qafqazinfo.az' ([Errno -3] Temporary failure in name resolution)\"))",
+"report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
