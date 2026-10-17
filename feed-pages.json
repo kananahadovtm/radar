@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-17T03:05:57.303969+00:00",
-"generatedAtBaku": "2026-10-17 07:05",
+"generatedAt": "2026-10-17T04:06:57.373459+00:00",
+"generatedAtBaku": "2026-10-17 08:06",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -48,6 +48,11 @@
 "title": "Prezident İlham Əliyev Hindistanın ölkəmizdə yeni təyin olunmuş səfirini qəbul edib VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyev_hindistanin_olkemizde_yeni_teyin_olunmus_sefirini_qebul_edib_video-4465662",
 "firstSeenBaku": "2026-10-16 14:10"
+},
+{
+"title": "Azərbaycanlı alimin Türkiyədə yeni elmi-tədqiqat əsəri çapdan çıxıb",
+"url": "https://azertag.az/xeber/azerbaycanli_alimin_turkiyede_yeni_elmi_tedqiqat_eseri_chapdan_chixib-4467009",
+"firstSeenBaku": "2026-10-17 08:06"
 },
 {
 "title": "Qurama sənəti Vaşinqtonda mədəniyyət təşkilatlarının nümayəndələrinə təqdim edilib",
@@ -180,11 +185,6 @@
 "firstSeenBaku": "2026-10-16 18:12"
 },
 {
-"title": "Nürnberqdən Bakıya: Ermənistanın üç keçmiş prezidentinin cinayət məsuliyyəti məsələsi – TƏHLİL",
-"url": "https://azertag.az/xeber/nurnberqden_bakiya_ermenistanin_uch_kechmis_prezidentinin_cinayet_mesuliyyeti_meselesi____tehlil-4466397",
-"firstSeenBaku": "2026-10-16 18:12"
-},
-{
 "title": "Prezident İlham Əliyevdən mühüm mesajlar: Müharibə bizim seçimimiz olmayıb VİDEO",
 "url": "https://azertag.az/xeber/prezident_ilham_aliyevden_muhum_mesajlar_muharibe_bizim_sechimimiz_olmayib_video-4466499",
 "firstSeenBaku": "2026-10-16 18:12"
@@ -302,19 +302,9 @@
 "firstSeenBaku": "2026-10-16 19:09"
 },
 {
-"title": "BVF Azərbaycanın qeyri-neft gəlirlərinin artırılması istiqamətində nəticələrini müsbət qiymətləndirib 17:36 16 oktyabr 2026",
-"url": "https://apa.az/maliyye/bvf-azerbaycanin-qeyri-neft-gelirlerinin-artirilmasi-istiqametinde-neticelerini-musbet-qiymetlendirib-1005823",
-"firstSeenBaku": "2026-10-16 18:12"
-},
-{
 "title": "Ermənistanın Gəncəni beşinci dəfə raket hücumuna məruz qoymasının ildönümüdür 00:00 17 oktyabr 2026",
 "url": "https://apa.az/daxili-siyaset/ermenistanin-genceni-besinci-defe-raket-hucumuna-meruz-qoymasinin-ildonumudur-1005695?locale=az",
 "firstSeenBaku": "2026-10-17 00:01"
-},
-{
-"title": "Metsamor AES-in baş direktoru: Ermənistan Azərbaycanla enerji əməkdaşlığını nəzərdən keçirir 17:05 16 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/metsamor-aes-in-bas-direktoru-ermenistan-azerbaycanla-enerji-emekdasligini-nezerden-kecirir-1005808",
-"firstSeenBaku": "2026-10-16 17:19"
 },
 {
 "title": "Beynəlxalq hüququn icra böhranı: Azərbaycanın 30 illik təcrübəsi dünyaya hansı dərsləri verir? – TƏHLİL 15:29 16 oktyabr 2026",
@@ -391,12 +381,12 @@
 ],
 "haqqin": [
 {
-"title": "«Абсурдный пережиток прошлого» и Азербайджан дела минувших лет 02:29 1790",
+"title": "«Абсурдный пережиток прошлого» и Азербайджан дела минувших лет 02:29 2393",
 "url": "https://haqqin.az/newsarchive/395772",
 "firstSeenBaku": "2026-10-17 03:03"
 },
 {
-"title": "Турецкий журналист призывал к свержению власти в Азербайджане. Баку объявил его в розыск 16 октября 2026, 15:03 5257",
+"title": "Турецкий журналист призывал к свержению власти в Азербайджане. Баку объявил его в розыск 16 октября 2026, 15:03 5331",
 "url": "https://haqqin.az/newsarchive/395745",
 "firstSeenBaku": "2026-10-16 15:08"
 },
@@ -418,6 +408,11 @@
 ],
 "news.am": [
 {
+"title": "Վեճ դպրոցական գլխաշորերի շուրջ. Ադրբեջանը թուրք լրագրողին միջազգային հետախուզում է հայտարարել",
+"url": "https://news.am/hy/news/1068474",
+"firstSeenBaku": "2026-10-17 01:07"
+},
+{
 "title": "«Երեւան Ուելնես»–ում բուժօգնություն է ցուցաբերվել 5 անձի. հնդիկ աշխատակիցը տեղափոխվել է հիվանդանոց",
 "url": "https://news.am/hy/news/1068448",
 "firstSeenBaku": "2026-10-16 22:06"
@@ -433,14 +428,9 @@
 "firstSeenBaku": "2026-10-16 20:10"
 },
 {
-"title": "COP17-ի շրջանակում ընդունվել է Երևանի հռչակագիրը",
-"url": "https://news.am/hy/news/1068422",
-"firstSeenBaku": "2026-10-16 19:09"
-},
-{
-"title": "00:56 Վեճ դպրոցական գլխաշորերի շուրջ. Ադրբեջանը թուրք լրագրողին միջազգային հետախուզում է հայտարարել",
-"url": "https://news.am/hy/news/1068474",
-"firstSeenBaku": "2026-10-17 01:07"
+"title": "07:54 «Հրապարակ». Նիկոլ Փաշինյանի «դաբրոյին» է սպասում",
+"url": "https://news.am/hy/news/1068479",
+"firstSeenBaku": "2026-10-17 08:06"
 },
 {
 "title": "16 հկտ | 22:35 Հայկական ԱԷԿ-ը փակելու Ադրբեջանի պահանջի ֆոնին Փաշինյանը խոսեց բնապահպանական ոլորտում համագործակցության մասին. «Օրվա ամփոփում»՝ ռուսերեն",
@@ -498,11 +488,6 @@
 "firstSeenBaku": "2026-10-16 20:10"
 },
 {
-"title": "16 հկտ | 19:23 Մենք Թուրքիայի հետ ջրային ոլորտում համագործակցության ներուժ ունենք. Փաշինյան",
-"url": "https://news.am/hy/news/1068433",
-"firstSeenBaku": "2026-10-16 20:10"
-},
-{
 "title": "Ուղիղ Երրորդ հանդիպումը՝ 3 շաբաթվա մեջ. ի՞նչ են քննարկել Փաշինյանը և Փեզեշքիանը I ԼՈՒՐԵՐ I 16:00",
 "url": "https://news.am/hy/news/1068377",
 "firstSeenBaku": "2026-10-16 16:07"
@@ -511,6 +496,11 @@
 "title": "Ուղիղ Իրանի արտգործնախարարն ասել է, որ վստահում են Հայաստանի ղեկավարությանը I ԼՈՒՐԵՐ I 14:00",
 "url": "https://news.am/hy/news/1068329",
 "firstSeenBaku": "2026-10-16 15:08"
+},
+{
+"title": "Մենք Թուրքիայի հետ ջրային ոլորտում համագործակցության ներուժ ունենք. Փաշինյան հոկտեմբերի 16, 19:23",
+"url": "https://news.am/hy/news/1068433",
+"firstSeenBaku": "2026-10-16 20:10"
 },
 {
 "title": "Փաշինյանի եւ Փեզեշքիանի հանդիպումը",
@@ -1051,11 +1041,6 @@
 "title": "2026-10-16 08:53:00 Իրանի նախագահ Մասուդ Փեզեշքիանը ժամանել է Երևան՝ մասնակցելու COP17-ին",
 "url": "https://hetq.am/hy/article/184745",
 "firstSeenBaku": "2026-10-16 09:09"
-},
-{
-"title": "2026-10-16 00:48:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
-"url": "https://hetq.am/hy/article/184744",
-"firstSeenBaku": "2026-10-16 01:09"
 }
 ],
 "hraparak": [
@@ -1068,6 +1053,11 @@
 "title": "Հայաստանը ոսկու հանքավայրեր բացահայտելու ներուժ ունի",
 "url": "https://hraparak.am/am/post/96b8cc6631a1583b23f57850ecca6dc9",
 "firstSeenBaku": "2026-10-16 18:12"
+},
+{
+"title": "«Հրապարակ». Նիկոլ Փաշինյանի «դաբրոյին» է սպասում",
+"url": "https://hraparak.am/am/post/60e28a3abec82a7598cc9ecb7dbdcd35",
+"firstSeenBaku": "2026-10-17 08:06"
 },
 {
 "title": "Ինտերնետ չկա, VAR-ը չի գործում. սա Հայաստանն է",
@@ -1285,6 +1275,13 @@
 "title": "News Item OSCE study visit programme brings together young diplomats and experts from Asian and Mediterranean Partners for Co-operation Date Date 16 October 2026 Location Location Austria, Poland",
 "url": "https://www.osce.org/news/partners-cooperation/668769",
 "firstSeenBaku": "2026-10-16 13:11"
+}
+],
+"un-press": [
+{
+"title": "Fuelled by Relentless Fighting, Drone Attacks, Sudan’s Conflict, Plight of Its People Remains Bleak, Political and Peacebuilding Affairs Chief Warns Security Council",
+"url": "https://press.un.org/en/2026/sc16481.doc.htm",
+"firstSeenBaku": "2026-10-17 02:06"
 }
 ],
 "armenianweekly": [
