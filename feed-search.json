@@ -1,14 +1,28 @@
 {
-"generatedAt": "2026-10-17T22:00:38.074030+00:00",
-"generatedAtBaku": "2026-10-18 02:00",
+"generatedAt": "2026-10-17T22:57:53.835588+00:00",
+"generatedAtBaku": "2026-10-18 02:57",
 "hours": 30,
 "search": [
+{
+"title": "COP17: Is World's Plan to Save Nature Working? - Mirage News",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0Y3M2FCNkpQaHpES3BBZlpQYlRsRlJoOVQwcW41Nlo1MHo1ekJxc3ZKUmRKZ3dCbTNPdENfb3lvaVhHS3ZvQWdDclFWVnUwQlZ4UkVxSXlxS3JqSy1KMUtXUXZkZ2dLMWlnSTV0MF83b2JsTmNwQjdWZUdxcGt0ejhiS2VYUQ?oc=5",
+"source": "Mirage News",
+"time_baku": "2026-10-18 02:16",
+"query": "UNDP Armenia"
+},
 {
 "title": "Russell Survives Verstappen’s Charge To Take Azerbaijan Grand Prix - LEADERSHIP Newspapers",
 "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGRfR1l0UDFaNDBvM0NrNnBRUnNHVC1Ybl84MGZrN2JGYmliODRJYmJ6cmd0VWI0TjBncXI1a2F5V3ZfVkdkWGU0dUVWYkJ2Tzdxd0VtR2NMM3ZfdFNnbFFWOGtka19EZkNxZ0tYZ1Qwa1FteVI5aEJRVzAyNkp2cll5OTd3ZHNsTVp2Q1RsVDZqUQ?oc=5",
 "source": "LEADERSHIP Newspapers",
 "time_baku": "2026-10-18 00:45",
 "query": "PACE Azerbaijan"
+},
+{
+"title": "Armenian president meets UN chief to discuss reforms (PAN.am) - PanARMENIAN Network",
+"url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84NFdDdnRhZVhjMXJmMHRJUHFlTTBaVzZ6RTZmT3Y4em1JVGlRMEl6X2pfRmlEUDZBT3dFYjZQZlAxQQ?oc=5",
+"source": "PanARMENIAN Network",
+"time_baku": "2026-10-18 00:37",
+"query": "UN Armenia"
 },
 {
 "title": "Azerbaijan Marks Independence Restoration Day - Operativ Media",
@@ -30,13 +44,6 @@
 "source": "Caucasian Knot",
 "time_baku": "2026-10-17 23:00",
 "query": "Azerbaijan EU"
-},
-{
-"title": "Pashinyan stresses importance of bringing Armenia’s mining industry into line with the highest possible standards - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMm5lY3BHdnItR0VqNUdrNEpZdUVwbkN0ZXlRc0hZUW1UcXhtYjBFLVFTbkFuNWRjd3pBc3k2dmVybEdOREttRjY3RjRzd19wOUHSAVdBVV95cUxPNnpQanRCSVFLOGxISjVwYjJOQmo5SjRpdkhvTkxCRmU1MXUway01VENVM3hmQzd3b1Q4cHIxeE1uV3d3dWZjanVyZW1CVFY5NFRJMVVHY3M?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-17 22:21",
-"query": "Armenia EU"
 },
 {
 "title": "COP17: Yerevan to host major UN Biodiversity Summit in October 2026 - Public Radio of Armenia",
@@ -79,13 +86,6 @@
 "source": "NEWS.am",
 "time_baku": "2026-10-17 17:47",
 "query": "NATO Armenia"
-},
-{
-"title": "Armenian president meets UN chief to discuss reforms (PAN.am) - PanARMENIAN Network",
-"url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84NFdDdnRhZVhjMXJmMHRJUHFlTTBaVzZ6RTZmT3Y4em1JVGlRMEl6X2pfRmlEUDZBT3dFYjZQZlAxQQ?oc=5",
-"source": "PanARMENIAN Network",
-"time_baku": "2026-10-17 17:06",
-"query": "UN Armenia"
 },
 {
 "title": "UNESCO Director General visits Armenia’s Zvartnots Cathedral (PHOTOS) - NEWS.am",
@@ -249,6 +249,13 @@
 "query": "UN Armenia"
 },
 {
+"title": "Nikol Pashinyan and Sadyr Japarov held talks in Yerevan - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MckdfR2ZpVW03ZHhMY0RPTXZZZjJ6eVl1RDhTMmVVMmktY3NMWTRvMVFidXM3X1NIVDFqYzQ0MXN1Rnl2Q0pwelJJa0l4T2NuSkdzX3ZOVG13emR4NTBzZA?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-17 13:35",
+"query": "NATO Armenia"
+},
+{
 "title": "Ruling force MP: Armenia should abandon extremes in mining sector - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMOXJibnhEblFEbjFmSEtIOHZTOVFXS3pra2lEVi1ob2dqelhCMGYtOTRzek05Vk4wZ2xZaXVUYUx0SGVXZGc?oc=5",
 "source": "NEWS.am",
@@ -261,6 +268,13 @@
 "source": "Report.az",
 "time_baku": "2026-10-17 13:19",
 "query": "Азербайджан"
+},
+{
+"title": "Armenia, Kyrgyzstan to open new chapter in bilateral relations: Sadyr Japarov in Armenia on an official visit - Վարչապետ",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlBCdGxHVDFsSk15ZHNVNTVaNTNGVk80eXZrQkU0RENLQnprQ2JmOHREYzItNk5pNy1HN2lBVkNIdUNOOXdLdmFnZ1QxSHBJc3QzdUNvQTNsU193dzgtWFdwRmw1VUhhM1ptUS1WTEFRVnNpdm1LYjdvWGFnNHNEMTgwVkVRaUFVWm1sSGsxYzU5VFpSeHN4TURnNVpuUVRoU2FGcw?oc=5",
+"source": "Վարչապետ",
+"time_baku": "2026-10-17 13:08",
+"query": "UN Armenia"
 },
 {
 "title": "Leonardo DiCaprio expressed support for a large-scale global initiative to protect endangered species, announced in Yerevan - ArmInfo",
@@ -359,6 +373,13 @@
 "source": "巴士的報",
 "time_baku": "2026-10-17 11:28",
 "query": "UNDP Armenia"
+},
+{
+"title": "The Secretary General of the Armenian Ministry of Defense discussed strengthening integrity in the defense sector with a NATO representative - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYMjdYRXVRTEljbVh6T3lPenRUaE1SRGd0TzJaUXhxdTdvb0ZQNUtTaDBBS2cwMWJBeGJ0aTBaTkUyQmkzZFVvRjJZV2FNODBuVC0xMG1ucGJWYmViOUVwMg?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-17 11:25",
+"query": "NATO Azerbaijan"
 },
 {
 "title": "Azerbaijan’s Hijab Ban Sparks Protests and Deepens Rift with Turkey - EU Today",
@@ -627,6 +648,13 @@
 "query": "UN Azerbaijan"
 },
 {
+"title": "Fundraising to protect oceans, forests and other key nature sites falling short ahead of UN summit - WTOP News",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDdtVm1PM2lOOWpIQXVJeEZsVGxTaFVuQW8wRmxLMnZYVDhxZUpNV1FQU0M1Rm5ENTdXQWlXd0h6Nk5kMHlOS3RUVkY3R01GVjZuMmRVaEZBaVRtOUw5V3dkWC05SEhFRkJLQ2ZjbG83bzREcHh1VkNWMkRBNWRBR21Sb24wVTNLVWVuQ1Q5alZwSDk5dVNJYWg5NHQ5M2lHai1Qc251ZUVlSmJ4OTlaQ2NfZWZIc2h2aW1QREpnb05MWWFPV1dZVzZveFI?oc=5",
+"source": "WTOP News",
+"time_baku": "2026-10-16 23:57",
+"query": "UNDP Armenia"
+},
+{
 "title": "Events calling on Armenia to address mine problem held in six European countries - Report.az",
 "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3BfYlpEeFN1MXFuTk1lNnFQTUZwbzdkS2JxbGFxSG1CeUFsQWk2Z09zU3IzOFE1UW9qNG1OdS1PZGtGR1VJVHdPWEhETUFRbVZhWnNralM0Q1RhT21UNTVJSzFSTEZ3bW5lVWRmZnM5RmVxWDFxU2dZZDZjOVZ4dEhmWjdiLUVjOGJMT3g2eUZLa1pXYXk5Y1ViQVlib2h3R3NKWWE3TjBKWFVDN096aW5GWXNTdjlCTkpJaFBB?oc=5",
 "source": "Report.az",
@@ -709,62 +737,6 @@
 "source": "Armenpress",
 "time_baku": "2026-10-16 21:14",
 "query": "UN Armenia"
-},
-{
-"title": "UAE Presidential Guard commander visits Azerbaijan (PHOTO) - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11bDhCNmt6QWlDN2xRY0pES2pYd3dHdGtjTVA0dDBBZ0ROU3h6WU1hRFhCMWp1LVVEUU9RbjdwMlFaNVhZMGVFNktxR1hfdVVfNnUtdDlmNFZmdkotVl9VOFFR?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-16 20:53",
-"query": "Азербайджан"
-},
-{
-"title": "“Environmental Protection First” Coalition addresses international community over COP17 - AZƏRTAC",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDh3UXVTY1A0ZkJUbFV1dm04SUdhUV8tM2ZWd1puQk51eVFzaWY2QnVWaU5XT0JSc21UQ3ZSekNoajZnbHlVQUJNMm1UWEJPVVFvMkdfV3I0QnlXVzdUSmNseUlCcTZ4TlBMb0RvSndFTkF6YjZESDNSdEFCRGplX1d6eDhRUWR3WE96VXlVbWp2cndSMDdNVTJGY1Y0bl9qYXlTOE5hZWZIVlVMZTNsTW9Jd0pzVWtLeVBOQ1FB?oc=5",
-"source": "AZƏRTAC",
-"time_baku": "2026-10-16 20:51",
-"query": "UN Azerbaijan"
-},
-{
-"title": "News Digest: Foreign Media on Kazakhstan’s Regional Ties, AI Rules and Middle Corridor Plans - The Astana Times",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObktadjh3c3d3RkR6WlIxWkNGcXFpZ2xFUzNXYnlpUlJ3M0VCUUcwMmROaWNCQ0FkQ3VVbjR1UXZJRlFnNnpHR2tramVCdEw0V3ExT3FFVXVMRFp5VTFXbzlzQUg5d2JPNjQ5RDhxc0VUcjBtZW5JbDhNYWNyWmRNZG4xVFhRQjc0ZExlRDBHUmpyNzQyNXlwWU4xendTdHVvaERGd25zTEhCSk9jV2ZFQ0cyVzNpLWE1bkZhVGtnQQ?oc=5",
-"source": "The Astana Times",
-"time_baku": "2026-10-16 20:38",
-"query": "Azerbaijan EU"
-},
-{
-"title": "International coalition calls Armenia's hosting of COP17 a double standard - Report.az",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3RpR05tTHRhWDVfbmJOLVJyYzRhRklEZldqNWZLck5HRWxCRUlMWVRvR0x3RzFpaEFwTGtaYWtLWVNSenVGZ0FZM3NYWUJzaEU1MldUaFY4QmhGUTBWckJ4Q2EtLUJSSFlWT3NRSWdkTVdpRVlUSkYxUUdibG5PdEpxMDJXYU1TVFBDYm1zU0RieS1QZHVUWmUzZVZxZFRTckVmQjVMXzgtRHpUODdtUzB3?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-16 20:35",
-"query": "UN Armenia"
-},
-{
-"title": "Environmental Protection First coalition calls Armenia’s COP17 hosting a double standard - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Xc2lybkM1dVJSM09QV0pwSUYxaDVUR2l6NUZtTUhFdzNqUWg3VGVzUXIzQWhpel9wWkpNSWdCaEp2SDRXRmFtTlp4aWdRV3RIWnZmM2VmdnhISVIxMEpKYmRoVQ?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-16 20:29",
-"query": "UN Armenia"
-},
-{
-"title": "Geneva International Discussions: dialogue for security and stability in the South Caucasus - eda.admin",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjc3OXNwMlBmbUVzSlI1dUkwWnhHWjV5LVNtS0wzSzlhWktWX05STmxxWGZQVF9JbDlCNzhxYzFCQ2ExdHBjdGkzbUE0enpDTm85ZWp0XzlVdURPOHl4LVhlUUlTZDhMNDl6WExNOXMyQmdQUnVLcldnZzJmaGFpRGJSUDlOemNVaW8zNXdzY1VWMmxmSm9fUFBxVjh1QnNGdWlEMEM5SExmUFVLdjZPRk1GM19NbFdFemc?oc=5",
-"source": "eda.admin",
-"time_baku": "2026-10-16 20:20",
-"query": "OSCE Armenia"
-},
-{
-"title": "D-CA Chair meets the Canadian Minister of Agriculture and Agri-food | Home | D-CA | Delegations - European Parliament",
-"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmpmSVI3NDdMamJYZk9oeF9nelN3YTRnbmlCbDhIYVpENUdGalcyUUxoWFlQenNMZjdfSlFybl83azI2YmRfQktwSVBxVjJ0S0prUk80ejF3Skw2U2tsOWt2UmQ3WXdFTmpQMVE0OWVjcHhZOXJDN3dqb0p1S3l5TTVWZ2stMUpRVi1kdVp1dHpRSnJQRGpYYlJDemxxeWc1aHZXbW0tV2h2OVNDaElscThSY1ZWNDFMblQw?oc=5",
-"source": "European Parliament",
-"time_baku": "2026-10-16 20:16",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Georgia’s exports grow 19.6% in Jan-Sept, nearly 4 times import pace - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MNjlqQVNvQVBHU2JoRmhvSERVTU0tTERPVVRBdUhzMHBjOURnbnIxZm9vdGFWVDZXeXpuUlFRVFg5MHFWakFZVjFqdHhuMTY4UU1MRk1Oc200LU9WaHlEZA?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-16 20:11",
-"query": "PACE Azerbaijan"
 }
 ]
 }

@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-17T22:00:38.074030+00:00",
-"generatedAtBaku": "2026-10-18 02:00",
+"generatedAt": "2026-10-17T22:57:53.835588+00:00",
+"generatedAtBaku": "2026-10-18 02:57",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -207,6 +207,11 @@
 ],
 "apa": [
 {
+"title": "Bakıda iki avtomobil toqquşub, xəsarət alanlar var 02:40 18 oktyabr 2026",
+"url": "https://apa.az/hadise/bakida-iki-avtomobil-toqqusub-xesaret-alanlar-var-1006027",
+"firstSeenBaku": "2026-10-18 02:57"
+},
+{
 "title": "Bakıda 4 avtomobilin iştirakı ilə zəncirvari qəza baş verib, xəsarət alanlar var - FOTO - YENİLƏNİB 01:54 18 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-4-avtomobilin-istiraki-ile-zencirvari-qeza-bas-verib-xesaret-alanlar-var-foto-yenilenib-1006022",
 "firstSeenBaku": "2026-10-18 02:00"
@@ -311,12 +316,12 @@
 ],
 "haqqin": [
 {
-"title": "TRIPP, «мягкий» Аракчи и жесткий КСИР Обзор на haqqin.az 17 октября 2026, 13:05 3124",
+"title": "TRIPP, «мягкий» Аракчи и жесткий КСИР Обзор на haqqin.az 17 октября 2026, 13:05 3162",
 "url": "https://haqqin.az/newsarchive/395818",
 "firstSeenBaku": "2026-10-17 14:03"
 },
 {
-"title": "Правительство в Баку подает пример: руки прочь от наших школ! Die Weltwoche 17 октября 2026, 11:03 5742",
+"title": "Правительство в Баку подает пример: руки прочь от наших школ! Die Weltwoche 17 октября 2026, 11:03 5823",
 "url": "https://haqqin.az/newsarchive/395809",
 "firstSeenBaku": "2026-10-17 11:15"
 },
@@ -637,11 +642,6 @@
 "firstSeenBaku": "2026-10-17 15:01"
 },
 {
-"title": "Armenia Hambardzum Matevosyan and Abdullah Ali discuss a range of issues 19:18, 16 October",
-"url": "https://armenpress.am/en/article/1263069",
-"firstSeenBaku": "2026-10-16 20:10"
-},
-{
 "title": "22:21, 17 October Pashinyan stresses importance of bringing Armenia’s mining industry into line with the highest possible standards",
 "url": "https://armenpress.am/en/article/1263139",
 "firstSeenBaku": "2026-10-17 23:05"
@@ -712,16 +712,6 @@
 "title": "Լեոնարդո Դի Կապրիոն ողջունել է Հայաստանի նախաձեռնությամբ ստեղծված միջազգային կոալիցիան",
 "url": "https://www.azatutyun.am/a/33878406.html",
 "firstSeenBaku": "2026-10-17 15:01"
-},
-{
-"title": "Մեկ տարի է միջազգային կառույցներից չեն այցելել հայ գերիներին. Երևանը բավարար ջանքեր գործադրո՞ւմ է",
-"url": "https://www.azatutyun.am/a/33878003.html",
-"firstSeenBaku": "2026-10-16 20:10"
-},
-{
-"title": "Ֆրանսիականի ու պորտուգալականի փոխարեն՝ չինա-արաբա-հայկական կոնսորցիում. ովքեր են հաղթել Երևանի աղբի վերամշակման գործարանի մրցույթում",
-"url": "https://www.azatutyun.am/a/33867096.html",
-"firstSeenBaku": "2026-10-16 20:10"
 }
 ],
 "tert": [
@@ -754,11 +744,6 @@
 "title": "Համաձայնության ենք հասել ակադեմիական փոխանակման շուրջ․ Հայաստանից ուսանողները գնալու են Թուրքիա սովորելու, և Թուրքիայից գալու են Հայաստան սովորելու․ Վահագն Ալեքսանյան",
 "url": "https://www.tert.am/am/news/2026/10/17/vahagn-aleqsanyan/4287202",
 "firstSeenBaku": "2026-10-17 01:07"
-},
-{
-"title": "Վահագն Խաչատուրյանը և Անտոնիու Գուտերեշը քննարկել են տարածաշրջանային խաղաղության նշանակությունը ենթակառուցվածքների ու տուրիզմի զարգացման գործում",
-"url": "https://www.tert.am/am/news/2026/10/16/vahagn-khachaturyan/4287172",
-"firstSeenBaku": "2026-10-16 20:10"
 },
 {
 "title": "Շուրջ 50 խոսնակ, տեղական ու միջազգային հանքարդյունաբերական ընկերություններ. Ամերիաբանկը` «Mining Armenia Forum»-ի հովանավոր (տեսանյութ, լուսանկարներ)",
@@ -932,13 +917,6 @@
 "firstSeenBaku": "2026-10-17 21:02"
 }
 ],
-"oc-media": [
-{
-"title": "Azerbaijan students launch school strike over hijab restrictions",
-"url": "https://oc-media.org/azerbaijan-students-launch-school-strike-over-hijab-restrictions/",
-"firstSeenBaku": "2026-10-16 20:10"
-}
-],
 "jam-news": [
 {
 "title": "“We owe a debt to nature”: Leaders’ summit at COP17 in Armenia",
@@ -951,13 +929,6 @@
 "title": "EU Mission in Armenia at COP17: An Exhibition Exploring the Interconnections Between Peace, Security and Biodiversity",
 "url": "https://www.eeas.europa.eu/euma/eu-mission-armenia-cop17-exhibition-exploring-interconnections-between-peace-security-and_en?s=410283",
 "firstSeenBaku": "2026-10-17 11:15"
-}
-],
-"osce": [
-{
-"title": "Press release OSCE Chairman-in-Office highlights dialogue and engagement during visit to Georgia Date Date 16 October 2026 Location Location TBILISI",
-"url": "https://www.osce.org/chairpersonship/668778",
-"firstSeenBaku": "2026-10-16 20:10"
 }
 ],
 "un-press": [
@@ -1013,16 +984,6 @@
 "title": "Pashinyan’s retreat from escalation with Russia. 2031 election campaign has begun Alpha Newsroom 16.10.2026 October 16 2026, 21:00",
 "url": "https://alphanews.am/en/projects/pashinyans-retreat-from-escalation-with-russia-2031-election-campaign-has-begun-alpha-newsroom-16-10-2026/",
 "firstSeenBaku": "2026-10-16 21:09"
-},
-{
-"title": "Azerbaijan does not show readiness for equal relations with Armenia: Kirill Kabanov October 16 2026, 19:35",
-"url": "https://alphanews.am/en/azerbaijan-does-not-show-readiness-for-equal-relations-with-armenia-kirill-kabanov/",
-"firstSeenBaku": "2026-10-16 20:10"
-},
-{
-"title": "Cooperation with Armenia is one of the priority areas of ANO Eurasia: Alena Arshinova October 16 2026, 19:20",
-"url": "https://alphanews.am/en/cooperation-with-armenia-is-one-of-the-priority-areas-of-ano-eurasia-alena-arshinova/",
-"firstSeenBaku": "2026-10-16 20:10"
 }
 ]
 }
