@@ -1,256 +1,14 @@
 {
-"generatedAt": "2026-10-18T16:01:20.022696+00:00",
-"generatedAtBaku": "2026-10-18 20:01",
+"generatedAt": "2026-10-18T17:03:55.302349+00:00",
+"generatedAtBaku": "2026-10-18 21:03",
 "hours": 30,
 "pages": {
-"azertag": [
-{
-"title": "Türkiyə Prezidenti Azərbaycanı Müstəqilliyin Bərpası Günü ilə əlaqədar təbrik edib",
-"url": "https://azertag.az/xeber/turkiye_prezidenti_azerbaycani_musteqilliyin_berpasi_gunu_ile_elaqedar_tebrik_edib-4467879",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Bakıda sumo üzrə dünya çempionatının açılışı olub VİDEO",
-"url": "https://azertag.az/xeber/bakida_sumo_uzre_dunya_chempionatinin_achilisi_olub_video-4467873",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Azərbaycan FIFA U-15 Dünya Çempionatı və Festivalına hazırlaşır VİDEO",
-"url": "https://azertag.az/xeber/azerbaycan_fifa_u_15_dunya_chempionati_ve_festivalina_hazirlasir_video-4467564",
-"firstSeenBaku": "2026-10-17 23:05"
-},
-{
-"title": "Azərbaycan cüdoçuları Asiya Açıq Turnirinin ilk günündə 8 medal qazanıblar",
-"url": "https://azertag.az/xeber/azerbaycan_cudochulari_asiya_achiq_turnirinin_ilk_gununde_8_medal_qazaniblar-4467531",
-"firstSeenBaku": "2026-10-17 21:02"
-},
-{
-"title": "Azərbaycanın və Özbəkistanın ali təhsil müəssisələri arasında əməkdaşlıq genişlənir, 60-a yaxın sənəd imzalanıb",
-"url": "https://azertag.az/xeber/azerbaycanin_ve_ozbekistanin_ali_tehsil_muessiseleri_arasinda_emekdasliq_genislenir_60_a_yaxin_sened_imzalanib-4467522",
-"firstSeenBaku": "2026-10-17 21:02"
-},
-{
-"title": "Cüdo üzrə Naxçıvan birinciliyinin qalibləri bəlli olub",
-"url": "https://azertag.az/xeber/cudo_uzre_naxchivan_birinciliyinin_qalibleri_belli_olub-4467510",
-"firstSeenBaku": "2026-10-17 21:02"
-},
-{
-"title": "Ermənistanın Azərbaycana qarşı mina müharibəsi bu dəfə Romada fotofaktlarla nümayiş etdirilib",
-"url": "https://azertag.az/xeber/ermenistanin_azerbaycana_qarsi_mina_muharibesi_bu_defe_romada_fotofaktlarla_numayis_etdirilib-4467996",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
-"title": "Azərbaycan dövlət müstəqilliyinin bərpasının 35-ci ildönümünü qeyd edir",
-"url": "https://azertag.az/xeber/azerbaycan_dovlet_musteqilliyinin_berpasinin_35_ci_ildonumunu_qeyd_edir-4467636",
-"firstSeenBaku": "2026-10-18 09:05"
-},
-{
-"title": "Birinci vitse-prezident Mehriban Əliyeva Müstəqilliyin Bərpası Günü ilə bağlı paylaşım edib",
-"url": "https://azertag.az/xeber/birinci_vitse_prezident_mehriban_aliyeva_musteqilliyin_berpasi_gunu_ile_bagli_paylasim_edib-4467666",
-"firstSeenBaku": "2026-10-18 09:05"
-},
-{
-"title": "Burhanettin Duran: Sarsılmaz qardaşlıq bağlarına sahib olduğumuz Azərbaycana firavanlıq arzulayıram",
-"url": "https://azertag.az/xeber/burhanettin_duran_sarsilmaz_qardasliq_baglarina_sahib_oldugumuz_azerbaycana_firavanliq_arzulayiram-4468023",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
-"title": "Gürcüstanda yaşayan azərbaycanlı gənclər üçün IV jurnalistika kursu fəaliyyətə başlayıb",
-"url": "https://azertag.az/xeber/gurcustanda_yasayan_azerbaycanli_gencler_uchun_iv_jurnalistika_kursu_fealiyyete_baslayib-4467990",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Naxçıvanda avtomobil piyadanı vurub",
-"url": "https://azertag.az/xeber/naxchivanda_avtomobil_piyadani_vurub-4467975",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Azərbaycan gimnastı Dünya Kubokunda qızıl medal qazanıb",
-"url": "https://azertag.az/xeber/azerbaycan_gimnasti_dunya_kubokunda_qizil_medal_qazanib-4467963",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Türkiyə partiyasının lideri: Azərbaycanın müstəqilliyi bütün Türk dünyasının qürur mənbəyidir",
-"url": "https://azertag.az/xeber/turkiye_partiyasinin_lideri_azerbaycanin_musteqilliyi_butun_turk_dunyasinin_qurur_menbeyidir-4467942",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Azərbaycan karateçiləri dünya çempionatında 5 medal qazanıblar",
-"url": "https://azertag.az/xeber/azerbaycan_karatechileri_dunya_chempionatinda_5_medal_qazaniblar-4467936",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Türkiyəli rəsmilər Azərbaycanın Müstəqilliyinin Bərpası Günü münasibətilə təbriklərini çatdırıblar",
-"url": "https://azertag.az/xeber/turkiyeli_resmiler_azerbaycanin_musteqilliyinin_berpasi_gunu_munasibetile_tebriklerini_chatdiriblar-4467927",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Azərbaycan sumoçusu Bakıda keçirilən dünya çempionatında qızıl medal qazanıb VİDEO",
-"url": "https://video.azertag.az/site/video/344904",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Bakıda sumo üzrə dünya çempionatının açılışı olub VİDEO",
-"url": "https://video.azertag.az/site/video/344901",
-"firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "Mehmet Emir Aksoy: Azərbaycan Qafqazın parlayan ulduzu və milli iradənin rəmzidir",
-"url": "https://azertag.az/xeber/mehmet_emir_aksoy_azerbaycan_qafqazin_parlayan_ulduzu_ve_milli_iradenin_remzidir-4467864",
-"firstSeenBaku": "2026-10-18 15:59"
-},
-{
-"title": "Şahin Bayramov: Dövlət müstəqilliyi xalqımızın ən böyük tarixi nailiyyəti, milli birliyimizin və gələcəyimizin başlıca təminatıdır",
-"url": "https://azertag.az/xeber/sahin_bayramov_dovlet_musteqilliyi_xalqimizin_en_boyuk_tarixi_nailiyyeti_milli_birliyimizin_ve_geleceyimizin_baslica_teminatidir-4467831",
-"firstSeenBaku": "2026-10-18 14:03"
-},
-{
-"title": "Türkiyə Müdafiə Nazirliyi Azərbaycanı Dövlət Müstəqilliyinin Bərpası Günü münasibətilə təbrik edib",
-"url": "https://azertag.az/xeber/turkiye_mudafie_nazirliyi_azerbaycani_dovlet_musteqilliyinin_berpasi_gunu_munasibetile_tebrik_edib-4467816",
-"firstSeenBaku": "2026-10-18 14:03"
-},
-{
-"title": "Türkiyədə Azərbaycanın ünvanına təbriklər göndərilir",
-"url": "https://azertag.az/xeber/turkiyede_azerbaycanin_unvanina_tebrikler_gonderilir-4467774",
-"firstSeenBaku": "2026-10-18 13:04"
-},
-{
-"title": "Azərbaycan və Özbəkistan həmkarlar ittifaqları arasında əməkdaşlıq haqqında Memorandum imzalanıb",
-"url": "https://azertag.az/xeber/azerbaycan_ve_ozbekistan_hemkarlar_ittifaqlari_arasinda_emekdasliq_haqqinda_memorandum_imzalanib-4467759",
-"firstSeenBaku": "2026-10-18 13:04"
-},
-{
-"title": "Bakıda aktiv həyat tərzinin təbliğinə həsr olunan kütləvi yürüş keçirilib",
-"url": "https://azertag.az/xeber/bakida_aktiv_heyat_terzinin_tebligine_hesr_olunan_kutlevi_yurus_kechirilib-4467714",
-"firstSeenBaku": "2026-10-18 11:15"
-},
-{
-"title": "Ülviyyə Zülfiqar: Azərbaycanın 35 illik müstəqillik tarixi güclü dövlətçilik ənənələrinin təntənəsidir",
-"url": "https://azertag.az/xeber/ulviyye_zulfiqar_azerbaycanin_35_illik_musteqillik_tarixi_guclu_dovletchilik_enenelerinin_tentenesidir-4467708",
-"firstSeenBaku": "2026-10-18 11:15"
-},
-{
-"title": "Azərbaycan Premyer Liqasında VIII tura 2 oyunla yekun vurulur",
-"url": "https://azertag.az/xeber/azerbaycan_premyer_liqasinda_viii_tura_2_oyunla_yekun_vurulur-4467690",
-"firstSeenBaku": "2026-10-18 10:02"
-},
-{
-"title": "Hüquqşünas: Müstəqil və suveren Azərbaycanın qarşısında daha böyük hədəflər var",
-"url": "https://azertag.az/xeber/huquqsunas_musteqil_ve_suveren_azerbaycanin_qarsisinda_daha_boyuk_hedefler_var-4467687",
-"firstSeenBaku": "2026-10-18 10:02"
-},
-{
-"title": "Azərbaycan güləş üzrə U-23 dünya çempionatında növbəti medallarını qazanıb",
-"url": "https://azertag.az/xeber/azerbaycan_gules_uzre_u_23_dunya_chempionatinda_novbeti_medallarini_qazanib-4467684",
-"firstSeenBaku": "2026-10-18 10:02"
-},
-{
-"title": "Azərbaycan xalqı öz dövlət müstəqilliyini əsrlər boyu apardığı mübarizənin nəticəsi olaraq bərpa edib - ŞƏRH",
-"url": "https://azertag.az/xeber/azerbaycan_xalqi_oz_dovlet_musteqilliyini_esrler_boyu_apardigi_mubarizenin_neticesi_olaraq_berpa_edib____serh-4467681",
-"firstSeenBaku": "2026-10-18 12:03"
-},
-{
-"title": "Polşada 1500 NATO hərbçisinin iştirakı ilə təlimlər keçiriləcək",
-"url": "https://azertag.az/xeber/polsada_1500_nato_herbchisinin_istiraki_ile_telimler_kechirilecek-4467663",
-"firstSeenBaku": "2026-10-18 09:05"
-},
-{
-"title": "DİN: “Qarabağ” – “Neftçi” matçında insidentə cəhd göstərən 19 nəfər saxlanılıb",
-"url": "https://azertag.az/xeber/din_qarabag___neftchi_matchinda_insidente_cehd_gosteren_19_nefer_saxlanilib-4467603",
-"firstSeenBaku": "2026-10-18 01:02"
-},
-{
-"title": "Professor İradə Bağırovanın yubileyində Azərbaycan tarixinin aktual problemlərinə nəzər salınıb",
-"url": "https://azertag.az/xeber/professor_irade_bagirovanin_yubileyinde_azerbaycan_tarixinin_aktual_problemlerine_nezer_salinib-4467600",
-"firstSeenBaku": "2026-10-18 01:02"
-},
-{
-"title": "İtaliyada Azərbaycanın Müstəqilliyinin Bərpasının 35-ci ildönümü qeyd olunub",
-"url": "https://azertag.az/xeber/italiyada_azerbaycanin_musteqilliyinin_berpasinin_35_ci_ildonumu_qeyd_olunub-4467597",
-"firstSeenBaku": "2026-10-18 01:02"
-},
-{
-"title": "İran Hörmüz boğazının açılması üçün ABŞ-yə 7 günlük plan təqdim edib: \"Seçim Vaşinqtonundur\"",
-"url": "https://azertag.az/xeber/iran_hormuz_bogazinin_achilmasi_uchun_abs_ye_7_gunluk_plan_teqdim_edib__quotsechim_vasinqtonundur_quot-4467594",
-"firstSeenBaku": "2026-10-17 23:58"
-},
-{
-"title": "Şahruddin Məhəmmədəliyev: 3:1-dən sonra da nəticəni dəyişəcəyimizə inanırdıq",
-"url": "https://azertag.az/xeber/sahruddin_mehemmedaliyev_31_den_sonra_da_neticeni_deyiseceyimize_inanirdiq-4467588",
-"firstSeenBaku": "2026-10-17 23:58"
-},
-{
-"title": "Türkiyəli siyasətçi: Azərbaycan və Türkiyə bir-birindən ayrılmazdır",
-"url": "https://azertag.az/xeber/turkiyeli_siyasetchi_azerbaycan_ve_turkiye_bir_birinden_ayrilmazdir-4467576",
-"firstSeenBaku": "2026-10-17 23:05"
-},
-{
-"title": "Azərbaycan FIFA U-15 Dünya Çempionatı və Festivalına hazırlaşır VİDEO",
-"url": "https://video.azertag.az/site/video/344886",
-"firstSeenBaku": "2026-10-17 23:05"
-},
-{
-"title": "Şahin İsmayılov: Bakı Zirvə Görüşü Azərbaycanın Avrasiya məkanında birləşdirici rolunu bir daha nümayiş etdirdi",
-"url": "https://azertag.az/xeber/sahin_ismayilov_baki_zirve_gorusu_azerbaycanin_avrasiya_mekaninda_birlesdirici_rolunu_bir_daha_numayis_etdirdi-4467561",
-"firstSeenBaku": "2026-10-17 21:58"
-},
-{
-"title": "Nika Çitadze: Azərbaycan ilə Gürcüstan arasında əlaqələr təhsil sahəsində də uğurla inkişaf edir",
-"url": "https://azertag.az/xeber/nika_chitadze_azerbaycan_ile_gurcustan_arasinda_elaqeler_tehsil_sahesinde_de_ugurla_inkisaf_edir-4467552",
-"firstSeenBaku": "2026-10-17 21:58"
-},
-{
-"title": "“Neftçi”nin baş məşqçisi: Artıq “Qarabağ” və “Sabah”dan çəkinmirik",
-"url": "https://azertag.az/xeber/neftchinin_bas_mesqchisi_artiq_qarabag_ve_sabahdan_chekinmirik-4467543",
-"firstSeenBaku": "2026-10-17 21:58"
-},
-{
-"title": "Premyer Liqa: 6 qolun vurulduğu “Qarabağ\" - \"Neftçi\" oyunu heç-heçə ilə bitib",
-"url": "https://azertag.az/xeber/premyer_liqa_6_qolun_vuruldugu_qarabag_quot____quotneftchi_quot_oyunu_hech_heche_ile_bitib-4467537",
-"firstSeenBaku": "2026-10-17 21:58"
-},
-{
-"title": "PFL \"Qarabağ”ı və “Neftçi”ni 1000-ci oyunlarına görə mükafatlandırıb",
-"url": "https://azertag.az/xeber/pfl__quotqarabagi_ve_neftchini_1000_ci_oyunlarina_gore_mukafatlandirib-4467528",
-"firstSeenBaku": "2026-10-17 21:02"
-},
-{
-"title": "Gürcüstanda yaşayan azərbaycanlı müəllim: Azərbaycan dövləti bizə daim diqqət və qayğı göstərir",
-"url": "https://azertag.az/xeber/gurcustanda_yasayan_azerbaycanli_muellim_azerbaycan_dovleti_bize_daim_diqqet_ve_qaygi_gosterir-4467483",
-"firstSeenBaku": "2026-10-17 19:00"
-},
-{
-"title": "“Gürcüstanda azərbaycandilli məktəblərdə təhsil alan şagirdlərin ana dilini mənimsəməsinə təsir edən amillər” adlı kitabın təqdimatı olub",
-"url": "https://azertag.az/xeber/gurcustanda_azerbaycandilli_mekteblerde_tehsil_alan_sagirdlerin_ana_dilini_menimsemesine_tesir_eden_amiller_adli_kitabin_teqdimati_olub-4467435",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "V.F.Ələsgərovun “Şərəf” ordeni ilə təltif edilməsi haqqında Azərbaycan Respublikası Prezidentinin Sərəncamı",
-"url": "https://azertag.az/xeber/vfelesgerovun_seref_ordeni_ile_teltif_edilmesi_haqqinda_azerbaycan_respublikasi_prezidentinin_serencami-4467369",
-"firstSeenBaku": "2026-10-17 16:00"
-},
-{
-"title": "V.F.Ələsgərovun “Şərəf” ordeni ilə təltif edilməsi haqqında Azərbaycan Respublikası Prezidentinin Sərəncamı",
-"url": "https://azertag.az/xeber/4467369",
-"firstSeenBaku": "2026-10-17 21:58"
-},
-{
-"title": "Gürcüstanda yaşayan azərbaycanlı müəllim: Azərbaycan dövləti bizə daim diqqət və qayğı göstərir",
-"url": "https://azertag.az/xeber/4467483",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Azərbaycan dövlət müstəqilliyinin bərpasının 35-ci ildönümünü qeyd edir",
-"url": "https://azertag.az/xeber/4467636",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Məktəblərdə geyim qaydaları ilə bağlı Azərbaycan Milli QHT Forumu bəyanat yayıb",
-"url": "https://azertag.az/xeber/4456086",
-"firstSeenBaku": "2026-10-18 18:02"
-}
-],
 "apa": [
+{
+"title": "Naxçıvanda zəncirvari qəza olub, xəsarət alanlar var 20:23 18 oktyabr 2026",
+"url": "https://apa.az/hadise/naxcivanda-zencirvari-qeza-olub-xesaret-alanlar-var-1006147",
+"firstSeenBaku": "2026-10-18 21:03"
+},
 {
 "title": "Zelenski Uitkoff və Kuşnerlə Ukraynada sülh məsələsini müzakirə edib 19:53 18 oktyabr 2026",
 "url": "https://apa.az/avropa/zelenski-uitkoff-ve-kusnerle-ukraynada-sulh-meselesini-muzakire-edib-1006143",
@@ -317,11 +75,6 @@
 "firstSeenBaku": "2026-10-18 12:03"
 },
 {
-"title": "TDT-nin Baş katibi Azərbaycanı Müstəqilliyin Bərpası Günü münasibətilə təbrik edib 11:35 18 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/tdt-nin-bas-katibi-azerbaycani-musteqilliyin-berpasi-gunu-munasibetile-tebrik-edib-1006071",
-"firstSeenBaku": "2026-10-18 12:03"
-},
-{
 "title": "“Qarabağ” – “Neftçi” oyunu ilə bağlı azarkeşlər arasında insidentə cəhd göstərən 19 nəfər saxlanılıb - VİDEO 00:14 18 oktyabr 2026",
 "url": "https://apa.az/hadise/qarabag-neftci-oyunu-ile-bagli-azarkesler-arasinda-insidente-cehd-gosteren-19-nefer-saxlanilib-video-1006015?locale=az",
 "firstSeenBaku": "2026-10-18 01:02"
@@ -330,28 +83,33 @@
 "title": "Azərbaycanın müstəqilliyini bərpa etməsindən 35 il ötür 00:00 18 oktyabr 2026",
 "url": "https://apa.az/daxili-siyaset/azerbaycanin-musteqilliyini-berpa-etmesinden-35-il-otur-1005704?locale=az",
 "firstSeenBaku": "2026-10-18 01:02"
+},
+{
+"title": "TDT-nin Baş katibi Azərbaycanı Müstəqilliyin Bərpası Günü münasibətilə təbrik edib 11:35 18 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/tdt-nin-bas-katibi-azerbaycani-musteqilliyin-berpasi-gunu-munasibetile-tebrik-edib-1006071",
+"firstSeenBaku": "2026-10-18 12:03"
 }
 ],
 "haqqin": [
 {
-"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 17:43 2118",
+"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 17:43 2837",
 "url": "https://haqqin.az/newsarchive/395887",
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "От Зангезура до Карса Места памяти Западного Азербайджана 12:17 3004",
+"title": "От Зангезура до Карса Места памяти Западного Азербайджана 12:17 3168",
 "url": "https://haqqin.az/newsarchive/395881",
 "firstSeenBaku": "2026-10-18 13:04"
+},
+{
+"title": "Два золота Азербайджана в Германии фото",
+"url": "https://haqqin.az/newsarchive/395921",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
 "title": "«Едины и в горе, и в радости»: Эрдоган поздравил Азербайджан",
 "url": "https://haqqin.az/newsarchive/395904",
 "firstSeenBaku": "2026-10-18 17:12"
-},
-{
-"title": "Погода в районах Азербайджана резко ухудшится обновлено 15:28",
-"url": "https://haqqin.az/newsarchive/395896",
-"firstSeenBaku": "2026-10-18 15:02"
 }
 ],
 "news.am": [
@@ -369,6 +127,16 @@
 "title": "Զելենսկին հայտարարել է, որ պատրաստ է հանդիպել Պուտինի հետ ցանկացած երկրում՝ հանուն խաղաղության",
 "url": "https://news.am/hy/news/1068609",
 "firstSeenBaku": "2026-10-17 23:58"
+},
+{
+"title": "20:32 COP17-ի շրջանակում Երևան է ժամանել Պեկինի փոխքաղաքապետ Վեն Սյանի գլխավորած պատվիրակությունը",
+"url": "https://news.am/hy/news/1068719",
+"firstSeenBaku": "2026-10-18 21:03"
+},
+{
+"title": "20:03 Բшխումներ, հրդեհներ ու քաոս Ֆրանսիայում. Թրամփը Մակրոնին կոչ է անում փակել սահմանները",
+"url": "https://news.am/hy/news/1068714",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
 "title": "19:05 Արդյունավետ բազմակողմանիությունը մեր արտաքին քաղաքականության կարևոր մասն է. Միրզոյանը՝ COP17–ում",
@@ -451,11 +219,6 @@
 "firstSeenBaku": "2026-10-17 16:00"
 },
 {
-"title": "«Ուժեղ Հայաստանը» Եվրոպան կմոտեցնի Հայաստանին` դարձնելով դեղորայքը ավելի մատչելի ու որակյալ",
-"url": "https://news.am/hy/stories/3011",
-"firstSeenBaku": "2026-10-17 14:03"
-},
-{
 "title": "Ամերիաբանկը նպաստում է Հայաստանում պատասխանատու և կայուն հանքարդյունաբերության զարգացմանը հոկտեմբերի 17, 18:26",
 "url": "https://news.am/hy/news/1068581",
 "firstSeenBaku": "2026-10-17 19:00"
@@ -483,24 +246,9 @@
 "firstSeenBaku": "2026-10-18 20:01"
 },
 {
-"title": "Քաղաքականություն COP17-ը Հայաստանի համար միջազգային համագործակցության նոր հնարավորություններ կստեղծի. Արարատ Միրզոյան ՄԱԿ-ի Կենսաբազմազանության մասին կոնվենցիայի կողմերի 17-րդ համաժողովը՝ COP17-ը, Հայաստանի համար նոր հնարավորություններ կբացի ինչպես կենսաբազմազանության պահպանութ... 14:05, 17 հոկտեմբե",
-"url": "https://armenpress.am/hy/article/1263121",
-"firstSeenBaku": "2026-10-17 15:01"
-},
-{
-"title": "Քաղաքականություն COP17-ը Հայաստանի համար կարևոր նշանակություն ունի նաև քաղաքական, տնտեսական և անվտանգության տեսանկյունից. Ալեն Սիմոնյան 13:57, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263117",
-"firstSeenBaku": "2026-10-17 14:03"
-},
-{
-"title": "Քաղաքականություն Սադիր Ժապարովը Նիկոլ Փաշինյանին հրավիրել է Ղրղզստան՝ մասնակցելու «Բիշքեկ+25» լեռնային համաշխարհային երկրորդ գագաթնաժողովին 13:10, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263113",
-"firstSeenBaku": "2026-10-17 14:03"
-},
-{
-"title": "Երևան Տիգրան Ավինյանը՝ Երևանի և Բիշքեկի միջև քույր քաղաքների հարաբերություններ հաստատելու համաձայնագրի մասին 13:17, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263114",
-"firstSeenBaku": "2026-10-17 14:03"
+"title": "20:10 Հայաստանը մեծ ջանքեր է գործադրել COP17-ի կազմակերպման համար. Աստրիդ Շոմաքեր",
+"url": "https://armenpress.am/hy/article/1263156",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
 "title": "17:23 Հայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են",
@@ -518,7 +266,7 @@
 "firstSeenBaku": "2026-10-17 18:02"
 },
 {
-"title": "17:27, 17 հոկտեմբերի Հայաստանում լեռնամետալուրգիական ոլորտի վերլուծական կենտրոն կստեղծվի",
+"title": "Տնտեսություն Հայաստանում լեռնամետալուրգիական ոլորտի վերլուծական կենտրոն կստեղծվի 17:27, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263134",
 "firstSeenBaku": "2026-10-17 18:02"
 },
@@ -533,11 +281,6 @@
 "firstSeenBaku": "2026-10-17 17:11"
 },
 {
-"title": "Լուսանկար Հունահռոմեական ոճի ըմբշամարտի Հայաստանի հավաքականի բաց մարզումը 14:05, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263122",
-"firstSeenBaku": "2026-10-17 15:01"
-},
-{
 "title": "Տեսանյութ ՀՀ վարչապետի ելույթը Հայաստանի հանքարդյունաբերական ֆորումում 16:47, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263133",
 "firstSeenBaku": "2026-10-17 17:11"
@@ -550,16 +293,6 @@
 "firstSeenBaku": "2026-10-18 20:01"
 },
 {
-"title": "Armenia and Kyrgyzstan sign documents on cooperation across various sectors 14:44, 17 October",
-"url": "https://armenpress.am/en/article/1263106",
-"firstSeenBaku": "2026-10-17 15:01"
-},
-{
-"title": "Leonardo DiCaprio backs Armenia–Colombia initiative to recover threatened species 13:37, 17 October",
-"url": "https://armenpress.am/en/article/1263104",
-"firstSeenBaku": "2026-10-17 14:03"
-},
-{
 "title": "Politics COP17 will create new opportunities for international cooperation for Armenia, says Ararat Mirzoyan The 17th Conference of the Parties to the UN Convention on Biological Diversity, COP17, will open up new opportunities for Armenia to conserve biodiversity and ... 16:41, 17 October",
 "url": "https://armenpress.am/en/article/1263121",
 "firstSeenBaku": "2026-10-17 17:11"
@@ -570,19 +303,14 @@
 "firstSeenBaku": "2026-10-17 17:11"
 },
 {
-"title": "Politics Sadyr Japarov invites Nikol Pashinyan to Kyrgyzstan for second Global Mountain Summit “Bishkek+25” 14:48, 17 October",
-"url": "https://armenpress.am/en/article/1263113",
-"firstSeenBaku": "2026-10-17 15:01"
+"title": "20:19 CBD Executive Secretary praises Armenia’s efforts in organizing COP17",
+"url": "https://armenpress.am/en/article/1263156",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
-"title": "Armenia Armenian and Cypriot environment ministers meet in Yerevan ahead of COP17 13:48, 17 October",
-"url": "https://armenpress.am/en/article/1263111",
-"firstSeenBaku": "2026-10-17 14:03"
-},
-{
-"title": "Yerevan Tigran Avinyan comments on agreement establishing sister-city relations between Yerevan and Bishkek 14:51, 17 October",
-"url": "https://armenpress.am/en/article/1263114",
-"firstSeenBaku": "2026-10-17 15:01"
+"title": "20:06 Armenia invites countries at COP17 to join CARES",
+"url": "https://armenpress.am/en/article/1263157",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
 "title": "19:53 COP17: Armenian FM stresses need to turn biodiversity protection commitments into action",
@@ -622,6 +350,11 @@
 ],
 "azatutyun": [
 {
+"title": "Անկարա-Բաքու տարաձայնությունների ֆոնին Էրդողանը շնորհավորել է «եղբայրական Ադրբեջանին»",
+"url": "https://www.azatutyun.am/a/33878916.html",
+"firstSeenBaku": "2026-10-18 21:03"
+},
+{
 "title": "«Երկիրն այրվում է»․ Թրամփը կոչ է արել փակել Ֆրանսիայի սահմանները",
 "url": "https://www.azatutyun.am/a/33878868.html",
 "firstSeenBaku": "2026-10-18 17:12"
@@ -635,11 +368,6 @@
 "title": "Ադրբեջանը քրգործ է հարուցել թուրք սյունակագրի նկատմամբ և միջազգային հետախուզում հայտարարել",
 "url": "https://www.azatutyun.am/a/33878445.html",
 "firstSeenBaku": "2026-10-17 16:00"
-},
-{
-"title": "1 Լեոնարդո Դի Կապրիոն ողջունել է Հայաստանի նախաձեռնությամբ ստեղծված միջազգային կոալիցիան",
-"url": "https://www.azatutyun.am/a/33878406.html",
-"firstSeenBaku": "2026-10-17 15:01"
 }
 ],
 "tert": [
@@ -677,6 +405,16 @@
 "title": "Շերեմետևոյից Երևան, Աստանա, Դուբայ և Սամարղանդ մեկնող չվերթերը 13 ժամ հետաձգվել են անօդաչու թռչող սարքերի հшրձակման պատճառով",
 "url": "https://www.tert.am/am/news/2026/10/17/russia-/4287257",
 "firstSeenBaku": "2026-10-17 16:00"
+},
+{
+"title": "Էրդողանը շնորհավորել է եղբայրական Ադրբեջանին առկա տարաձայնությունների ֆոնին",
+"url": "https://www.tert.am/am/news/2026/10/18/baku-ankara/4287323",
+"firstSeenBaku": "2026-10-18 21:03"
+},
+{
+"title": "COP17-ի հյուրընկալումը Հայաստանի համար ինքնանպատակ չէ․ Արարատ Միրզոյան",
+"url": "https://www.tert.am/am/news/2026/10/18/ararat-mirzoyan-cop-17/4287321",
+"firstSeenBaku": "2026-10-18 21:03"
 },
 {
 "title": "Նեթանյահուն եղել է մեծ վարչապետ և խաղաղության գործընկեր․ Թրամփ",
@@ -739,11 +477,6 @@
 "title": "2026-10-17 16:20:00 «Ռոսատոմ»ը Հայաստանից դրական ազդակներ է ստացել նոր էներգաբլոկի կառուցման մասով. Լիխաչով",
 "url": "https://hetq.am/hy/article/184786",
 "firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "2026-10-17 13:26:00 Հայաստանի վարչապետը և Ղրղզստանի նախագահը ստորագրել են համատեղ հայտարարություն",
-"url": "https://hetq.am/hy/article/184784",
-"firstSeenBaku": "2026-10-17 14:03"
 }
 ],
 "hraparak": [
@@ -835,11 +568,6 @@
 "title": "17 October, 19:05 Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS",
 "url": "https://civilnet.am/en/news/1014821",
 "firstSeenBaku": "2026-10-17 20:01"
-},
-{
-"title": "17 October, 13:38 Armenia’s public pay reform would deliver biggest raises to senior officials, study finds",
-"url": "https://civilnet.am/en/news/1014836",
-"firstSeenBaku": "2026-10-17 14:03"
 },
 {
 "title": "17 October, 12:57 EU tariff relief gives Armenian exporters an opening, but major hurdles remain",

@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-18T16:01:20.022696+00:00",
-"generatedAtBaku": "2026-10-18 20:01",
+"generatedAt": "2026-10-18T17:03:55.302349+00:00",
+"generatedAtBaku": "2026-10-18 21:03",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -10,23 +10,22 @@
 "counts": {
 "telegram": {
 "bagramyan26": 19,
-"HRAPARAKAM": 3,
-"ArmenianVendetta": 10,
+"HRAPARAKAM": 2,
+"ArmenianVendetta": 9,
 "caucasar": 1
 },
 "pages": {
-"azertag": 49,
-"apa": 16,
+"apa": 17,
 "haqqin": 4,
-"news.am": 24,
-"armenpress-hy": 13,
-"armenpress-en": 15,
+"news.am": 25,
+"armenpress-hy": 9,
+"armenpress-en": 12,
 "azatutyun": 4,
-"tert": 11,
-"hetq": 9,
+"tert": 13,
+"hetq": 8,
 "hraparak": 10,
 "primeminister": 3,
-"civilnet": 9,
+"civilnet": 8,
 "oc-media": 1,
 "jam-news": 0,
 "eeas-press": 0,
@@ -34,7 +33,6 @@
 "eeas-armenia": 0,
 "euma": 0,
 "europarl": 0,
-"osce": 0,
 "nato": 0,
 "un-press": 0,
 "un-azerbaijan": 0,
@@ -45,15 +43,17 @@
 "301am": 2,
 "alphanews": 0
 },
-"search": 71
+"search": 69
 },
 "errors": {
+"azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
+"osce": "HTTPSConnectionPool(host='www.osce.org', port=443): Max retries exceeded with url: /news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
 "asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
