@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-18T19:04:43.192220+00:00",
-"generatedAtBaku": "2026-10-18 23:04",
+"generatedAt": "2026-10-18T19:58:19.791384+00:00",
+"generatedAtBaku": "2026-10-18 23:58",
 "hours": 30,
 "pages": {
 "apa": [
@@ -87,12 +87,12 @@
 ],
 "haqqin": [
 {
-"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 17:43 4041",
+"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 17:43 4486",
 "url": "https://haqqin.az/newsarchive/395887",
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "От Зангезура до Карса Места памяти Западного Азербайджана 12:17 3432",
+"title": "От Зангезура до Карса Места памяти Западного Азербайджана 12:17 3498",
 "url": "https://haqqin.az/newsarchive/395881",
 "firstSeenBaku": "2026-10-18 13:04"
 },
@@ -100,11 +100,6 @@
 "title": "Два золота Азербайджана в Германии фото",
 "url": "https://haqqin.az/newsarchive/395921",
 "firstSeenBaku": "2026-10-18 21:03"
-},
-{
-"title": "«Едины и в горе, и в радости»: Эрдоган поздравил Азербайджан 16:02 3334",
-"url": "https://haqqin.az/newsarchive/395904",
-"firstSeenBaku": "2026-10-18 17:12"
 }
 ],
 "news.am": [
@@ -112,6 +107,21 @@
 "title": "ՈՒՂԻՂ. COP17-ի հանդիսավոր բացման արարողությունը Երեւանում",
 "url": "https://news.am/hy/news/1068695",
 "firstSeenBaku": "2026-10-18 19:01"
+},
+{
+"title": "23:32 ՄԱԿ-ի ներկայացուցիչ Աստրիդ Շոմակերը հրաժարվել է մեկնաբանել Ադրբեջանի կողմից Արցախում հայկական մշակութային ժառանգության ոչնչացումը",
+"url": "https://news.am/hy/news/1068738",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "23:19 Լատվիան արգելել է Հայաստանից ԵՄ ներմուծել կանաչ թեյի խմբաքանակը",
+"url": "https://news.am/hy/news/1068737",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "23:09 Ընդդիմության առաջնորդ Այզենկոտն արձագանքել է Թրամփի կողմից Նեթանյահուին ցուցաբերված աջակցությանը․ «Դա միայն ժողովուրդը կորոշի»",
+"url": "https://news.am/hy/news/1068722",
+"firstSeenBaku": "2026-10-18 23:58"
 },
 {
 "title": "22:38 ԱՄՆ նախկին փոխնախագահը Թրամփին կոչ է արել նավթի գործարքից հետո վերականգնել Ռուսաստանի դեմ պատժամիջոցները",
@@ -157,16 +167,6 @@
 "title": "18:26 Թրամփի հավանության վարկանիշը երկրորդ ժամկետում ընկել է նվազագույնի․ ամերիկացիների մեծամասնությունը դժգոհ է երկրի ընթացքից",
 "url": "https://news.am/hy/news/1068684",
 "firstSeenBaku": "2026-10-18 19:01"
-},
-{
-"title": "16:50 Թրամփը Ֆրանսիայի խնդիրների համար մեղադրել է միգրացիային և կոչ արել փակել սահմանները",
-"url": "https://news.am/hy/news/1068682",
-"firstSeenBaku": "2026-10-18 17:12"
-},
-{
-"title": "16:34 Թուրքիան հիջաբի շուրջ ստեղծված իրավիճակի ֆոնին «սրտանց» շնորհավորել է Ադրբեջանին",
-"url": "https://news.am/hy/news/1068678",
-"firstSeenBaku": "2026-10-18 17:12"
 },
 {
 "title": "Ուղիղ Մոսկվայի օդանավակայանները կաթվածահար են. հետաձգվել են նաև դեպի Երևան թռիչքները I ԼՈՒՐԵՐ I 20:00",
@@ -219,11 +219,6 @@
 "firstSeenBaku": "2026-10-17 18:02"
 },
 {
-"title": "Հայաստանում կստեղծվի հանքարդյունաբերության և մետալուրգիայի ոլորտի վերլուծական կենտրոն հոկտեմբերի 17, 16:34",
-"url": "https://news.am/hy/news/1068559",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
 "title": "Երևանը, որ այսպես նայում ես, Հռոմից ոչ միայն հին չէ, այլև շատ նոր քաղաք է հոկտեմբերի 10, 17:00",
 "url": "https://style.news.am/arm/news/116591/erevany-or-ayspes-nayum-es-hromic-och-miayn-hin-che-aylev-shat-nor-qaxaq-e.html",
 "firstSeenBaku": "2026-10-18 11:15"
@@ -264,16 +259,6 @@
 "title": "Լուսանկար Վարչապետ Նիկոլ Փաշինյանի ելույթով եզրափակվել է հանքարդյունաբերական ֆորումը 17:48, 17 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263140",
 "firstSeenBaku": "2026-10-17 18:02"
-},
-{
-"title": "Լուսանկար COP17. Հայաստանի ազգային տաղավարը 16:19, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263131",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "Տեսանյութ ՀՀ վարչապետի ելույթը Հայաստանի հանքարդյունաբերական ֆորումում 16:47, 17 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263133",
-"firstSeenBaku": "2026-10-17 17:11"
 }
 ],
 "armenpress-en": [
@@ -281,16 +266,6 @@
 "title": "\"May Yerevan become a milestone of renewed political determination”: Pashinyan opens COP17 19:21, 18 October",
 "url": "https://armenpress.am/en/article/1263152",
 "firstSeenBaku": "2026-10-18 20:01"
-},
-{
-"title": "Politics COP17 will create new opportunities for international cooperation for Armenia, says Ararat Mirzoyan The 17th Conference of the Parties to the UN Convention on Biological Diversity, COP17, will open up new opportunities for Armenia to conserve biodiversity and ... 16:41, 17 October",
-"url": "https://armenpress.am/en/article/1263121",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "Politics COP17 also holds political, economic and security significance for Armenia, says Alen Simonyan 16:28, 17 October",
-"url": "https://armenpress.am/en/article/1263117",
-"firstSeenBaku": "2026-10-17 17:11"
 },
 {
 "title": "20:19 CBD Executive Secretary praises Armenia’s efforts in organizing COP17",
@@ -419,6 +394,21 @@
 ],
 "hetq": [
 {
+"title": "2026-10-18 23:43:00 Նիկոլ Փաշինյանը մասնակցել է COP17 համաժողովի բացմանը",
+"url": "https://hetq.am/hy/article/184803",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "2026-10-18 23:41:00 Հայաստանի քաղաքացիական հասարակության հռչակագիրը՝ ուղղված CBD COP17-ի մասնակիցներին",
+"url": "https://hetq.am/hy/article/184802",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "2026-10-18 23:27:00 Արդյոք Հայաստանը պատրաստ կլինի կոտրել կարծրատիպերը. բնապահպանական սիմպոզիում՝ Երեւանում",
+"url": "https://hetq.am/hy/article/184801",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
 "title": "2026-10-18 18:56:00 Երևան մարաթոն 2026 (լուսանկարներ)",
 "url": "https://hetq.am/hy/article/184800",
 "firstSeenBaku": "2026-10-18 19:01"
@@ -437,33 +427,18 @@
 "title": "2026-10-17 19:12:00 «Հայաստանը չի կարող իրեն դիրքավորել իբրեւ կենսաբազմազանության պայքարի առաջամարտիկ, երբ դրա համար գործող մարդիկ թիրախավորվում են»",
 "url": "https://hetq.am/hy/article/184793",
 "firstSeenBaku": "2026-10-17 20:01"
-},
-{
-"title": "2026-10-17 16:50:00 Եվրոպացի առաջնորդները Վլադիմիր Զելենսկիից չեն պահանջել դադարեցնել Թրամփի հասցեին քննադատությունները",
-"url": "https://hetq.am/hy/article/184792",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "2026-10-17 16:35:00 ԱՄՆ Կոնգրեսում Թրամփի և Պուտինի «դիզելային համաձայնագիրը» արգելափակող օրինագիծ է ներկայացվել",
-"url": "https://hetq.am/hy/article/184789",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "2026-10-17 16:25:00 Բաքվում կամ Երևանում «3+3 ձևաչափով» հանդիպման անցկացումը գտնվում է համաձայնեցման փուլում. ՌԴ ԱԳՆ",
-"url": "https://hetq.am/hy/article/184787",
-"firstSeenBaku": "2026-10-17 17:11"
-},
-{
-"title": "2026-10-17 16:20:00 «Ռոսատոմ»ը Հայաստանից դրական ազդակներ է ստացել նոր էներգաբլոկի կառուցման մասով. Լիխաչով",
-"url": "https://hetq.am/hy/article/184786",
-"firstSeenBaku": "2026-10-17 17:11"
 }
 ],
 "hraparak": [
 {
-"title": "Ադրբեջանը ներխուժել է Շիկահող, հատում է մեր ծառերը, ասում են` դա քաղաք...",
-"url": "https://hraparak.am/am/post/9a85f1090bb816940be9395fbdd71a62",
-"firstSeenBaku": "2026-10-17 17:11"
+"title": "«Անշրջելի խաղաղությունից» մինչև 2031 թվական․ ի՞նչ է փոխվել Փ...",
+"url": "https://hraparak.am/am/post/ce56f0306ea0d828f62de8ac0ae83272",
+"firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "Ինչ վիճակում է Հայաստանի հավաքականի կիսապաշտպանը",
+"url": "https://hraparak.am/am/post/0b1c9e46abdbb608c32d6dc7757f35b3",
+"firstSeenBaku": "2026-10-18 23:58"
 },
 {
 "title": "Թեհրանը փորձում է Վաշինգտոնի վրա ճնշում գործադրել․ Նեթանյահո...",
@@ -494,11 +469,6 @@
 "title": "Ուշադրություն դարձնել Արցախից տեղահանման հետևանքներին․ Գագիկ...",
 "url": "https://hraparak.am/am/post/9988f1acc55861cd33eff6b93d605fa7",
 "firstSeenBaku": "2026-10-18 15:02"
-},
-{
-"title": "«Մանկական Եվրատեսիլ 2026»-ի հայաստանյան պատվիրակու...",
-"url": "https://hraparak.am/am/post/254a1c9ddc96a5e1e637125acbb714b8",
-"firstSeenBaku": "2026-10-17 23:58"
 },
 {
 "title": "Ալեն Սիմոնյանը դատարանում պարտվել է Էդգար Ղազարյանին",
@@ -589,13 +559,6 @@
 "title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
 "url": "https://www.arfd.am/eng/news/8757/",
 "firstSeenBaku": "2026-10-17 23:58"
-}
-],
-"301am": [
-{
-"title": "Pashinyan Celebrates Amulsar Mine Opening Ahead of COP17 as Environmental Activists Accuse Authorities of Secrecy",
-"url": "https://www.301.am/2026/10/10/pashinyan-celebrates-amulsar-mine-opening-ahead-of-cop17-as-environmental-activists-accuse-authorities-of-secrecy/",
-"firstSeenBaku": "2026-10-17 17:11"
 }
 ]
 }
