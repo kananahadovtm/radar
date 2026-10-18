@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-18T11:59:50.694134+00:00",
-"generatedAtBaku": "2026-10-18 15:59",
+"generatedAt": "2026-10-18T13:12:07.546284+00:00",
+"generatedAtBaku": "2026-10-18 17:12",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -10,20 +10,19 @@
 "counts": {
 "telegram": {
 "bagramyan26": 20,
-"HRAPARAKAM": 7,
+"HRAPARAKAM": 6,
 "ArmenianVendetta": 7,
-"caucasar": 3
+"caucasar": 2
 },
 "pages": {
-"azertag": 43,
-"apa": 17,
-"qafqazinfo": 13,
-"haqqin": 5,
-"news.am": 26,
+"apa": 18,
+"qafqazinfo": 14,
+"haqqin": 6,
+"news.am": 24,
 "armenpress-hy": 19,
 "armenpress-en": 21,
-"azatutyun": 4,
-"tert": 11,
+"azatutyun": 5,
+"tert": 9,
 "hetq": 9,
 "hraparak": 11,
 "primeminister": 3,
@@ -46,9 +45,10 @@
 "301am": 2,
 "alphanews": 0
 },
-"search": 97
+"search": 91
 },
 "errors": {
+"azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
