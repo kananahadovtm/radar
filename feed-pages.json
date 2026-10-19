@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-19T05:14:55.902473+00:00",
-"generatedAtBaku": "2026-10-19 09:14",
+"generatedAt": "2026-10-19T06:10:53.033883+00:00",
+"generatedAtBaku": "2026-10-19 10:10",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bakı-Qəbələ-Bakı dəmir yolu marşrutu üzrə əlavə reyslər təşkil olunacaq 09:36 19 oktyabr 2026",
+"url": "https://apa.az/infrastruktur/baki-qebele-baki-demir-yolu-marsrutu-uzre-elave-reysler-teskil-olunacaq-1006194",
+"firstSeenBaku": "2026-10-19 10:10"
+},
 {
 "title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:29 19 oktyabr 2026",
 "url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1006187",
@@ -45,21 +50,6 @@
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "Tramp Fransaya sərhədləri bağlamağı tövsiyə edib 17:38 18 oktyabr 2026",
-"url": "https://apa.az/amerika/tramp-fransaya-serhedleri-baglamagi-tovsiye-edib-1006127",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
-"title": "Azərbaycanın bəzi rayonlarında yollarda görünüş məsafəsi məhdudlaşacaq 16:45 18 oktyabr 2026",
-"url": "https://apa.az/hava-haqqinda/azerbaycanin-bezi-rayonlarinda-yollarda-gorunus-mesafesi-mehdudlasacaq-1006122",
-"firstSeenBaku": "2026-10-18 17:12"
-},
-{
-"title": "Böyük Britaniyanın Azərbaycandakı səfiri Müstəqilliyin Bərpası Günü münasibətilə təbrik paylaşımı edib 15:56 18 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/boyuk-britaniyanin-azerbaycandaki-sefiri-musteqilliyin-berpasi-gunu-munasibetile-tebrik-paylasimi-edib-1006117",
-"firstSeenBaku": "2026-10-18 15:59"
-},
-{
 "title": "Bakıda və Abşeronda güclü küləklə bağlı narıncı xəbərdarlıq verilib 13:57 18 oktyabr 2026",
 "url": "https://apa.az/hava-haqqinda/bakida-ve-abseronda-guclu-kulekle-bagli-narinci-xeberdarliq-verilib-1006097",
 "firstSeenBaku": "2026-10-18 14:03"
@@ -67,19 +57,24 @@
 ],
 "haqqin": [
 {
-"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 18 октября 2026, 17:43 6387",
+"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 18 октября 2026, 17:43 6681",
 "url": "https://haqqin.az/newsarchive/395887",
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "От Зангезура до Карса Места памяти Западного Азербайджана 18 октября 2026, 12:17 3917",
+"title": "От Зангезура до Карса Места памяти Западного Азербайджана 18 октября 2026, 12:17 3994",
 "url": "https://haqqin.az/newsarchive/395881",
 "firstSeenBaku": "2026-10-18 13:04"
 },
 {
-"title": "Два золота Азербайджана в Германии фото",
-"url": "https://haqqin.az/newsarchive/395921",
-"firstSeenBaku": "2026-10-18 21:03"
+"title": "Сколько Азербайджан экспортировал в Армению?",
+"url": "https://haqqin.az/newsarchive/395944",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "149 пожаров, 31 спасенный, четверо погибших хроника МЧС",
+"url": "https://haqqin.az/newsarchive/395940",
+"firstSeenBaku": "2026-10-19 10:10"
 }
 ],
 "news.am": [
@@ -87,6 +82,26 @@
 "title": "ՈՒՂԻՂ. COP17-ի հանդիսավոր բացման արարողությունը Երեւանում",
 "url": "https://news.am/hy/news/1068695",
 "firstSeenBaku": "2026-10-18 19:01"
+},
+{
+"title": "09:55 Հայաստանը ՄԱԿ-ում անդրադարձել է նոր ատոմակայանին անվտանգ անցման կարևորությանը",
+"url": "https://news.am/hy/news/1068754",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "09:05 Նարեկ Մկրտչյանը Վաշինգտոնում հյուրընկալել է դիվանագիտական և գործարար շրջանակների ներկայացուցիչներին",
+"url": "https://news.am/hy/news/1068755",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "09:04 Wall Street Journal․ Պուտինը Թրամփին առաջարկել է եռակողմ հանդիպում անցկացնել Չինաստանի առաջնորդի հետ",
+"url": "https://news.am/hy/news/1068748",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "08:50 Էլեկտրաէներգիայի անջատումներ Երևանի 3 վարչական շրջաններում և 6 մարզերում",
+"url": "https://news.am/hy/news/1068753",
+"firstSeenBaku": "2026-10-19 10:10"
 },
 {
 "title": "00:57 «Կցանկանա՞ք կրկին փորձել ձեր բախտը»․ Իրանի ԱԳ նախարարը պատասխանել է Թրամփի սպառնալիքին",
@@ -129,17 +144,7 @@
 "firstSeenBaku": "2026-10-18 23:04"
 },
 {
-"title": "18 հկտ | 21:07 ԱՄՆ ֆինանսների նախարարը երեք անգամ խուսափել է պատասխանել հարցին, թե արդյոք Վաշինգտոնը Ուկրաինային դաշնակից է համարում",
-"url": "https://news.am/hy/news/1068709",
-"firstSeenBaku": "2026-10-18 21:58"
-},
-{
-"title": "18 հկտ | 20:32 COP17-ի շրջանակում Երևան է ժամանել Պեկինի փոխքաղաքապետ Վեն Սյանի գլխավորած պատվիրակությունը",
-"url": "https://news.am/hy/news/1068719",
-"firstSeenBaku": "2026-10-18 21:03"
-},
-{
-"title": "18 հկտ | 20:03 Բшխումներ, հրդեհներ ու քաոս Ֆրանսիայում. Թրամփը Մակրոնին կոչ է անում փակել սահմանները",
+"title": "Ուղիղ Բшխումներ, հրդեհներ ու քաոս Ֆրանսիայում. Թրամփը Մակրոնին կոչ է անում փակել սահմանները",
 "url": "https://news.am/hy/news/1068714",
 "firstSeenBaku": "2026-10-18 21:03"
 },
@@ -174,11 +179,6 @@
 "firstSeenBaku": "2026-10-18 19:01"
 },
 {
-"title": "Պատշաճ ուշադրություն դարձրեք Արցախի հայերի բռնի տեղահանման կենսամշակութային հետևանքներին. Բաղունցը՝ COP-17–ի մասնակիցներին հոկտեմբերի 18, 14:14",
-"url": "https://news.am/hy/news/1068655",
-"firstSeenBaku": "2026-10-18 15:02"
-},
-{
 "title": "MINING ARMENIA FORUM 2026․ Հայաստանի հանքարդյունաբերության նոր հնարավորությունները հոկտեմբերի 18, 15:35",
 "url": "https://news.am/hy/news/1068669",
 "firstSeenBaku": "2026-10-18 15:59"
@@ -186,14 +186,29 @@
 ],
 "armenpress-hy": [
 {
+"title": "COP17-ը կարող է կարևոր ներդրում ունենալ Հայաստանի անտառների և կենսաբազմազանության պահպանության գործում․ Գագիկ Սուրենյան 09:40, 19 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263166",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
 "title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան․ վարչապետը պաշտոնապես բացել է COP17-ը 19:04, 18 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263152",
 "firstSeenBaku": "2026-10-18 20:01"
 },
 {
-"title": "Քաղաքականություն Դեսպան Նարեկ Մկրտչյանը հյուրընկալել է պաշտոնական ընթրիք՝ Մերիդիան միջազգային կենտրոնի գլխավոր հանդիսությանն ընդառաջ Ամերիկայի Միացյալ Նահանգներում Հայաստանի դեսպան Նարեկ Մկրտչյանն ԱՄՆ-ում ՀՀ դեսպանությունում հյուրընկալել է պաշտոնական ընթրիք՝ Մերիդիան միջազգային կենտրոնի գլխավ... 09:",
-"url": "https://armenpress.am/hy/article/1263161",
-"firstSeenBaku": "2026-10-19 09:14"
+"title": "Հայաստան ՀՀ ՄԻՊ-ը հանդիպել է Ավստրալիայի մարդու իրավունքների հանձնաժողովի նախագահի հետ Աշխատանքային այցով Ավստրալիայում գտնվող Հայաստանի մարդու իրավունքների պաշտպան Անահիտ Մանասյանը հանդիպել է Ավստրալիայի մարդու իրավունքների հանձնաժողովի նախագահ Հ... 09:18, 19 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263162",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "Չինաստան COP17-ի շրջանակում Երևան է ժամանել Պեկինի փոխքաղաքապետի գլխավորած պատվիրակությունը 09:53, 19 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263168",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "Միացյալ Նահանգներ Իսրայելը Սպիտակ տանն ավելի մեծ բարեկամ չի ունեցել. Նեթանյահուն շնորհակալություն է հայտնել Թրամփին աջակցության համար 09:24, 19 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263163",
+"firstSeenBaku": "2026-10-19 10:10"
 },
 {
 "title": "20:10, 18 հոկտեմբերի Հայաստանը մեծ ջանքեր է գործադրել COP17-ի կազմակերպման համար. Աստրիդ Շոմաքեր",
@@ -201,9 +216,14 @@
 "firstSeenBaku": "2026-10-18 21:03"
 },
 {
-"title": "17:23, 18 հոկտեմբերի Հայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են",
+"title": "Սպորտ Հայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են 17:23, 18 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263149",
 "firstSeenBaku": "2026-10-18 18:02"
+},
+{
+"title": "Սպորտ Ծանրորդ Էմմա Պողոսյանը դարձավ Եվրոպայի երիտասարդների առաջնության չեմպիոն Ալբանիայի Դուրես քաղաքում ընթացող ծանրամարտի Եվրոպայի երիտասարդների առաջնության մրցումային հերթական օրը Հայաստանի հավաքականից պայքարի մեջ մտավ 86 կգ քաշային Էմմ... 16:17, 18 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263148",
+"firstSeenBaku": "2026-10-18 17:12"
 }
 ],
 "armenpress-en": [
@@ -211,6 +231,21 @@
 "title": "\"May Yerevan become a milestone of renewed political determination”: Pashinyan opens COP17 19:21, 18 October",
 "url": "https://armenpress.am/en/article/1263152",
 "firstSeenBaku": "2026-10-18 20:01"
+},
+{
+"title": "10:01 COP17: Beijing vice mayor visits Yerevan",
+"url": "https://armenpress.am/en/article/1263168",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "09:27 Armenian Ombudsperson, Australian Human Rights Commission president hold talks",
+"url": "https://armenpress.am/en/article/1263162",
+"firstSeenBaku": "2026-10-19 10:10"
+},
+{
+"title": "09:23 Armenian ambassador hosts dinner ahead of Meridian Ball in Washington",
+"url": "https://armenpress.am/en/article/1263161",
+"firstSeenBaku": "2026-10-19 10:10"
 },
 {
 "title": "20:19, 18 October CBD Executive Secretary praises Armenia’s efforts in organizing COP17",
@@ -262,14 +297,14 @@
 "firstSeenBaku": "2026-10-18 19:01"
 },
 {
-"title": "Հայաստանի մարմնամարզության հավաքականի 4 անդամները ԱԱ եզրափակչում են",
-"url": "https://www.tert.am/am/news/2026/10/18/armenian-gymnastic/4287313",
-"firstSeenBaku": "2026-10-18 18:02"
-},
-{
 "title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան, թող սա լինի այն պահը, երբ խոսքերից անցնում ենք գործի․ Փաշինյան",
 "url": "https://www.tert.am/am/news/2026/10/18/nikol-pashinyan-cop-17/4287315",
 "firstSeenBaku": "2026-10-18 19:01"
+},
+{
+"title": "Հայաստանի մարմնամարզության հավաքականի 4 անդամները ԱԱ եզրափակչում են",
+"url": "https://www.tert.am/am/news/2026/10/18/armenian-gymnastic/4287313",
+"firstSeenBaku": "2026-10-18 18:02"
 },
 {
 "title": "Պատշաճ ուշադրություն դարձնել Արցախի հայերի բռնի տեղահանման կենսամշակութային հետևանքներին. Գագիկ Բաղունցի ուղերձը՝ COP-17-ի մասնակիցներին",
@@ -282,19 +317,14 @@
 "firstSeenBaku": "2026-10-18 11:15"
 },
 {
-"title": "Էրդողանը շնորհավորել է եղբայրական Ադրբեջանին առկա տարաձայնությունների ֆոնին",
-"url": "https://www.tert.am/am/news/2026/10/18/baku-ankara/4287323",
-"firstSeenBaku": "2026-10-18 21:03"
-},
-{
-"title": "COP17-ի հյուրընկալումը Հայաստանի համար ինքնանպատակ չէ․ Արարատ Միրզոյան",
-"url": "https://www.tert.am/am/news/2026/10/18/ararat-mirzoyan-cop-17/4287321",
-"firstSeenBaku": "2026-10-18 21:03"
-},
-{
 "title": "«Ռեսուրսներից՝ հնարավորություններ». «Լիդիան Արմենիա»-ն «Mining Armenia Forum»-ի ռազմավարական հովանավորներից է (լուսանկարներ, տեսանյութ)",
 "url": "https://www.tert.am/am/news/2026/10/18/mining-armenia-forum/4287304",
 "firstSeenBaku": "2026-10-18 15:59"
+},
+{
+"title": "Ծանրամարտի Մ23 տարեկանների Եվրոպայի առաջնություն․ այսօր Հայաստանն ունի 1 մասնակից",
+"url": "https://www.tert.am/am/news/2026/10/19/weightlifting-armenia/4287343",
+"firstSeenBaku": "2026-10-19 10:10"
 }
 ],
 "hetq": [
@@ -361,11 +391,6 @@
 "firstSeenBaku": "2026-10-18 15:59"
 },
 {
-"title": "Հարված՝ Թրամփի դիրքերին․ Իրանական կողմը հասել է նավթի գների...",
-"url": "https://hraparak.am/am/post/89b69e8fbbef0cca4c1533372a64ad21",
-"firstSeenBaku": "2026-10-18 15:02"
-},
-{
 "title": "Ինչու է «Ուժեղ Հայաստանը» որոշել Գյումրիից սկսել և աջակցել քաղաքին",
 "url": "https://hraparak.am/am/post/a8dc8bb350a8b4b6623fd1cdf52ffb05",
 "firstSeenBaku": "2026-10-18 15:02"
@@ -382,6 +407,11 @@
 }
 ],
 "civilnet": [
+{
+"title": "10:04 Foreign leaders arrive in Yerevan for COP17",
+"url": "https://civilnet.am/en/news/1014858",
+"firstSeenBaku": "2026-10-19 10:10"
+},
 {
 "title": "18 October, 15:27 Court rejects Alen Simonyan’s defamation lawsuit against opposition MP Edgar Ghazaryan",
 "url": "https://civilnet.am/en/news/1014850",
@@ -408,6 +438,13 @@
 "title": "Opinion | The irony of COP17 host Armenia celebrating gold before biodiversity",
 "url": "https://oc-media.org/opinion-the-irony-of-cop17-host-armenia-celebrating-gold-before-biodiversity/",
 "firstSeenBaku": "2026-10-18 11:15"
+}
+],
+"jam-news": [
+{
+"title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
+"url": "https://jam-news.net/armenia-azerbaijan-and-georgia-top-stories-this-morning/",
+"firstSeenBaku": "2026-10-19 10:10"
 }
 ],
 "un-armenia": [
