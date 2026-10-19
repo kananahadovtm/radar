@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-19T21:07:09.274573+00:00",
-"generatedAtBaku": "2026-10-20 01:07",
+"generatedAt": "2026-10-19T22:07:57.558259+00:00",
+"generatedAtBaku": "2026-10-20 02:07",
 "hours": 30,
 "pages": {
 "apa": [
@@ -45,16 +45,6 @@
 "firstSeenBaku": "2026-10-19 19:17"
 },
 {
-"title": "Azərbaycana gətirilmiş ukraynalı uşaqlar Qəbələ və Şəkidə olublar 18:02 19 oktyabr 2026",
-"url": "https://apa.az/sosial/azerbaycana-getirilmis-ukraynali-usaqlar-qebele-ve-sekide-olublar-1006409",
-"firstSeenBaku": "2026-10-19 18:20"
-},
-{
-"title": "Leyla Əliyeva Türkmənistanda səfərdədir 18:02 19 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/leyla-eliyeva-turkmenistanda-seferdedir-1006410",
-"firstSeenBaku": "2026-10-19 18:20"
-},
-{
 "title": "“Fitch Ratings”in baş direktoru: Azərbaycanın maliyyə imkanları manatın məzənnə sabitliyini dəstəkləyir - MÜSAHİBƏ 15:59 19 oktyabr 2026",
 "url": "https://apa.az/maliyye/fitch-ratingsin-bas-direktoru-azerbaycanin-maliyye-imkanlari-manatin-mezenne-sabitliyini-destekleyir-musahibe-1006338",
 "firstSeenBaku": "2026-10-19 16:12"
@@ -77,6 +67,11 @@
 "firstSeenBaku": "2026-10-19 19:17"
 },
 {
+"title": "Донбасс в обмен на вступление в НАТО? Financial Times",
+"url": "https://haqqin.az/newsarchive/396046",
+"firstSeenBaku": "2026-10-20 02:07"
+},
+{
 "title": "Азербайджан в числе стратегических партнеров Польши",
 "url": "https://haqqin.az/newsarchive/396040",
 "firstSeenBaku": "2026-10-19 23:15"
@@ -85,11 +80,6 @@
 "title": "Ильхам Алиев: «Мир все еще хрупок...» видео",
 "url": "https://haqqin.az/newsarchive/396036",
 "firstSeenBaku": "2026-10-19 22:06"
-},
-{
-"title": "Сложные маневры летчиков Азербайджана и Эмиратов фото; видео",
-"url": "https://haqqin.az/newsarchive/396026",
-"firstSeenBaku": "2026-10-19 19:17"
 }
 ],
 "news.am": [
@@ -107,6 +97,11 @@
 "title": "Ադրբեջանում հետախուզում են հայտարարել Թուրքիայում բնակվող 7 անձի նկատմամբ՝ «իշխանությունը զավթելու կոչերի» պատճառով",
 "url": "https://news.am/hy/news/1068926",
 "firstSeenBaku": "2026-10-19 20:11"
+},
+{
+"title": "01:33 Թրամփի փեսան և ԱՄՆ հատուկ բանագնացը կմեկնեն Նորվեգիա՝ Ուկրաինայի հարցով բանակցությունների",
+"url": "https://news.am/hy/news/1068967",
+"firstSeenBaku": "2026-10-20 02:07"
 },
 {
 "title": "19 հկտ | 22:50 ՏԻՄ ընտրությունների մասնակից բոլոր թեկնածուներին կամ ընտրողներին, ովքեր ասում են՝ ենթարկվել են ապօրինի ճնշումների, կոչ եմ անում դիմել ուղիղ ինձ. Փաշինյան",
@@ -187,11 +182,6 @@
 "title": "Հայաստանի նոր դիրքավորումը աշխարհում. Փաշինյան",
 "url": "https://news.am/hy/stories/3031",
 "firstSeenBaku": "2026-10-19 15:10"
-},
-{
-"title": "ՄԱԿ–ի պաշտոնյան խուսափեց Արցախի մասին հարցին պատասխանելուց",
-"url": "https://news.am/hy/stories/3025",
-"firstSeenBaku": "2026-10-18 20:01"
 },
 {
 "title": "Արցախի կրթության վերջին նախարարը պատասխանատու կլինի ՀՀ զինված ուժերում բարոյահոգեբանական վիճակի համար հոկտեմբերի 19, 17:27",
@@ -488,6 +478,11 @@
 "title": "1 Անկարա-Բաքու տարաձայնությունների ֆոնին Էրդողանը շնորհավորել է «եղբայրական Ադրբեջանին»",
 "url": "https://www.azatutyun.am/a/33878916.html",
 "firstSeenBaku": "2026-10-18 21:03"
+},
+{
+"title": "5 Իրավապաշտպանները դեմ են սահմանադրական փոփոխություններին",
+"url": "https://www.azatutyun.am/a/26641018.html",
+"firstSeenBaku": "2026-10-19 21:10"
 }
 ],
 "tert": [
