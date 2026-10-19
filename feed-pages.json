@@ -1,9 +1,24 @@
 {
-"generatedAt": "2026-10-19T07:29:21.693682+00:00",
-"generatedAtBaku": "2026-10-19 11:29",
+"generatedAt": "2026-10-19T08:20:49.699148+00:00",
+"generatedAtBaku": "2026-10-19 12:20",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Gürcüstan Patriarxlığı: Azərbaycanla münasibətlərimiz qarşlılıqlı hörmətə əsaslanır 12:17 19 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/gurcustan-patriarxligi-azerbaycanla-munasibetlerimiz-qarsliliqli-hormete-esaslanir-1006274",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "Gürcü analitik: Tbilisi və Bakı regionu bacarıqlı geosiyasi oyunçuya çevirməlidir 11:56 19 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/gurcu-analitik-tbilisi-ve-baki-regionu-bacariqli-geosiyasi-oyuncuya-cevirmelidir-1006272",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "Nazirlik: XII Bakı Beynəlxalq Kitab Sərgisində xarici və yerli iştirakçıların böyük qismi təmsil olunur 11:47 19 oktyabr 2026",
+"url": "https://apa.az/medeniyyet-siyaseti/nazirlik-xii-baki-beynelxalq-kitab-sergisinde-xarici-ve-yerli-istirakcilarin-boyuk-qismi-temsil-olunur-1006264",
+"firstSeenBaku": "2026-10-19 12:20"
+},
 {
 "title": "Səfir: Azərbaycanla Gürcüstan arasında möhkəm siyasi dialoq formalaşıb 11:27 19 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/sefir-azerbaycanla-gurcustan-arasinda-mohkem-siyasi-dialoq-formalasib-1006258",
@@ -50,19 +65,9 @@
 "firstSeenBaku": "2026-10-19 10:10"
 },
 {
-"title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:29 19 oktyabr 2026",
-"url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1006187",
-"firstSeenBaku": "2026-10-19 09:14"
-},
-{
 "title": "Azərbaycan himni altında İran bayraqları: Almaniyadakı aksiyanın arxasında hansı maraqlar dayanır? – TƏHLİL 22:51 18 oktyabr 2026",
 "url": "https://apa.az/siyasi/azerbaycan-himni-altinda-iran-bayraqlari-almaniyadaki-aksiyanin-arxasinda-hansi-maraqlar-dayanir-tehlil-1006159",
 "firstSeenBaku": "2026-10-18 23:04"
-},
-{
-"title": "Naxçıvanda zəncirvari qəza olub, xəsarət alanlar var 20:23 18 oktyabr 2026",
-"url": "https://apa.az/hadise/naxcivanda-zencirvari-qeza-olub-xesaret-alanlar-var-1006147",
-"firstSeenBaku": "2026-10-18 21:03"
 }
 ],
 "haqqin": [
@@ -70,11 +75,6 @@
 "title": "Новость дня В Азербайджане новый министр здравоохранения",
 "url": "https://haqqin.az/newsarchive/395964",
 "firstSeenBaku": "2026-10-19 11:29"
-},
-{
-"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 18 октября 2026, 17:43 6922",
-"url": "https://haqqin.az/newsarchive/395887",
-"firstSeenBaku": "2026-10-18 18:02"
 },
 {
 "title": "Пенсии по новым правилам: кому назначат ежемесячные надбавки в Азербайджане?",
@@ -97,14 +97,9 @@
 "firstSeenBaku": "2026-10-19 11:29"
 },
 {
-"title": "Сколько Азербайджан экспортировал в Армению?",
-"url": "https://haqqin.az/newsarchive/395944",
-"firstSeenBaku": "2026-10-19 10:10"
-},
-{
-"title": "149 пожаров, 31 спасенный, четверо погибших хроника МЧС",
-"url": "https://haqqin.az/newsarchive/395940",
-"firstSeenBaku": "2026-10-19 10:10"
+"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы; все еще актуально 18 октября 2026, 17:43 7102",
+"url": "https://haqqin.az/newsarchive/395887",
+"firstSeenBaku": "2026-10-18 18:02"
 }
 ],
 "news.am": [
@@ -122,6 +117,16 @@
 "title": "Լատվիան արգելել է Հայաստանից ԵՄ ներմուծել կանաչ թեյի խմբաքանակը",
 "url": "https://news.am/hy/news/1068737",
 "firstSeenBaku": "2026-10-18 23:58"
+},
+{
+"title": "12:07 Հայաստանն Ադրբեջանից 240 անգամ ավելի շատ ապրանք է ներկրել, քան արտահանել I ԼՈՒՐԵՐ I 12:00",
+"url": "https://news.am/hy/news/1068793",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "11:28 Շիկահողի արգելոցում ադրբեջանցիների կողմից ծառահատումների հարցը բարձրացնելո՞ւ եք COP17–ում. հարց՝ Պապոյանին",
+"url": "https://news.am/hy/news/1068787",
+"firstSeenBaku": "2026-10-19 12:20"
 },
 {
 "title": "11:11 Փաշինյանն Անահիտ Ավանեսյանին 4 օրով գործուղում է Կորեա",
@@ -194,16 +199,6 @@
 "firstSeenBaku": "2026-10-19 10:10"
 },
 {
-"title": "00:57 «Կցանկանա՞ք կրկին փորձել ձեր բախտը»․ Իրանի ԱԳ նախարարը պատասխանել է Թրամփի սպառնալիքին",
-"url": "https://news.am/hy/news/1068743",
-"firstSeenBaku": "2026-10-19 02:00"
-},
-{
-"title": "00:25 Նեթանյահուն Թրամփի աջակցությունից հետո խոսել է «իրանական սպառնալիքի վերացման» մասին",
-"url": "https://news.am/hy/news/1068731",
-"firstSeenBaku": "2026-10-19 01:02"
-},
-{
 "title": "Ուղիղ Բшխումներ, հրդեհներ ու քաոս Ֆրանսիայում. Թրամփը Մակրոնին կոչ է անում փակել սահմանները",
 "url": "https://news.am/hy/news/1068714",
 "firstSeenBaku": "2026-10-18 21:03"
@@ -212,6 +207,11 @@
 "title": "Ուղիղ ՈՒՂԻՂ. COP17-ի հանդիսավոր բացման արարողությունը Երեւանում",
 "url": "https://news.am/hy/news/1068695",
 "firstSeenBaku": "2026-10-18 19:01"
+},
+{
+"title": "«Կցանկանա՞ք կրկին փորձել ձեր բախտը»․ Իրանի ԱԳ նախարարը պատասխանել է Թրամփի սպառնալիքին հոկտեմբերի 19, 00:57",
+"url": "https://news.am/hy/news/1068743",
+"firstSeenBaku": "2026-10-19 02:00"
 },
 {
 "title": "Հայաստանի նոր դիրքավորումը աշխարհում. Փաշինյան",
@@ -239,11 +239,6 @@
 "firstSeenBaku": "2026-10-18 15:59"
 },
 {
-"title": "Արդյունավետ բազմակողմանիությունը մեր արտաքին քաղաքականության կարևոր մասն է. Միրզոյանը՝ COP17–ում հոկտեմբերի 18, 19:05",
-"url": "https://news.am/hy/news/1068706",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
 "title": "MINING ARMENIA FORUM 2026․ Հայաստանի հանքարդյունաբերության նոր հնարավորությունները հոկտեմբերի 18, 15:35",
 "url": "https://news.am/hy/news/1068669",
 "firstSeenBaku": "2026-10-18 15:59"
@@ -261,12 +256,7 @@
 "firstSeenBaku": "2026-10-19 10:10"
 },
 {
-"title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան․ վարչապետը պաշտոնապես բացել է COP17-ը 19:04, 18 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263152",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
-"title": "Իրավունք Հայաստանը Գերմանիային է հանձնել մեղադրվող անձին Հայաստանի Հանրապետության գլխավոր դատախազ Աննա Վարդապետյանը բավարարել է Գերմանիայի Դաշնային Հանրապետության իրավասու մարմնի միջնորդությունը։ «Արմենպրես»-ի փոխանցմ... 11:14, 19 հոկտեմբերի",
+"title": "Իրավունք Հայաստանը Գերմանիային է հանձնել մեղադրվող անձին 11:14, 19 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263177",
 "firstSeenBaku": "2026-10-19 11:29"
 },
@@ -291,6 +281,11 @@
 "firstSeenBaku": "2026-10-19 10:10"
 },
 {
+"title": "12:07 Ucom-ը` Երևանի բնապահպանական սիմպոզիում 2026-ի ռազմավարական գործընկեր",
+"url": "https://armenpress.am/hy/article/1263183",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
 "title": "Սպորտ Հայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են 17:23, 18 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263149",
 "firstSeenBaku": "2026-10-18 18:02"
@@ -299,6 +294,11 @@
 "title": "Սպորտ Ծանրորդ Էմմա Պողոսյանը դարձավ Եվրոպայի երիտասարդների առաջնության չեմպիոն Ալբանիայի Դուրես քաղաքում ընթացող ծանրամարտի Եվրոպայի երիտասարդների առաջնության մրցումային հերթական օրը Հայաստանի հավաքականից պայքարի մեջ մտավ 86 կգ քաշային Էմմ... 16:17, 18 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263148",
 "firstSeenBaku": "2026-10-18 17:12"
+},
+{
+"title": "Տնտեսություն Հայաստան-Չինաստան և հակառակ ուղղությամբ բեռնափոխադրողները կազատվեն ճանապարհային որոշ հարկերից և վճարներից Չինաստանի տրանսպորտի նախարարության նախաձեռնությամբ Պեկինում օրերս անցկացվել է Տրանսկասպյան միջազգային տրանսպորտային երթուղու բարձր մակարդակի հանդիպում, որին մաս... 10:02, 12 հոկտեմբ",
+"url": "https://armenpress.am/hy/article/1262527",
+"firstSeenBaku": "2026-10-19 12:20"
 }
 ],
 "armenpress-en": [
@@ -311,6 +311,16 @@
 "title": "\"May Yerevan become a milestone of renewed political determination”: Pashinyan opens COP17 19:21, 18 October",
 "url": "https://armenpress.am/en/article/1263152",
 "firstSeenBaku": "2026-10-18 20:01"
+},
+{
+"title": "12:10 Ucom supported Yerevan Conservation Symposium 2026 as strategic partner",
+"url": "https://armenpress.am/en/article/1263183",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "11:44 Armenian weightlifting federation president attends European Junior and U23 Championships in Albania",
+"url": "https://armenpress.am/en/article/1263179",
+"firstSeenBaku": "2026-10-19 12:20"
 },
 {
 "title": "11:15 Armenia extradites assault suspect to Germany",
@@ -353,9 +363,9 @@
 "firstSeenBaku": "2026-10-18 20:01"
 },
 {
-"title": "18:51, 18 October PM Nikol Pashinyan's speech at COP17 opening ceremony",
-"url": "https://armenpress.am/en/article/1263151",
-"firstSeenBaku": "2026-10-18 19:01"
+"title": "Economy Armenia-China deal to streamline freight transportation A high-level meeting on the Trans-Caspian International Transport Route was recently held in Beijing at the initiative of China’s Ministry of Transport, with th... 10:08, 12 October",
+"url": "https://armenpress.am/en/article/1262527",
+"firstSeenBaku": "2026-10-19 12:20"
 }
 ],
 "azatutyun": [
@@ -370,20 +380,20 @@
 "firstSeenBaku": "2026-10-18 17:12"
 },
 {
-"title": "Երևանում ընդունվել է բնության պահպանության մասին հռչակագիր",
-"url": "https://www.azatutyun.am/a/33878820.html",
-"firstSeenBaku": "2026-10-18 15:02"
+"title": "Ղրղզստանի փոխարեն Ղազախստան. Վարչապետ Փաշինյանը սխալվում է՝ բարձրաստիճան հյուրին ողջունելիս",
+"url": "https://www.azatutyun.am/a/33879269.html",
+"firstSeenBaku": "2026-10-19 12:20"
 }
 ],
 "tert": [
 {
-"title": "Ադրբեջանից Հայաստան արտահանումը գերազանցել է 23 միլիոն դոլարը, իսկ Հայաստանից Ադրբեջան՝ ընդամենը 96,500",
-"url": "https://www.tert.am/am/news/2026/10/19/armenia-azerbaijan/4287352",
-"firstSeenBaku": "2026-10-19 11:29"
+"title": "Ասիական-խաղաղօվկիանոսյան տնտեսական համագործակցության գագաթնաժողովում ԱՄՆ-ի, ՌԴ-ի և ՉԺՀ-ի ղեկավարների հանդիպման հնարավորությունը քննարկվում է. Ռուբիո",
+"url": "https://www.tert.am/am/news/2026/10/19/marco-rubio-us-russia-china/4287353",
+"firstSeenBaku": "2026-10-19 12:20"
 },
 {
-"title": "Հայաստանը հանձնառու է միջnւկային էներգիայի խաղաղ օգտագործմանը. ՄԱԿ-ում ՀՀ ներկայացուցչություն",
-"url": "https://www.tert.am/am/news/2026/10/19/united-nations-arm/4287346",
+"title": "Ադրբեջանից Հայաստան արտահանումը գերազանցել է 23 միլիոն դոլարը, իսկ Հայաստանից Ադրբեջան՝ ընդամենը 96,500",
+"url": "https://www.tert.am/am/news/2026/10/19/armenia-azerbaijan/4287352",
 "firstSeenBaku": "2026-10-19 11:29"
 },
 {
@@ -394,6 +404,11 @@
 {
 "title": "Ես Երևանում եմ, ինձ աջակցող բազմաթիվ մարդիկ կան, բայց Բաքվում մեր հայրենակիցներն ամբողջությամբ մեկուսացված են. Ծառուկյան",
 "url": "https://www.tert.am/am/news/2026/10/19/gagik-carukyann/4287351",
+"firstSeenBaku": "2026-10-19 11:29"
+},
+{
+"title": "Հայաստանը հանձնառու է միջnւկային էներգիայի խաղաղ օգտագործմանը. ՄԱԿ-ում ՀՀ ներկայացուցչություն",
+"url": "https://www.tert.am/am/news/2026/10/19/united-nations-arm/4287346",
 "firstSeenBaku": "2026-10-19 11:29"
 },
 {
@@ -427,12 +442,37 @@
 "firstSeenBaku": "2026-10-18 15:59"
 },
 {
+"title": "Հօգուտ Հայաստանի Հանրապետության կբռնագանձվի ավելի քան 39 միլիոն դրամ. Դատախազության պետշահերի հերթական հայցը բավարարվել է",
+"url": "https://www.tert.am/am/news/2026/10/19/prosecutor-offiice/4287360",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "Ucom-ը` Երևանի բնապահպանական սիմպոզիում 2026-ի ռազմավարական գործընկեր (լուսանկարներ)",
+"url": "https://www.tert.am/am/news/2026/10/19/u-com/4287358",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "Լեոնարդո Դի Կապրիոյից մինչև միջին բնապահպան՝ բոլորի ուշադրությունն այս օրերին Հայաստանն է. Պապոյան",
+"url": "https://www.tert.am/am/news/2026/10/19/armenian-economics/4287354",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
 "title": "Ծանրամարտի Մ23 տարեկանների Եվրոպայի առաջնություն․ այսօր Հայաստանն ունի 1 մասնակից",
 "url": "https://www.tert.am/am/news/2026/10/19/weightlifting-armenia/4287343",
 "firstSeenBaku": "2026-10-19 10:10"
 }
 ],
 "hetq": [
+{
+"title": "2026-10-19 12:12:00 Հօգուտ Հայաստանի Հանրապետության կբռնագանձվի 39.128.615 դրամ",
+"url": "https://hetq.am/hy/article/184815",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
+"title": "2026-10-19 11:39:00 Պեկինի փոխքաղաքապետի գլխավորած պատվիրակությունն այցելել է Երևանյան լիճ",
+"url": "https://hetq.am/hy/article/184813",
+"firstSeenBaku": "2026-10-19 12:20"
+},
 {
 "title": "2026-10-19 00:04:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/184804",
@@ -523,6 +563,11 @@
 ],
 "civilnet": [
 {
+"title": "12:08 Armenia’s forests underpin livelihoods and resilience",
+"url": "https://civilnet.am/en/news/1014862",
+"firstSeenBaku": "2026-10-19 12:20"
+},
+{
 "title": "10:04 Foreign leaders arrive in Yerevan for COP17",
 "url": "https://civilnet.am/en/news/1014858",
 "firstSeenBaku": "2026-10-19 10:10"
@@ -557,9 +602,9 @@
 ],
 "jam-news": [
 {
-"title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
-"url": "https://jam-news.net/armenia-azerbaijan-and-georgia-top-stories-this-morning/",
-"firstSeenBaku": "2026-10-19 10:10"
+"title": "Are Armenia's residents thrifty, and how do they prefer to keep their savings? Statistics and reality",
+"url": "https://jam-news.net/are-armenians-thrifty/",
+"firstSeenBaku": "2026-10-19 12:20"
 }
 ],
 "eeas-armenia": [
