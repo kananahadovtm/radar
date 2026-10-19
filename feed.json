@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-19T12:12:51.732771+00:00",
-"generatedAtBaku": "2026-10-19 16:12",
+"generatedAt": "2026-10-19T13:24:06.417481+00:00",
+"generatedAtBaku": "2026-10-19 17:24",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,25 +9,25 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 38,
+"bagramyan26": 44,
 "HRAPARAKAM": 1,
-"ArmenianVendetta": 17,
-"caucasar": 3
+"ArmenianVendetta": 16,
+"caucasar": 4
 },
 "pages": {
 "apa": 14,
-"haqqin": 7,
+"haqqin": 9,
 "news.am": 27,
-"armenpress-hy": 13,
-"armenpress-en": 17,
-"azatutyun": 4,
-"tert": 13,
-"hetq": 10,
+"armenpress-hy": 11,
+"armenpress-en": 19,
+"azatutyun": 5,
+"tert": 12,
+"hetq": 9,
 "hraparak": 13,
 "primeminister": 0,
 "civilnet": 6,
-"oc-media": 3,
-"jam-news": 1,
+"oc-media": 4,
+"jam-news": 0,
 "eeas-press": 1,
 "eeas-azerbaijan": 0,
 "eeas-armenia": 1,
@@ -41,9 +41,9 @@
 "armenian-assembly": 0,
 "arfd": 1,
 "301am": 0,
-"alphanews": 3
+"alphanews": 4
 },
-"search": 167
+"search": 182
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
