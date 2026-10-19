@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-19T04:14:30.081323+00:00",
-"generatedAtBaku": "2026-10-19 08:14",
+"generatedAt": "2026-10-19T05:14:55.902473+00:00",
+"generatedAtBaku": "2026-10-19 09:14",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:29 19 oktyabr 2026",
+"url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1006187",
+"firstSeenBaku": "2026-10-19 09:14"
+},
 {
 "title": "Azərbaycan himni altında İran bayraqları: Almaniyadakı aksiyanın arxasında hansı maraqlar dayanır? – TƏHLİL 22:51 18 oktyabr 2026",
 "url": "https://apa.az/siyasi/azerbaycan-himni-altinda-iran-bayraqlari-almaniyadaki-aksiyanin-arxasinda-hansi-maraqlar-dayanir-tehlil-1006159",
@@ -55,16 +60,6 @@
 "firstSeenBaku": "2026-10-18 15:59"
 },
 {
-"title": "Ərdoğan Azərbaycanı Müstəqilliyin Bərpası Günü münasibətilə təbrik edib 15:45 18 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/erdogan-azerbaycani-musteqilliyin-berpasi-gunu-munasibetile-tebrik-edib-1006115",
-"firstSeenBaku": "2026-10-18 15:59"
-},
-{
-"title": "Ukraynanın Azərbaycandakı səfiri Müstəqilliyin Bərpası Günü münasibətilə təbrik paylaşımı edib 15:16 18 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/ukraynanin-azerbaycandaki-sefiri-musteqilliyin-berpasi-gunu-munasibetile-tebrik-paylasimi-edib-1006113",
-"firstSeenBaku": "2026-10-18 15:59"
-},
-{
 "title": "Bakıda və Abşeronda güclü küləklə bağlı narıncı xəbərdarlıq verilib 13:57 18 oktyabr 2026",
 "url": "https://apa.az/hava-haqqinda/bakida-ve-abseronda-guclu-kulekle-bagli-narinci-xeberdarliq-verilib-1006097",
 "firstSeenBaku": "2026-10-18 14:03"
@@ -72,12 +67,12 @@
 ],
 "haqqin": [
 {
-"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 18 октября 2026, 17:43 6063",
+"title": "Азербайджан атакуют клопы. Лаборатории мобилизовали самурайских ос наши проблемы 18 октября 2026, 17:43 6387",
 "url": "https://haqqin.az/newsarchive/395887",
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "От Зангезура до Карса Места памяти Западного Азербайджана 18 октября 2026, 12:17 3818",
+"title": "От Зангезура до Карса Места памяти Западного Азербайджана 18 октября 2026, 12:17 3917",
 "url": "https://haqqin.az/newsarchive/395881",
 "firstSeenBaku": "2026-10-18 13:04"
 },
@@ -149,11 +144,6 @@
 "firstSeenBaku": "2026-10-18 21:03"
 },
 {
-"title": "18 հկտ | 19:05 Արդյունավետ բազմակողմանիությունը մեր արտաքին քաղաքականության կարևոր մասն է. Միրզոյանը՝ COP17–ում",
-"url": "https://news.am/hy/news/1068706",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
 "title": "ՄԱԿ–ի պաշտոնյան խուսափեց Արցախի մասին հարցին պատասխանելուց",
 "url": "https://news.am/hy/stories/3025",
 "firstSeenBaku": "2026-10-18 20:01"
@@ -172,6 +162,11 @@
 "title": "Թուրքիան հերքել է Ադրբեջանում հեղաշրջում նախապատրաստելու մեղադրանքները",
 "url": "https://news.am/hy/stories/3019",
 "firstSeenBaku": "2026-10-18 15:59"
+},
+{
+"title": "Արդյունավետ բազմակողմանիությունը մեր արտաքին քաղաքականության կարևոր մասն է. Միրզոյանը՝ COP17–ում հոկտեմբերի 18, 19:05",
+"url": "https://news.am/hy/news/1068706",
+"firstSeenBaku": "2026-10-18 20:01"
 },
 {
 "title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան. Փաշինյանը դիմեց COP17–ի պատվիրակներին հոկտեմբերի 18, 18:57",
@@ -194,6 +189,11 @@
 "title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան․ վարչապետը պաշտոնապես բացել է COP17-ը 19:04, 18 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263152",
 "firstSeenBaku": "2026-10-18 20:01"
+},
+{
+"title": "Քաղաքականություն Դեսպան Նարեկ Մկրտչյանը հյուրընկալել է պաշտոնական ընթրիք՝ Մերիդիան միջազգային կենտրոնի գլխավոր հանդիսությանն ընդառաջ Ամերիկայի Միացյալ Նահանգներում Հայաստանի դեսպան Նարեկ Մկրտչյանն ԱՄՆ-ում ՀՀ դեսպանությունում հյուրընկալել է պաշտոնական ընթրիք՝ Մերիդիան միջազգային կենտրոնի գլխավ... 09:",
+"url": "https://armenpress.am/hy/article/1263161",
+"firstSeenBaku": "2026-10-19 09:14"
 },
 {
 "title": "20:10, 18 հոկտեմբերի Հայաստանը մեծ ջանքեր է գործադրել COP17-ի կազմակերպման համար. Աստրիդ Շոմաքեր",
@@ -252,6 +252,11 @@
 ],
 "tert": [
 {
+"title": "ԱՄՆ դեսպանը խոստացել է կոշտ պատասխան՝ Եվրոպայում Starlink-ի նկատմամբ սահմանափակումներ կիրառելու դեպքում",
+"url": "https://www.tert.am/am/news/2026/10/19/usa-starlink/4287332",
+"firstSeenBaku": "2026-10-19 09:14"
+},
+{
 "title": "Թրամփի կողմից Ռուսաստանի նկատմամբ պատժամիջnցների չեղարկումը կուժեղացնի Պուտինի՝ մեր դեմ մղվող պшտերազմը․ Զելենսկի",
 "url": "https://www.tert.am/am/news/2026/10/18/zelenskiy-trump-usa/4287314",
 "firstSeenBaku": "2026-10-18 19:01"
@@ -262,19 +267,14 @@
 "firstSeenBaku": "2026-10-18 18:02"
 },
 {
-"title": "Պատշաճ ուշադրություն դարձնել Արցախի հայերի բռնի տեղահանման կենսամշակութային հետևանքներին. Գագիկ Բաղունցի ուղերձը՝ COP-17-ի մասնակիցներին",
-"url": "https://www.tert.am/am/news/2026/10/18/gagik-baghunts/4287299",
-"firstSeenBaku": "2026-10-18 14:03"
-},
-{
 "title": "Թող Երևանը դառնա քաղաքական նոր վճռականության հանգրվան, թող սա լինի այն պահը, երբ խոսքերից անցնում ենք գործի․ Փաշինյան",
 "url": "https://www.tert.am/am/news/2026/10/18/nikol-pashinyan-cop-17/4287315",
 "firstSeenBaku": "2026-10-18 19:01"
 },
 {
-"title": "Ֆրանսիան այրվnւմ է. փակե՛ք սահմանները և վերահսկողության տակ առե՛ք իրավիճակը, քանի դեռ ուշ չէ․ Թրամփ",
-"url": "https://www.tert.am/am/news/2026/10/18/france-policy/4287309",
-"firstSeenBaku": "2026-10-18 17:12"
+"title": "Պատշաճ ուշադրություն դարձնել Արցախի հայերի բռնի տեղահանման կենսամշակութային հետևանքներին. Գագիկ Բաղունցի ուղերձը՝ COP-17-ի մասնակիցներին",
+"url": "https://www.tert.am/am/news/2026/10/18/gagik-baghunts/4287299",
+"firstSeenBaku": "2026-10-18 14:03"
 },
 {
 "title": "Ալեն Սիմոնյանը դատարանում պարտվել է Էդգար Ղազարյանին",
@@ -292,19 +292,9 @@
 "firstSeenBaku": "2026-10-18 21:03"
 },
 {
-"title": "Նեթանյահուն եղել է մեծ վարչապետ և խաղաղության գործընկեր․ Թրամփ",
-"url": "https://www.tert.am/am/news/2026/10/18/trump-twitter-published/4287320",
-"firstSeenBaku": "2026-10-18 20:01"
-},
-{
 "title": "«Ռեսուրսներից՝ հնարավորություններ». «Լիդիան Արմենիա»-ն «Mining Armenia Forum»-ի ռազմավարական հովանավորներից է (լուսանկարներ, տեսանյութ)",
 "url": "https://www.tert.am/am/news/2026/10/18/mining-armenia-forum/4287304",
 "firstSeenBaku": "2026-10-18 15:59"
-},
-{
-"title": "Երևանում ընդունվել է բնության պահպանության մասին հռչակագիր",
-"url": "https://www.tert.am/am/news/2026/10/18/cop-17-armenia/4287312",
-"firstSeenBaku": "2026-10-18 18:02"
 }
 ],
 "hetq": [
@@ -376,7 +366,7 @@
 "firstSeenBaku": "2026-10-18 15:02"
 },
 {
-"title": "Ինչու է «Ուժեղ Հայաստանը» որոշել Գյումրիից սկսել և աջակցել ք...",
+"title": "Ինչու է «Ուժեղ Հայաստանը» որոշել Գյումրիից սկսել և աջակցել քաղաքին",
 "url": "https://hraparak.am/am/post/a8dc8bb350a8b4b6623fd1cdf52ffb05",
 "firstSeenBaku": "2026-10-18 15:02"
 },
@@ -418,6 +408,13 @@
 "title": "Opinion | The irony of COP17 host Armenia celebrating gold before biodiversity",
 "url": "https://oc-media.org/opinion-the-irony-of-cop17-host-armenia-celebrating-gold-before-biodiversity/",
 "firstSeenBaku": "2026-10-18 11:15"
+}
+],
+"un-armenia": [
+{
+"title": "Peace and Biodiversity",
+"url": "https://armenia.un.org/en/324657-peace-and-biodiversity",
+"firstSeenBaku": "2026-10-19 09:14"
 }
 ]
 }
