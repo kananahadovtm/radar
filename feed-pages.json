@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-20T21:09:47.859954+00:00",
-"generatedAtBaku": "2026-10-21 01:09",
+"generatedAt": "2026-10-20T22:09:12.180818+00:00",
+"generatedAtBaku": "2026-10-21 02:09",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "İraq İranla sərhəddəki keçid məntəqələrinin əksəriyyətini bağlayıb 02:07 21 oktyabr 2026",
+"url": "https://apa.az/asiya/iraq-iranla-serheddeki-kecid-menteqelerinin-ekseriyyetini-baglayib-1006848",
+"firstSeenBaku": "2026-10-21 02:09"
+},
 {
 "title": "Bakıda yaşayış binasında yanğın olub, bina sakinləri təxliyə edilib - FOTO 23:20 20 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-yasayis-binasinda-yangin-olub-bina-sakinleri-texliye-edilib-foto-1006837",
@@ -70,9 +75,9 @@
 "firstSeenBaku": "2026-10-20 18:15"
 },
 {
-"title": "Zelenski Ukraynanın NATO-ya üzvlükdən imtinasının şərtini açıqlayıb 17:25 20 oktyabr 2026",
-"url": "https://apa.az/avropa/zelenski-ukraynanin-nato-ya-uzvlukden-imtinasinin-sertini-aciqlayib-1006772",
-"firstSeenBaku": "2026-10-20 18:15"
+"title": "İraq İranla sərhəddəki keçid məntəqələrinin əksəriyyətini bağlayıb 02:07 21 oktyabr 2026",
+"url": "https://apa.az/asiya/iraq-iranla-serheddeki-kecid-menteqelerinin-ekseriyyetini-baglayib-1006848?locale=az",
+"firstSeenBaku": "2026-10-21 02:09"
 },
 {
 "title": "Zəngəzurluların Gürcüstandakı izi - Salamməlik kəndindən REPORTAJ - FOTOLAR 13:07 20 oktyabr 2026",
@@ -87,34 +92,19 @@
 "firstSeenBaku": "2026-10-20 13:13"
 },
 {
-"title": "Капитан Байрамов выудил у генерала миллион манатов. Но бизнес не пошел… из зала суда 20 октября 2026, 16:27 3199",
+"title": "Капитан Байрамов выудил у генерала миллион манатов. Но бизнес не пошел… из зала суда 20 октября 2026, 16:27 3253",
 "url": "https://haqqin.az/newsarchive/396119",
 "firstSeenBaku": "2026-10-20 17:21"
 },
 {
-"title": "Обсуждают наказание для Армении обновлено 16:13 20 октября 2026, 16:13 4436",
-"url": "https://haqqin.az/newsarchive/396108",
-"firstSeenBaku": "2026-10-20 16:09"
+"title": "«Боруссии» не понравились санитарные условия на Олимпийском стадионе в Баку Футболисты не стали принимать душ",
+"url": "https://haqqin.az/newsarchive/396166",
+"firstSeenBaku": "2026-10-21 02:09"
 },
 {
 "title": "Мир на условиях России The New York Times и The Washington Post",
 "url": "https://haqqin.az/newsarchive/396149",
 "firstSeenBaku": "2026-10-20 21:15"
-},
-{
-"title": "Немец, которого не оставят в покое: «Сейчас я самый известный в Азербайджане»",
-"url": "https://haqqin.az/newsarchive/396144",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
-"title": "В НАТО предупреждают Зеленского",
-"url": "https://haqqin.az/newsarchive/396143",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
-"title": "Азербайджан объявил в международный розыск призывавших к насильственному захвату власти заявление Генпрокуратуры 19 октября 2026, 18:56 8806",
-"url": "https://haqqin.az/newsarchive/396025",
-"firstSeenBaku": "2026-10-19 19:17"
 }
 ],
 "news.am": [
@@ -194,11 +184,6 @@
 "firstSeenBaku": "2026-10-20 20:14"
 },
 {
-"title": "20 հկտ | 19:43 Որ դեպքում ԵԱՏՄ-ում կհրաժարվեն Հայաստանի նկատմամբ պայմանագրի գործողության կասեցումից. փորձագետի կարծիք",
-"url": "https://news.am/hy/news/1069160",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
 "title": "Ուղիղ Մոսկվայից զգուշացնում են, Փաշինյանը՝ մեկնում ԵՄ ընդլայնման գագաթնաժողովի I ԼՈՒՐԵՐ I 18:00",
 "url": "https://news.am/hy/news/1069148",
 "firstSeenBaku": "2026-10-20 18:15"
@@ -229,6 +214,11 @@
 "firstSeenBaku": "2026-10-20 12:13"
 },
 {
+"title": "Որ դեպքում ԵԱՏՄ-ում կհրաժարվեն Հայաստանի նկատմամբ պայմանագրի գործողության կասեցումից. փորձագետի կարծիք Որպեսզի Հայաստանի նկատմամբ Եվրասիական տնտեսական միության մասին պայմանագրի գործողությունը հոկտեմբերի 20, 19:43",
+"url": "https://news.am/hy/news/1069160",
+"firstSeenBaku": "2026-10-20 20:14"
+},
+{
 "title": "ԵԱՏՄ-ն գտել է Հայաստանի նկատմամբ պայմանագրի կասեցման իրավական ձևը․ Սիլաև հոկտեմբերի 20, 19:05",
 "url": "https://news.am/hy/news/1069157",
 "firstSeenBaku": "2026-10-20 19:14"
@@ -237,11 +227,6 @@
 "title": "Փաշինյանը նոյեմբերի 3-ին Բրյուսելում կմասնակցի ԵՄ ընդլայնմանը նվիրված գագաթնաժողովին հոկտեմբերի 20, 17:08",
 "url": "https://news.am/hy/news/1069131",
 "firstSeenBaku": "2026-10-20 17:21"
-},
-{
-"title": "Երևանում կայացավ NVB Frontier Forum-ը․ տեխնոլոգիաների և մասնավոր շուկաների նոր հնարավորությունների շուրջ հոկտեմբերի 13, 18:55",
-"url": "https://news.am/hy/news/1068911",
-"firstSeenBaku": "2026-10-19 19:17"
 },
 {
 "title": "Ֆուտզալի ԱԱ․ Հայաստանի հավաքականը պարտվեց Հունգարիային հոկտեմբերի 20, 21:54",
@@ -761,6 +746,11 @@
 ],
 "eeas-press": [
 {
+"title": "EU Statement – UN General Assembly 1st Committee: Outer Space (Cluster III)",
+"url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-un-general-assembly-1st-committee-outer-space-cluster-iii_en",
+"firstSeenBaku": "2026-10-21 02:09"
+},
+{
 "title": "Europe's Northern Neighbourhood – A New Strategy for the Arctic: Remarks by High Representative Kallas at the press conference",
 "url": "https://www.eeas.europa.eu/eeas/europes-northern-neighbourhood-new-strategy-arctic-remarks-high-representative-kallas-press_en",
 "firstSeenBaku": "2026-10-20 19:14"
@@ -840,11 +830,38 @@
 "title": "October 20, 2026 Turkish research center repeatedly praises Pashinyan and criticizes the diaspora",
 "url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
 "firstSeenBaku": "2026-10-20 20:14"
+}
+],
+"301am": [
+{
+"title": "Armenian Genocide Memorial Khachkar Installed at Armenian Catholic Church in Saint-Chamond, France",
+"url": "https://www.301.am/2026/10/20/armenian-genocide-memorial-khachkar-installed-at-armenian-catholic-church-in-saint-chamond-france/",
+"firstSeenBaku": "2026-10-21 00:06"
 },
 {
-"title": "Beyond symbolism: Building the capacity Armenia requires",
-"url": "https://armenianweekly.com/2026/10/19/beyond-symbolism-building-the-capacity-armenia-requires/",
-"firstSeenBaku": "2026-10-19 19:17"
+"title": "Azerbaijan Targets Dadivank’s 800-Year-Old Armenian Khachkars as Cultural Genocide and Historical Falsification Continue",
+"url": "https://www.301.am/2026/10/20/azerbaijan-targets-dadivanks-800-year-old-armenian-khachkars-as-cultural-genocide-and-historical-falsification-continue/",
+"firstSeenBaku": "2026-10-21 00:06"
+},
+{
+"title": "Armenia to Acquire Czech-Made L-39 Skyfox Military Trainer and Light Combat Aircraft",
+"url": "https://www.301.am/2026/10/20/armenia-to-acquire-czech-made-l-39-skyfox-military-trainer-and-light-combat-aircraft/",
+"firstSeenBaku": "2026-10-21 00:06"
+},
+{
+"title": "Azerbaijan Destroys More Armenian War Memorials in Occupied Artsakh as Cultural Genocide Continues",
+"url": "https://www.301.am/2026/10/13/azerbaijan-destroys-more-armenian-war-memorials-in-occupied-artsakh-as-cultural-genocide-continues/",
+"firstSeenBaku": "2026-10-20 17:21"
+},
+{
+"title": "Protests Against Hijab Ban Escalate in Baku: 37 Arrested, Social Media Platforms Disrupted",
+"url": "https://www.301.am/2026/10/12/protests-against-hijab-ban-escalate-in-baku-37-arrested-social-media-platforms-disrupted/",
+"firstSeenBaku": "2026-10-20 00:10"
+},
+{
+"title": "Armenian Mother Who Fought Off Armed Azerbaijani Soldier Speaks Out After Pashinyan Said She Should Have Waited for Police",
+"url": "https://www.301.am/2026/10/12/armenian-mother-who-fought-off-armed-azerbaijani-soldier-speaks-out-after-pashinyan-said-she-should-have-waited-for-police/",
+"firstSeenBaku": "2026-10-19 20:11"
 }
 ],
 "alphanews": [
