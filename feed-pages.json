@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-20T03:10:04.902858+00:00",
-"generatedAtBaku": "2026-10-20 07:10",
+"generatedAt": "2026-10-20T04:12:16.610902+00:00",
+"generatedAtBaku": "2026-10-20 08:12",
 "hours": 30,
 "pages": {
 "apa": [
@@ -109,6 +109,16 @@
 "firstSeenBaku": "2026-10-19 20:11"
 },
 {
+"title": "07:54 «Ժողովուրդ». Գիտության ոլորտում նոր ցնցումներ․ Փաշինյանը նոր նախագահ է ընտրել",
+"url": "https://news.am/hy/news/1068970",
+"firstSeenBaku": "2026-10-20 08:12"
+},
+{
+"title": "07:40 «Փաստ». Առողջապահության «թղթային հեքիաթը» և դեղորայքային կոլապսը. ինչո՞ւ են հայաստանցիները թանկ վճարում կյանքի համար",
+"url": "https://news.am/hy/news/1068968",
+"firstSeenBaku": "2026-10-20 08:12"
+},
+{
 "title": "04:24 Խաղաղ օվկիանոսը կտրուկ փոխում է գույնը՝ գերհզոր Էլ Նինյոյի պատճառով",
 "url": "https://news.am/hy/news/1068939",
 "firstSeenBaku": "2026-10-20 05:17"
@@ -147,11 +157,6 @@
 "title": "19 հկտ | 21:18 Մեծ Բրիտանիան և Լեհաստանը քննադատել են Հեգսեթին՝ Աֆղանստանի պատերազմում ՆԱՏՕ-ի դաշնակիցների դերը թերագնահատելու համար",
 "url": "https://news.am/hy/news/1068914",
 "firstSeenBaku": "2026-10-19 22:06"
-},
-{
-"title": "19 հկտ | 20:24 Իրանն ԱՄՆ ընտրություններից առաջ փորձում է հարվածել Թրամփին՝ ուժեղացնելով հարձակումները Հորմուզի նեղուցում. WP",
-"url": "https://news.am/hy/news/1068904",
-"firstSeenBaku": "2026-10-19 21:10"
 },
 {
 "title": "Ուղիղ Ինքնասպшնությո՞ւն, թե՞ դժբախտ պատահար. Ով է Երեւանում պատշգամբից ընկած կինը I ԼՈՒՐԵՐ I 18:00",
@@ -485,7 +490,7 @@
 "firstSeenBaku": "2026-10-19 12:20"
 },
 {
-"title": "5 Իրավապաշտպանները դեմ են սահմանադրական փոփոխություններին",
+"title": "3 Իրավապաշտպանները դեմ են սահմանադրական փոփոխություններին",
 "url": "https://www.azatutyun.am/a/26641018.html",
 "firstSeenBaku": "2026-10-19 21:10"
 }
@@ -540,6 +545,11 @@
 "title": "Երևանում պարեկները վնաuազերծել են կրшկոցներ արձակողին",
 "url": "https://www.tert.am/am/news/2026/10/19/accident-yerevan-/4287444",
 "firstSeenBaku": "2026-10-19 23:15"
+},
+{
+"title": "Առողջապահության «թղթային հեքիաթը» և դեղորայքային կոլապսը. ինչո՞ւ են հայաստանցիները թանկ վճարում կյանքի համար. «Փաստ»",
+"url": "https://www.tert.am/am/news/2026/10/20/arm-medicine/4287456",
+"firstSeenBaku": "2026-10-20 08:12"
 }
 ],
 "hetq": [
@@ -586,16 +596,6 @@
 "firstSeenBaku": "2026-10-19 21:10"
 },
 {
-"title": "Մարիամ Փաշինյանը ցուցադրել է իր դաջվածքները",
-"url": "https://hraparak.am/am/post/9e8bc8591009683f4056aa0ab32adccf",
-"firstSeenBaku": "2026-10-19 21:10"
-},
-{
-"title": "Նիկոլ Փաշինյանին 25 հազար եվրո գումար են նվիրել",
-"url": "https://hraparak.am/am/post/2373b5bc265ce2c88ade18535e75d6a0",
-"firstSeenBaku": "2026-10-19 11:29"
-},
-{
 "title": "Նրան երկու ճնշող կա՝ Փաշինյանն ու Ֆրանկլինը… Գեղամ Մանուկյան",
 "url": "https://hraparak.am/am/post/25020f71dc0f1e88555f0dc169f271ec",
 "firstSeenBaku": "2026-10-20 00:10"
@@ -603,6 +603,11 @@
 {
 "title": "Ադրբեջանը միջազգային հետախուզում է հայտարարել Թուրքիայի յոթ...",
 "url": "https://hraparak.am/am/post/bda5d46edfda69782c407629ea47f6ec",
+"firstSeenBaku": "2026-10-19 21:10"
+},
+{
+"title": "Մարիամ Փաշինյանը ցուցադրել է իր դաջվածքները",
+"url": "https://hraparak.am/am/post/9e8bc8591009683f4056aa0ab32adccf",
 "firstSeenBaku": "2026-10-19 21:10"
 },
 {
@@ -634,11 +639,6 @@
 "title": "Մոսկվայում բացվել է Նիկիտա Սիմոնյանի հուշարձանը",
 "url": "https://hraparak.am/am/post/3953c63c58607d28a90ea2a32c7da918",
 "firstSeenBaku": "2026-10-19 17:24"
-},
-{
-"title": "Ուկրաինայի սահմանի մոտ գտնվող ԱԹՍ-ն վախեցրել է տեղի բնակիչնե...",
-"url": "https://hraparak.am/am/post/fea4c5fd9cc0fc526ec9ab330abe55ff",
-"firstSeenBaku": "2026-10-19 16:12"
 },
 {
 "title": "Քանի ներկայացուցիչ ունի Հայաստանն այսօր",
@@ -698,6 +698,13 @@
 "title": "Azerbaijan reportedly blocks social media access as hijab protests continue",
 "url": "https://oc-media.org/azerbaijan-reportedly-blocks-social-media-access-as-hijab-protests-continue/",
 "firstSeenBaku": "2026-10-19 15:10"
+}
+],
+"jam-news": [
+{
+"title": "Armenia considers restricting regional cars from entering Yerevan",
+"url": "https://jam-news.net/cars-from-regions-banned-from-yerevan/",
+"firstSeenBaku": "2026-10-20 08:12"
 }
 ],
 "eeas-press": [
