@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-19T23:05:41.751463+00:00",
-"generatedAtBaku": "2026-10-20 03:05",
+"generatedAt": "2026-10-20T00:03:21.105323+00:00",
+"generatedAtBaku": "2026-10-20 04:03",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Litva NATO-dan dronların vizual təmas olmadan vurulmasına icazə istəyəcək 03:22 20 oktyabr 2026",
+"url": "https://apa.az/avropa/litva-nato-dan-dronlarin-vizual-temas-olmadan-vurulmasina-icaze-isteyecek-1006491",
+"firstSeenBaku": "2026-10-20 04:03"
+},
 {
 "title": "Leyla Əliyeva Türkmənistan Dövlət Simfonik Orkestrinin konsertini izləyib - FOTO 23:26 19 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/leyla-eliyeva-turkmenistan-dovlet-simfonik-orkestrinin-konsertini-izleyib-foto-1006474",
@@ -35,11 +40,6 @@
 "firstSeenBaku": "2026-10-19 20:11"
 },
 {
-"title": "Azərbaycan və BƏƏ HHQ komandanları görüşüblər - FOTO 19:10 19 oktyabr 2026",
-"url": "https://apa.az/herbi/azerbaycan-ve-bee-hhq-komandanlari-gorusubler-foto-1006427",
-"firstSeenBaku": "2026-10-19 19:17"
-},
-{
 "title": "Azərbaycanda hakimiyyəti zorla ələ keçirməyə çağırış edən Türkiyədə yaşayan 7 nəfər beynəlxalq axtarışa verilib 18:20 19 oktyabr 2026",
 "url": "https://apa.az/hadise/azerbaycanda-hakimiyyeti-zorla-ele-kecirmeye-cagiris-eden-turkiyede-yasayan-7-nefer-beynelxalq-axtarisa-verilib-1006415",
 "firstSeenBaku": "2026-10-19 19:17"
@@ -53,6 +53,11 @@
 "title": "Azərbaycan himni altında İran bayraqları: Almaniyadakı aksiyanın arxasında hansı maraqlar dayanır? – TƏHLİL 22:51",
 "url": "https://apa.az/siyasi/azerbaycan-himni-altinda-iran-bayraqlari-almaniyadaki-aksiyanin-arxasinda-hansi-maraqlar-dayanir-tehlil-1006159",
 "firstSeenBaku": "2026-10-18 23:04"
+},
+{
+"title": "Azərbaycan və BƏƏ HHQ komandanları görüşüblər - FOTO 19:10 19 oktyabr 2026",
+"url": "https://apa.az/herbi/azerbaycan-ve-bee-hhq-komandanlari-gorusubler-foto-1006427",
+"firstSeenBaku": "2026-10-19 19:17"
 },
 {
 "title": "17:08 19 oktyabr 2026 Azərbaycanda Milli Statistika Sisteminin növbəti Qlobal Qiymətləndirilməsi keçirilir",
@@ -142,11 +147,6 @@
 "title": "19 հկտ | 20:12 Հայաստանում գնաճը կառավարելի է, առայժմ ծայրահեղ միջոցների կարիք չկա. Տիգրան Ջրբաշյան",
 "url": "https://news.am/hy/news/1068816",
 "firstSeenBaku": "2026-10-19 21:10"
-},
-{
-"title": "19 հկտ | 20:06 Իլոն Մասկը խոստացել է ԱՄՆ-ի յուրաքանչյուր երեխայի SpaceX-ի մեկական բաժնետոմս նվիրել",
-"url": "https://news.am/hy/news/1068903",
-"firstSeenBaku": "2026-10-19 20:11"
 },
 {
 "title": "Ուղիղ Ինքնասպшնությո՞ւն, թե՞ դժբախտ պատահար. Ով է Երեւանում պատշգամբից ընկած կինը I ԼՈՒՐԵՐ I 18:00",
@@ -725,6 +725,11 @@
 }
 ],
 "un-press": [
+{
+"title": "Sixth Committee Underlines Need for Legal Certainty in Cross-border Commerce",
+"url": "https://press.un.org/en/2026/gal3752.doc.htm",
+"firstSeenBaku": "2026-10-20 04:03"
+},
 {
 "title": "Outstanding Payments to Regular, Peacekeeping Budgets Continue Undermining Effective Implementation of UN’s Mandate, Speakers Warn Fifth Committee",
 "url": "https://press.un.org/en/2026/gaab4521.doc.htm",
