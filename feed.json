@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-20T19:15:45.625456+00:00",
-"generatedAtBaku": "2026-10-20 23:15",
+"generatedAt": "2026-10-20T20:06:23.708393+00:00",
+"generatedAtBaku": "2026-10-21 00:06",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,20 +9,21 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 59,
+"bagramyan26": 56,
 "HRAPARAKAM": 9,
-"ArmenianVendetta": 21,
-"caucasar": 9
+"ArmenianVendetta": 19,
+"caucasar": 8
 },
 "pages": {
-"apa": 15,
+"apa": 16,
 "haqqin": 9,
-"news.am": 35,
-"armenpress-hy": 14,
-"armenpress-en": 26,
-"azatutyun": 15,
-"tert": 13,
-"hetq": 6,
+"news.am": 33,
+"armenpress-hy": 13,
+"armenpress-en": 23,
+"azatutyun": 14,
+"tert": 14,
+"hetq": 7,
+"hraparak": 8,
 "primeminister": 1,
 "civilnet": 5,
 "oc-media": 5,
@@ -37,20 +38,19 @@
 "un-press": 3,
 "un-azerbaijan": 0,
 "un-armenia": 0,
-"armenianweekly": 4,
+"armenianweekly": 3,
 "armenian-assembly": 0,
 "arfd": 0,
-"301am": 4,
+"301am": 7,
 "alphanews": 9
 },
-"search": 244
+"search": 249
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
-"hraparak": "403 Client Error: Forbidden for url: https://hraparak.am/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
