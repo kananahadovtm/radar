@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-20T01:17:11.199354+00:00",
-"generatedAtBaku": "2026-10-20 05:17",
+"generatedAt": "2026-10-20T02:07:47.968737+00:00",
+"generatedAtBaku": "2026-10-20 06:07",
 "hours": 30,
 "pages": {
 "apa": [
@@ -149,11 +149,6 @@
 "firstSeenBaku": "2026-10-19 21:10"
 },
 {
-"title": "19 հկտ | 20:12 Հայաստանում գնաճը կառավարելի է, առայժմ ծայրահեղ միջոցների կարիք չկա. Տիգրան Ջրբաշյան",
-"url": "https://news.am/hy/news/1068816",
-"firstSeenBaku": "2026-10-19 21:10"
-},
-{
 "title": "Ուղիղ Ինքնասպшնությո՞ւն, թե՞ դժբախտ պատահար. Ով է Երեւանում պատշգամբից ընկած կինը I ԼՈՒՐԵՐ I 18:00",
 "url": "https://news.am/hy/news/1068898",
 "firstSeenBaku": "2026-10-19 18:20"
@@ -197,6 +192,11 @@
 "title": "Երևանում կայացավ NVB Frontier Forum-ը․ տեխնոլոգիաների և մասնավոր շուկաների նոր հնարավորությունների շուրջ հոկտեմբերի 19, 18:55",
 "url": "https://news.am/hy/news/1068911",
 "firstSeenBaku": "2026-10-19 19:17"
+},
+{
+"title": "Հայաստանում գնաճը կառավարելի է, առայժմ ծայրահեղ միջոցների կարիք չկա. Տիգրան Ջրբաշյան Չնայած աշխարհում գնաճային ճնշման աճին՝ Հայաստանում իրավիճակը մնում է կառավարելի և առայժմ հոկտեմբերի 19, 20:12",
+"url": "https://news.am/hy/news/1068816",
+"firstSeenBaku": "2026-10-19 21:10"
 },
 {
 "title": "Թուրքիան և Ադրբեջանը գժտվել են հիջաբի և Իսրայելի պատճառով․ ինչ է թաքնված դաշնակիցների տարաձայնությունների հետևում. Forbes հոկտեմբերի 19, 19:29",
@@ -572,21 +572,6 @@
 "title": "2026-10-19 00:04:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/184804",
 "firstSeenBaku": "2026-10-19 01:02"
-},
-{
-"title": "2026-10-18 23:43:00 Նիկոլ Փաշինյանն ու պաշտոնատար այլ անձինք մասնակցել են COP17-ի բացման արարողությանը",
-"url": "https://hetq.am/hy/article/184803",
-"firstSeenBaku": "2026-10-18 23:58"
-},
-{
-"title": "2026-10-18 23:41:00 Հայաստանի քաղաքացիական հասարակության հռչակագիրը՝ ուղղված CBD COP17-ի մասնակիցներին",
-"url": "https://hetq.am/hy/article/184802",
-"firstSeenBaku": "2026-10-18 23:58"
-},
-{
-"title": "2026-10-18 23:27:00 Արդյոք Հայաստանը պատրաստ կլինի կոտրել կարծրատիպերը. բնապահպանական սիմպոզիում՝ Երեւանում",
-"url": "https://hetq.am/hy/article/184801",
-"firstSeenBaku": "2026-10-18 23:58"
 }
 ],
 "hraparak": [
@@ -734,6 +719,11 @@
 "title": "Outstanding Payments to Regular, Peacekeeping Budgets Continue Undermining Effective Implementation of UN’s Mandate, Speakers Warn Fifth Committee",
 "url": "https://press.un.org/en/2026/gaab4521.doc.htm",
 "firstSeenBaku": "2026-10-20 03:05"
+},
+{
+"title": "Sixth Committee Underlines Need for Legal Certainty in Cross-border Commerce",
+"url": "https://press.un.org/en/2026/gal3752.doc.htm",
+"firstSeenBaku": "2026-10-20 04:03"
 },
 {
 "title": "Secretary-General Salutes Indonesian Peacekeepers for Courage, Service and Commitment to Peace",
