@@ -1,9 +1,19 @@
 {
-"generatedAt": "2026-10-20T16:14:40.207569+00:00",
-"generatedAtBaku": "2026-10-20 20:14",
+"generatedAt": "2026-10-20T17:15:29.013204+00:00",
+"generatedAtBaku": "2026-10-20 21:15",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Kallas: ABŞ artıq il yarımdır Ukraynanı kapitulyasiyaya sövq edir 21:09 20 oktyabr 2026",
+"url": "https://apa.az/avropa/kallas-abs-artiq-il-yarimdir-ukraynani-kapitulyasiyaya-sovq-edir-1006815",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "Azərbaycanlı itkin ailələri Avropa Parlamenti qarşısında etiraz aksiyası keçirib 20:17 20 oktyabr 2026",
+"url": "https://apa.az/sosial/azerbaycanli-itkin-aileleri-avropa-parlamenti-qarsisinda-etiraz-aksiyasi-kecirib-1006812",
+"firstSeenBaku": "2026-10-20 21:15"
+},
 {
 "title": "Səfir: Macarıstan şirkətləri Azərbaycanın iqtisadiyyatına 2 milyard dollar investisiya yatırıb 20:03 20 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/sefir-macaristan-sirketleri-azerbaycanin-iqtisadiyyatina-2-milyard-dollar-investisiya-yatirib-1006811",
@@ -65,21 +75,6 @@
 "firstSeenBaku": "2026-10-20 17:21"
 },
 {
-"title": "Azərbaycanla BMT arasında Anlaşma Memorandumu təsdiq edilib 15:57 20 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/azerbaycanla-bmt-arasinda-anlasma-memorandumu-tesdiq-edilib-1006738",
-"firstSeenBaku": "2026-10-20 16:09"
-},
-{
-"title": "Qarabağ Milli Parkı yaradılır - SƏRƏNCAM 15:51 20 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/qarabag-milli-parki-yaradilir-serencam-1006731",
-"firstSeenBaku": "2026-10-20 16:09"
-},
-{
-"title": "İsveç səfiri Hikmət Hacıyevlə görüşüb 15:36 20 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/isvec-sefiri-hikmet-haciyevle-gorusub-1006730",
-"firstSeenBaku": "2026-10-20 16:09"
-},
-{
 "title": "Zəngəzurluların Gürcüstandakı izi - Salamməlik kəndindən REPORTAJ - FOTOLAR 13:07 20 oktyabr 2026",
 "url": "https://apa.az/sosial/zengezurlularin-gurcustandaki-izi-salammelik-kendinden-reportaj-fotolar-1006646",
 "firstSeenBaku": "2026-10-20 13:13"
@@ -97,14 +92,19 @@
 "firstSeenBaku": "2026-10-20 13:13"
 },
 {
-"title": "Капитан Байрамов выудил у генерала миллион манатов. Но бизнес не пошел… из зала суда 16:27 2306",
+"title": "Капитан Байрамов выудил у генерала миллион манатов. Но бизнес не пошел… из зала суда 16:27 2559",
 "url": "https://haqqin.az/newsarchive/396119",
 "firstSeenBaku": "2026-10-20 17:21"
 },
 {
-"title": "Обсуждают наказание для Армении обновлено 16:13 16:13 3733",
+"title": "Обсуждают наказание для Армении обновлено 16:13 16:13 3913",
 "url": "https://haqqin.az/newsarchive/396108",
 "firstSeenBaku": "2026-10-20 16:09"
+},
+{
+"title": "Мир на условиях России The New York Times и The Washington Post",
+"url": "https://haqqin.az/newsarchive/396149",
+"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "Немец, которого не оставят в покое: «Сейчас я самый известный в Азербайджане»",
@@ -132,17 +132,22 @@
 "firstSeenBaku": "2026-10-20 17:21"
 },
 {
-"title": "Европейцы раскрыли планы Пашиняна",
+"title": "Европейцы раскрыли планы Пашиняна 17:12 2664",
 "url": "https://haqqin.az/newsarchive/396126",
 "firstSeenBaku": "2026-10-20 17:21"
 },
 {
-"title": "Азербайджан объявил в международный розыск призывавших к насильственному захвату власти заявление Генпрокуратуры 19 октября 2026, 18:56 8747",
+"title": "Азербайджан объявил в международный розыск призывавших к насильственному захвату власти заявление Генпрокуратуры 19 октября 2026, 18:56 8759",
 "url": "https://haqqin.az/newsarchive/396025",
 "firstSeenBaku": "2026-10-19 19:17"
 }
 ],
 "news.am": [
+{
+"title": "Երևանից Մասիս գործուղված անձը ձեզ ոչ հավաստի տեղեկություններ է փոխանցում. Մասիսի համայնքապետը՝ Փաշինյանին",
+"url": "https://news.am/hy/news/1069181",
+"firstSeenBaku": "2026-10-20 21:15"
+},
 {
 "title": "ԵԱՏՄ-ից դուրս գալու դեպքում Հայաստանը կզրկվի միության գործընկերների հետ ազատ առևտրի ռեժիմից",
 "url": "https://news.am/hy/news/1069109",
@@ -154,9 +159,24 @@
 "firstSeenBaku": "2026-10-20 16:09"
 },
 {
-"title": "Սոկոլովը մտադիր է Հայաստանից ԱՄՆ վերահասցեավորել պղնձի խտանյութի մատակարարումները․ Bloomberg",
-"url": "https://news.am/hy/news/1069104",
-"firstSeenBaku": "2026-10-20 16:09"
+"title": "20:42 Նեթանյահուն հայտնել է Թրամփի հետ Իսրայելի գլխավոր նպատակի՝ Իրանում իշխանափոխության վերաբերյալ քննարկումների մասին",
+"url": "https://news.am/hy/news/1069185",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "20:38 Վենսը հրաժարվել է ընտրություններում աջակցել Նեթանյահուին՝ չնայած Թրամփի հավանությանը",
+"url": "https://news.am/hy/news/1069172",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "20:27 Պուտինի վերջնագիրը Փաշինյանին. ՀՀ-ի անդամությունը ԵԱՏՄ-ում կարող է սառեցվել դեկտեմբերին I 20:30",
+"url": "https://news.am/hy/news/1069183",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "20:20 ԱԲ-ը դուրս է գալիս խոշոր տվյալների կենտրոնների սահմաններից. ինչո՞ւ են ընկերություններին պետք տեղային հաշվարկային հանգույցներ",
+"url": "https://tech.news.am/hy/news/7985",
+"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "20:08 Սերբիայում Թրամփի ընտանիքի մասնակցությամբ գործարքը հետաքննած դատախազը կարող էր թիրախավորվել Pegasus համակարգի միջոցով",
@@ -204,26 +224,6 @@
 "firstSeenBaku": "2026-10-20 18:15"
 },
 {
-"title": "17:17 Կիբեռհանցագործության դեմ պայքարն ընդհանուր առաջնահերթություն է ԱՄՆ–ի և Հայաստանի համար. ԱՄն դեսպանություն (վիդեո)",
-"url": "https://news.am/hy/news/1069134",
-"firstSeenBaku": "2026-10-20 18:15"
-},
-{
-"title": "17:12 Կապանում, Վանաձորում և Երևանում կմեկնարկի ուսուցիչների մասնագիտական զարգացման MindX Teachers Lab ծրագիրը",
-"url": "https://news.am/hy/news/1069130",
-"firstSeenBaku": "2026-10-20 17:21"
-},
-{
-"title": "17:08 Փաշինյանը նոյեմբերի 3-ին Բրյուսելում կմասնակցի ԵՄ ընդլայնմանը նվիրված գագաթնաժողովին",
-"url": "https://news.am/hy/news/1069131",
-"firstSeenBaku": "2026-10-20 17:21"
-},
-{
-"title": "17:04 ՈւԵՖԱ Զարգացման գավաթ. Հայաստանի Մ-15 հավաքականը պարտվեց Մոլդովային",
-"url": "https://sport.news.am/arm/news/169667",
-"firstSeenBaku": "2026-10-20 17:21"
-},
-{
 "title": "Ուղիղ ԵԱՏՄ երկրները սպառնում են կասեցնել Հայաստանի անդամակցությունը կառույցին I ԼՈՒՐԵՐ I 16:00",
 "url": "https://news.am/hy/news/1069115",
 "firstSeenBaku": "2026-10-20 16:09"
@@ -232,11 +232,6 @@
 "title": "Ուղիղ Ինչպես է ձերբակալվել Հայաստան ներխուժած ադրբեջանցին․ նոր կադրեր I ԼՈՒՐԵՐ I 14:00",
 "url": "https://news.am/hy/news/1069085",
 "firstSeenBaku": "2026-10-20 15:09"
-},
-{
-"title": "Ուղիղ Փաշինյանը կպատժի՞ անչափահասին քարոզարշավում օգտագործած ՔՊ–ականին I ԼՈՒՐԵՐ I 12:00",
-"url": "https://news.am/hy/news/1069039",
-"firstSeenBaku": "2026-10-20 13:13"
 },
 {
 "title": "Երևանի խանութներում հայտնաբերվել են վտանգավոր խաղալիքներ",
@@ -254,9 +249,9 @@
 "firstSeenBaku": "2026-10-19 16:12"
 },
 {
-"title": "Ծեծկռտուք՝ Երևանի դպրոցներից մեկում․ 12-ամյա տղան «պոլիտրավմա» ախտորոշմամբ հոսպիտալացվել է",
-"url": "https://news.am/hy/stories/3033",
-"firstSeenBaku": "2026-10-19 15:10"
+"title": "Փաշինյանը նոյեմբերի 3-ին Բրյուսելում կմասնակցի ԵՄ ընդլայնմանը նվիրված գագաթնաժողովին հոկտեմբերի 20, 17:08",
+"url": "https://news.am/hy/news/1069131",
+"firstSeenBaku": "2026-10-20 17:21"
 },
 {
 "title": "Երևանում կայացավ NVB Frontier Forum-ը․ տեխնոլոգիաների և մասնավոր շուկաների նոր հնարավորությունների շուրջ հոկտեմբերի 13, 18:55",
@@ -289,6 +284,11 @@
 "firstSeenBaku": "2026-10-19 20:11"
 },
 {
+"title": "Կապանում, Վանաձորում և Երևանում կմեկնարկի ուսուցիչների մասնագիտական զարգացման MindX Teachers Lab ծրագիրը հոկտեմբերի 20, 17:12",
+"url": "https://news.am/hy/news/1069130",
+"firstSeenBaku": "2026-10-20 17:21"
+},
+{
 "title": "Greenpeace-ի բնապահպան ակտիվիստուհին Երևանում COP17-ի ժամանակ քննադատել է երկրների որդեգրած մոտեցումները հոկտեմբերի 20, 14:34",
 "url": "https://news.am/hy/news/1069088",
 "firstSeenBaku": "2026-10-20 15:09"
@@ -316,14 +316,14 @@
 "firstSeenBaku": "2026-10-20 13:13"
 },
 {
-"title": "Փաշինյանն անդրադարձել է ՏԻՄ ընտրությունների կոնտեքստում ընդդիմադիրների նկատմամբ ճնշումների մասին խոսակցություններին 10:46, 20 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263276",
-"firstSeenBaku": "2026-10-20 11:22"
-},
-{
 "title": "Հայաստան Greenpeace-ը COP17-ից պահանջում է կոնկրետ քայլեր՝ կենսաբազմազանության պահպանման և բնության պաշտպանության համար 14:47, 20 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263312",
 "firstSeenBaku": "2026-10-20 15:09"
+},
+{
+"title": "Քաղաքականություն Փաշինյանն անդրադարձել է ՏԻՄ ընտրությունների կոնտեքստում ընդդիմադիրների նկատմամբ ճնշումների մասին խոսակցություններին 10:46, 20 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263276",
+"firstSeenBaku": "2026-10-20 11:22"
 },
 {
 "title": "Հայաստան COP17. Կանանց խմբի ներկայացուցիչները կոչ են արել ապահովել կենսաբազմազանության պահպանության ֆինանսավորման հասանելիություն 13:46, 20 հոկտեմբերի",
@@ -336,18 +336,13 @@
 "firstSeenBaku": "2026-10-20 14:09"
 },
 {
+"title": "20:50 Երևանի պարեկները 26-ամյա երիտասարդի մոտ թմրամիջոցի 36 փաթեթ են հայտնաբերել",
+"url": "https://armenpress.am/hy/article/1263353",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
 "title": "17:58 Այս հրաշքները շուտով կճախրեն Հայաստանի երկնքում. Պապիկյան",
 "url": "https://armenpress.am/hy/article/1263343",
-"firstSeenBaku": "2026-10-20 18:15"
-},
-{
-"title": "17:40 Նիկոլ Փաշինյանը Բրյուսելում կմասնակցի ԵՄ ընդլայնմանը նվիրված գագաթնաժողովին",
-"url": "https://armenpress.am/hy/article/1263338",
-"firstSeenBaku": "2026-10-20 18:15"
-},
-{
-"title": "17:38 Ըստ Եվրասիական միջկառավարական խորհրդի զեկույցի Հայաստանը տնտեսական լուրջ հետևանքների կբախվի ԵԱՏՄ անդամակցության կասեցման դեպքում",
-"url": "https://armenpress.am/hy/article/1263337",
 "firstSeenBaku": "2026-10-20 18:15"
 },
 {
@@ -443,6 +438,16 @@
 "firstSeenBaku": "2026-10-20 16:09"
 },
 {
+"title": "20:30 These marvels will soon soar through Armenia’s skies, says Papikyan",
+"url": "https://armenpress.am/en/article/1263343",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "20:29 Armenian Defence Minister Suren Papikyan visits Aero Vodochody in Czechia",
+"url": "https://armenpress.am/en/article/1263349",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
 "title": "18:11 Armenia would face serious economic consequences if EAEU membership were suspended, intergovernmental council report says",
 "url": "https://armenpress.am/en/article/1263337",
 "firstSeenBaku": "2026-10-20 18:15"
@@ -470,11 +475,6 @@
 {
 "title": "14:36 Exhibition marking Republic Square’s centenary opens in Yerevan, featuring Armenpress archive photos",
 "url": "https://armenpress.am/en/article/1263307",
-"firstSeenBaku": "2026-10-20 15:09"
-},
-{
-"title": "14:29 Benfica Academy Armenia to feature stadium, six football pitches and modern facilities",
-"url": "https://armenpress.am/en/article/1263305",
 "firstSeenBaku": "2026-10-20 15:09"
 },
 {
@@ -545,14 +545,14 @@
 "firstSeenBaku": "2026-10-20 20:14"
 },
 {
+"title": "Չնայած COP17-ում բնիկ ժողովուրդների իրավունքների հարցը բարձրաձայնվում է, Արցախից տեղահանվածների մասին՝ ոչ մի բառ",
+"url": "https://www.azatutyun.am/a/33880314.html",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
 "title": "ԵԱՏՄ զեկույց. 4 երկրները իրավունք ունեն քննարկելու Հայաստանի անդամակցության կասեցումը",
 "url": "https://www.azatutyun.am/a/eatm-oum-hayastani-andamaktsoutyan-kasetsman-hetevankneri-masin-zekouyts-en-nerkayatsrel/33880182.html",
 "firstSeenBaku": "2026-10-20 17:21"
-},
-{
-"title": "Ակցիա Երևանում. COP17-ի մասնակից երկրներին կոչ են անում ապահովել արցախցիների անվտանգ վերադարձը",
-"url": "https://www.azatutyun.am/a/cop17-i-masnakits-erkrnerin-koch-en-anoum-apahovel-artsakhtsineri-anvtang-veradardzy/33880076.html",
-"firstSeenBaku": "2026-10-20 14:09"
 },
 {
 "title": "Ադրբեջանը Թուրքիայի 7 քաղաքացու ձերբակալելու օրդեր է տվել ու հետախուզում հայտարարել",
@@ -563,6 +563,16 @@
 "title": "Ցույցերից հետո Ֆրանսիայի մի շարք քաղաքներում պարետային ժամ է սահմանվել. մարդիկ դժգոհում են",
 "url": "https://www.azatutyun.am/a/tsouytserits-heto-fransiayi-mi-shark-kaghakneroum-paretayin-zham-e-sahmanvel-mardik-dzhgohoum-en/33880190.html",
 "firstSeenBaku": "2026-10-20 19:14"
+},
+{
+"title": "Չնայած COP17-ում բնիկ ժողովուրդների իրավունքների հարցը բարձրաձայնվում է, Արցախից տեղահանվածների մասին՝ ոչ մի բառ",
+"url": "https://www.azatutyun.am/a/33880342.html",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "Ցույցերից հետո Ֆրանսիայի մի շարք քաղաքներում պարետային ժամ է սահմանվել. մարդիկ դժգոհում են",
+"url": "https://www.azatutyun.am/a/33880331.html",
+"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "Մարուքյանը դիմել է Գալյանին, Իոաննիսյանը նոր Սահմանադրության հարցով նիստերի անցկացման իմաստ չի տեսնում",
@@ -586,6 +596,11 @@
 }
 ],
 "tert": [
+{
+"title": "Լիլիթ Ստեփանյանը վայր կդնի ԱԺ պատգամավորի մանդատը և կնշանակվի Կոտայքի մարզպետ․ Նիկոլ Փաշինյան",
+"url": "https://www.tert.am/am/news/2026/10/20/lilit-stepanyan/4287546",
+"firstSeenBaku": "2026-10-20 21:15"
+},
 {
 "title": "Հետանկախության Հայաստանի ամենաինքնիշխան քայլը հենց Արցախի ազատագրումն էր, քանի որ դրանով հենց մենք էինք նախանշել մեր սահմանները․ Վարդան Ոսկանյան",
 "url": "https://www.tert.am/am/news/2026/10/20/vardan-voskanyan/4287544",
@@ -615,6 +630,11 @@
 "title": "Շատերն են ասում՝ հեղափոխություն արեցիք, էլի դաշնակներն ու հանրապետականներն են իշխանության. հիմա ես ի՞նչ անեմ, հանե՞մ էս մարդկանց աշխատանքից, թե պահեմ. Փաշինյան",
 "url": "https://www.tert.am/am/news/2026/10/20/nikol-pashinyan-post/4287501",
 "firstSeenBaku": "2026-10-20 14:09"
+},
+{
+"title": "Ռուսաստանի իշխանությունները Թրամփի վարչակազմից որևէ հրաշք չեն սպասում պատժшմիջոցների հարցում․ Լավրով",
+"url": "https://www.tert.am/am/news/2026/10/20/sergey-lavrov/4287555",
+"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "Ամերիկացի ներդրող, TRIPP+ հիմնադրամի ղեկավար Կոնստանտին Սոկոլովը մտադիր է Հայաստանից պղնձի արտահանումն ուղղել դեպի ԱՄՆ. Bloomberg",
@@ -679,63 +699,6 @@
 "firstSeenBaku": "2026-10-19 16:12"
 }
 ],
-"hraparak": [
-{
-"title": "Այս շաբաթ Հայաստանում «ասողի» փոփոխություն է տեղի ունեցել",
-"url": "https://hraparak.am/am/post/38409c75ce9bb9d894d38bf9985e8d60",
-"firstSeenBaku": "2026-10-19 20:11"
-},
-{
-"title": "Փաշինյանը ևս մեկ քա՞յլ է անում դեպի ԵՄ․ Բրյուսելյան գագաթնաժողով կա առ...",
-"url": "https://hraparak.am/am/post/fd3b737a585d1bb9c90e802d66a6ae20",
-"firstSeenBaku": "2026-10-20 18:15"
-},
-{
-"title": "«Գուստավ» ռեստորանի մենեջերը հեռացել է Հայաստանից․ նրան կալանավորելու...",
-"url": "https://hraparak.am/am/post/dcbceef59ca771c2b5cb260689485e92",
-"firstSeenBaku": "2026-10-20 15:09"
-},
-{
-"title": "Հայաստան-ԵՄ՝ ձևականություններից այն կողմ․ Եվրոպական էլիտաներ...",
-"url": "https://hraparak.am/am/post/4a0a0d5eae7df5760e9705dcffa23014",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
-"title": "Ադրբեջանում անում են նույնը, ինչ Հայաստանում",
-"url": "https://hraparak.am/am/post/840fbea548055abf996a920ea4fc8e89",
-"firstSeenBaku": "2026-10-20 19:14"
-},
-{
-"title": "ԵԱՏՄ երկրները կարող են Միությանը Հայաստանի անդամակցությունը...",
-"url": "https://hraparak.am/am/post/aeab30f473839f4b20529f9f4b4b2926",
-"firstSeenBaku": "2026-10-20 16:09"
-},
-{
-"title": "Զինված ոստիկաններ՝ Ստամբուլում Ադրբեջանի գլխավոր հյուպատոսու...",
-"url": "https://hraparak.am/am/post/2dc460df411af42a2a8c05e0d8d8d1c2",
-"firstSeenBaku": "2026-10-20 16:09"
-},
-{
-"title": "Մարիամ Փաշինյանը ցուցադրել է իր դաջվածքները",
-"url": "https://hraparak.am/am/post/9e8bc8591009683f4056aa0ab32adccf",
-"firstSeenBaku": "2026-10-19 21:10"
-},
-{
-"title": "Հայաստանի ամենաերկարակյաց պաշտոնյան եւ նրա ունեցվա...",
-"url": "https://hraparak.am/am/post/9f8c877cc5c8363f026104ed85a0f9e4",
-"firstSeenBaku": "2026-10-19 21:10"
-},
-{
-"title": "Խաղաղության օրակարգը շատ ավելի կարևոր է",
-"url": "https://hraparak.am/am/post/0df5644396970abb9e567ebcb57fb96d",
-"firstSeenBaku": "2026-10-20 13:13"
-},
-{
-"title": "Հայաստանում կայանալու են Ֆրանկոֆոնիայի 10-րդ միջազգային մարզամշակութայ...",
-"url": "https://hraparak.am/am/post/78b8c691334a444d8155d042ee7fc64e",
-"firstSeenBaku": "2026-10-19 18:20"
-}
-],
 "primeminister": [
 {
 "title": "PM Pashinyan chairs consultation on efficient management of state assets",
@@ -753,6 +716,11 @@
 "title": "19 October, 21:05 COP17 Armenia: Big Promises, but Will Countries Deliver?",
 "url": "https://civilnet.am/en/news/1014874",
 "firstSeenBaku": "2026-10-19 21:10"
+},
+{
+"title": "Leading with mind and heart in an age of AI In this episode of Mindful Leaders, we delve into the life and experiences of Dr. Bruce Boghosian, President of the American University of Armenia (AUA) and Professor",
+"url": "https://civilnet.am/en/news/1014729",
+"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "Tigran Grigoryan The Shaki shooting and Armenia’s politics of blame 12 October, 14:07",
@@ -785,11 +753,6 @@
 "title": "Who chooses Armenia’s colour palette? — How a cancelled drag show sparked debate on queer inclusion",
 "url": "https://oc-media.org/who-chooses-armenias-colour-palette-how-a-cancelled-drag-show-sparked-debate-on-queer-inclusion/",
 "firstSeenBaku": "2026-10-19 18:20"
-},
-{
-"title": "Azerbaijan reportedly blocks social media access as hijab protests continue",
-"url": "https://oc-media.org/azerbaijan-reportedly-blocks-social-media-access-as-hijab-protests-continue/",
-"firstSeenBaku": "2026-10-19 15:10"
 }
 ],
 "jam-news": [
@@ -867,6 +830,11 @@
 ],
 "armenianweekly": [
 {
+"title": "Armenian Museum of America",
+"url": "https://armenianweekly.com/author/armenian-museum-of-america/",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
 "title": "October 20, 2026 Armenia’s Firebird AI megaproject: A comprehensive assessment",
 "url": "https://armenianweekly.com/2026/10/20/armenias-firebird-ai-megaproject-a-comprehensive-assessment/",
 "firstSeenBaku": "2026-10-20 20:14"
@@ -906,6 +874,11 @@
 ],
 "alphanews": [
 {
+"title": "Is Russia not giving Pashinyan time? Motion to extend Kocharyan’s arrest postponed indefinitely Alpha News Room 20.10.2026 October 20 2026, 21:00",
+"url": "https://alphanews.am/en/projects/is-russia-not-giving-pashinyan-time-motion-to-extend-kocharyans-arrest-postponed-indefinitely-alpha-news-room-20-10-2026/",
+"firstSeenBaku": "2026-10-20 21:15"
+},
+{
 "title": "Beniamin Matevosyan: Pashinyan and Aliyev “ate up” the peace promised to Armenia. Why? October 20 2026, 19:00",
 "url": "https://alphanews.am/en/projects/beniamin-matevosyan-pashinyan-and-aliyev-ate-up-the-peace-promised-to-armenia-why/",
 "firstSeenBaku": "2026-10-20 20:14"
@@ -944,11 +917,6 @@
 "title": "(LIVE) Civil Contract candidate promised bribe to minor? Will Pashinyan punish Masis candidate? Alpha Newsroom, 20.10.2026",
 "url": "https://alphanews.am/en/projects/live-civil-contract-candidate-promised-bribe-to-minor-will-pashinyan-punish-masis-candidate-alpha-newsroom-20-10-2026/",
 "firstSeenBaku": "2026-10-20 15:09"
-},
-{
-"title": "Violence and looting: unrest in France. Baku’s provocation. Lavrov in Tehran Alpha News Room 19.10.2026",
-"url": "https://alphanews.am/en/projects/violence-and-looting-unrest-in-france-bakus-provocation-lavrov-in-tehran-alpha-news-room-19-10-2026/",
-"firstSeenBaku": "2026-10-19 22:06"
 },
 {
 "title": "Khachkar installed in French town of Saint-Chamond in memory of Armenian Genocide victims October 20 2026, 12:00",
