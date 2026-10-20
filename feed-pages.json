@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-20T02:07:47.968737+00:00",
-"generatedAtBaku": "2026-10-20 06:07",
+"generatedAt": "2026-10-20T03:10:04.902858+00:00",
+"generatedAtBaku": "2026-10-20 07:10",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Şimali Koreya Cənubi Koreya sərhədinə əlavə zərbə vasitələri yerləşdirə bilər 06:22 20 oktyabr 2026",
+"url": "https://apa.az/asiya/simali-koreya-cenubi-koreya-serhedine-elave-zerbe-vasiteleri-yerlesdire-biler-1006518",
+"firstSeenBaku": "2026-10-20 07:10"
+},
 {
 "title": "ABŞ vitse-prezidenti Ukraynanın NATO-ya üzvlüyünə qarşı çıxıb 04:16 20 oktyabr 2026",
 "url": "https://apa.az/amerika/abs-vitse-prezidenti-ukraynanin-nato-ya-uzvluyune-qarsi-cixib-1006508",
@@ -35,11 +40,6 @@
 "firstSeenBaku": "2026-10-19 23:15"
 },
 {
-"title": "Sürixdən Şanxaya uçan təyyarə Bakıya məcburi eniş edib 20:32 19 oktyabr 2026",
-"url": "https://apa.az/hadise/surixden-sanxaya-ucan-teyyare-bakiya-mecburi-enis-edib-1006439",
-"firstSeenBaku": "2026-10-19 21:10"
-},
-{
 "title": "Türkiyədə Azərbaycan əleyhinə çağırış edənlər ilk olaraq öz ölkələrində məsuliyyətə cəlb olunmalıdır - ARAŞDIRMA 20:07 19 oktyabr 2026",
 "url": "https://apa.az/sosial/turkiyede-azerbaycan-eleyhine-cagiris-edenler-ilk-olaraq-oz-olkelerinde-mesuliyyete-celb-olunmalidir-arasdirma-1006435",
 "firstSeenBaku": "2026-10-19 20:11"
@@ -53,6 +53,11 @@
 "title": "“Fitch Ratings”in baş direktoru: Azərbaycanın maliyyə imkanları manatın məzənnə sabitliyini dəstəkləyir - MÜSAHİBƏ 15:59 19 oktyabr 2026",
 "url": "https://apa.az/maliyye/fitch-ratingsin-bas-direktoru-azerbaycanin-maliyye-imkanlari-manatin-mezenne-sabitliyini-destekleyir-musahibe-1006338",
 "firstSeenBaku": "2026-10-19 16:12"
+},
+{
+"title": "Sürixdən Şanxaya uçan təyyarə Bakıya məcburi eniş edib 20:32 19 oktyabr 2026",
+"url": "https://apa.az/hadise/surixden-sanxaya-ucan-teyyare-bakiya-mecburi-enis-edib-1006439",
+"firstSeenBaku": "2026-10-19 21:10"
 },
 {
 "title": "Azərbaycan və BƏƏ HHQ komandanları görüşüblər - FOTO 19:10 19 oktyabr 2026",
@@ -567,11 +572,6 @@
 "title": "2026-10-19 11:39:00 Պեկինի փոխքաղաքապետի գլխավորած պատվիրակությունն այցելել է Երևանյան լիճ",
 "url": "https://hetq.am/hy/article/184813",
 "firstSeenBaku": "2026-10-19 12:20"
-},
-{
-"title": "2026-10-19 00:04:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
-"url": "https://hetq.am/hy/article/184804",
-"firstSeenBaku": "2026-10-19 01:02"
 }
 ],
 "hraparak": [
@@ -712,6 +712,23 @@
 "title": "EU Mission in Armenia at COP17: An Exhibition Exploring the Interconnections Between Peace, Security and Biodiversity",
 "url": "https://www.eeas.europa.eu/euma/eu-mission-armenia-cop17-exhibition-exploring-interconnections-between-peace-security-and_en?s=216",
 "firstSeenBaku": "2026-10-19 11:29"
+}
+],
+"osce": [
+{
+"title": "News Item OSCE fosters collaboration on Tajikistan’s Green Economy Strategy through national roundtable Date Date 19 October 2026 Location Location Tajikistan",
+"url": "https://dushanbe.osce.org/news/programme-office-dushanbe/668832",
+"firstSeenBaku": "2026-10-20 07:10"
+},
+{
+"title": "News Item Young women from Prishtinë/Priština and Belgrade explore dialogue and shared futures at OSCE Academy Date Date 17 October 2026",
+"url": "https://omik.osce.org/news/mission-kosovo/668850",
+"firstSeenBaku": "2026-10-20 07:10"
+},
+{
+"title": "Story Recognizing bias, strengthening trust: Anti-discrimination training for police officers Date Date 19 October 2026 Source Source OSCE Mission to Serbia",
+"url": "https://serbia.osce.org/node/668859",
+"firstSeenBaku": "2026-10-20 07:10"
 }
 ],
 "un-press": [

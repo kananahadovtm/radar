@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-20T02:07:47.968737+00:00",
-"generatedAtBaku": "2026-10-20 06:07",
+"generatedAt": "2026-10-20T03:10:04.902858+00:00",
+"generatedAtBaku": "2026-10-20 07:10",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -15,14 +15,14 @@
 "caucasar": 6
 },
 "pages": {
-"apa": 12,
+"apa": 13,
 "haqqin": 4,
 "news.am": 29,
 "armenpress-hy": 15,
 "armenpress-en": 21,
 "azatutyun": 13,
 "tert": 10,
-"hetq": 7,
+"hetq": 6,
 "hraparak": 14,
 "primeminister": 0,
 "civilnet": 3,
@@ -33,6 +33,7 @@
 "eeas-armenia": 1,
 "euma": 0,
 "europarl": 0,
+"osce": 3,
 "nato": 0,
 "un-press": 3,
 "un-azerbaijan": 0,
@@ -43,7 +44,7 @@
 "301am": 3,
 "alphanews": 6
 },
-"search": 264
+"search": 270
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
@@ -53,7 +54,6 @@
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
-"osce": "HTTPSConnectionPool(host='www.osce.org', port=443): Max retries exceeded with url: /news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
 "asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
