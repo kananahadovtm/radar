@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-20T00:03:21.105323+00:00",
-"generatedAtBaku": "2026-10-20 04:03",
+"generatedAt": "2026-10-20T01:17:11.199354+00:00",
+"generatedAtBaku": "2026-10-20 05:17",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "ABŞ vitse-prezidenti Ukraynanın NATO-ya üzvlüyünə qarşı çıxıb 04:16 20 oktyabr 2026",
+"url": "https://apa.az/amerika/abs-vitse-prezidenti-ukraynanin-nato-ya-uzvluyune-qarsi-cixib-1006508",
+"firstSeenBaku": "2026-10-20 05:17"
+},
 {
 "title": "Litva NATO-dan dronların vizual təmas olmadan vurulmasına icazə istəyəcək 03:22 20 oktyabr 2026",
 "url": "https://apa.az/avropa/litva-nato-dan-dronlarin-vizual-temas-olmadan-vurulmasina-icaze-isteyecek-1006491",
@@ -48,11 +53,6 @@
 "title": "“Fitch Ratings”in baş direktoru: Azərbaycanın maliyyə imkanları manatın məzənnə sabitliyini dəstəkləyir - MÜSAHİBƏ 15:59 19 oktyabr 2026",
 "url": "https://apa.az/maliyye/fitch-ratingsin-bas-direktoru-azerbaycanin-maliyye-imkanlari-manatin-mezenne-sabitliyini-destekleyir-musahibe-1006338",
 "firstSeenBaku": "2026-10-19 16:12"
-},
-{
-"title": "Azərbaycan himni altında İran bayraqları: Almaniyadakı aksiyanın arxasında hansı maraqlar dayanır? – TƏHLİL 22:51",
-"url": "https://apa.az/siyasi/azerbaycan-himni-altinda-iran-bayraqlari-almaniyadaki-aksiyanin-arxasinda-hansi-maraqlar-dayanir-tehlil-1006159",
-"firstSeenBaku": "2026-10-18 23:04"
 },
 {
 "title": "Azərbaycan və BƏƏ HHQ komandanları görüşüblər - FOTO 19:10 19 oktyabr 2026",
@@ -102,6 +102,11 @@
 "title": "Ադրբեջանում հետախուզում են հայտարարել Թուրքիայում բնակվող 7 անձի նկատմամբ՝ «իշխանությունը զավթելու կոչերի» պատճառով",
 "url": "https://news.am/hy/news/1068926",
 "firstSeenBaku": "2026-10-19 20:11"
+},
+{
+"title": "04:24 Խաղաղ օվկիանոսը կտրուկ փոխում է գույնը՝ գերհզոր Էլ Նինյոյի պատճառով",
+"url": "https://news.am/hy/news/1068939",
+"firstSeenBaku": "2026-10-20 05:17"
 },
 {
 "title": "01:33 Թրամփի փեսան և ԱՄՆ հատուկ բանագնացը կմեկնեն Նորվեգիա՝ Ուկրաինայի հարցով բանակցությունների",
@@ -725,11 +730,6 @@
 }
 ],
 "un-press": [
-{
-"title": "Sixth Committee Underlines Need for Legal Certainty in Cross-border Commerce",
-"url": "https://press.un.org/en/2026/gal3752.doc.htm",
-"firstSeenBaku": "2026-10-20 04:03"
-},
 {
 "title": "Outstanding Payments to Regular, Peacekeeping Budgets Continue Undermining Effective Implementation of UN’s Mandate, Speakers Warn Fifth Committee",
 "url": "https://press.un.org/en/2026/gaab4521.doc.htm",
