@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-21T22:09:33.419252+00:00",
-"generatedAtBaku": "2026-10-22 02:09",
+"generatedAt": "2026-10-21T23:05:43.005157+00:00",
+"generatedAtBaku": "2026-10-22 03:05",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Kuşner Ukrayna üzrə sülh danışıqlarında ümidverici irəliləyiş əldə olunduğunu açıqlayıb 02:19 22 oktyabr 2026",
+"url": "https://apa.az/amerika/kusner-ukrayna-uzre-sulh-danisiqlarinda-umidverici-irelileyis-elde-olundugunu-aciqlayib-1007204",
+"firstSeenBaku": "2026-10-22 03:05"
+},
 {
 "title": "Zelenski: Rusiya ABŞ və Ukrayna ilə üçtərəfli sülh danışıqlarına razılıq verib 01:25 22 oktyabr 2026",
 "url": "https://apa.az/avropa/zelenski-rusiya-abs-ve-ukrayna-ile-ucterefli-sulh-danisiqlarina-raziliq-verib-1007206",
@@ -87,12 +92,12 @@
 "firstSeenBaku": "2026-10-21 14:13"
 },
 {
-"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 21 октября 2026, 19:55 4064",
+"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 21 октября 2026, 19:55 4187",
 "url": "https://haqqin.az/newsarchive/396249",
 "firstSeenBaku": "2026-10-21 20:13"
 },
 {
-"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 3877",
+"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 3925",
 "url": "https://haqqin.az/newsarchive/396218",
 "firstSeenBaku": "2026-10-21 15:11"
 },
@@ -109,11 +114,6 @@
 {
 "title": "Около 144 млн баррелей нефти по трубопроводу Баку – Тбилиси – Джейхан",
 "url": "https://haqqin.az/newsarchive/396255",
-"firstSeenBaku": "2026-10-21 21:12"
-},
-{
-"title": "В Баку раскрыли убийство 25-летней давности",
-"url": "https://haqqin.az/newsarchive/396252",
 "firstSeenBaku": "2026-10-21 21:12"
 }
 ],
@@ -191,11 +191,6 @@
 {
 "title": "21 հկտ | 20:05 Ստեփանավանի համայնքապետի «Ուժեղ Հայաստանի» թեկնածու Արսեն Գևորգյանը կալանավորվեց",
 "url": "https://news.am/hy/news/1069444",
-"firstSeenBaku": "2026-10-21 20:13"
-},
-{
-"title": "21 հկտ | 19:40 Իսրայելն Ադրբեջանին վստահություն է հաղորդում Թուրքիայի հետ հարաբերություններում. թուրքագետ",
-"url": "https://news.am/hy/news/1069438",
 "firstSeenBaku": "2026-10-21 20:13"
 },
 {
@@ -456,6 +451,11 @@
 "title": "Armenia Common standards for assessing nature could help businesses evaluate risks and opportunities, COP17 discussion hears 17:55, 21 October",
 "url": "https://armenpress.am/en/article/1263453",
 "firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "02:44 Ready to further deepen ambitious EU–Armenia cooperation agenda, Romanian Foreign Minister says in response to Mirzoyan’s congratulations",
+"url": "https://armenpress.am/en/article/1263476",
+"firstSeenBaku": "2026-10-22 03:05"
 },
 {
 "title": "19:36, 21 October Armenian exports to EU member states rise by 51%, says Papoyan",
@@ -834,16 +834,6 @@
 "firstSeenBaku": "2026-10-21 00:06"
 },
 {
-"title": "2026-10-20 19:35:00 «Մեզ պետք չեն նոր հայտարարություններ, մեզ պետք են գործողություններ»․ «Greenpeace»-ի ակնկալիքները COP17-ից",
-"url": "https://hetq.am/hy/article/184853",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
-"title": "2026-10-20 19:21:00 ֆրանսիական SommelierS International-ի անդրադարձը Հայաստանին՝ որպես գինու բնօրրան",
-"url": "https://hetq.am/hy/article/184852",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
 "title": "Կնճիռների հարթեցման համար Հայաստանում օգտագործվում են չգրանցված դեղամիջոցներ",
 "url": "https://hetq.am/hy/article/183723",
 "firstSeenBaku": "2026-10-21 14:13"
@@ -941,9 +931,9 @@
 "firstSeenBaku": "2026-10-21 19:12"
 },
 {
-"title": "Բաքվից հայտարարում են՝ հայերի հետ խաղաղություն չի...",
-"url": "https://hraparak.am/am/post/12f9549fc67fc0c479d3beba8c736817",
-"firstSeenBaku": "2026-10-21 14:13"
+"title": "Բաքուն անցել է բացահայտ թշնամանքի․ տասնյակ թուրք հ...",
+"url": "https://hraparak.am/am/post/660a629410da327ed2c51283dcfdea9f",
+"firstSeenBaku": "2026-10-21 15:11"
 },
 {
 "title": "«Հրապարակ»․ Արարատ Միրզոյանն ԱԺ կգնա",
@@ -993,11 +983,6 @@
 "title": "20 October, 22:05 Eurasian Union warns Armenia of over 15% GDP loss if it leaves the bloc",
 "url": "https://civilnet.am/en/news/1014894",
 "firstSeenBaku": "2026-10-20 22:07"
-},
-{
-"title": "20 October, 20:05 What an ancient Armenian fairy tale can teach us about nature today",
-"url": "https://civilnet.am/en/news/1014891",
-"firstSeenBaku": "2026-10-20 20:14"
 },
 {
 "title": "Noted How the H. Hovnanian Family Foundation Is Shaping Armenia’s Future 14 October, 21:05",
@@ -1415,6 +1400,11 @@
 ],
 "un-press": [
 {
+"title": "First Committee Debates Pathways to Prevent Weaponization of Outer Space",
+"url": "https://press.un.org/en/2026/gadis3774.doc.htm",
+"firstSeenBaku": "2026-10-22 03:05"
+},
+{
 "title": "Security Situation in Central African Republic Fragile, Security Council Hears, amid Calls to Adequately Fund Peacekeeping Mission Ahead of Renewal",
 "url": "https://press.un.org/en/2026/sc16484.doc.htm",
 "firstSeenBaku": "2026-10-21 01:09"
@@ -1589,16 +1579,6 @@
 "title": "October 21, 2026 An open letter to Prime Minister Pashinyan",
 "url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
 "firstSeenBaku": "2026-10-21 19:12"
-},
-{
-"title": "October 20, 2026 Armenia’s Firebird AI megaproject: A comprehensive assessment",
-"url": "https://armenianweekly.com/2026/10/20/armenias-firebird-ai-megaproject-a-comprehensive-assessment/",
-"firstSeenBaku": "2026-10-20 20:14"
-},
-{
-"title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora",
-"url": "https://armenianweekly.com/2026/10/20/turkish-research-center-repeatedly-praises-pashinyan-and-criticizes-the-diaspora/",
-"firstSeenBaku": "2026-10-20 20:14"
 }
 ],
 "301am": [
