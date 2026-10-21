@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-21T17:12:51.635381+00:00",
-"generatedAtBaku": "2026-10-21 21:12",
+"generatedAt": "2026-10-21T18:08:52.730453+00:00",
+"generatedAtBaku": "2026-10-21 22:08",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -10,21 +10,22 @@
 "counts": {
 "telegram": {
 "bagramyan26": 62,
-"HRAPARAKAM": 9,
-"ArmenianVendetta": 13,
+"HRAPARAKAM": 8,
+"ArmenianVendetta": 12,
 "caucasar": 9
 },
 "pages": {
 "apa": 18,
-"haqqin": 10,
+"haqqin": 11,
 "news.am": 43,
 "armenpress-hy": 17,
 "armenpress-en": 35,
-"azatutyun": 23,
-"tert": 21,
+"azatutyun": 22,
+"tert": 20,
 "hetq": 15,
+"hraparak": 22,
 "primeminister": 1,
-"civilnet": 24,
+"civilnet": 27,
 "oc-media": 11,
 "jam-news": 2,
 "europarl": 0,
@@ -39,14 +40,13 @@
 "301am": 8,
 "alphanews": 13
 },
-"search": 288
+"search": 276
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
-"hraparak": "522 Server Error: <none> for url: https://hraparak.am/",
 "1in": "403 Client Error: Forbidden for url: https://www.1in.am/",
 "eeas-press": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/eeas/press-material_en",
 "eeas-azerbaijan": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/azerbaijan_en",

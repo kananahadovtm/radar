@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-21T17:12:51.635381+00:00",
-"generatedAtBaku": "2026-10-21 21:12",
+"generatedAt": "2026-10-21T18:08:52.730453+00:00",
+"generatedAtBaku": "2026-10-21 22:08",
 "hours": 30,
 "pages": {
 "apa": [
@@ -102,14 +102,24 @@
 "firstSeenBaku": "2026-10-21 14:13"
 },
 {
-"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 19:55 1423",
+"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 19:55 2218",
 "url": "https://haqqin.az/newsarchive/396249",
 "firstSeenBaku": "2026-10-21 20:13"
 },
 {
-"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 15:10 3256",
+"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 15:10 3398",
 "url": "https://haqqin.az/newsarchive/396218",
 "firstSeenBaku": "2026-10-21 15:11"
+},
+{
+"title": "Джанни Инфантино: «В Баку все готово… Исторический ЧМ в Азербайджане - мощное послание всему миру» ВИДЕО",
+"url": "https://haqqin.az/newsarchive/396258",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
+"title": "Грек, которому доверили сборную Азербайджана Как он оказался в Баку",
+"url": "https://haqqin.az/newsarchive/396257",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "Около 144 млн баррелей нефти по трубопроводу Баку – Тбилиси – Джейхан",
@@ -140,11 +150,6 @@
 "title": "Алиев утвердил договор о союзнических отношениях с Кыргызстаном",
 "url": "https://haqqin.az/newsarchive/396237",
 "firstSeenBaku": "2026-10-21 18:16"
-},
-{
-"title": "В Азербайджане создан заповедник «Археологический парк Азых-Таглар»",
-"url": "https://haqqin.az/newsarchive/396235",
-"firstSeenBaku": "2026-10-21 17:22"
 }
 ],
 "news.am": [
@@ -162,6 +167,16 @@
 "title": "Ստեփանավանի համայնքապետի «Ուժեղ Հայաստանի» թեկնածու Արսեն Գևորգյանը կալանավորվեց",
 "url": "https://news.am/hy/news/1069444",
 "firstSeenBaku": "2026-10-21 20:13"
+},
+{
+"title": "21:56 TRIPP-ի տնտեսական օգուտը ՀՀ-ի համար կախված է նրանից՝ արդյոք այն «Խաղաղության խաչմերուկի» մաս կդառնա. Վաչե Գաբրիելյան",
+"url": "https://news.am/hy/news/1069402",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
+"title": "21:54 Ադրբեջանին՝ անխոչընդոտ ճանապարհ, Հայաստանի՞ն՝ ինչ. անպատասխան հարցերը չեն վերանում",
+"url": "https://news.am/hy/news/1069463",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "21:02 Փաշինյանի ելույթից հետո «Հրազդան» ցեմենտի գործարանի գնման գործընթացը կասեցվել է",
@@ -222,26 +237,6 @@
 "title": "18:33 Իշխանությունից հեռանալու համար Փաշինյանին պետք են անվտանգության արտաքին երաշխիքներ. Հակոբ Բադալյան",
 "url": "https://news.am/hy/news/1069424",
 "firstSeenBaku": "2026-10-21 19:12"
-},
-{
-"title": "17:49 Միրզոյանն «անկեղծորեն չի հասկանում», թե ինչու Ադրբեջանի իշխանությունները չեն ցանկանում ազատ արձակել հայ գերիներին",
-"url": "https://news.am/hy/news/1069404",
-"firstSeenBaku": "2026-10-21 18:16"
-},
-{
-"title": "17:38 ԵՄ-ն Իլոն Մասկին կոչ է արել վերացնել Starlink-ի աշխատանքի սահմանափակումները Ուկրաինայում",
-"url": "https://news.am/hy/news/1069388",
-"firstSeenBaku": "2026-10-21 18:16"
-},
-{
-"title": "17:31 ՈւՂԻՂ. «Ուժեղ Հայաստան»-ի՝ Ստեփանավանի համայնքապետի թեկնածուին և աջակիցներին տեղափոխել են դատարան",
-"url": "https://news.am/hy/news/1069410",
-"firstSeenBaku": "2026-10-21 18:16"
-},
-{
-"title": "17:25 Հետաքրքիր է տեսնել ԱԷԿ-ի կառուցման առաջարկն ու գազի գնի մասին խոսակցությունները․ Միրզոյան",
-"url": "https://news.am/hy/news/1069395",
-"firstSeenBaku": "2026-10-21 18:16"
 },
 {
 "title": "Ուղիղ Ադրբեջանը TRIPP-ով զենք չի կարողանա տեղափոխել I ԼՈՒՐԵՐ I 16:00",
@@ -329,6 +324,11 @@
 "firstSeenBaku": "2026-10-21 18:16"
 },
 {
+"title": "Հետաքրքիր է տեսնել ԱԷԿ-ի կառուցման առաջարկն ու գազի գնի մասին խոսակցությունները․ Միրզոյան հոկտեմբերի 21, 17:25",
+"url": "https://news.am/hy/news/1069395",
+"firstSeenBaku": "2026-10-21 18:16"
+},
+{
 "title": "«Նորաձևությունը կարող է լինել Հայաստանը աշխարհին ներկայացնելու միջոց». Ստելլա Մանֆերդինի՝ Harper's Bazaar Italia-ի և ELLE Italia-ի խմբագիր հոկտեմբերի 21, 20:31",
 "url": "https://style.news.am/arm/news/116758/noradzevutyuny-karox-e-linel-hayastany-ashkharhin-nerkayacnelu-mijoc-stella-manferdini-harpers-bazaar-italia-i-ev-elle-italia-i-khmbagir.html",
 "firstSeenBaku": "2026-10-21 21:12"
@@ -342,6 +342,11 @@
 "title": "ԱԲ-ը դուրս է գալիս խոշոր տվյալների կենտրոնների սահմաններից. ինչո՞ւ են ընկերություններին պետք տեղային հաշվարկային հանգույցներ հոկտեմբերի 20, 20:20",
 "url": "https://tech.news.am/hy/news/7985",
 "firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "Հայաստանում մեկնարկել է ծխախոտից հրաժարմանն աջակցող ACTS ծրագիրը հոկտեմբերի 14, 13:48",
+"url": "https://med.news.am/arm/news/42114/hayastanum-meknarkel-e-tskhakhotic-hrazharmann-ajakcox-acts-tsragiry.html",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "Երևանում թիվ 4 երթուղու տրոլեյբուսը բախվել է գազատար խողովակին․ սկսվել է գազի արտահոսք հոկտեմբերի 21, 12:25",
@@ -411,9 +416,9 @@
 "firstSeenBaku": "2026-10-21 19:12"
 },
 {
-"title": "17:47 Դրա վրա չենք կառուցում մեր քաղաքականությունը․ Միրզոյանը՝ Թուրքիայի և Ադրբեջանի միջև հնարավոր հակասությունների մասին",
-"url": "https://armenpress.am/hy/article/1263459",
-"firstSeenBaku": "2026-10-21 18:16"
+"title": "21:53 Պատրաստ եմ ավելի խորացնել ԵՄ-Հայաստան գործակցության հավակնոտ օրակարգը․ Ռումինիայի ԱԳ նախարարն արձագանքել է Միրզոյանի շնորհավորանքին",
+"url": "https://armenpress.am/hy/article/1263476",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "Տեսանյութ Արարատ Միրզոյանի ճեպազրույցը 16:23, 21 հոկտեմբերի",
@@ -650,11 +655,6 @@
 "firstSeenBaku": "2026-10-21 16:10"
 },
 {
-"title": "Սահմանադրության փոփոխության հարցը Ադրբեջանը ներկայացնում է ոչ թե որպես պահանջ, այլ՝ նախապայման. Միրզոյան",
-"url": "https://www.azatutyun.am/a/33880882.html",
-"firstSeenBaku": "2026-10-21 16:10"
-},
-{
 "title": "Ադրբեջանցին TRIPP-ով անցնելիս հայ մաքսավորի ու սահմանապահի կհանդիպի՞. ըստ արտգործնախարարի՝ «կարող է ընդհանրապես չհանդիպի»",
 "url": "https://www.azatutyun.am/a/33880891.html",
 "firstSeenBaku": "2026-10-21 16:10"
@@ -792,14 +792,9 @@
 "firstSeenBaku": "2026-10-21 11:25"
 },
 {
-"title": "Վթարվել է Երևան մտնող մայրուղային ջրատար. որոշ հասցեներում 24-ժամյա ջրանջատումներ կլինեն",
-"url": "https://www.tert.am/am/news/2026/10/21/veolia-company-water/4287593",
-"firstSeenBaku": "2026-10-21 11:25"
-},
-{
-"title": "Նիկոլ Փաշինյանը չի կարող անվերջ խոսել ժողովրդավարությունից՝ ամեն անգամ քաղաքական մարտահրավերի հանդիպելիս փորձության ենթարկելով հենց դրա հիմնարար սկզբունքները․ Ռոբերտ Ամստերդամ",
-"url": "https://www.tert.am/am/news/2026/10/21/robert-amsterdam/4287681",
-"firstSeenBaku": "2026-10-21 21:12"
+"title": "Թրամփը մտադիր է հասնել Ռուսաստանի և Ուկրաինայի միջև խաղաղության համաձայնագրի ստորագրմանը դեկտեմբերին․ Արտակ Զաքարյան",
+"url": "https://www.tert.am/am/news/2026/10/21/artak-zaqaryan/4287693",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "Viva-ն՝ բացառիկ գործընկեր․ «AmCham Armenia-ն COP17-ում. միավորելով բիզնեսները, խթանելով կայունությունը» (տեսանյութ, լուսանկարներ)",
@@ -929,6 +924,118 @@
 "firstSeenBaku": "2026-10-21 14:13"
 }
 ],
+"hraparak": [
+{
+"title": "Զավեշտ է, «Ուժեղ Հայաստանի» թեկնածուն մեղադրվում է՝ իբր ընտրակաշառք է...",
+"url": "https://hraparak.am/am/post/84159ad86c005c02f2c0303815eeff8e",
+"firstSeenBaku": "2026-10-21 19:12"
+},
+{
+"title": "Փաշինյանը կեղծ հորդոր է անում, թե դուրս եկեք փողոց, դուրս եմ եկել, բայ...",
+"url": "https://hraparak.am/am/post/0a899b95f1c37bac0a21f0679dc3655c",
+"firstSeenBaku": "2026-10-21 19:12"
+},
+{
+"title": "Փաշինյանը, զգալով մոտալուտ պարտությունը, փորձում է ճնշումներով հարց լո...",
+"url": "https://hraparak.am/am/post/94ac88fe248dd7394314ea5ac56450ca",
+"firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "Փաշինյանի օրոք իրավական պրոցես չկա․ «Քննչականը ես եմ, կառավարությունը...",
+"url": "https://hraparak.am/am/post/e15b89cfb4def54995d7765fd4c4c765",
+"firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "Սահմանախախտ ադրբեջանցին հովիվ չի",
+"url": "https://hraparak.am/am/post/74d4cc6542be57d4f6b4dc22fedd5542",
+"firstSeenBaku": "2026-10-21 20:13"
+},
+{
+"title": "Ի՞նչ են պայմանավորվել Պուտինն ու Թրամփի հատուկ դեսպանորդը",
+"url": "https://hraparak.am/am/post/cd827e9d149d030a094c24d3fc9dc85d",
+"firstSeenBaku": "2026-10-21 20:13"
+},
+{
+"title": "Ի՞նչ վիճակում է ադրբեջանցի հովիվը հատել Հայաստանի սահմանը",
+"url": "https://hraparak.am/am/post/db334b2500c92ec17007ebc569f5d359",
+"firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "Համաշխարհային լիդերների խոսքերը հիմարագին, իսկ Թրամփինը՝ սու...",
+"url": "https://hraparak.am/am/post/f927b4ed132501f4fe5be70709217f31",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
+"title": "«Ուժեղ Հայաստան» կուսակցության համակիր 2 անձի նկատմամբ խափան...",
+"url": "https://hraparak.am/am/post/c2679c6f40359285a5e7864135e29ace",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
+"title": "Փաշինյանը հաստատում է, որ երկրում բացարձակ բռնապետություն է",
+"url": "https://hraparak.am/am/post/95cc24d73c4ee46876fa3d05ab5af384",
+"firstSeenBaku": "2026-10-21 19:12"
+},
+{
+"title": "Մի քանի տարուց առանց մի փամփուշտ կրակելու Ադրբեջանը մեզ կգրա...",
+"url": "https://hraparak.am/am/post/66432c6441aff1d61668f2a7f4ee08b1",
+"firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "Փաշինյանը` ինչպես Պիեռ Ռիշարի հերոսը «Ձախողակներում»",
+"url": "https://hraparak.am/am/post/ee57cd709ef1a1e1fcca16a511ccd2da",
+"firstSeenBaku": "2026-10-21 17:22"
+},
+{
+"title": "Ադրբեջանցիներին Հայաստանում բնակեցնելուց առաջ խաղաղության պա...",
+"url": "https://hraparak.am/am/post/ace3ab5c7b380a7b401e788bac4e7d54",
+"firstSeenBaku": "2026-10-21 17:22"
+},
+{
+"title": "Զելենսկիի ծանր որոշումը․ համաձայն է ներկա սահմաններում դադար...",
+"url": "https://hraparak.am/am/post/b38e7369564692495465b23c3a619fc6",
+"firstSeenBaku": "2026-10-21 17:22"
+},
+{
+"title": "Փաշինյանը ինչի՞ց է պատրաստվում հրաժարվի՝ Ջերմուկի տարածքների...",
+"url": "https://hraparak.am/am/post/52c029b105e10f78a5a60ccd69bc0af4",
+"firstSeenBaku": "2026-10-21 17:22"
+},
+{
+"title": "ՀԱՊԿ-ում հույսը չեն կորցրել, որ Հայաստանը ճիշտ որոշում կկայա...",
+"url": "https://hraparak.am/am/post/1976f65b8ae2387193de506ded7885d7",
+"firstSeenBaku": "2026-10-21 17:22"
+},
+{
+"title": "Եթե «Ուժեղ Հայաստան»-ը ընտրությունների մասնակցեր 10 համայնքն...",
+"url": "https://hraparak.am/am/post/06498580e1ba1ad7d685573e99d804ee",
+"firstSeenBaku": "2026-10-21 16:10"
+},
+{
+"title": "«Հրապարակ»․ Արարատ Միրզոյանն ԱԺ կգնա",
+"url": "https://hraparak.am/am/post/38a277a784fd328c7ea87b72f6319c69",
+"firstSeenBaku": "2026-10-21 08:13"
+},
+{
+"title": "«Հրապարակ». Մեզ համար իսկական անակնկալ էին նախագահ Թրամփի այդ քայլերը",
+"url": "https://hraparak.am/am/post/49b2f99701f150a34022cd8474c9b6c9",
+"firstSeenBaku": "2026-10-21 11:25"
+},
+{
+"title": "Դոլարի, եվրոյի և ռուբլու փոխարժեքը Հայաստանում",
+"url": "https://hraparak.am/am/post/a34dcc4472e295d8dabe00dfc8a40742",
+"firstSeenBaku": "2026-10-21 14:13"
+},
+{
+"title": "Երբ են պատրաստվում Հայաստանում բացել «Բենֆիկայի» ակադեմիան. մանրամասնե...",
+"url": "https://hraparak.am/am/post/34046f3674cf1ad06a0c1617556878a5",
+"firstSeenBaku": "2026-10-21 13:15"
+},
+{
+"title": "Ինչ արգելքներ են կիրառվելու հայ խոպանչիների նկատմամբ, եթե Հայաստանը կո...",
+"url": "https://hraparak.am/am/post/e9fde1a9a9248be3133eed622c75be32",
+"firstSeenBaku": "2026-10-21 11:25"
+}
+],
 "primeminister": [
 {
 "title": "The Prime Minister of the Republic of Armenia",
@@ -937,6 +1044,11 @@
 }
 ],
 "civilnet": [
+{
+"title": "22:05 TRIPP taking too long, Armenia’s top diplomat admits",
+"url": "https://civilnet.am/en/news/1014920",
+"firstSeenBaku": "2026-10-21 22:08"
+},
 {
 "title": "15:55 Armenia’s foreign minister addresses Azerbaijan’s continued hostile rhetoric",
 "url": "https://civilnet.am/en/news/1014909",
@@ -958,9 +1070,19 @@
 "firstSeenBaku": "2026-10-20 20:14"
 },
 {
+"title": "Noted How the H. Hovnanian Family Foundation Is Shaping Armenia’s Future 14 October, 21:05",
+"url": "https://civilnet.am/en/news/1014769",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
 "title": "Leading with mind and heart in an age of AI In this episode of Mindful Leaders, we delve into the life and experiences of Dr. Bruce Boghosian, President of the American University of Armenia (AUA) and Professor",
 "url": "https://civilnet.am/en/news/1014729",
 "firstSeenBaku": "2026-10-20 21:15"
+},
+{
+"title": "Armenia’s foreign minister has addressed Azerbaijan’s continued hostile rhetoric",
+"url": "https://civilnet.am/en/stories/995",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "What is the Yerevan butterfly, the logo for COP17?",
@@ -1613,6 +1735,11 @@
 ],
 "alphanews": [
 {
+"title": "Agreement on “unimpeded” TRIPP in the National Assembly. Security unit in Syunik Alpha News Room 21.10.2026 October 21 2026, 21:00",
+"url": "https://alphanews.am/en/projects/agreement-on-unimpeded-tripp-in-the-national-assembly-security-unit-in-syunik-alpha-news-room-21-10-2026/",
+"firstSeenBaku": "2026-10-21 22:08"
+},
+{
 "title": "Beniamin Matevosyan: “Catastrophe! Pashinyan has brought Armenia to expulsion from the EAEU” October 21 2026, 19:00",
 "url": "https://alphanews.am/en/projects/beniamin-matevosyan-catastrophe-pashinyan-has-brought-armenia-to-expulsion-from-the-eaeu/",
 "firstSeenBaku": "2026-10-21 20:13"
@@ -1651,11 +1778,6 @@
 "title": "Reasonable concerns that Armenia is not informing EAEU members: report October 20 2026, 15:46",
 "url": "https://alphanews.am/en/reasonable-concerns-that-armenia-is-not-informing-eaeu-members-report/",
 "firstSeenBaku": "2026-10-20 16:09"
-},
-{
-"title": "Is Russia not giving Pashinyan time? Motion to extend Kocharyan’s arrest postponed indefinitely Alpha News Room 20.10.2026",
-"url": "https://alphanews.am/en/projects/is-russia-not-giving-pashinyan-time-motion-to-extend-kocharyans-arrest-postponed-indefinitely-alpha-news-room-20-10-2026/",
-"firstSeenBaku": "2026-10-20 21:15"
 },
 {
 "title": "Russian Cup matches to begin with a minute of applause in memory of Nikita Simonyan October 14 2026, 09:15",
