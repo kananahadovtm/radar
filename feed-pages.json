@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-21T00:01:55.473850+00:00",
-"generatedAtBaku": "2026-10-21 04:01",
+"generatedAt": "2026-10-21T01:18:16.879641+00:00",
+"generatedAtBaku": "2026-10-21 05:18",
 "hours": 30,
 "pages": {
 "apa": [
@@ -87,11 +87,6 @@
 "firstSeenBaku": "2026-10-20 13:13"
 },
 {
-"title": "«Боруссии» не понравились санитарные условия на Олимпийском стадионе в Баку Футболисты не стали принимать душ",
-"url": "https://haqqin.az/newsarchive/396166",
-"firstSeenBaku": "2026-10-21 02:09"
-},
-{
 "title": "Мир на условиях России The New York Times и The Washington Post",
 "url": "https://haqqin.az/newsarchive/396149",
 "firstSeenBaku": "2026-10-20 21:15"
@@ -167,11 +162,6 @@
 "title": "20 հկտ | 20:20 ԱԲ-ը դուրս է գալիս խոշոր տվյալների կենտրոնների սահմաններից. ինչո՞ւ են ընկերություններին պետք տեղային հաշվարկային հանգույցներ",
 "url": "https://tech.news.am/hy/news/7985",
 "firstSeenBaku": "2026-10-20 21:15"
-},
-{
-"title": "20 հկտ | 20:08 Սերբիայում Թրամփի ընտանիքի մասնակցությամբ գործարքը հետաքննած դատախազը կարող էր թիրախավորվել Pegasus համակարգի միջոցով",
-"url": "https://news.am/hy/news/1069162",
-"firstSeenBaku": "2026-10-20 20:14"
 },
 {
 "title": "Ուղիղ Մոսկվայից զգուշացնում են, Փաշինյանը՝ մեկնում ԵՄ ընդլայնման գագաթնաժողովի I ԼՈՒՐԵՐ I 18:00",
@@ -408,11 +398,6 @@
 "firstSeenBaku": "2026-10-20 11:22"
 },
 {
-"title": "Economy Mining in Armenia: What lies ahead? 21:17, 19 October",
-"url": "https://armenpress.am/en/article/1263252",
-"firstSeenBaku": "2026-10-19 22:06"
-},
-{
 "title": "Videos These marvels will soon soar through Armenia’s skies, says Papikyan 20:30, 20 October",
 "url": "https://armenpress.am/en/article/1263343",
 "firstSeenBaku": "2026-10-20 21:15"
@@ -592,16 +577,6 @@
 "title": "2026-10-20 14:08:00 Սահմանային տվյալները հասանելի կդառնան Կոռուպցիայի կանխարգելման հանձնաժողովին",
 "url": "https://hetq.am/hy/article/184844",
 "firstSeenBaku": "2026-10-20 15:09"
-},
-{
-"title": "2026-10-19 23:13:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
-"url": "https://hetq.am/hy/article/184840",
-"firstSeenBaku": "2026-10-19 23:15"
-},
-{
-"title": "2026-10-19 22:53:00 ԱԳՄԱ նախարարի տեղակալն անդրադարձել է COP17-ի հայաստանյան նախագահության առաջնահերթություններին",
-"url": "https://hetq.am/hy/article/184837",
-"firstSeenBaku": "2026-10-19 23:15"
 }
 ],
 "hraparak": [
@@ -749,6 +724,11 @@
 }
 ],
 "un-press": [
+{
+"title": "Security Situation in Central African Republic Fragile, Security Council Hears, amid Calls to Adequately Fund Peacekeeping Mission Ahead of Renewal",
+"url": "https://press.un.org/en/2026/sc16484.doc.htm",
+"firstSeenBaku": "2026-10-21 01:09"
+},
 {
 "title": "Outstanding Payments to Regular, Peacekeeping Budgets Continue Undermining Effective Implementation of UN’s Mandate, Speakers Warn Fifth Committee",
 "url": "https://press.un.org/en/2026/gaab4521.doc.htm",
