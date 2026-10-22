@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-22T13:25:18.517030+00:00",
-"generatedAtBaku": "2026-10-22 17:25",
+"generatedAt": "2026-10-22T14:16:21.033576+00:00",
+"generatedAtBaku": "2026-10-22 18:16",
 "hours": 30,
 "pages": {
 "apa": [
@@ -50,21 +50,6 @@
 "firstSeenBaku": "2026-10-22 14:15"
 },
 {
-"title": "Paşinyan: Azərbaycanın Ermənistan-Türkiyə sərhədinin açılması ilə bağlı müəyyən qeydləri var 13:00 22 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/pasinyan-azerbaycanin-ermenistan-turkiye-serhedinin-acilmasi-ile-bagli-mueyyen-qeydleri-var-1007386",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
-"title": "Ermənistan Baş naziri: Azərbaycanla sülh sazişi 2027–2028-ci illərdə imzalana bilər 12:54 22 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/ermenistan-bas-naziri-azerbaycanla-sulh-sazisi-2027-2028-ci-illerde-imzalana-biler-1007380",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
-"title": "Azərbaycanda kənd təsərrüfatında 100% elekrik maşınlarına keçid hədəfi qoyulub 12:51 22 oktyabr 2026",
-"url": "https://apa.az/infrastruktur/azerbaycanda-kend-teserrufatinda-100-elekrik-masinlarina-kecid-hedefi-qoyulub-1007382",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
 "title": "Zelenski: Rusiya ABŞ və Ukrayna ilə üçtərəfli sülh danışıqlarına razılıq verib 01:25 22 oktyabr 2026",
 "url": "https://apa.az/avropa/zelenski-rusiya-abs-ve-ukrayna-ile-ucterefli-sulh-danisiqlarina-raziliq-verib-1007206?locale=az",
 "firstSeenBaku": "2026-10-22 09:13"
@@ -87,9 +72,14 @@
 "firstSeenBaku": "2026-10-22 13:15"
 },
 {
-"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 5133",
+"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 5184",
 "url": "https://haqqin.az/newsarchive/396218",
 "firstSeenBaku": "2026-10-21 15:11"
+},
+{
+"title": "Азербайджан примет 23-ю Генассамблею ICOMOS",
+"url": "https://haqqin.az/newsarchive/396362",
+"firstSeenBaku": "2026-10-22 18:16"
 },
 {
 "title": "Еще одна успешная пересадка сердца в Азербайджане ФОТО",
@@ -100,11 +90,6 @@
 "title": "«Кидок» на миллион манатов. И условный срок Из зала суда",
 "url": "https://haqqin.az/newsarchive/396347",
 "firstSeenBaku": "2026-10-22 16:11"
-},
-{
-"title": "Азербайджанский депутат анонсировал рост зарплат в стране. Ждать осталось недолго",
-"url": "https://haqqin.az/newsarchive/396334",
-"firstSeenBaku": "2026-10-22 15:12"
 }
 ],
 "news.am": [
@@ -127,6 +112,11 @@
 "title": "ԵՄ-ն հետեւում է զարգացումներին. դեսպանը Հայաստան-ԵԱՏՄ լարվածության մասին (վիդեո)",
 "url": "https://news.am/hy/news/1069551",
 "firstSeenBaku": "2026-10-22 12:19"
+},
+{
+"title": "18:00 Հայաստան է գալիս աշխարհահռչակ TOM FORD բրենդը",
+"url": "https://style.news.am/arm/news/116784",
+"firstSeenBaku": "2026-10-22 18:16"
 },
 {
 "title": "17:18 Փաշինյանն ընդունում է, որ ինքը ձախողել է ընտրություններին, սաստկացնում է ճնշումները. Խաչատրյան",
@@ -167,11 +157,6 @@
 "title": "15:41 Փաշինյանը չցանկացավ մեկնաբանել Բաքվի և Անկարայի միջև լարվածությունը",
 "url": "https://news.am/hy/news/1069623",
 "firstSeenBaku": "2026-10-22 16:11"
-},
-{
-"title": "14:36 Հայաստանը կարող է քայլեր ձեռնարկել՝ ՄԱԿ-ի կլիմայի փոփոխության ամենամեծ համաժողովը հյուրընկալելու համար․ Փաշինյան",
-"url": "https://news.am/hy/news/1069605",
-"firstSeenBaku": "2026-10-22 15:12"
 },
 {
 "title": "Ուղիղ Փաշինյանը կարող է արտահերթ ընտրությունների գնալ I ԼՈՒՐԵՐ I 14:00",
@@ -234,19 +219,9 @@
 "firstSeenBaku": "2026-10-21 21:12"
 },
 {
-"title": "Ադրբեջանը պահանջել է պաշտոնանկ անել Էրդողանի խորհրդականին․ Middle East Eye հոկտեմբերի 21, 10:22",
-"url": "https://news.am/hy/news/1069251",
-"firstSeenBaku": "2026-10-21 11:25"
-},
-{
 "title": "Հայաստանում մեկնարկել է ծխախոտից հրաժարմանն աջակցող ACTS ծրագիրը հոկտեմբերի 14, 13:48",
 "url": "https://med.news.am/arm/news/42114/hayastanum-meknarkel-e-tskhakhotic-hrazharmann-ajakcox-acts-tsragiry.html",
 "firstSeenBaku": "2026-10-21 22:08"
-},
-{
-"title": "Հայաստանում զբաղվածության ապահովման նոր ծրագիր է հաստատվել հոկտեմբերի 22, 11:29",
-"url": "https://news.am/hy/news/1069537",
-"firstSeenBaku": "2026-10-22 12:19"
 },
 {
 "title": "Մասկը հայտնել է Tesla-ի և SpaceX-ի հնարավոր միավորման մասին հոկտեմբերի 21, 14:08",
@@ -306,14 +281,19 @@
 "firstSeenBaku": "2026-10-21 19:12"
 },
 {
+"title": "17:58 ԵՏՀ կոլեգիայի անդամը հույս ունի, որ հայկական արտադրանքի նկատմամբ ռուսական սահմանափակումների հարցը մոտ ժամանակներս կլուծվի",
+"url": "https://armenpress.am/hy/article/1263572",
+"firstSeenBaku": "2026-10-22 18:16"
+},
+{
+"title": "17:40 Վրաստանի վարչապետ Իրակլի Կոբախիձեն ընդունել է Հայաստանի գլխավոր դատախազ Աննա Վարդապետյանին",
+"url": "https://armenpress.am/hy/article/1263569",
+"firstSeenBaku": "2026-10-22 18:16"
+},
+{
 "title": "17:15 Իսպանիան և Իտալիան դադարեցրել են փոխադարձ սահմանային վերահսկողությունը",
 "url": "https://armenpress.am/hy/article/1263561",
 "firstSeenBaku": "2026-10-22 17:25"
-},
-{
-"title": "16:04 Հայաստանի և Վրաստանի գլխավոր դատախազները Թբիլիսիում քննարկել են միջազգային մասնագիտական կառույցների շրջանակում համագործակցության հնարավորությունները",
-"url": "https://armenpress.am/hy/article/1263550",
-"firstSeenBaku": "2026-10-22 16:11"
 },
 {
 "title": "Տնտեսություն Սեպտեմբերին գրանցված աշխատատեղերի նոր ռեկորդ է արձանագրվել․ Փաշինյան 11:59, 22 հոկտեմբերի",
@@ -354,6 +334,11 @@
 "title": "Հայաստան Կենսաչափական ծառայությունների մատուցումը՝ ժամանակակից պայմաններում և նոր հասցեներում․ նոյեմբերի 1-ից կգործեն 14 նոր գրասենյակներ 17:12, 5 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1262024",
 "firstSeenBaku": "2026-10-21 14:13"
+},
+{
+"title": "Հայաստան ՀՀ ԿԳՄՍ փոխնախարարը «Կինոդարան» հարթակի թիմի հետ քննարկել է համագործակցության հնարավորությունները 16:47, 22 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263555",
+"firstSeenBaku": "2026-10-22 17:25"
 },
 {
 "title": "Սպորտ Պետք է պահպանենք մեր խաղային դեմքն ու ձեռագիրը. Տուլիպան` «ԱԶ Ալկմար»-ի դեմ խաղի մասին Հայաստանի ֆուտբոլի առաջնության չեմպիոն «Արարատ-Արմենիա»-ի գլխավոր մարզիչ Մանուել Տուլիպան Եվրոպայի լիգայի հիմնական փուլի երրորդ տուրի «ԱԶ Ալկմար»-ի դեմ խաղում ի... 17:36, 21 հոկտեմբերի",
@@ -438,6 +423,16 @@
 "firstSeenBaku": "2026-10-22 11:26"
 },
 {
+"title": "18:13 EEC Board member hopes Russian restrictions on Armenian products will be resolved soon",
+"url": "https://armenpress.am/en/article/1263572",
+"firstSeenBaku": "2026-10-22 18:16"
+},
+{
+"title": "17:44 Armenia’s Prosecutor General Anna Vardapetyan meets Georgian PM",
+"url": "https://armenpress.am/en/article/1263569",
+"firstSeenBaku": "2026-10-22 18:16"
+},
+{
 "title": "17:12 Central Bank of Armenia: exchange rates and prices of precious metals - 22-10-26",
 "url": "https://armenpress.am/en/article/1263562",
 "firstSeenBaku": "2026-10-22 17:25"
@@ -466,21 +461,6 @@
 "title": "13:25 Pashinyan does not rule out snap elections over constitutional referendum process",
 "url": "https://armenpress.am/en/article/1263532",
 "firstSeenBaku": "2026-10-22 14:15"
-},
-{
-"title": "13:08 Armenia to return Azerbaijani civilian who entered its territory after getting lost",
-"url": "https://armenpress.am/en/article/1263524",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
-"title": "13:05 Pashinyan: We will try to persuade opposition colleagues on constitutional amendments",
-"url": "https://armenpress.am/en/article/1263523",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
-"title": "13:03 Pashinyan says Armenia could consider hosting UN Climate Change Conference",
-"url": "https://armenpress.am/en/article/1263520",
-"firstSeenBaku": "2026-10-22 13:15"
 },
 {
 "title": "Economy PM says Armenia sets new record in number of registered jobs 12:05, 22 October",
@@ -595,7 +575,7 @@
 "firstSeenBaku": "2026-10-22 13:15"
 },
 {
-"title": "Վարչապետը չի բացառում արտահերթ ընտրությունները, եթե նոր Սահմանադրության հարցով չհամոզի ընդդիմությանը",
+"title": "Լրացված Վարչապետը չի բացառում արտահերթ ընտրությունները, եթե նոր Սահմանադրության հարցով չհամոզի ընդդիմությանը",
 "url": "https://www.azatutyun.am/a/33881492.html",
 "firstSeenBaku": "2026-10-22 13:15"
 },
@@ -727,11 +707,6 @@
 "firstSeenBaku": "2026-10-22 11:26"
 },
 {
-"title": "Եթե Վաշինգտոնը ընտրի պшտերազմը, դա կհանգեցնի ավելի մեծ ռшզմավարական ձախողման․ Աբբաս Արաղչի",
-"url": "https://www.tert.am/am/news/2026/10/21/abbas-araghchi/4287700",
-"firstSeenBaku": "2026-10-21 23:16"
-},
-{
 "title": "Գազի գնի 69 տոկոսը թանկացման վտանգը․ ԵԱՏՄ-ի զեկույցը մտահոգիչ ազդակ է Հայաստանի համար. «Ժողովուրդ»",
 "url": "https://www.tert.am/am/news/2026/10/22/gas-price/4287712",
 "firstSeenBaku": "2026-10-22 08:14"
@@ -809,11 +784,6 @@
 "firstSeenBaku": "2026-10-21 12:17"
 },
 {
-"title": "2026-10-21 10:52:00 Ձերբակալվել է «Ուժեղ Հայաստան» կուսակցության Ստեփանավան համայնքի ղեկավարի թեկնածուն",
-"url": "https://hetq.am/hy/article/184859",
-"firstSeenBaku": "2026-10-21 11:25"
-},
-{
 "title": "Կնճիռների հարթեցման համար Հայաստանում օգտագործվում են չգրանցված դեղամիջոցներ",
 "url": "https://hetq.am/hy/article/183723",
 "firstSeenBaku": "2026-10-21 14:13"
@@ -871,9 +841,9 @@
 "firstSeenBaku": "2026-10-22 15:12"
 },
 {
-"title": "«Հրապարակ»․ Փաշինյանը բացարձակ անհավասար խաղի կանոններ է ստեղծել",
-"url": "https://hraparak.am/am/post/8c0e1b76f4c8ac0ba5e7da95fb273f25",
-"firstSeenBaku": "2026-10-22 11:26"
+"title": "Փաշինյանի պատասխանը Պուտինին",
+"url": "https://hraparak.am/am/post/a86bb5ae98f50a3c53713ea72942d7ab",
+"firstSeenBaku": "2026-10-22 18:16"
 },
 {
 "title": "Դիմել են ՄԻԵԴ՝ ՀՀ քաղաքացիները ընտրական իրավունքը վերականգնե...",
@@ -941,16 +911,6 @@
 "firstSeenBaku": "2026-10-22 12:19"
 },
 {
-"title": "Փաշինյանի գլխավորությամբ կառավարության նիստ է անցկացվում",
-"url": "https://hraparak.am/am/post/726ef22ae7733f79b5e986f2a2f04857",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Փաշինյանին դա չի կանգնեցնի",
-"url": "https://hraparak.am/am/post/b10a2e5cd9bb50e3ec0fa973c025ca2d",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
 "title": "Սահմանախախտ ադրբեջանցին հովիվ չի",
 "url": "https://hraparak.am/am/post/74d4cc6542be57d4f6b4dc22fedd5542",
 "firstSeenBaku": "2026-10-21 20:13"
@@ -966,9 +926,9 @@
 "firstSeenBaku": "2026-10-22 09:13"
 },
 {
-"title": "«Հրապարակ». Մեզ համար իսկական անակնկալ էին նախագահ Թրամփի այդ քայլերը",
-"url": "https://hraparak.am/am/post/49b2f99701f150a34022cd8474c9b6c9",
-"firstSeenBaku": "2026-10-21 11:25"
+"title": "«Հրապարակ»․ Փաշինյանը բացարձակ անհավասար խաղի կանոններ է ստեղծել",
+"url": "https://hraparak.am/am/post/8c0e1b76f4c8ac0ba5e7da95fb273f25",
+"firstSeenBaku": "2026-10-22 11:26"
 },
 {
 "title": "Դոլարի, եվրոյի և ռուբլու փոխարժեքը Հայաստանում",
@@ -985,7 +945,7 @@
 ],
 "civilnet": [
 {
-"title": "14:36 Red Lines Without Deterrence: The Risk of Peace by Concession",
+"title": "14:36 Red Lines Without Deterrence: The Risk of Peace by Capitulation",
 "url": "https://civilnet.am/en/news/1014936",
 "firstSeenBaku": "2026-10-22 15:12"
 },
@@ -1591,6 +1551,11 @@
 "firstSeenBaku": "2026-10-21 19:12"
 },
 {
+"title": "Armenian Bar Association",
+"url": "https://armenianweekly.com/author/armenian-bar-association/",
+"firstSeenBaku": "2026-10-21 19:12"
+},
+{
 "title": "Armenian Bar presents Hrant Dink Freedom Award to Dr. Edita Gzoyan",
 "url": "https://armenianweekly.com/2026/10/21/armenian-bar-presents-hrant-dink-freedom-award-to-dr-edita-gzoyan/",
 "firstSeenBaku": "2026-10-21 19:12"
@@ -1907,11 +1872,6 @@
 "title": "“Real Turkey” – #99: Kompromat against Aliyev, or is Baku noticing a weakening of Erdogan?",
 "url": "https://alphanews.am/en/projects/real-turkey-99-kompromat-against-aliyev-or-is-baku-noticing-a-weakening-of-erdogan/",
 "firstSeenBaku": "2026-10-21 23:16"
-},
-{
-"title": "Russian Cup matches to begin with a minute of applause in memory of Nikita Simonyan October 14 2026, 09:15",
-"url": "https://alphanews.am/en/russian-cup-matches-to-begin-with-a-minute-of-applause-in-memory-of-nikita-simonyan/",
-"firstSeenBaku": "2026-10-21 11:25"
 },
 {
 "title": "“Who said that such a scenario is ruled out?”: Pashinyan on snap elections October 22 2026, 13:45",
