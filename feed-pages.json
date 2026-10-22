@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-22T00:01:53.750460+00:00",
-"generatedAtBaku": "2026-10-22 04:01",
+"generatedAt": "2026-10-22T01:16:13.039626+00:00",
+"generatedAtBaku": "2026-10-22 05:16",
 "hours": 30,
 "pages": {
 "apa": [
@@ -92,12 +92,12 @@
 "firstSeenBaku": "2026-10-21 14:13"
 },
 {
-"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 21 октября 2026, 19:55 4280",
+"title": "Эрдоган позвонил Алиеву. Что обсудили президенты? 21 октября 2026, 19:55 4388",
 "url": "https://haqqin.az/newsarchive/396249",
 "firstSeenBaku": "2026-10-21 20:13"
 },
 {
-"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 3969",
+"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 4024",
 "url": "https://haqqin.az/newsarchive/396218",
 "firstSeenBaku": "2026-10-21 15:11"
 },
@@ -282,6 +282,11 @@
 "title": "Ադրբեջանը պահանջել է պաշտոնանկ անել Էրդողանի խորհրդականին․ Middle East Eye հոկտեմբերի 21, 10:22",
 "url": "https://news.am/hy/news/1069251",
 "firstSeenBaku": "2026-10-21 11:25"
+},
+{
+"title": "Հայաստանում մեկնարկել է ծխախոտից հրաժարմանն աջակցող ACTS ծրագիրը հոկտեմբերի 14, 13:48",
+"url": "https://med.news.am/arm/news/42114/hayastanum-meknarkel-e-tskhakhotic-hrazharmann-ajakcox-acts-tsragiry.html",
+"firstSeenBaku": "2026-10-21 22:08"
 },
 {
 "title": "Երևանում թիվ 4 երթուղու տրոլեյբուսը բախվել է գազատար խողովակին․ սկսվել է գազի արտահոսք հոկտեմբերի 21, 12:25",
@@ -625,11 +630,6 @@
 "firstSeenBaku": "2026-10-21 18:16"
 },
 {
-"title": "Հայաստանը չեխական ռազմաուսումնական ինքնաթիռներ է գնել",
-"url": "https://www.azatutyun.am/a/33880337.html",
-"firstSeenBaku": "2026-10-20 22:07"
-},
-{
 "title": "Ընտրությունից 4 օր առաջ ձերբակալվել է Ստեփանավանի «Ուժեղ Հայաստանի» համայնքապետի թեկնածուն և ևս 13 մարդ",
 "url": "https://www.azatutyun.am/a/33881077.html",
 "firstSeenBaku": "2026-10-21 21:12"
@@ -950,11 +950,6 @@
 "firstSeenBaku": "2026-10-21 12:17"
 },
 {
-"title": "20 October, 22:05 Eurasian Union warns Armenia of over 15% GDP loss if it leaves the bloc",
-"url": "https://civilnet.am/en/news/1014894",
-"firstSeenBaku": "2026-10-20 22:07"
-},
-{
 "title": "Noted How the H. Hovnanian Family Foundation Is Shaping Armenia’s Future 14 October, 21:05",
 "url": "https://civilnet.am/en/news/1014769",
 "firstSeenBaku": "2026-10-21 22:08"
@@ -968,11 +963,6 @@
 "title": "What is the Yerevan butterfly, the logo for COP17?",
 "url": "https://civilnet.am/en/stories/989",
 "firstSeenBaku": "2026-10-21 21:12"
-},
-{
-"title": "Eurasian Economic Union says Armenia might lose over 15% of its GDP if it abandons the bloc",
-"url": "https://civilnet.am/en/stories/988",
-"firstSeenBaku": "2026-10-20 22:07"
 },
 {
 "title": "Russia’s Wildberries test launches ride-hailing service in Armenia: THIS WEEK IN BUSINESS 26 September, 19:05",
@@ -1112,11 +1102,6 @@
 "title": "How rising food prices in Azerbaijan are affecting household budgets",
 "url": "https://jam-news.net/how-rising-food-prices-in-azerbaijan-are-affecting-household-budgets/",
 "firstSeenBaku": "2026-10-21 16:10"
-},
-{
-"title": "‘The trail leads to Azerbaijan and Israel’: Yerevan’s take on new cyberattacks on Armenia",
-"url": "https://jam-news.net/the-trail-leads-to-azerbaijan-and-israel-yerevans-take-on-new-cyberattacks-on-armenia/",
-"firstSeenBaku": "2026-10-20 23:15"
 }
 ],
 "osce": [
@@ -1368,11 +1353,6 @@
 "title": "First Committee Debates Pathways to Prevent Weaponization of Outer Space",
 "url": "https://press.un.org/en/2026/gadis3774.doc.htm",
 "firstSeenBaku": "2026-10-22 03:05"
-},
-{
-"title": "Security Situation in Central African Republic Fragile, Security Council Hears, amid Calls to Adequately Fund Peacekeeping Mission Ahead of Renewal",
-"url": "https://press.un.org/en/2026/sc16484.doc.htm",
-"firstSeenBaku": "2026-10-21 01:09"
 }
 ],
 "un-azerbaijan": [
