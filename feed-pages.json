@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-22T16:12:41.195139+00:00",
-"generatedAtBaku": "2026-10-22 20:12",
+"generatedAt": "2026-10-22T17:11:13.817784+00:00",
+"generatedAtBaku": "2026-10-22 21:11",
 "hours": 30,
 "pages": {
 "apa": [
@@ -45,11 +45,6 @@
 "firstSeenBaku": "2026-10-22 09:13"
 },
 {
-"title": "Hulusi Kılıç: Azərbaycan Avrasiyanın vazkeçilməz ölkəsidir 15:58",
-"url": "https://apa.az/blog/blog-single/hulusi-kilic-azerbaycan-avrasiyanin-vazkecilmez-olkesidir-255",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
 "title": "Ankaradan telefon zəngi: Ərdoğan-İlham Əliyev danışığından çıxan siyasi nəticələr – TƏHLİL 20:56 21 oktyabr 2026",
 "url": "https://apa.az/siyasi/ankaradan-telefon-zengi-erdogan-ilham-eliyev-danisigindan-cixan-siyasi-neticeler-tehlil-1007164",
 "firstSeenBaku": "2026-10-21 21:12"
@@ -62,14 +57,19 @@
 "firstSeenBaku": "2026-10-22 13:15"
 },
 {
-"title": "Вашингтон, Анкара, Тегеран, Москва. И логика Баку Нам комментируют из Турции 19:25 735",
+"title": "Вашингтон, Анкара, Тегеран, Москва. И логика Баку Нам комментируют из Турции 19:25 1417",
 "url": "https://haqqin.az/newsarchive/396369",
 "firstSeenBaku": "2026-10-22 20:12"
 },
 {
-"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 5323",
+"title": "Рис готовит шок для кошельков азербайджанцев Наши беды 21 октября 2026, 15:10 5390",
 "url": "https://haqqin.az/newsarchive/396218",
 "firstSeenBaku": "2026-10-21 15:11"
+},
+{
+"title": "Чемпионат мира по футболу в Азербайджане и Узбекистане продлится 23 дня ФИФА объявила даты",
+"url": "https://haqqin.az/newsarchive/396373",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "Двое из Азербайджана в составе победителя Лиги чемпионов «ПСЖ»",
@@ -90,11 +90,6 @@
 "title": "Азербайджан примет 23-ю Генассамблею ICOMOS",
 "url": "https://haqqin.az/newsarchive/396362",
 "firstSeenBaku": "2026-10-22 18:16"
-},
-{
-"title": "Еще одна успешная пересадка сердца в Азербайджане ФОТО",
-"url": "https://haqqin.az/newsarchive/396356",
-"firstSeenBaku": "2026-10-22 17:25"
 }
 ],
 "news.am": [
@@ -117,6 +112,26 @@
 "title": "Վերլուծաբանները նշել են ԵՄ-ի հետ Հայաստանի առևտրի աճի կանխատեսումների սպեկուլյատիվ բնույթը",
 "url": "https://news.am/hy/news/1069550",
 "firstSeenBaku": "2026-10-22 12:19"
+},
+{
+"title": "21:01 Չեմ կարծում, թե Հայաստանի՝ ԵԱՏՄ-ից դուրս գալն իրական հեռանկար է. փորձագետ",
+"url": "https://news.am/hy/news/1069691",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
+"title": "20:47 «Բաց դռների» ամիս Հայաստանում. երկրորդ ադրբեջանցին է անարգել հատել սահմանը",
+"url": "https://news.am/hy/news/1069711",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
+"title": "20:21 F-16 կործանիչները Հարավային Կարոլինայում Թրամփի հանրահավաքի ժամանակ կասեցրել են ինքնաթիռն արգելված գոտում",
+"url": "https://news.am/hy/news/1069693",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
+"title": "20:16 Փաշինյանը փորձում է չեզոքացնել ընդդիմությանը, որ վստահ գնա արտահերթ ընտրությունների. Խաչատրյան",
+"url": "https://news.am/hy/news/1069707",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "20:11 Հայաստանի և Ադրբեջանի միջև գործընթացները կշարունակվեն առանց խաղաղության պայմանագրի. Իսկանդարյան",
@@ -151,11 +166,6 @@
 {
 "title": "17:18 Փաշինյանն ընդունում է, որ ինքը ձախողել է ընտրություններին, սաստկացնում է ճնշումները. Խաչատրյան",
 "url": "https://news.am/hy/news/1069666",
-"firstSeenBaku": "2026-10-22 17:25"
-},
-{
-"title": "16:38 Դիմել ենք ՄԻԵԴ՝ ՀՀ քաղաքացիների ընտրական իրավունքը վերականգնելու համար. ՀՔԱՎ",
-"url": "https://news.am/hy/news/1069649",
 "firstSeenBaku": "2026-10-22 17:25"
 },
 {
@@ -227,11 +237,6 @@
 "title": "Հայաստանում մեկնարկել է ծխախոտից հրաժարմանն աջակցող ACTS ծրագիրը հոկտեմբերի 14, 13:48",
 "url": "https://med.news.am/arm/news/42114/hayastanum-meknarkel-e-tskhakhotic-hrazharmann-ajakcox-acts-tsragiry.html",
 "firstSeenBaku": "2026-10-21 22:08"
-},
-{
-"title": "Մասկը հայտնել է Tesla-ի և SpaceX-ի հնարավոր միավորման մասին հոկտեմբերի 21, 14:08",
-"url": "https://news.am/hy/news/1069324",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "armenpress-hy": [
@@ -286,6 +291,11 @@
 "firstSeenBaku": "2026-10-21 19:12"
 },
 {
+"title": "20:59 Ռուբիոն մեկնաբանել է ռուսական դիզելային վառելիքի արտահանումը միջազգային շուկա թույլ տալու՝ Թրամփի որոշումը",
+"url": "https://armenpress.am/hy/article/1263581",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
 "title": "17:58 ԵՏՀ կոլեգիայի անդամը հույս ունի, որ հայկական արտադրանքի նկատմամբ ռուսական սահմանափակումների հարցը մոտ ժամանակներս կլուծվի",
 "url": "https://armenpress.am/hy/article/1263572",
 "firstSeenBaku": "2026-10-22 18:16"
@@ -294,11 +304,6 @@
 "title": "17:40 Վրաստանի վարչապետ Իրակլի Կոբախիձեն ընդունել է Հայաստանի գլխավոր դատախազ Աննա Վարդապետյանին",
 "url": "https://armenpress.am/hy/article/1263569",
 "firstSeenBaku": "2026-10-22 18:16"
-},
-{
-"title": "17:15 Իսպանիան և Իտալիան դադարեցրել են փոխադարձ սահմանային վերահսկողությունը",
-"url": "https://armenpress.am/hy/article/1263561",
-"firstSeenBaku": "2026-10-22 17:25"
 },
 {
 "title": "Տնտեսություն Սեպտեմբերին գրանցված աշխատատեղերի նոր ռեկորդ է արձանագրվել․ Փաշինյան 11:59, 22 հոկտեմբերի",
@@ -331,16 +336,6 @@
 "firstSeenBaku": "2026-10-22 11:26"
 },
 {
-"title": "Մհեր Սահակյան ՇՀԿ-ն Հայաստանի համար նպաստավոր հարթակ է քաղաքական և տնտեսական կապերն այլ երկրների հետ զարգացնելու համար. չինագետ 09:15, 2 սեպտեմբերի",
-"url": "https://armenpress.am/hy/article/1259390",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Հայաստան Կենսաչափական ծառայությունների մատուցումը՝ ժամանակակից պայմաններում և նոր հասցեներում․ նոյեմբերի 1-ից կգործեն 14 նոր գրասենյակներ 17:12, 5 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1262024",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
 "title": "Հայաստան ՀՀ ԿԳՄՍ փոխնախարարը «Կինոդարան» հարթակի թիմի հետ քննարկել է համագործակցության հնարավորությունները 16:47, 22 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263555",
 "firstSeenBaku": "2026-10-22 17:25"
@@ -359,11 +354,6 @@
 "title": "Չինաստան Հայաստանի ՆԳՆ փրկարար ծառայության տնօրենն ու Պեկինի փոխքաղաքապետը կարևորել են փորձի փոխանակումն ու համագործակցության ընդլայնումը 16:25, 21 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263438",
 "firstSeenBaku": "2026-10-21 17:22"
-},
-{
-"title": "Քաղաքականություն Նիկոլ Փաշինյանը շնորհավորական ուղերձներ է հղել Չինաստանի կազմավորման 77-րդ տարեդարձի առիթով 10:43, 1 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1261732",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "armenpress-en": [
@@ -488,64 +478,14 @@
 "firstSeenBaku": "2026-10-22 11:26"
 },
 {
-"title": "Mher Sahakyan SCO offers favourable platform for Armenia to develop political and economic ties with other countries – China expert 09:15, 2 September",
-"url": "https://armenpress.am/en/article/1259390",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Benyamin Poghosyan TRIPP is primarily a geopolitical project, says analyst 15:16, 11 August",
-"url": "https://armenpress.am/en/article/1257709",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Ruben Safrastyan Washington can contain Türkiye-Israel rift for now, academic says 11:00, 30 July",
-"url": "https://armenpress.am/en/article/1256739",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Nver Davtyan Countries should avoid projects that bypass one another, and the TRIPP project should be implemented with that in mind, Iran expert says 09:40, 7 July",
-"url": "https://armenpress.am/en/article/1254872",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Army Defense Ministry denies brawl preceded fatal traffic accident The Armenian Defense Ministry has denied reports that a brawl among servicemen preceded the fatal road accident near Chambarak on August 19, while reiterating t... 12:26, 22 August",
-"url": "https://armenpress.am/en/article/1258641",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Politics Armenia denies Russian newspaper claim of threat over energy supplies Armenian authorities have denied receiving any letter from Russia in connection with reported claims about possible pressure over energy supply agreements.Russi... 11:13, 27 May",
-"url": "https://armenpress.am/en/article/1251297",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Fact Check Deepfake of Pashinyan’s voice generated online, warn authorities 09:24, 26 June",
-"url": "https://armenpress.am/en/article/1223338",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Politics Armenia assisted India in evacuating nationals from Iran 11:59, 17 June",
-"url": "https://armenpress.am/en/article/1222488",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Politics Tsitsernakaberd visit was not removed from Lavrov’s program at Armenia’s initiative - Foreign Ministry spokesperson 17:21, 22 May",
-"url": "https://armenpress.am/en/article/1220364",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Politics Organizers in Armenia laud successful Turkish media tour 11:41, 17 March",
-"url": "https://armenpress.am/en/article/1214594",
-"firstSeenBaku": "2026-10-21 14:13"
+"title": "Sports Armenia and Iran sign memorandum on cooperation in sport and youth affairs 18:24, 8 October",
+"url": "https://armenpress.am/en/article/1262350",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "China Armenia’s Rescue Service director and Beijing vice-mayor highlight experience-sharing and closer cooperation 16:40, 21 October",
 "url": "https://armenpress.am/en/article/1263438",
 "firstSeenBaku": "2026-10-21 17:22"
-},
-{
-"title": "Politics Pashinyan congratulates Chinese president, premier on national day 10:49, 1 October",
-"url": "https://armenpress.am/en/article/1261732",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "azatutyun": [
@@ -562,11 +502,6 @@
 {
 "title": "Ադրբեջանի հետ խաղաղության պայմանագիրը, Փաշինյանի կանխատեսմամբ, կարող է ստորագրվել 2027-2028 թ.թ.",
 "url": "https://www.azatutyun.am/a/adrbejani-het-khaghaghoutyan-paymanagiry-hnaravor-e-storagrvi-2027-2028-tvakannerin-pashinyan/33881509.html",
-"firstSeenBaku": "2026-10-22 14:15"
-},
-{
-"title": "«Չթանկանալու երաշխիք չկա». Փաշինյանը չի բացառում գազի թանկացումը",
-"url": "https://www.azatutyun.am/a/gazy-chtankanalou-erashkhik-chka-pashinyan/33881503.html",
 "firstSeenBaku": "2026-10-22 14:15"
 },
 {
@@ -630,11 +565,6 @@
 "firstSeenBaku": "2026-10-21 20:13"
 },
 {
-"title": "1 Արտգործնախարարը չի հերքում Տավուշում ադրբեջանցի հովիվի հայտնվելու մասին տեղեկությունները",
-"url": "https://www.azatutyun.am/a/33880809.html",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
 "title": "4 Ադրբեջանցին TRIPP-ով անցնելիս հայ մաքսավորի ու սահմանապահի կհանդիպի՞. ըստ արտգործնախարարի՝ «կարող է ընդհանրապես չհանդիպի»",
 "url": "https://www.azatutyun.am/a/33880891.html",
 "firstSeenBaku": "2026-10-21 16:10"
@@ -643,6 +573,11 @@
 "title": "1 Նախընտրական ձերբակալություններ, TRIPP և մշուշոտ ԵԱՏՄ",
 "url": "https://www.azatutyun.am/a/33871592.html",
 "firstSeenBaku": "2026-10-21 20:13"
+},
+{
+"title": "5 Ապրիլի 24-ի հետ կապված` Ադրբեջանը սրում է իրավիճակը սահմանին․ ՊՆ",
+"url": "https://www.azatutyun.am/a/26974433.html",
+"firstSeenBaku": "2026-10-22 21:11"
 }
 ],
 "tert": [
@@ -697,6 +632,16 @@
 "firstSeenBaku": "2026-10-22 11:26"
 },
 {
+"title": "Առանց Եվրոպայի մասնակցության Ուկրաինայում երկարատև խաղաղություն չի լինի․ Մերց",
+"url": "https://www.tert.am/am/news/2026/10/22/merc-ukraine/4287808",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
+"title": "Locman Italy բրենդը Հայաստանում է (տեսանյութ)",
+"url": "https://www.tert.am/am/news/2026/10/22/locman-italy-/4287800",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
 "title": "Գազի գնի 69 տոկոսը թանկացման վտանգը․ ԵԱՏՄ-ի զեկույցը մտահոգիչ ազդակ է Հայաստանի համար. «Ժողովուրդ»",
 "url": "https://www.tert.am/am/news/2026/10/22/gas-price/4287712",
 "firstSeenBaku": "2026-10-22 08:14"
@@ -705,21 +650,6 @@
 "title": "Գիտական առաջընթացը և նոր տեխնոլոգիաները պետք է կիրառվեն հանուն խաղաղության․ Ժաննա Անդրեասյան",
 "url": "https://www.tert.am/am/news/2026/10/21/zhanna-andreasyan/4287642",
 "firstSeenBaku": "2026-10-21 16:10"
-},
-{
-"title": "Բեռլինի Թանգարանային կղզու բացառիկ ցուցանմուշները կներկայացվեն Հայաստանի պատմության թանգարանում. ԿԳՄՍՆ",
-"url": "https://www.tert.am/am/news/2026/09/21/arm-berlin-museum/4284470",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Հին հայկական համերը՝ նոր մատուցմամբ. մայրաքաղաքի սրտում իր դռներն է բացել «Երևան ջան» ռեստորանը (տեսանյութ, լուսանկարներ)",
-"url": "https://www.tert.am/am/news/2026/09/17/erevan-jan/4284097",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Սպիտակ տան նախկին խոհարարն ու համաշխարհային TikTok աստղերը՝ Հայաստանում. կանցկացվի FlyConnect Creator Summit-ը (լուսանկարներ)",
-"url": "https://www.tert.am/am/news/2026/08/16/flyconnect-creator/4280745",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "hetq": [
@@ -764,39 +694,9 @@
 "firstSeenBaku": "2026-10-21 17:22"
 },
 {
-"title": "2026-10-21 13:18:00 Հայաստան-ԱՄԷ ծառայությունների առևտրի և ներդրումների համաձայնագիրը ստացել է դրական եզրակացություն",
-"url": "https://hetq.am/hy/article/184867",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Կնճիռների հարթեցման համար Հայաստանում օգտագործվում են չգրանցված դեղամիջոցներ",
-"url": "https://hetq.am/hy/article/183723",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Անկլավները Հայաստանում. նախկինում՝ անկլավ, այսօր՝ ՀՀ տարածք",
-"url": "https://hetq.am/hy/article/182205",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "81. Մկնդեղ, ցինկ և լռություն. ինչպես են Հայաստանի հանքարդյունաբերական պոչամբարները աղտոտում մեր ջուրն ու հողը",
-"url": "https://hetq.am/hy/podcast/94",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "80. Թմրանյութ վաճառողների շղթան. Հայաստանում թմրաբիզնեսի հետքերով",
-"url": "https://hetq.am/hy/podcast/93",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "2026-09-29T10:40:00+04:00 Ադրբեջանը բողոքարկել է մայոր Թորոյանի գործով ՄԻԵԴ-ի վճիռը",
-"url": "https://hetq.am/hy/article/184263",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "2026-09-24T11:27:00+04:00 514 մլն դոլար` կես տարում. Հայաստանից պղնձի խտանյութի արտահանումը կտրուկ աճել է",
-"url": "https://hetq.am/hy/article/184116",
-"firstSeenBaku": "2026-10-21 14:13"
+"title": "MapFact. որքա՞ն տարածք է օկուպացրել Ադրբեջանը Կապան-Մեղրի հատվածում 2020 թ.-ից 2026-10-08T18:03:00+04:00",
+"url": "https://hetq.am/hy/article/184531",
+"firstSeenBaku": "2026-10-22 21:11"
 }
 ],
 "hraparak": [
@@ -824,6 +724,11 @@
 "title": "Փաշինյանի օրոք իրավական պրոցես չկա․ «Քննչականը ես եմ, կառավարությունը...",
 "url": "https://hraparak.am/am/post/e15b89cfb4def54995d7765fd4c4c765",
 "firstSeenBaku": "2026-10-21 18:16"
+},
+{
+"title": "«Ձեռքս կկտրեմ, Հայաստանի քաղաքացու մի քվեաթերթիկի չեմ կպնի»",
+"url": "https://hraparak.am/am/post/8b63b47294460a12dc9fafbfd08b915d",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "Փաշինյանը հաստատեց մեր լուրը` արտահերթի է պատրաստվում",
@@ -886,16 +791,6 @@
 "firstSeenBaku": "2026-10-22 14:15"
 },
 {
-"title": "Փաշինյանը նշել է, թե երբ կարող է ստորագրվել խաղաղության պայմ...",
-"url": "https://hraparak.am/am/post/3c3477f27de71d6a89b5cf4eab51bbf0",
-"firstSeenBaku": "2026-10-22 14:15"
-},
-{
-"title": "Դպրոցների միավորումը նախագիծ է, սակայն Փաշինյանն արդեն փիառ...",
-"url": "https://hraparak.am/am/post/b47a037b71bef3eec11c3b073e9d4ce5",
-"firstSeenBaku": "2026-10-22 14:15"
-},
-{
 "title": "«Հրապարակ»․ Սառը ցնցուղ Փաշինյանի համար",
 "url": "https://hraparak.am/am/post/e0a774099c58d3804e3bf87e4b9cbf7a",
 "firstSeenBaku": "2026-10-22 10:10"
@@ -909,23 +804,16 @@
 "title": "«Հրապարակ»․ Փաշինյանը բացարձակ անհավասար խաղի կանոններ է ստեղծել",
 "url": "https://hraparak.am/am/post/8c0e1b76f4c8ac0ba5e7da95fb273f25",
 "firstSeenBaku": "2026-10-22 11:26"
-},
-{
-"title": "Դոլարի, եվրոյի և ռուբլու փոխարժեքը Հայաստանում",
-"url": "https://hraparak.am/am/post/a34dcc4472e295d8dabe00dfc8a40742",
-"firstSeenBaku": "2026-10-21 14:13"
-}
-],
-"primeminister": [
-{
-"title": "The Prime Minister of the Republic of Armenia",
-"url": "https://www.primeminister.am/en/",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "civilnet": [
 {
-"title": "20:05 The Hijab Ban: A glimpse into Azerbaijan’s Future",
+"title": "21:05 Environment, social development, and Armenia’s economic outlook",
+"url": "https://civilnet.am/en/news/1014937",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
+"title": "20:05 The Hijab Ban: A Glimpse into Azerbaijan’s Future",
 "url": "https://civilnet.am/en/news/1014940",
 "firstSeenBaku": "2026-10-22 20:12"
 },
@@ -955,9 +843,19 @@
 "firstSeenBaku": "2026-10-21 16:10"
 },
 {
+"title": "Noted Armenia’s nuclear future and Aliyev’s threats 15 October, 20:05",
+"url": "https://civilnet.am/en/news/1014798",
+"firstSeenBaku": "2026-10-22 21:11"
+},
+{
 "title": "How the H. Hovnanian Family Foundation Is Shaping Armenia’s Future “We don't just want to throw money at it, but we want to make sure it has impact.”In this CivilNet interview, Eric Hacopian speaks with the leadership of the",
 "url": "https://civilnet.am/en/news/1014769",
 "firstSeenBaku": "2026-10-21 22:08"
+},
+{
+"title": "“I am optimistic about Armenia’s economic outlook, though reforms are still needed”",
+"url": "https://civilnet.am/en/stories/999",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "Azerbaijan’s growing religious divide",
@@ -973,86 +871,6 @@
 "title": "What is the Yerevan butterfly, the logo for COP17?",
 "url": "https://civilnet.am/en/stories/989",
 "firstSeenBaku": "2026-10-21 21:12"
-},
-{
-"title": "Russia’s Wildberries test launches ride-hailing service in Armenia: THIS WEEK IN BUSINESS 26 September, 19:05",
-"url": "https://civilnet.am/en/news/1014392",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Armenia considers private water market amid restructuring efforts: THIS WEEK IN BUSINESS 12 September, 19:05",
-"url": "https://civilnet.am/en/news/1014095",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Dissidents of Soviet Armenia",
-"url": "https://civilnet.am/en/news/753387",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The case for building a career in Armenia 03 September, 20:05",
-"url": "https://civilnet.am/en/news/1013931",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Podcast How Russia is making Armenia’s EU pivot easier 27 August, 20:05",
-"url": "https://civilnet.am/en/news/1013840",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Podcast Why Armenia lost the 2020 Karabakh War 24 June, 20:05",
-"url": "https://civilnet.am/en/news/1012702",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Hrair Balian Citizenship, Trauma, and the Diaspora: Armenia’s Proposed Residency Requirement in Comparative Perspective 16 September, 10:33",
-"url": "https://civilnet.am/en/news/1014178",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Syria’s Armenians Between Uncertainty and Renewal: A Field Report from Aleppo and Kessab 08 September, 19:32",
-"url": "https://civilnet.am/en/news/1014038",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Aliyev outlines goals for Trump Route, Nakhichevan development 12 August, 15:01",
-"url": "https://civilnet.am/en/news/1013549",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Yerevan shows off equipment at Republic Day military parade 28 May, 14:25",
-"url": "https://civilnet.am/en/news/1012104",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Regional journalists gather in Yerevan for Seizing Synergies and cross-border collaboration 19 May, 16:37",
-"url": "https://civilnet.am/en/news/1011920",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Armenia’s annual “Museum Night”: PHOTO STORY 16 May, 19:49",
-"url": "https://civilnet.am/en/news/1011880",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Under the Temple Lights: Yazidi New Year in Armenia's Aknalich 17 April, 12:20",
-"url": "https://civilnet.am/en/news/1011344",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "What visitor spending reveals about tourism in Armenia Sponsored contentWho is visiting Armenia, how much are they spending, and what does that reveal about the country’s tourism potential?Visa presented its new Visitor 18 September, 18:05",
-"url": "https://civilnet.am/en/news/1014240",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "From China to Armenia: Historic Cross-Continental Telesurgery Performed at Slavmed Medical Center. 17 September, 16:39",
-"url": "https://civilnet.am/en/news/1014220",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Visitor spending offers new view of Armenia’s tourism sector 15 September, 17:05",
-"url": "https://civilnet.am/en/news/1014159",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "oc-media": [
@@ -1075,11 +893,6 @@
 "title": "Review | Five Armenian shorts at the 2026 Kutaisi International Short Film Festival",
 "url": "https://oc-media.org/review-five-armenian-shorts-at-the-2026-kutaisi-international-short-film-festival/",
 "firstSeenBaku": "2026-10-22 17:25"
-},
-{
-"title": "Netanyahu set to visit Azerbaijan",
-"url": "https://oc-media.org/netanyahu-set-to-visit-azerbaijan/",
-"firstSeenBaku": "2026-10-21 14:13"
 },
 {
 "title": "Azerbaijan–Turkey Relations",
@@ -1126,256 +939,21 @@
 "firstSeenBaku": "2026-10-22 16:11"
 },
 {
-"title": "News Item OSCE Mission to BiH: Supporting continued progress in electoral reform Date Date 6 October 2026 Location Location Sarajevo",
-"url": "https://bih.osce.org/news/mission-bosnia-and-herzegovina/668274",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Project Update OSCE side event highlights whole-of-society approaches to preventing youth recruitment into organized crime Date Date 29 September 2026 Location Location https://www.osce.org/node/518334",
-"url": "https://tntd.osce.org/news/transnational-threats-department/668061",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "News Item OSCE calls for respect for freedom of peaceful assembly and expression Date Date 29 September 2026 Location Location Sarajevo",
-"url": "https://bih.osce.org/news/mission-bosnia-and-herzegovina/667947",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "News Item OSCE and Council of Europe convene the Annual Meeting of National Anti-Trafficking Co-ordinators and Rapporteurs Date Date 28 September 2026 Location Location VIENNA",
-"url": "https://cthb.osce.org/news/cthb/667887",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Project Update OSCE side event explores gender-sensitive approaches to preventing women’s involvement in organized crime Date Date 26 September 2026 Location Location https://www.osce.org/node/518334",
-"url": "https://tntd.osce.org/news/transnational-threats-department/667914",
-"firstSeenBaku": "2026-10-21 14:13"
+"title": "Press release OSCE Chairman-in-Office highlights partnership and commitment to lasting peace during visit to Armenia Date Date 15 October 2026 Location Location YEREVAN",
+"url": "https://www.osce.org/chairpersonship/668721",
+"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "News Item OSCE Mission strengthens Montenegro’s capacity to manage ammunition safely and respond to emergencies Date Date 22 October 2026 Location Location Montenegro",
 "url": "https://montenegro.osce.org/news/mission-montenegro/669087",
 "firstSeenBaku": "2026-10-22 15:12"
-},
-{
-"title": "News Item OSCE report finds progress and gaps in handling organised crime and corruption cases in Kosovo Date Date 21 October 2026",
-"url": "https://omik.osce.org/news/mission-kosovo/669054",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "nato": [
 {
-"title": "NATO member countries",
-"url": "https://www.nato.int/en/about-us/organization/nato-member-countries",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Military Committee portal",
-"url": "https://www.nato.int/en/about-us/organization/nato-structure/nato-military-committee",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Science for Peace and Security hub",
-"url": "https://www.nato.int/en/about-us/organization/nato-structure/science-for-peace-and-security-hub",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "International Board of Auditors for NATO (IBAN)",
-"url": "https://www.nato.int/en/about-us/organization/nato-structure/international-board-of-auditors-for-nato-iban",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Secretary General",
-"url": "https://www.nato.int/en/about-us/organization/nato-structure/nato-secretary-general",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Special Representative for Women, Peace and Security",
-"url": "https://www.nato.int/en/about-us/organization/who-we-are/international-staff/special-representative-for-women-peace-and-security",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Secretaries General",
-"url": "https://www.nato.int/en/about-us/organization/who-we-are/nato-secretaries-general",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Deputy Secretaries General",
-"url": "https://www.nato.int/en/about-us/organization/who-we-are/nato-deputy-secretaries-general",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Executive Coordinator",
-"url": "https://www.nato.int/en/about-us/organization/who-we-are/international-military-staff/executive-coordinator",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "A short history of NATO",
-"url": "https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO history by theme",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Netherlands and NATO",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/the-netherlands-and-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "United Kingdom and NATO",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/united-kingdom-and-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "United States and NATO",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/united-states-and-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The NATO Hermes silk scarf",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/hermes-silk-scarf",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The hedgehog: NATO's unofficial mascot",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/hedgehog",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The NATO star sculpture",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/star-sculpture",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The NATO Phonetic Alphabet",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/nato-phonetic-alphabet",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "A history of NATO stamps",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/nato-stamps",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Culture and art at NATO summits",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/culture-and-art-at-nato-summits",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO's milestone anniversaries",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/milestone-anniversaries",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Best of Taste: NATO's first cookbook",
-"url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/cookbook",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO 2022 Strategic Concept",
-"url": "https://www.nato.int/en/about-us/official-texts-and-resources/strategic-concepts/nato-2022-strategic-concept",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Use of NATO content and brand",
-"url": "https://www.nato.int/en/about-us/official-texts-and-resources/use-of-nato-content-and-brand",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Publicly disclosed NATO documents",
-"url": "https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/publicly-disclosed-nato-documents",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Access guidelines for NATO Archives Reading Room",
-"url": "https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/access-guidelines-for-nato-archives-reading-room",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Introduction to NATO",
-"url": "https://www.nato.int/en/what-we-do/introduction-to-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Defence investment and NATO’s 5% commitment",
-"url": "https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Strengthening NATO’s eastern flank",
-"url": "https://www.nato.int/en/what-we-do/deterrence-and-defence/strengthening-natos-eastern-flank",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
 "title": "NATO Integrated Air and Missile Defence",
 "url": "https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence",
 "firstSeenBaku": "2026-10-22 20:12"
-},
-{
-"title": "NATO operations and missions",
-"url": "https://www.nato.int/en/what-we-do/operations-and-missions/nato-operations-and-missions",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO's role in Kosovo",
-"url": "https://www.nato.int/en/what-we-do/operations-and-missions/natos-role-in-kosovo",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO's support for Ukraine",
-"url": "https://www.nato.int/en/what-we-do/partnerships-and-cooperation/natos-support-for-ukraine",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Women, Peace and Security",
-"url": "https://www.nato.int/en/what-we-do/wider-activities/women-peace-and-security",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO’s approach to counter information threats",
-"url": "https://www.nato.int/en/what-we-do/wider-activities/natos-approach-to-counter-information-threats",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Secretary General to visit Estonia",
-"url": "https://www.nato.int/en/news-and-events/events/event-programmes/live-webstreaming",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Media accreditation procedures at NATO",
-"url": "https://www.nato.int/en/news-and-events/press-office/media-accreditation-procedures-at-nato",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Internship Programme",
-"url": "https://www.nato.int/en/work-with-us/careers/internship-programme",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "NATO Front Door for Industry",
-"url": "https://www.nato.int/en/work-with-us/business-and-project-opportunities",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Business opportunities at NATO Headquarters",
-"url": "https://www.nato.int/en/work-with-us/business-and-project-opportunities/business-opportunities-at-nato-headquarters",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Articles Read the latest news about the Secretary General’s engagements and the policies agreed by NATO Allies, as well as feature stories about the Alliance. Learn more",
-"url": "https://www.nato.int/en/news-and-events/articles",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Events Stay informed about NATO – Access the latest NATO event programmes, media advisories and transcripts. Learn more",
-"url": "https://www.nato.int/en/news-and-events/events",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Press office Contact NATO’s press office and receive media accreditation to access NATO HQ and NATO events. Learn more",
-"url": "https://www.nato.int/en/news-and-events/press-office",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "un-press": [
@@ -1383,150 +961,6 @@
 "title": "First Committee Debates Pathways to Prevent Weaponization of Outer Space",
 "url": "https://press.un.org/en/2026/gadis3774.doc.htm",
 "firstSeenBaku": "2026-10-22 03:05"
-}
-],
-"un-azerbaijan": [
-{
-"title": "United Nations Azerbaijan",
-"url": "https://azerbaijan.un.org/en",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The UN in Azerbaijan",
-"url": "https://azerbaijan.un.org/en/about/about-the-un",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "UN Entities in Azerbaijan",
-"url": "https://azerbaijan.un.org/en/about/un-entities-in-country",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Resident Coordinator Office",
-"url": "https://azerbaijan.un.org/en/about/about-the-resident-coordinator-office",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Our Team in Azerbaijan",
-"url": "https://azerbaijan.un.org/en/about/our-team",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "UN Resident Coordinator Presents Credentials to President Ilham Aliyev, Reaffirms UN Commitment to Azerbaijan’s Development Priorities",
-"url": "https://azerbaijan.un.org/en/322083-un-resident-coordinator-presents-credentials-president-ilham-aliyev-reaffirms-un-commitment",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Closing Ceremony Marks Completion of Project on Promoting Kahriz Rehabilitation for Climate Adaptation in Azerbaijan",
-"url": "https://azerbaijan.un.org/en/312613-closing-ceremony-marks-completion-project-promoting-kahriz-rehabilitation-climate-adaptation",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Story 10 September 2026 Third edition of Walk the Talk for Climate Action held in Baku Learn more",
-"url": "https://azerbaijan.un.org/en/322763-third-edition-walk-talk-climate-action-held-baku",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Sustainable Development Cooperation Framework between the United Nations and the Government of the Republic of Azerbaijan 2026–2030",
-"url": "https://azerbaijan.un.org/en/307540-sustainable-development-cooperation-framework-between-united-nations-and-government-republic",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Azərbaycan üzrə İllik hesabat - 2024",
-"url": "https://azerbaijan.un.org/en/298665-az%C9%99rbaycan-%C3%BCzr%C9%99-i%CC%87llik-hesabat-2024",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Azerbaijan Annual Results Report 2024",
-"url": "https://azerbaijan.un.org/en/296460-azerbaijan-annual-results-report-2024",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "FINAL EVALUATION REPORT UNITED NATIONS - AZERBAIJAN SUSTAINABLE DEVELOPMENT COOPERATION FRAMEWORK 2021 – 2025",
-"url": "https://azerbaijan.un.org/en/296039-final-evaluation-report-united-nations-azerbaijan-sustainable-development-cooperation",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "UN in Azerbaijan Newsletter",
-"url": "https://azerbaijan.un.org/en/297925-un-azerbaijan-newsletter",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "UNHCR Azerbaijan September 2024 Fact Sheet",
-"url": "https://azerbaijan.un.org/en/287058-unhcr-azerbaijan-september-2024-fact-sheet",
-"firstSeenBaku": "2026-10-21 14:13"
-}
-],
-"un-armenia": [
-{
-"title": "United Nations Armenia",
-"url": "https://armenia.un.org/en",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "UN Entities in Armenia",
-"url": "https://armenia.un.org/en/about/un-entities-in-country",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Resident Coordinator Office",
-"url": "https://armenia.un.org/en/about/about-the-resident-coordinator-office",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Press Release 05 October 2026 From Local Pilot to National Resource: Advancing Digital Irrigation Management in Armenia Learn more",
-"url": "https://armenia.un.org/en/323811-local-pilot-national-resource-advancing-digital-irrigation-management-armenia",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Story 29 September 2026 Armenia and UN Review Progress and Priorities under the 2026-2030 Cooperation Framework Learn more",
-"url": "https://armenia.un.org/en/323653-armenia-and-un-review-progress-and-priorities-under-2026-2030-cooperation-framework",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Official COP17 Armenia website",
-"url": "https://cop17yerevan.am/",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "“Support to Quality Infrastructure in Armenia” project",
-"url": "https://compass.unido.org/projects/210152",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "The Climate - Biodiversity Nexus in Armenia",
-"url": "https://armenia.un.org/en/321238-climate-biodiversity-nexus-armenia",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "EU Funded \"Support to Quality Infrastructure in Armenia\" Project Newsletter for May-June 2026",
-"url": "https://armenia.un.org/en/319330-eu-funded-support-quality-infrastructure-armenia-project-newsletter-may-june-2026",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "“Support to Quality Infrastructure in Armenia” project highlights 2022-2026",
-"url": "https://armenia.un.org/en/317927-%E2%80%9Csupport-quality-infrastructure-armenia%E2%80%9D-project-highlights-2022-2026",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "A Just Transition for People and Biodiversity in Armenia",
-"url": "https://armenia.un.org/en/316385-just-transition-people-and-biodiversity-armenia",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Highlights from WHO Country Office in Armenia | Issue 7",
-"url": "https://armenia.un.org/en/316379-highlights-who-country-office-armenia-issue-7",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "2025 UN Country Annual Results Report for Armenia",
-"url": "https://armenia.un.org/en/316380-2025-un-country-annual-results-report-armenia",
-"firstSeenBaku": "2026-10-21 14:13"
-},
-{
-"title": "Assessment on Labour Migration and Trafficking in the Republic of Armenia",
-"url": "https://armenia.un.org/en/310416-assessment-labour-migration-and-trafficking-republic-armenia",
-"firstSeenBaku": "2026-10-21 14:13"
 }
 ],
 "armenianweekly": [
@@ -1762,11 +1196,6 @@
 "title": "Agreement on “unimpeded” TRIPP in the National Assembly. Security unit in Syunik Alpha News Room 21.10.2026",
 "url": "https://alphanews.am/en/21400-2/",
 "firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "(LIVE) Azerbaijani crosses Armenian border. Pashinyan’s fears: detentions underway in Stepanavan. Alpha News Room 21.10.2026",
-"url": "https://alphanews.am/en/projects/live-azerbaijani-crosses-armenian-border-pashinyans-fears-detentions-underway-in-stepanavan-alpha-news-room-21-10-2026/",
-"firstSeenBaku": "2026-10-21 14:13"
 },
 {
 "title": "EEC expects situation with Armenian products to be resolved: Alexander Subbotin October 22 2026, 16:45",
