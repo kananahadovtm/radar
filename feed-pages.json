@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-23T14:18:29.953263+00:00",
-"generatedAtBaku": "2026-10-23 18:18",
+"generatedAt": "2026-10-23T15:15:05.506040+00:00",
+"generatedAtBaku": "2026-10-23 19:15",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "XİN: Rumıniya sahilləri yaxınlığında vurulan gəmidəki Azərbaycan vətəndaşlarının hamısı xilas edilib 18:47 Audio 23 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/xin-ruminiya-sahilleri-yaxinliginda-vurulan-gemideki-azerbaycan-vetendaslarinin-hamisi-xilas-edilib-1007807",
+"firstSeenBaku": "2026-10-23 19:15"
+},
 {
 "title": "Türkmənistanda BMT Günü münasibətilə Azərbaycan xüsusi stendlə təmsil olunub 17:44 23 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/turkmenistanda-bmt-gunu-munasibetile-azerbaycan-xususi-stendle-temsil-olunub-1007791",
@@ -45,11 +50,6 @@
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Aİ lideri: Qara dənizdə Azərbaycan vətəndaşlarının da olduğu mülki gəmi vurulub, 3 nəfər hələ də itkindir 15:01 23 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/ai-lideri-qara-denizde-azerbaycan-vetendaslarinin-da-oldugu-mulki-gemi-vurulub-3-nefer-hele-de-itkindir-1007718",
-"firstSeenBaku": "2026-10-23 16:07"
-},
-{
 "title": "Azərbaycan və Hindistan XİN rəhbərlərinin geniş tərkibdə görüşü keçirilib - YENİLƏNİB-1 12:37 23 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/azerbaycan-ve-hindistan-xin-rehberlerinin-genis-terkibde-gorusu-kecirilib-yenilenib-1-1007617?locale=az",
 "firstSeenBaku": "2026-10-23 13:13"
@@ -60,17 +60,17 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
+"title": "Aİ lideri: Qara dənizdə Azərbaycan vətəndaşlarının da olduğu mülki gəmi vurulub, 3 nəfər hələ də itkindir 15:01 23 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/ai-lideri-qara-denizde-azerbaycan-vetendaslarinin-da-oldugu-mulki-gemi-vurulub-3-nefer-hele-de-itkindir-1007718",
+"firstSeenBaku": "2026-10-23 16:07"
+},
+{
 "title": "Prezident İlham Əliyev Fərhad Xəlilova “İstiqlal” ordenini təqdim edib - YENİLƏNİB 14:33 23 oktyabr 2026",
 "url": "https://apa.az/resmi-xeber/prezident-ilham-eliyev-ferhad-xelilova-istiqlal-ordenini-teqdim-edib-yenilenib-1007658",
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Qara dənizdə Azərbaycan vətəndaşlarının olduğu ticarət gəmisi batıb, bir nəfər ölüb 14:18 23 oktyabr 2026",
-"url": "https://apa.az/hadise/qara-denizde-azerbaycan-vetendaslarinin-oldugu-ticaret-gemisi-batib-bir-nefer-olub-1007703",
-"firstSeenBaku": "2026-10-23 15:10"
-},
-{
-"title": "Türkiyədə Azərbaycan əleyhinə kampaniya hansı həqiqətləri üzə çıxardı? - TƏHLİL 13:55",
+"title": "Türkiyədə Azərbaycan əleyhinə kampaniya hansı həqiqətləri üzə çıxardı? - TƏHLİL 13:55 23 oktyabr 2026",
 "url": "https://apa.az/siyasi/turkiyede-azerbaycan-eleyhine-kampaniya-hansi-heqiqetleri-uze-cixardi-tehlil-1007692",
 "firstSeenBaku": "2026-10-23 14:12"
 }
@@ -97,11 +97,6 @@
 "firstSeenBaku": "2026-10-23 16:07"
 },
 {
-"title": "“Ermənistanla əldə edilmiş irəliləyişdən məmnunuq”",
-"url": "https://qafqazinfo.az/news/detail/ermenistanla-elde-edilmis-irelileyisden-memnunuq-526040",
-"firstSeenBaku": "2026-10-23 14:12"
-},
-{
 "title": "Azərbaycanın “EXPO 2030 Ər-Riyad” sərgisində iştirakına dair müqavilə - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/azerbaycanin-expo-2030-er-riyad-sergisinde-istirakina-dair-muqavile-fotolar-526056",
 "firstSeenBaku": "2026-10-23 16:07"
@@ -120,6 +115,11 @@
 "title": "Qara dənizdə Azərbaycan vətəndaşlarının olduğu gəmi batıb - Ölən var - Video",
 "url": "https://qafqazinfo.az/news/detail/qara-denizde-azerbaycan-vetendaslarinin-oldugu-gemi-batib-olen-var-video-526042",
 "firstSeenBaku": "2026-10-23 15:10"
+},
+{
+"title": "“Ermənistanla əldə edilmiş irəliləyişdən məmnunuq”",
+"url": "https://qafqazinfo.az/news/detail/ermenistanla-elde-edilmis-irelileyisden-memnunuq-526040",
+"firstSeenBaku": "2026-10-23 14:12"
 },
 {
 "title": "“Azərbaycanda 500-ə yaxın hindistanlı tələbə təhsil alır”",
@@ -159,14 +159,24 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
-"title": "Атака на судно с азербайджанцами. Румыния возмущена видео; обновлено 16:50 16:50 2596",
+"title": "Находившиеся на подбитом у берегов Румынии судне азербайджанцы спасены видео; обновлено 19:02; заявление МИД Азербайджана 19:02 3005",
 "url": "https://haqqin.az/newsarchive/396444",
 "firstSeenBaku": "2026-10-23 14:12"
 },
 {
-"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 14:25 2338",
+"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 14:25 2530",
 "url": "https://haqqin.az/newsarchive/396449",
 "firstSeenBaku": "2026-10-23 15:10"
+},
+{
+"title": "Возрождение Шелкового пути: Азербайджан и Узбекистан покоряют Европу",
+"url": "https://haqqin.az/newsarchive/396474",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "Как Минспорта выявило хищение средств в Баку и Губе обновлено 18:41",
+"url": "https://haqqin.az/newsarchive/396411",
+"firstSeenBaku": "2026-10-23 10:10"
 },
 {
 "title": "Баку и Бишкек будут бороться с преступностью",
@@ -182,11 +192,6 @@
 "title": "Мясные дела в Азербайджане",
 "url": "https://haqqin.az/newsarchive/396456",
 "firstSeenBaku": "2026-10-23 16:07"
-},
-{
-"title": "Москва, Вашингтон и Киев садятся за стол переговоров. Названы место и дата встречи обновлено 14:49",
-"url": "https://haqqin.az/newsarchive/396446",
-"firstSeenBaku": "2026-10-23 14:12"
 }
 ],
 "news.am": [
@@ -199,6 +204,36 @@
 "title": "ԱՄՆ-ը նոր ռեակտորի կառուցման ի՞նչ առաջարկ է արել Հայաստանին. Դավիթ Խուդաթյանի պարզաբանումը",
 "url": "https://news.am/hy/news/1069890",
 "firstSeenBaku": "2026-10-23 18:18"
+},
+{
+"title": "19:10 Ալիևի և Էրդողանի զրույցից հետո Թուրքիայի և Ադրբեջանի հարաբերություններում լարվածությունը չի թուլացել",
+"url": "https://news.am/hy/news/1069924",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "19:01 ՆԱՏՕ-ն, ԵՄ-ն և Ուկրաինան ուժեղացնում են ռազմական ներկայությունը ՌԴ-ի և Բելառուսի սահմանների մոտ. ՊՆ",
+"url": "https://news.am/hy/news/1069906",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "18:52 Վրաստանում ձերբակալել, ապա ազատ են արձակել Մոնթե Մելքոնյանի սպանող ներկայացած ադրբեջանցուն",
+"url": "https://news.am/hy/news/1069923",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "18:44 Jazeera Airways-ը ծրագրում է վերսկսել Քուվեյթ–Երևան երթուղով չվերթները",
+"url": "https://news.am/hy/news/1069915",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "18:43 Հայաստանի և Ադրբեջանի միջև փոխանակվել են չնույնականացված ԴՆԹ պրոֆիլներ․ ԱԱԾ. Factor TV",
+"url": "https://news.am/hy/news/1069920",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "18:32 Վրաստանից արտաքսել են Ադրբեջանի և ևս 10 երկրի քաղաքացիների",
+"url": "https://news.am/hy/news/1069907",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "18:15 Վերջին 5–8 տարիների ընթացքում Ռուսաստանը ավելի քան 10 միլիարդ դոլար է ներդրել Ադրբեջանի տնտեսությունում",
@@ -256,16 +291,6 @@
 "firstSeenBaku": "2026-10-23 16:07"
 },
 {
-"title": "15:14 Քննարկվել են Հայաստանի և ՅՈՒՆԵՍԿՕ-ի միջև համագործակցության ընդլայնման հնարավորությունները",
-"url": "https://news.am/hy/news/1069864",
-"firstSeenBaku": "2026-10-23 16:07"
-},
-{
-"title": "15:01 Քաղաքագետ․ Հայաստանի Կենտրոնական բանկի ղեկավարին մոտ ժամանակներս կարող են փոխել",
-"url": "https://news.am/hy/news/1069852",
-"firstSeenBaku": "2026-10-23 16:07"
-},
-{
 "title": "Ուղիղ ԱՄՆ-ն փորձում է համոզե՞լ Փաշինյանին. Մոսկվայի ճնշման ֆոնին պատվիրակություն է եկել Երևան I 14:00",
 "url": "https://news.am/hy/news/1069838",
 "firstSeenBaku": "2026-10-23 14:12"
@@ -274,6 +299,11 @@
 "title": "Ուղիղ Օտարերկրացիներով ավտոբուս է կողաշրջվել Երևանում. 10–ից ավելի վիրավոր կա I ԼՈՒՐԵՐ I 12:00",
 "url": "https://news.am/hy/news/1069806",
 "firstSeenBaku": "2026-10-23 12:16"
+},
+{
+"title": "Թրամփի փեսայի գաղտնի կապերը․ ադրբեջանական բանկից փոխանցվել են հարյուրավոր միլիոնավոր դոլարներ",
+"url": "https://news.am/hy/stories/3101",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "Փաշինյանին չի մտահոգում Հայաստանի անվտանգությունն ու սահմանների պաշտպանությունը. Կարապետյան",
@@ -311,11 +341,6 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
-"title": "Ինչպես է Փաշինյանը փայլեցնում իր կոշիկները",
-"url": "https://news.am/hy/stories/3085",
-"firstSeenBaku": "2026-10-23 10:10"
-},
-{
 "title": "«Հրապարակ»․ Ճնշում են բոլոր կողմերից. Փաշինյանը հանրաքվեի է նախապատրաստվում հոկտեմբերի 23, 08:32",
 "url": "https://news.am/hy/news/1069756",
 "firstSeenBaku": "2026-10-23 09:11"
@@ -344,6 +369,11 @@
 "title": "հոկտեմբերի 23, 13:36 Միլիարդների գաղտնի հաշիվներ և հեռախոսի կոտրում․ Թրամփի փեսային մեղադրել են Մերձավոր Արևելքի հետ գաղտնի ֆինանսական կապերի մեջ ԱՄՆ նախագահ Դոնալդ Թրամփի փեսա Ջարեդ Քուշները հայտնվել է աղմկահարույց սկանդալի կենտրոնում",
 "url": "https://news.am/hy/news/1069807",
 "firstSeenBaku": "2026-10-23 14:12"
+},
+{
+"title": "Քննարկվել են Հայաստանի և ՅՈՒՆԵՍԿՕ-ի միջև համագործակցության ընդլայնման հնարավորությունները հոկտեմբերի 23, 15:14",
+"url": "https://news.am/hy/news/1069864",
+"firstSeenBaku": "2026-10-23 16:07"
 }
 ],
 "armenpress-hy": [
@@ -393,7 +423,7 @@
 "firstSeenBaku": "2026-10-23 18:18"
 },
 {
-"title": "18:00 Հայկական բնության մասին պատմող այգի՝ Երևանի սրտում",
+"title": "18:16 Հայկական բնության մասին պատմող այգի՝ Երևանի սրտում",
 "url": "https://armenpress.am/hy/article/1263669",
 "firstSeenBaku": "2026-10-23 18:18"
 },
@@ -406,16 +436,6 @@
 "title": "Տնտեսություն Հայաստանն ու ԱՄՆ-ն քննարկել են տնտեսական համագործակցությունը խորացնելու հնարավորությունները ԱՄՆ Միջազգային զարգացման ֆինանսական կորպորացիայի (DFC) քաղաքականության գծով գլխավոր պատասխանատու Քերոլայն Վիկն այցելել է Հայաստան՝ քննարկելու հայ-ամերիկյան տնտե... 15:58, 23 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263643",
 "firstSeenBaku": "2026-10-23 16:07"
-},
-{
-"title": "Տնտեսություն Սեպտեմբերին գրանցված աշխատատեղերի նոր ռեկորդ է արձանագրվել․ Փաշինյան 11:59, 22 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263508",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Լուսանկար Նիկոլ Փաշինյանի ճեպազրույցը 13:02, 22 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263526",
-"firstSeenBaku": "2026-10-22 13:15"
 },
 {
 "title": "Տեսանյութ Հյուրընկալությունից ջերմ վերաբերմունք. COP17-ի մասնակիցները Հայաստանի ու հայերի մասին 09:17, 23 հոկտեմբերի",
@@ -436,11 +456,6 @@
 "title": "Հայաստան ՀՀ ԿԳՄՍ փոխնախարարը «Կինոդարան» հարթակի թիմի հետ քննարկել է համագործակցության հնարավորությունները 16:47, 22 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263555",
 "firstSeenBaku": "2026-10-22 17:25"
-},
-{
-"title": "Չինաստան Երևանն ու Պեկինը կընդլայնեն գործակցությունը՝ քաղաքային զարգացման արդյունավետ լուծումների ու հաջողված փորձի փոխանակման ուղղությամբ Երևանի քաղաքապետ Տիգրան Ավինյանն ընդունել է Պեկինի քաղաքապետի տեղակալ Սիոն Վընին: Չինաստանի մայրաքաղաքի պատվիրակությունը Երևանում է COP17-ի շրջանակում:«Արմենպրե.",
-"url": "https://armenpress.am/hy/article/1263509",
-"firstSeenBaku": "2026-10-22 12:19"
 }
 ],
 "armenpress-en": [
@@ -485,6 +500,11 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
+"title": "Armenia Human, animal and environmental health brought together in COP17 “One Health” discussion 18:13, 23 October",
+"url": "https://armenpress.am/en/article/1263659",
+"firstSeenBaku": "2026-10-23 18:18"
+},
+{
 "title": "Armenia One seriously injured, two in moderate condition after Yerevan bus crash 16:12, 23 October",
 "url": "https://armenpress.am/en/article/1263645",
 "firstSeenBaku": "2026-10-23 17:20"
@@ -493,11 +513,6 @@
 "title": "Armenia Climate change and biodiversity as key components of education: COP17 discussion 16:07, 23 October",
 "url": "https://armenpress.am/en/article/1263642",
 "firstSeenBaku": "2026-10-23 17:20"
-},
-{
-"title": "Armenia Rain showers expected in parts of Armenia 14:38, 23 October",
-"url": "https://armenpress.am/en/article/1263630",
-"firstSeenBaku": "2026-10-23 15:10"
 },
 {
 "title": "17:14 Central Bank of Armenia: exchange rates and prices of precious metals - 23-10-26",
@@ -525,11 +540,6 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
-"title": "Economy PM says Armenia sets new record in number of registered jobs 12:05, 22 October",
-"url": "https://armenpress.am/en/article/1263508",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
 "title": "Videos COP17 delegates highlight Armenia’s warm hospitality 09:20, 23 October",
 "url": "https://armenpress.am/en/article/1263593",
 "firstSeenBaku": "2026-10-23 10:10"
@@ -538,28 +548,18 @@
 "title": "Education Major EU-funded project to expand AI research and innovation launched in Armenia 15:04, 22 October",
 "url": "https://armenpress.am/en/article/1263542",
 "firstSeenBaku": "2026-10-22 15:12"
-},
-{
-"title": "China Yerevan, Beijing discuss cooperation in traffic management, air pollution reduction during COP17 Yerevan Mayor Tigran Avinyan received Beijing Vice Mayor Wen Xian, who is leading a delegation to COP17.City Hall said in a press release that, emphasizing the ... 12:11, 22 October",
-"url": "https://armenpress.am/en/article/1263509",
-"firstSeenBaku": "2026-10-22 12:19"
 }
 ],
 "azatutyun": [
 {
-"title": "Հայաստանն ու ԱՄՆ-ը քննարկել են նոր միջուկային էներգաբլոկի կառուցումը",
-"url": "https://www.azatutyun.am/a/33882803.html",
-"firstSeenBaku": "2026-10-23 13:13"
+"title": "Մելանյա Թրամփի ջանքերով Օլեշկիում հրադադար է հաստատվում",
+"url": "https://www.azatutyun.am/a/melanya-trampi-jankerov-%D6%85leshkioum-hradadar-e-hastatvoum/33883046.html",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "Հայաստանի անդամակցության հարցը կարող է քննարկվել նոյեմբերին՝ ՀԱՊԿ նիստում. Կազմակերպության գլխավոր քարտուղար",
 "url": "https://www.azatutyun.am/a/hayastany-pastatsi-arden-dours-e-ekel-hapk-its-kazmakerpoutyan-glkhavor-kartoughar/33882711.html",
 "firstSeenBaku": "2026-10-23 10:10"
-},
-{
-"title": "Հայաստանում ներքաղաքական անկայունություն հրահրելու երրորդ փորձն է. Փաշինյանը՝ ԵԱՏՄ զեկույցի մասին",
-"url": "https://www.azatutyun.am/a/33881487.html",
-"firstSeenBaku": "2026-10-22 13:15"
 },
 {
 "title": "Երևանն առաջիկայում կսկսի Եվրամիությանն անդամակցելու դիմումի գործընթացը. Փաշինյան",
@@ -649,9 +649,19 @@
 "firstSeenBaku": "2026-10-22 23:17"
 },
 {
+"title": "«Արտքոմփանի» կառուցապատող ընկերությունը նվաճել է Երևանի նորակառույցների շուկայի շուրջ 15%-ը (տեսանյութ, լուսանկար)",
+"url": "https://www.tert.am/am/news/2026/10/23/artcompany-/4287915",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
 "title": "Converse Mobile-ը Հայաստանի լավագույն մոբայլ բանկային հավելվածն է՝ ըստ Global Finance-ի",
 "url": "https://www.tert.am/am/news/2026/10/23/convers-bank/4287901",
 "firstSeenBaku": "2026-10-23 17:20"
+},
+{
+"title": "Հայաստանի և Ադրբեջանի միջև համագործակցության շրջանակներում փոխանակվել են չնույնականացված ԴՆԹ պրոֆիլներ․ ԱԱԾ",
+"url": "https://www.tert.am/am/news/2026/10/23/armenia-azerbaijan-/4287914",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "Փաշինյանը հանրաքվեի է նախապատրաստվում, քանի որ այլևս չի կարողանում դիմադրել Ալիևի ճնշումներին. «Հրապարակ»",
@@ -696,11 +706,6 @@
 "firstSeenBaku": "2026-10-22 17:25"
 },
 {
-"title": "2026-10-22 12:00:00 Նիկոլ Փաշինյանի ճեպազրույցը",
-"url": "https://hetq.am/hy/article/184887",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
 "title": "MapFact. որքա՞ն տարածք է օկուպացրել Ադրբեջանը Կապան-Մեղրի հատվածում 2020 թ.-ից 2026-10-08T18:03:00+04:00",
 "url": "https://hetq.am/hy/article/184531",
 "firstSeenBaku": "2026-10-22 21:11"
@@ -711,6 +716,16 @@
 "title": "Մեծ վթար` Երեւան-Երասխ ճանապարհին. ինչ է կատարվում",
 "url": "https://hraparak.am/am/post/3ed0052f3a3c1edcd124fb484a3c7748",
 "firstSeenBaku": "2026-10-22 19:14"
+},
+{
+"title": "Ինչու «Ուժեղ Հայաստանը» դեմ չէ ԹՐԻՓՓ-ին",
+"url": "https://hraparak.am/am/post/f5b7e022fc01b7f48f8e3148e89a85e5",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "Մելանյա Թրամփի միջնորդությամբ տեղային հրադադար է հաստատվել",
+"url": "https://hraparak.am/am/post/3b403688f5bf7fff79732db80f0f02b4",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "Փաշինյանը ստախոսությունը դարձրել է իշխանության ամրապնդման գլ...",
@@ -795,9 +810,14 @@
 "firstSeenBaku": "2026-10-23 18:18"
 },
 {
-"title": "Ռուսաստանը Հայաստանում նոր ապակայունացում է նախապատրաստում. Ալիևն անմասն չէ Հեղինակ՝ Ռուբեն Մեհրաբյան 15:40 2026.10.23",
-"url": "https://www.1in.am/3771816.html",
-"firstSeenBaku": "2026-10-23 16:07"
+"title": "Հայաստանը միջազգային կիբերհանցավորության թիրախում. հյուրանոցում բացահայտվել է վտանգավոր սխեմա Հեղինակ՝ Աբրահամ Թադևոսյան 19:00 2026.10.23",
+"url": "https://www.1in.am/3771810.html",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "Վաշինգտոնի 205 միլիարդը և Հայաստանի չներկայացված ներդրումային հաշիվը Հեղինակ՝ Արամ Ամատունի 18:20 2026.10.23",
+"url": "https://www.1in.am/3771786.html",
+"firstSeenBaku": "2026-10-23 19:15"
 },
 {
 "title": "Հայաստանի անկախության գինը՝ Մոսկվայի տնտեսական սպառնալիքների ներքո",
@@ -820,9 +840,9 @@
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
-"title": "TRIPP-ի կառուցմամբ՝ ՀՀ֊Թուրքիա սահմանի բացման հարցում Բաքվի առարկությունը կդառնա ժամանակավրեպ",
-"url": "https://www.1in.am/3771510.html",
-"firstSeenBaku": "2026-10-22 22:07"
+"title": "Ռուսաստանը Հայաստանում նոր ապակայունացում է նախապատրաստում. Ալիևն անմասն չէ",
+"url": "https://www.1in.am/3771816.html",
+"firstSeenBaku": "2026-10-23 16:07"
 },
 {
 "title": "Ի տարբերություն գործադիրի, մինչև 2025-ի մայիսի 21-ը Արցախի ԱԺ-ն չի կարող լուծարվել Հեղինակ՝ Սիրանույշ Պապյան Հայաստանն ունի դատարան, եթե մարդիկ Արցախում թալանել են պետական բյուջեն, ամոթ նրանց, կոպեկ առ կոպեկ պետք է վերադարձնեն, այլապես վատ …",
@@ -835,8 +855,13 @@
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
-"title": "Հայաստանի քաղաքաշինության կոմիտեի և ՄԱԿ-ի Հաբիթաթի միջև ստորագրվել է մտադրությունների նամակ Հայաստանի քաղաքաշինության կոմիտեում հոկտեմբերի 23-ին հյուրընկալել են COP17-ի շրջանակում Հայաստան ժամանած ՄԱԿ-ի Մարդկային բնակավայրերի ծրագրի (Հաբիթաթ) պատվիրակությանը։ Կոմիտեից հայտնում են, … 16:40 2026.10.23",
-"url": "https://www.1in.am/3771832.html",
+"title": "Օդի ջերմաստիճանն էապես չի փոխվի Երևանում 23-ի ցերեկը, 24-ին, 26-27-ին, 28-ի գիշերը սպասվում է առանց տեղումների եղանակ։ Հոկտեմբերի 25-ին և 28-իսպասվում է կարճատև անձրև։ Հանրապետության … 17:40 2026.10.23",
+"url": "https://www.1in.am/3771859.html",
+"firstSeenBaku": "2026-10-23 18:18"
+},
+{
+"title": "Երևանում ավտոբուս է կողաշրջվել․ նախնական տվյալներով տուժել է 11 անձ Երևանի Աճառյան փողոցում «Հյունդայի» մակնիշի ավտոբուս է կողաշրջվել։ Նախնական տվյալներով՝ տուժել է 11 անձ, որոնք տեղափոխվել են բժշկական կենտրոններ։ Ինչպես …",
+"url": "https://www.1in.am/3771835.html",
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
@@ -855,8 +880,8 @@
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
-"title": "Երևանում ավտոբուս է կողաշրջվել․ նախնական տվյալներով տուժել է 11 անձ",
-"url": "https://www.1in.am/3771835.html",
+"title": "Հայաստանի քաղաքաշինության կոմիտեի և ՄԱԿ-ի Հաբիթաթի միջև ստորագրվել է մտադրությունների նամակ",
+"url": "https://www.1in.am/3771832.html",
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
@@ -875,18 +900,13 @@
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Պուտին-Թրամփ-Ծինփին հանդիպման օրակարգը չպետք է մեկ թեմայով սահմանափակվի. Ռուդենկո",
-"url": "https://www.1in.am/3771765.html",
-"firstSeenBaku": "2026-10-23 14:12"
-},
-{
 "title": "Բաքվի և Անկարայի հակասությունների պատճառն աշխարհաքաղաքական է. Թուրքիայի համար Հայաստանը կարևոր է",
 "url": "https://www.1in.am/3771544.html",
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
-"title": "2026-10-22 «Թարս ապտակ» ԵԱՏՄ-ին՝ հանուն Հայաստանի արժանապատվության",
-"url": "https://www.1in.am/3771300.html",
+"title": "TRIPP-ի կառուցմամբ՝ ՀՀ֊Թուրքիա սահմանի բացման հարցում Բաքվի առարկությունը կդառնա ժամանակավրեպ",
+"url": "https://www.1in.am/3771510.html",
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
@@ -911,6 +931,11 @@
 }
 ],
 "civilnet": [
+{
+"title": "18:24 Life under threat in Armenia’s Shikahogh forest",
+"url": "https://civilnet.am/en/news/1014963",
+"firstSeenBaku": "2026-10-23 19:15"
+},
 {
 "title": "17:45 Armenia and U.S. discuss new nuclear plant as Yerevan weighs Russian offer",
 "url": "https://civilnet.am/en/news/1014961",
@@ -947,11 +972,6 @@
 "firstSeenBaku": "2026-10-22 14:15"
 },
 {
-"title": "22 October, 12:34 Diaspora chief says Armenia may let state panel, not churches, confirm Armenian origin for citizenship",
-"url": "https://civilnet.am/en/news/1014929",
-"firstSeenBaku": "2026-10-22 13:15"
-},
-{
 "title": "Noted Armenia’s nuclear future and Aliyev’s threats 15 October, 20:05",
 "url": "https://civilnet.am/en/news/1014798",
 "firstSeenBaku": "2026-10-22 21:11"
@@ -979,19 +999,29 @@
 ],
 "oc-media": [
 {
+"title": "Indian Foreign Minister visits Azerbaijan as relations appear to be on the mend",
+"url": "https://oc-media.org/indian-foreign-minister-visits-azerbaijan-as-relations-appear-to-be-on-the-mend/",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
 "title": "Pashinyan claims ‘circles in Russia, Armenia’ seek to ‘eliminate’ Armenia’s independence",
 "url": "https://oc-media.org/pashinyan-claims-circles-in-russia-armenia-seek-to-eliminate-armenias-independence/",
 "firstSeenBaku": "2026-10-22 19:14"
 },
 {
-"title": "Erdoğan calls Aliyev as almost 90 allegedly detained in one village’s anti-hijab ban protest",
-"url": "https://oc-media.org/erdogan-calls-aliyev-as-almost-90-allegedly-detained-in-one-villages-anti-hijab-ban-protest/",
-"firstSeenBaku": "2026-10-22 17:25"
-},
-{
 "title": "Review | Five Armenian shorts at the 2026 Kutaisi International Short Film Festival",
 "url": "https://oc-media.org/review-five-armenian-shorts-at-the-2026-kutaisi-international-short-film-festival/",
 "firstSeenBaku": "2026-10-22 17:25"
+},
+{
+"title": "Azerbaijan–Israel Relations",
+"url": "https://oc-media.org/tag/azerbaijan-israel-relations/",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
+"title": "‘Uproar’ after Israeli President Herzog bypasses Turkish ban using commercial Azerbaijani jet",
+"url": "https://oc-media.org/uproar-after-israeli-president-herzog-bypasses-turkish-ban-using-commercial-azerbaijani-jet/",
+"firstSeenBaku": "2026-10-23 19:15"
 }
 ],
 "jam-news": [
@@ -1047,6 +1077,11 @@
 ],
 "armenianweekly": [
 {
+"title": "ANCA post-election Townhall to map out Armenian American agenda",
+"url": "https://armenianweekly.com/2026/10/23/anca-post-election-townhall-to-map-out-armenian-american-agenda/",
+"firstSeenBaku": "2026-10-23 19:15"
+},
+{
 "title": "Lack of assurances and transparency from Yerevan on TRIPP",
 "url": "https://armenianweekly.com/2026/10/22/lack-of-assurances-and-transparency-from-yerevan-on-tripp/",
 "firstSeenBaku": "2026-10-22 19:14"
@@ -1062,81 +1097,12 @@
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Armenia Fest 2026 brought Armenian culture to Royal Oak",
-"url": "https://armenianweekly.com/2026/10/07/armenia-fest-2026-brought-armenian-culture-to-royal-oak/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Armenian National Committees set priorities for Artsakh, Armenia and diaspora advocacy",
-"url": "https://armenianweekly.com/2026/09/30/armenian-national-committees-set-priorities-for-artsakh-armenia-and-diaspora-advocacy/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "FOX 11 LA celebrates Armenian Heritage Month with cultural special",
-"url": "https://armenianweekly.com/2026/04/12/fox-11-la-celebrates/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Garod Collective knows what New York Armenians are longing for: An interview…",
-"url": "https://armenianweekly.com/2026/02/02/garod-collective-knows-what-new-york-armenians-are-longing-for-an-interview-with-co-founders-cynthia-nahhas-and-nanor-vosgueritchian/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "The Armenian community in São Paulo, Brazil: Reviving youth through sports, culture…",
-"url": "https://armenianweekly.com/2026/01/15/the-armenian-community-in-sao-paulo-brazil-reviving-youth-through-sports-culture-and-heritage/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "October 22, 2026 How a medical mission connected one student’s future to Armenia",
+"title": "How a medical mission connected one student’s future to Armenia",
 "url": "https://armenianweekly.com/2026/10/22/how-a-medical-mission-connected-one-students-future-to-armenia/",
 "firstSeenBaku": "2026-10-22 20:12"
 }
 ],
-"armenian-assembly": [
-{
-"title": "ARMENIAN ASSEMBLY OF AMERICA",
-"url": "https://www.armenian-assembly.org",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Azerbaijan's Genocidal Intent",
-"url": "https://www.armenian-assembly.org/azerbaijangenocideintent",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Congressional Caucus on Armenian Issues",
-"url": "https://www.armenian-assembly.org/armenian-caucus",
-"firstSeenBaku": "2026-10-22 12:19"
-}
-],
-"arfd": [
-{
-"title": "Armenian National Committee-International",
-"url": "https://www.arfd.am/eng/news_cats/armenian-national-committee-international/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "ARF Bureau Member Lilit Galstyan Calls for OSCE PA",
-"url": "https://www.arfd.am/eng/news/8749/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "A Government Strong Against Armenians, Weak Before",
-"url": "https://www.arfd.am/eng/news/8745/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Armenian National Committees Set Priorities on Art",
-"url": "https://www.arfd.am/eng/news/8740/",
-"firstSeenBaku": "2026-10-22 12:19"
-}
-],
 "301am": [
-{
-"title": "FREE ARMENIAN HOSTAGES",
-"url": "https://www.301.am/free-armenian-hostages/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
 {
 "title": "From Girls’ Education to Decades of Neglect: The Story of Yerevan’s Historic Hripsimyan Gymnasium",
 "url": "https://www.301.am/2026/10/23/from-girls-education-to-decades-of-neglect-the-story-of-yerevans-historic-hripsimyan-gymnasium/",
@@ -1166,89 +1132,9 @@
 "title": "Armenian Who Got Lost Was Tortured to Death in Baku; Armed Azerbaijani Who Shot Mother May Have Gotten Lost, Pashinyan Says",
 "url": "https://www.301.am/2026/10/08/azerbaijan-tortured-armenian-who-got-lost-across-border-while-pashinyan-suggests-armed-azerbaijani-soldier-may-have-done-the-same/",
 "firstSeenBaku": "2026-10-23 00:09"
-},
-{
-"title": "Armenians in Iran: Centuries of History and Community",
-"url": "https://www.301.am/2026/04/02/armenians-in-iran-centuries-of-history-and-community/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "A Relic That Survived the Armenian Genocide",
-"url": "https://www.301.am/2026/04/24/a-relic-that-survived-the-armenian-genocide/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Ajapahyans: The Final Remnants of Armenian Royalty",
-"url": "https://www.301.am/2025/06/28/ajapahyans-the-final-remnants-of-armenian-royalty/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Archaeologists Uncover One of the Region’s Oldest Settlements in Yerevan’s Silikyan District",
-"url": "https://www.301.am/2026/03/25/archaeologists-uncover-one-of-the-regions-oldest-settlements-in-yerevans-silikyan-district/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Historic Armenian Church Fragments Discovered During Restoration Works in Central Tbilisi",
-"url": "https://www.301.am/2026/10/05/historic-armenian-church-fragments-discovered-during-restoration-works-in-central-tbilisi/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "First-Ever Mayoral Primary Elections in Armenia Elect New Gyumri Interim Mayor",
-"url": "https://www.301.am/2024/12/11/first-ever-mayoral-primary-elections-in-armenia-elect-new-gyumri-interim-mayor/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Azerbaijan Lectures Armenia About Peace While Armenians Are Shot in Shaki and Held Hostage in Baku",
-"url": "https://www.301.am/2026/10/02/azerbaijan-lectures-armenia-about-peace-while-armenians-are-shot-in-shaki-and-held-hostage-in-baku/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Pashinyan-Ordered Church Report Uses Disputed Allegations to Build Case for Leadership Change",
-"url": "https://www.301.am/2026/09/25/pashinyan-ordered-church-report-uses-disputed-allegations-to-build-case-for-leadership-change/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Azerbaijan Builds A New Narrative Of Armenian “Provocations.” What Does The New Messaging Signal?",
-"url": "https://www.301.am/2026/09/23/azerbaijan-builds-a-new-narrative-of-armenian-provocations-what-does-the-new-messaging-signal/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Foreign Diplomats Legitimize Azerbaijan’s Ethnic Cleansing Through Visit to Occupied Artsakh",
-"url": "https://www.301.am/2026/09/12/foreign-diplomats-legitimize-azerbaijans-ethnic-cleansing-through-visit-to-occupied-artsakh/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Stage Props and Photo Ops: Pashinyan’s Shameless Use and Abuse of the Armenian Church",
-"url": "https://www.301.am/2026/08/30/stage-props-and-photo-ops-pashinyans-shameless-use-and-abuse-of-the-armenian-church/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Are Armenia’s Military Deaths In Non-combat Circumstances Isolated Incidents Or Evidence Of Systemic Problems Within The Armed Forces?",
-"url": "https://www.301.am/2026/08/28/are-armenias-military-deaths-in-non-combat-circumstances-isolated-incidents-or-evidence-of-systemic-problems-within-the-armed-forces/",
-"firstSeenBaku": "2026-10-22 12:19"
 }
 ],
 "alphanews": [
-{
-"title": "5 portraits from the history of the Armenian people",
-"url": "https://alphanews.am/en/projects_cat/5-portraits-from-the-history-of-the-armenian-people/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "7 portraits from the history of the Armenian people",
-"url": "https://alphanews.am/en/projects_cat/7-portraits-from-the-history-of-the-armenian-people/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Armenian literature: Audiobook",
-"url": "https://alphanews.am/en/projects_cat/armenian-literature-audiobook-en/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "What will happen in 2025? Artsakh, Armenia, New World Order",
-"url": "https://alphanews.am/en/projects_cat/what-will-happen-in-2025-artsakh-armenia-new-world-order-eng/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
 {
 "title": "Yerevan’s fate to be decided in Moscow. Is the CSTO turning its back on Pashinyan? Alpha News Room 23.10.2026 October 23 2026, 17:00",
 "url": "https://alphanews.am/en/projects/yerevans-fate-to-be-decided-in-moscow-is-the-csto-turning-its-back-on-pashinyan-alpha-news-room-23-10-2026/",
@@ -1260,11 +1146,6 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
-"title": "Pashinyan escalates conflict with Putin. Gas price rise, economic collapse Alpha News Room 22.10.2026",
-"url": "https://alphanews.am/en/21400-2/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
 "title": "Beniamin Matevosyan: Pashinyan is escalating the conflict with Putin",
 "url": "https://alphanews.am/en/projects/beniamin-matevosyan-pashinyan-is-escalating-the-conflict-with-putin/",
 "firstSeenBaku": "2026-10-23 12:16"
@@ -1273,31 +1154,6 @@
 "title": "It is very difficult now to separate the issue of a new nuclear power plant in Armenia from the overall context of relations with Russia: Konstantin Simonov October 23 2026, 15:00",
 "url": "https://alphanews.am/en/it-is-very-difficult-now-to-separate-the-issue-of-a-new-nuclear-power-plant-in-armenia-from-the-overall-context-of-relations-with-russia-konstantin-simonov/",
 "firstSeenBaku": "2026-10-23 16:07"
-},
-{
-"title": "“Like in a big family”: Chaika on Russia-Armenia relations September 08 2026, 16:20",
-"url": "https://alphanews.am/en/like-in-a-big-family-chaika-on-russia-armenia-relations/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "European Commission declines to confirm visa-free regime with Armenia by 2029 September 07 2026, 20:40",
-"url": "https://alphanews.am/en/european-commission-declines-to-confirm-visa-free-regime-with-armenia-by-2029/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Border crossing points connect peoples and economies: statement September 07 2026, 12:20",
-"url": "https://alphanews.am/en/border-crossing-points-connect-peoples-and-economies-statement/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Portraits from the History of Armenian People. Nubar Pasha (Nubar Nubarian)",
-"url": "https://alphanews.am/en/history/portraits-from-the-history-of-armenian-people-nubar-pasha-nubar-nubarian/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Ivan Aivazovsky. Portraits from the History of Armenian People",
-"url": "https://alphanews.am/en/history/ivan-aivazovsky-portraits-from-the-history-of-armenian-people/",
-"firstSeenBaku": "2026-10-22 12:19"
 },
 {
 "title": "Nice authorities propose making Armenian prisoners held by Baku honorary citizens of the city October 23 2026, 13:30",
@@ -1318,21 +1174,6 @@
 "title": "EAEU remains Armenia’s key economic partner: analysis October 22 2026, 15:45",
 "url": "https://alphanews.am/en/eaeu-remains-armenias-key-economic-partner-analysis/",
 "firstSeenBaku": "2026-10-22 16:11"
-},
-{
-"title": "Armenian schoolchildren win special prize at 37th EU Contest for Young Scientists in Germany September 29 2026, 11:50",
-"url": "https://alphanews.am/en/armenian-schoolchildren-win-special-prize-at-37th-eu-contest-for-young-scientists-in-germany/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Pashinyan “reveals” reason for extremely low knowledge levels among 15-year-old Armenian students September 11 2026, 13:30",
-"url": "https://alphanews.am/en/pashinyan-reveals-reason-for-extremely-low-knowledge-levels-among-15-year-old-armenian-students/",
-"firstSeenBaku": "2026-10-22 12:19"
-},
-{
-"title": "Awards Ceremony for the “Top 100 Students of Armenia” Competition: Presentation of Certificates August 18 2026, 13:20",
-"url": "https://alphanews.am/en/awards-ceremony-for-the-top-100-students-of-armenia-competition-presentation-of-certificates/",
-"firstSeenBaku": "2026-10-22 12:19"
 },
 {
 "title": "Pashinyan escalates conflict with Putin. Gas price rise, economic collapse Alpha News Room 22.10.2026",
