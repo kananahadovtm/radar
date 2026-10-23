@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-23T06:10:46.735978+00:00",
-"generatedAtBaku": "2026-10-23 10:10",
+"generatedAt": "2026-10-23T07:25:04.171656+00:00",
+"generatedAtBaku": "2026-10-23 11:25",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,22 +9,22 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 53,
-"HRAPARAKAM": 10,
-"ArmenianVendetta": 14,
+"bagramyan26": 58,
+"HRAPARAKAM": 14,
+"ArmenianVendetta": 15,
 "caucasar": 6
 },
 "pages": {
-"apa": 11,
-"haqqin": 6,
-"news.am": 32,
+"apa": 10,
+"qafqazinfo": 14,
+"haqqin": 7,
+"news.am": 24,
 "armenpress-hy": 19,
-"armenpress-en": 18,
-"azatutyun": 11,
+"armenpress-en": 20,
+"azatutyun": 12,
 "tert": 13,
-"hetq": 7,
-"hraparak": 14,
-"1in": 20,
+"hetq": 8,
+"1in": 19,
 "primeminister": 0,
 "civilnet": 11,
 "oc-media": 4,
@@ -38,15 +38,16 @@
 "armenianweekly": 8,
 "armenian-assembly": 3,
 "arfd": 4,
-"301am": 17
+"301am": 17,
+"alphanews": 29
 },
-"search": 187
+"search": 204
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
-"qafqazinfo": "403 Client Error: Forbidden for url: https://qafqazinfo.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"hraparak": "HTTPSConnectionPool(host='hraparak.am', port=443): Read timed out. (read timeout=30)",
 "eeas-press": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/eeas/press-material_en",
 "eeas-azerbaijan": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/azerbaijan_en",
 "eeas-armenia": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/armenia_en",
@@ -55,7 +56,6 @@
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
-"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/",
-"alphanews": "HTTPSConnectionPool(host='alphanews.am', port=443): Read timed out. (read timeout=30)"
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
 }
 }
