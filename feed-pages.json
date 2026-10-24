@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-24T17:06:26.537822+00:00",
-"generatedAtBaku": "2026-10-24 21:06",
+"generatedAt": "2026-10-24T18:01:36.574770+00:00",
+"generatedAtBaku": "2026-10-24 22:01",
 "hours": 30,
 "pages": {
 "apa": [
@@ -50,11 +50,6 @@
 "firstSeenBaku": "2026-10-24 12:05"
 },
 {
-"title": "Azərbaycanda ötən gün 50 şübhəli saxlanılıb 10:49 24 oktyabr 2026",
-"url": "https://apa.az/hadise/azerbaycanda-oten-gun-50-subheli-saxlanilib-1007894",
-"firstSeenBaku": "2026-10-24 11:19"
-},
-{
 "title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899?locale=az",
 "firstSeenBaku": "2026-10-24 13:06"
@@ -85,6 +80,11 @@
 "title": "Vurulan gəmidə sağ qalan azərbaycanlıların - Fotosu",
 "url": "https://qafqazinfo.az/news/detail/vurulan-gemide-sag-qalan-azerbaycanlilarin-fotosu-526083",
 "firstSeenBaku": "2026-10-24 00:04"
+},
+{
+"title": "98 il sonra “Turandot” yenidən Azərbaycan səhnəsində - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/98-il-sonra-turandot-yeniden-azerbaycan-sehnesinde-fotolar-526179",
+"firstSeenBaku": "2026-10-24 22:01"
 },
 {
 "title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
@@ -139,11 +139,6 @@
 ],
 "haqqin": [
 {
-"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 4891",
-"url": "https://haqqin.az/newsarchive/396449",
-"firstSeenBaku": "2026-10-23 15:10"
-},
-{
 "title": "Чемпионат мира по футболу: Азербайджан легко разобрался с Восточным Тимором обновлено 20:48",
 "url": "https://haqqin.az/newsarchive/396508",
 "firstSeenBaku": "2026-10-24 12:05"
@@ -184,6 +179,11 @@
 "title": "Երևան–Մոսկվա չվերթն իրականացնող ինքնաթիռը վայրէջք է արել Օմսկում",
 "url": "https://news.am/hy/news/1070029",
 "firstSeenBaku": "2026-10-24 15:04"
+},
+{
+"title": "21:39 Իրանը կորցնում է ցամաքային առևտրային ուղիները. Իրաքը և Պակիստանը փակում են առանցքային սահմանային անցակետերը․ ԶԼՄ",
+"url": "https://news.am/hy/news/1070092",
+"firstSeenBaku": "2026-10-24 22:01"
 },
 {
 "title": "19:05 Փեզեշքիանը կոչ է արել Իրանը դուրս բերել «ո՛չ պատերազմ, ո՛չ խաղաղություն» վիճակից",
@@ -234,11 +234,6 @@
 "title": "15:59 Դատական համակարգը ո՞նց ա անկախ. թեժ խոսակցություն Փաշինյանի եւ քաղաքացու միջեւ",
 "url": "https://news.am/hy/news/1070046",
 "firstSeenBaku": "2026-10-24 16:05"
-},
-{
-"title": "14:36 Եղանակը Հայաստանում. տեղումներ են սպասվում",
-"url": "https://news.am/hy/news/1070030",
-"firstSeenBaku": "2026-10-24 15:04"
 },
 {
 "title": "Ուղիղ Փաշինյանի շանտաժը կաշխատի՞. փորձելու են «գողանալ» պատգամավորների I ԼՈՒՐԵՐ I 20:00",
@@ -341,6 +336,11 @@
 "firstSeenBaku": "2026-10-23 20:15"
 },
 {
+"title": "Եղանակը Հայաստանում. տեղումներ են սպասվում հոկտեմբերի 24, 14:36",
+"url": "https://news.am/hy/news/1070030",
+"firstSeenBaku": "2026-10-24 15:04"
+},
+{
 "title": "Հայաստանը դարձել է Եվրոպայի մշակութային ժառանգության առաջատար զբոսաշրջային ուղղությունը հոկտեմբերի 23, 20:45",
 "url": "https://news.am/hy/news/1069919",
 "firstSeenBaku": "2026-10-23 21:13"
@@ -362,11 +362,6 @@
 }
 ],
 "armenpress-hy": [
-{
-"title": "Հայաստանի մի շարք համայնքներում գործողություններ են իրականացվում ընտրական հանցագործությունների գործերով․ կան ձերբակալվածներ 13:13, 24 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263708",
-"firstSeenBaku": "2026-10-24 14:06"
-},
 {
 "title": "Հայաստան Վարչապետն առաջարկել է արհեստական բանականությամբ գնահատել խաղահրապարակների նորոգման ժամկետները Վարչապետ Նիկոլ Փաշինյանն առաջարկել է դիտարկել արհեստական բանականության գործիքների կիրառումը՝ բակային խաղահրապարակների նորոգման անհրաժեշտությունն ու ժամկետները գ... 17:36, 24 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263730",
@@ -463,11 +458,6 @@
 "title": "Politics India’s Jaishankar welcomes Armenia-Azerbaijan peace process India’s Foreign Minister S. Jaishankar has welcomed the peace process between Armenia and Azerbaijan.The Azerbaijani APA news agency quoted Jaishankar as saying... 15:36, 23 October",
 "url": "https://armenpress.am/en/article/1263636",
 "firstSeenBaku": "2026-10-23 16:07"
-},
-{
-"title": "Politics CSTO secretary general says Armenia has \"effectively withdrawn\" from organization 14:17, 23 October",
-"url": "https://armenpress.am/en/article/1263627",
-"firstSeenBaku": "2026-10-23 15:10"
 },
 {
 "title": "Armenia “Climate Change and Women” awards ceremony held at COP17 19:46, 23 October",
@@ -626,6 +616,11 @@
 ],
 "hetq": [
 {
+"title": "2026-10-24 21:40:00 Երևան-Աշտարակ ավտոճանապարհին տեղի է ունեցել ՃՏՊ․ կան զոհեր և տուժածներ",
+"url": "https://hetq.am/hy/article/184939",
+"firstSeenBaku": "2026-10-24 22:01"
+},
+{
 "title": "2026-10-23 20:14:00 Վիեննայի միջազգային փառատոնին Արցախի մշակութային համույթների մասնակցությունը չեղարկվել է. հայտարարություն",
 "url": "https://hetq.am/hy/article/184932",
 "firstSeenBaku": "2026-10-23 21:13"
@@ -648,11 +643,6 @@
 ],
 "hraparak": [
 {
-"title": "Հայաստանում ստեղծվում է նոր քաղաքական իրավիճակ՝ ավելի լարված եւ նողկալ...",
-"url": "https://hraparak.am/am/post/3f4aa3dd92b89889c4b29435b8ffb871",
-"firstSeenBaku": "2026-10-24 19:04"
-},
-{
 "title": "Իմ սերնդի Սովետական Հայաստանը եւ Սովետմիությունը",
 "url": "https://hraparak.am/am/post/7bf913a4a8d0018e1982868a64521659",
 "firstSeenBaku": "2026-10-24 20:05"
@@ -660,6 +650,11 @@
 {
 "title": "Ընդգծվել է Արցախի ժողովրդի իրավունքների պաշպանության կարևորո...",
 "url": "https://hraparak.am/am/post/fd270c21704613cbcaa70eed3cb5eeb8",
+"firstSeenBaku": "2026-10-24 19:04"
+},
+{
+"title": "Հայաստանում ստեղծվում է նոր քաղաքական իրավիճակ՝ ավելի լարված...",
+"url": "https://hraparak.am/am/post/3f4aa3dd92b89889c4b29435b8ffb871",
 "firstSeenBaku": "2026-10-24 19:04"
 },
 {
@@ -721,16 +716,6 @@
 "title": "Կամերաները միայն ընդդիմադիրների գրասենյակներու՞մ են դնում. սահմանին թո...",
 "url": "https://hraparak.am/am/post/ebafe3c0de6040d049568f925f742f6a",
 "firstSeenBaku": "2026-10-23 17:20"
-},
-{
-"title": "Դոլարի, եվրոյի և ռուբլու փոխարժեքը Հայաստանում՝ հոկտեմբերի 23-ի դրությ...",
-"url": "https://hraparak.am/am/post/ea53ac09e01ba3aec57cb03b27cd96fd",
-"firstSeenBaku": "2026-10-23 15:10"
-},
-{
-"title": "Դարձել է Թրամփի կուսակցության խոշոր դոնորը",
-"url": "https://hraparak.am/am/post/d711ee32b005eccb2942f4dc8af01145",
-"firstSeenBaku": "2026-10-24 00:04"
 }
 ],
 "1in": [
@@ -745,14 +730,14 @@
 "firstSeenBaku": "2026-10-24 19:04"
 },
 {
-"title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը Հեղինակ՝ Ժիրայր Ոսկանյան 10:15 2026.10.24",
-"url": "https://www.1in.am/3771994.html",
-"firstSeenBaku": "2026-10-24 11:19"
+"title": "Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են Հեղինակ՝ Ժիրայր Ոսկանյան 21:15 2026.10.24",
+"url": "https://www.1in.am/3772320.html",
+"firstSeenBaku": "2026-10-24 22:01"
 },
 {
-"title": "Հայաստանը համերաշխություն է հայտնում Ֆրանսիային․ Փաշինյան",
-"url": "https://www.1in.am/3772294.html",
-"firstSeenBaku": "2026-10-24 21:06"
+"title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը",
+"url": "https://www.1in.am/3771994.html",
+"firstSeenBaku": "2026-10-24 11:19"
 },
 {
 "title": "Ռուսաստանը Հայաստանում նոր ապակայունացում է նախապատրաստում. Ալիևն անմասն չէ",
@@ -760,12 +745,12 @@
 "firstSeenBaku": "2026-10-23 16:07"
 },
 {
-"title": "«Ռոսատոմի» ընտրությունը կարող է Հայաստանին մեկ դարով պահել Մոսկվայի ազդեցության ներքո",
-"url": "https://www.1in.am/3771795.html",
-"firstSeenBaku": "2026-10-23 22:05"
+"title": "«Մեկը երկուսի համար». Պարոնյանի անվան թատրոնում առաջնախաղ է սպասվում «Մեկը երկուսի համար» կատակերգական ներկայացումը, որը հասցրել է սիրվել ՌԴ-ում և ԱՄՆ-ում, կհանձնվի Հայաստանի հանդիսատեսի դատին։ Բեմադրության առաջնախաղը տեղի կունենա … 20:00 2026.10.24",
+"url": "https://www.1in.am/3772285.html",
+"firstSeenBaku": "2026-10-24 21:06"
 },
 {
-"title": "Վարչապետն առաջարկել է արհեստական բանականությամբ գնահատել խաղահրապարակների նորոգման ժամկետները Վարչապետ Նիկոլ Փաշինյանն առաջարկել է դիտարկել արհեստական բանականության գործիքների կիրառումը՝ բակային խաղահրապարակների նորոգման անհրաժեշտությունն ու ժամկետները գնահատելու համար։ Վարչապետը թեմային … 19:20 202",
+"title": "Վարչապետն առաջարկել է արհեստական բանականությամբ գնահատել խաղահրապարակների նորոգման ժամկետները Վարչապետ Նիկոլ Փաշինյանն առաջարկել է դիտարկել արհեստական բանականության գործիքների կիրառումը՝ բակային խաղահրապարակների նորոգման անհրաժեշտությունն ու ժամկետները գնահատելու համար։ Վարչապետը թեմային …",
 "url": "https://www.1in.am/3772276.html",
 "firstSeenBaku": "2026-10-24 20:05"
 },
@@ -778,6 +763,11 @@
 "title": "Թուրքիան կշարունակի միջնորդական ջանքերը՝ հանուն խաղաղության. Էրդողան",
 "url": "https://www.1in.am/3771887.html",
 "firstSeenBaku": "2026-10-23 20:15"
+},
+{
+"title": "Հայաստանը համերաշխություն է հայտնում Ֆրանսիային․ Փաշինյան",
+"url": "https://www.1in.am/3772294.html",
+"firstSeenBaku": "2026-10-24 21:06"
 },
 {
 "title": "Մեկնարկել է «Հայաստանի պետական շահերի պաշտպանություն» ուսանողական առաջին դատախաղ-մրցույթը",
@@ -798,6 +788,13 @@
 "title": "2026-10-23 Վաշինգտոնի 205 միլիարդը և Հայաստանի չներկայացված ներդրումային հաշիվը",
 "url": "https://www.1in.am/3771786.html",
 "firstSeenBaku": "2026-10-23 19:15"
+}
+],
+"primeminister": [
+{
+"title": "The mining sector should become a pioneer in developing public joint-stock company institutions in Armenia, says the Prime Minister",
+"url": "https://www.primeminister.am/en/press-release/item/2026/10/17/Nikol-Pashinyan-Speech/",
+"firstSeenBaku": "2026-10-24 22:01"
 }
 ],
 "civilnet": [
@@ -840,6 +837,11 @@
 "title": "Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS Armenia’s controversial Amulsar gold mine officially launched operations, marking the end to years of delays over the project. It’s expected to generate $120-$130 17 October, 19:05",
 "url": "https://civilnet.am/en/news/1014821",
 "firstSeenBaku": "2026-10-24 21:06"
+},
+{
+"title": "Denmark’s Carlsberg acquires PepsiCo bottlers in Armenia, Georgia 10 October, 19:05",
+"url": "https://civilnet.am/en/news/1014665",
+"firstSeenBaku": "2026-10-24 22:01"
 }
 ],
 "oc-media": [
@@ -910,11 +912,6 @@
 "title": "Four Armenian food pop-ups building community on the East Coast",
 "url": "https://armenianweekly.com/2026/10/16/four-armenian-food-pop-ups-building-community-on-the-east-coast/",
 "firstSeenBaku": "2026-10-23 22:05"
-},
-{
-"title": "Armenian Evangelical World Council convenes in New Jersey",
-"url": "https://armenianweekly.com/2026/10/22/armenian-evangelical-world-council-convenes-in-new-jersey/",
-"firstSeenBaku": "2026-10-23 15:10"
 },
 {
 "title": "A timeline of biblical translation in Armenia",
