@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-23T23:06:05.718906+00:00",
-"generatedAtBaku": "2026-10-24 03:06",
+"generatedAt": "2026-10-24T00:01:55.240205+00:00",
+"generatedAtBaku": "2026-10-24 04:01",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Dövlət Bağçalı: Türkiyə ilə Azərbaycan arasında etimadın qorunması həyati əhəmiyyət daşıyır 03:25 24 oktyabr 2026",
+"url": "https://apa.az/asiya/dovlet-bagcali-turkiye-ile-azerbaycan-arasinda-etimadin-qorunmasi-heyati-ehemiyyet-dasiyir-1007861",
+"firstSeenBaku": "2026-10-24 04:01"
+},
 {
 "title": "NYT: ABŞ senatorları Trampın irəli sürdüyü namizədlərin təsdiqini əngəlləyə bilərlər 02:50 24 oktyabr 2026",
 "url": "https://apa.az/amerika/nyt-abs-senatorlari-trampin-ireli-surduyu-namizedlerin-tesdiqini-engelleye-bilerler-1007852",
@@ -45,11 +50,6 @@
 "firstSeenBaku": "2026-10-23 18:18"
 },
 {
-"title": "Bakı-Qazax yolunda TIR yanıb - FOTO 17:22 23 oktyabr 2026",
-"url": "https://apa.az/hadise/baki-qazax-yolunda-tir-yanib-foto-1007773",
-"firstSeenBaku": "2026-10-23 18:18"
-},
-{
 "title": "Azərbaycan-Hindistan münasibətlərində yeni mərhələ: Bakı və Yeni Dehli arasında siyasi dialoq genişlənir – TƏHLİL 15:54 23 oktyabr 2026",
 "url": "https://apa.az/siyasi/azerbaycan-hindistan-munasibetlerinde-yeni-merhele-baki-ve-yeni-dehli-arasinda-siyasi-dialoq-genislenir-tehlil-1007733",
 "firstSeenBaku": "2026-10-23 16:07"
@@ -58,6 +58,11 @@
 "title": "Türkiyədə Azərbaycan əleyhinə kampaniya hansı həqiqətləri üzə çıxardı? - TƏHLİL 13:55 23 oktyabr 2026",
 "url": "https://apa.az/siyasi/turkiyede-azerbaycan-eleyhine-kampaniya-hansi-heqiqetleri-uze-cixardi-tehlil-1007692",
 "firstSeenBaku": "2026-10-23 14:12"
+},
+{
+"title": "Bakı-Qazax yolunda TIR yanıb - FOTO 17:22 23 oktyabr 2026",
+"url": "https://apa.az/hadise/baki-qazax-yolunda-tir-yanib-foto-1007773",
+"firstSeenBaku": "2026-10-23 18:18"
 }
 ],
 "qafqazinfo": [
@@ -144,12 +149,12 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
-"title": "Находившиеся на подбитом у берегов Румынии судне азербайджанцы спасены видео; обновлено 19:02; заявление МИД Азербайджана 23 октября 2026, 19:02 4391",
+"title": "Находившиеся на подбитом у берегов Румынии судне азербайджанцы спасены видео; обновлено 19:02; заявление МИД Азербайджана 23 октября 2026, 19:02 4424",
 "url": "https://haqqin.az/newsarchive/396444",
 "firstSeenBaku": "2026-10-23 14:12"
 },
 {
-"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 3534",
+"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 3556",
 "url": "https://haqqin.az/newsarchive/396449",
 "firstSeenBaku": "2026-10-23 15:10"
 },
@@ -344,11 +349,6 @@
 "title": "Converse Mobile-ը Հայաստանի լավագույն մոբայլ բանկային հավելվածն է՝ ըստ Global Finance-ի հոկտեմբերի 23, 17:34",
 "url": "https://news.am/hy/news/1069896",
 "firstSeenBaku": "2026-10-23 18:18"
-},
-{
-"title": "Չեմ կարծում, թե Հայաստանի՝ ԵԱՏՄ-ից դուրս գալն իրական հեռանկար է. փորձագետ հոկտեմբերի 22, 21:01",
-"url": "https://news.am/hy/news/1069691",
-"firstSeenBaku": "2026-10-22 21:11"
 },
 {
 "title": "Միլիարդների գաղտնի հաշիվներ և հեռախոսի կոտրում․ Թրամփի փեսային մեղադրել են Մերձավոր Արևելքի հետ գաղտնի ֆինանսական կապերի մեջ հոկտեմբերի 23, 13:36",
@@ -592,9 +592,9 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
-"title": "2 Ապրիլի 24-ի հետ կապված` Ադրբեջանը սրում է իրավիճակը սահմանին․ ՊՆ",
-"url": "https://www.azatutyun.am/a/26974433.html",
-"firstSeenBaku": "2026-10-22 21:11"
+"title": "4 Անհետ կորած ադրբեջանցիների հարազատներն ակցիա են արել Բրյուսելում",
+"url": "https://www.azatutyun.am/a/33882730.html",
+"firstSeenBaku": "2026-10-23 11:25"
 }
 ],
 "tert": [
@@ -699,11 +699,6 @@
 "title": "2026-10-22 22:36:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/184912",
 "firstSeenBaku": "2026-10-22 23:17"
-},
-{
-"title": "MapFact. որքա՞ն տարածք է օկուպացրել Ադրբեջանը Կապան-Մեղրի հատվածում 2020 թ.-ից 2026-10-08T18:03:00+04:00",
-"url": "https://hetq.am/hy/article/184531",
-"firstSeenBaku": "2026-10-22 21:11"
 }
 ],
 "hraparak": [
@@ -932,16 +927,6 @@
 "firstSeenBaku": "2026-10-22 22:07"
 },
 {
-"title": "22 October, 21:05 Environment, social development, and Armenia’s economic outlook",
-"url": "https://civilnet.am/en/news/1014937",
-"firstSeenBaku": "2026-10-22 21:11"
-},
-{
-"title": "Noted Armenia’s nuclear future and Aliyev’s threats 15 October, 20:05",
-"url": "https://civilnet.am/en/news/1014798",
-"firstSeenBaku": "2026-10-22 21:11"
-},
-{
 "title": "Armenia continues to weigh competing proposals on a new nuclear facility from Washington and Moscow",
 "url": "https://civilnet.am/en/stories/1014",
 "firstSeenBaku": "2026-10-23 22:05"
@@ -960,11 +945,6 @@
 "title": "Pashinyan floats snap election to secure constitutional referendum",
 "url": "https://civilnet.am/en/stories/1003",
 "firstSeenBaku": "2026-10-22 22:07"
-},
-{
-"title": "“I am optimistic about Armenia’s economic outlook, though reforms are still needed”",
-"url": "https://civilnet.am/en/stories/999",
-"firstSeenBaku": "2026-10-22 21:11"
 }
 ],
 "oc-media": [
@@ -998,11 +978,6 @@
 "firstSeenBaku": "2026-10-23 21:13"
 },
 {
-"title": "Press release OSCE Chairman-in-Office highlights partnership and commitment to lasting peace during visit to Armenia Date Date 15 October 2026 Location Location YEREVAN",
-"url": "https://www.osce.org/chairpersonship/668721",
-"firstSeenBaku": "2026-10-22 21:11"
-},
-{
 "title": "News Item OSCE participating States and Asian Partners share regional experiences in conflict prevention to strengthen responses to today’s interconnected security challenges Date Date 23 October 2026",
 "url": "https://www.osce.org/news/partners-cooperation-asian/669141",
 "firstSeenBaku": "2026-10-23 18:18"
@@ -1019,16 +994,6 @@
 }
 ],
 "un-press": [
-{
-"title": "Discussing Implementation of UN Charter, Sixth Committee Touches on Sanctions, Peaceful Dispute Settlement",
-"url": "https://press.un.org/en/2026/gal3756.doc.htm",
-"firstSeenBaku": "2026-10-24 03:06"
-},
-{
-"title": "Weak Cyberspace Governance Can Undermine Peace, Security, First Committee Told, Calling for Responsible State Behaviors",
-"url": "https://press.un.org/en/2026/gadis3776.doc.htm",
-"firstSeenBaku": "2026-10-24 03:06"
-},
 {
 "title": "Mediation Can Turn ‘Possibility of Peace into a Lasting Reality’, Says Secretary-General in Remarks to Istanbul Conference",
 "url": "https://press.un.org/en/2026/sgsm23343.doc.htm",
