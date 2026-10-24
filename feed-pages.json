@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-24T11:04:48.900003+00:00",
-"generatedAtBaku": "2026-10-24 15:04",
+"generatedAt": "2026-10-24T12:05:30.017556+00:00",
+"generatedAtBaku": "2026-10-24 16:05",
 "hours": 30,
 "pages": {
 "apa": [
@@ -40,11 +40,6 @@
 "firstSeenBaku": "2026-10-24 11:19"
 },
 {
-"title": "Çexiya Prezidenti Rusiyanın sülh danışıqlarına hazır olmadığını bildirib 07:37 24 oktyabr 2026",
-"url": "https://apa.az/avropa/cexiya-prezidenti-rusiyanin-sulh-danisiqlarina-hazir-olmadigini-bildirib-1007868",
-"firstSeenBaku": "2026-10-24 08:10"
-},
-{
 "title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899?locale=az",
 "firstSeenBaku": "2026-10-24 13:06"
@@ -58,11 +53,6 @@
 "title": "Türkiyədə Azərbaycan əleyhinə kampaniya hansı həqiqətləri üzə çıxardı? - TƏHLİL 13:55 23 oktyabr 2026",
 "url": "https://apa.az/siyasi/turkiyede-azerbaycan-eleyhine-kampaniya-hansi-heqiqetleri-uze-cixardi-tehlil-1007692",
 "firstSeenBaku": "2026-10-23 14:12"
-},
-{
-"title": "Hindistanın xarici işlər naziri Bakıda tarixi Atəşgah məbədini ziyarət edib 21:18",
-"url": "https://apa.az/xarici-siyaset/hindistanin-xarici-isler-naziri-bakida-tarixi-atesgah-mebedini-ziyaret-edib-1007823",
-"firstSeenBaku": "2026-10-23 22:05"
 }
 ],
 "qafqazinfo": [
@@ -77,19 +67,24 @@
 "firstSeenBaku": "2026-10-24 00:04"
 },
 {
+"title": "Dilarə Əliyevaya yeni vəzifə verildi",
+"url": "https://qafqazinfo.az/news/detail/dilare-eliyevaya-yeni-vezife-verildi-526161",
+"firstSeenBaku": "2026-10-24 16:05"
+},
+{
 "title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
 "url": "https://qafqazinfo.bax.tv/embed/228152.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=son-xeberler",
 "firstSeenBaku": "2026-10-24 12:05"
 },
 {
-"title": "Sabah Bakıda leysan olacaq",
-"url": "https://qafqazinfo.az/news/detail/sabah-bakida-leysan-olacaq-526147",
-"firstSeenBaku": "2026-10-24 13:06"
-},
-{
 "title": "“Türkiyə ilə Azərbaycanın bağları müvəqqəti fikir ayrılıqlarından daha dərindir” - Bağçalı",
 "url": "https://qafqazinfo.az/news/detail/turkiye-ile-azerbaycanin-baglari-muveqqeti-fikir-ayriliqlarindan-daha-derindir-bagcali-526117",
 "firstSeenBaku": "2026-10-24 09:08"
+},
+{
+"title": "Sabah Bakıda leysan olacaq",
+"url": "https://qafqazinfo.az/news/detail/sabah-bakida-leysan-olacaq-526147",
+"firstSeenBaku": "2026-10-24 13:06"
 },
 {
 "title": "Azərbaycan daha bir turnirə yüksək səviyyədə ev sahibliyi edir - 189 ölkədən komandalar qatılıb",
@@ -139,17 +134,12 @@
 ],
 "haqqin": [
 {
-"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 4509",
+"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 4576",
 "url": "https://haqqin.az/newsarchive/396449",
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Самолет из Еревана не долетел до Москвы",
-"url": "https://haqqin.az/newsarchive/396524",
-"firstSeenBaku": "2026-10-24 15:04"
-},
-{
-"title": "ЧМ по футболу в Азербайджане: Франция и Бразилия забили по 8 голов, Аргентина проиграла Результаты матчей; обновлено 13:46",
+"title": "ЧМ по футболу в Азербайджане: Россия вернулась и выиграла 12:0, Турция забила 11 голов Результаты матчей; обновлено 15:23",
 "url": "https://haqqin.az/newsarchive/396508",
 "firstSeenBaku": "2026-10-24 12:05"
 },
@@ -164,12 +154,7 @@
 "firstSeenBaku": "2026-10-24 12:05"
 },
 {
-"title": "Поляки приехали в Азербайджан, но грозят бойкотом Официальное заявление",
-"url": "https://haqqin.az/newsarchive/396498",
-"firstSeenBaku": "2026-10-24 05:23"
-},
-{
-"title": "В Москве хаос: закрыты все аэропорты, задерживаются рейсы и в Баку... видео; обновлено 17:22 23 октября 2026, 17:22 12144",
+"title": "В Москве хаос: закрыты все аэропорты, задерживаются рейсы и в Баку... видео; обновлено 17:22 23 октября 2026, 17:22 12157",
 "url": "https://haqqin.az/newsarchive/396414",
 "firstSeenBaku": "2026-10-23 11:25"
 }
@@ -184,6 +169,11 @@
 "title": "Հայաստանում լռության օր է",
 "url": "https://news.am/hy/news/1069952",
 "firstSeenBaku": "2026-10-24 00:04"
+},
+{
+"title": "15:59 Դատական համակարգը ո՞նց ա անկախ. թեժ խոսակցություն Փաշինյանի եւ քաղաքացու միջեւ",
+"url": "https://news.am/hy/news/1070046",
+"firstSeenBaku": "2026-10-24 16:05"
 },
 {
 "title": "14:36 Եղանակը Հայաստանում. տեղումներ են սպասվում",
@@ -229,6 +219,21 @@
 "title": "Ուղիղ ԱՄՆ-ն փորձում է համոզե՞լ Փաշինյանին. Մոսկվայի ճնշման ֆոնին պատվիրակություն է եկել Երևան I 14:00",
 "url": "https://news.am/hy/news/1069838",
 "firstSeenBaku": "2026-10-23 14:12"
+},
+{
+"title": "«Ձեռք չտաս ինձ». քաղաքացին բորբոքվեց Փաշինյանին հանդիպելիս",
+"url": "https://news.am/hy/stories/3109",
+"firstSeenBaku": "2026-10-24 16:05"
+},
+{
+"title": "Փաշինյանը մտածում է գտնել ներդրող, որ Աջափնյակում վթարային բնակարանները կգնի ու նոր թաղամաս կկառուցի",
+"url": "https://news.am/hy/stories/3108",
+"firstSeenBaku": "2026-10-24 16:05"
+},
+{
+"title": "Փողոցային առեւտրի դեմ պայքարող Փաշինյանը խոստովանեց՝ նախկինում ինքն էլ է փողոցից մածուն գնել",
+"url": "https://news.am/hy/stories/3107",
+"firstSeenBaku": "2026-10-24 16:05"
 },
 {
 "title": "Թրամփի փեսայի գաղտնի կապերը․ ադրբեջանական բանկից փոխանցվել են հարյուրավոր միլիոնավոր դոլարներ",
@@ -333,7 +338,17 @@
 "firstSeenBaku": "2026-10-24 14:06"
 },
 {
-"title": "Հայաստան Հանրապետությունում առաջիկա օրերին սպասվում է կարճատև անձրև Հանրապետության տարածքում հոկտեմբերի 24-ի ցերեկը, 25-ին՝ գիշերը և կեսօրից հետո, 28-ին և 29-ին կեսօրից հետո առանձին շրջաններում սպասվում է կարճատև անձրև, հնարավոր... 13:40, 24 հոկտեմբերի",
+"title": "Հայաստան Մեկնարկել է «Հայաստանի պետական շահերի պաշտպանություն» ուսանողական առաջին դատախաղ-մրցույթը Հայաստանի Հանրապետության դատախազությունը Երևանի պետական համալսարանի և Ռաուլ Վալլենբերգի անվան մարդու իրավունքների և մարդասիրական իրավունքի ինստիտուտի հետ համատե... 15:19, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263721",
+"firstSeenBaku": "2026-10-24 16:05"
+},
+{
+"title": "Հայաստան Վարչապետը Երևանի հանրային տրանսպորտում զրուցում է քաղաքացիների հետ 14:47, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263716",
+"firstSeenBaku": "2026-10-24 15:04"
+},
+{
+"title": "Հայաստան Հանրապետությունում առաջիկա օրերին սպասվում է կարճատև անձրև 13:40, 24 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263712",
 "firstSeenBaku": "2026-10-24 14:06"
 },
@@ -341,16 +356,6 @@
 "title": "Հայաստան ՀՀ ՇՄ նախարարը COP17-ի շրջանակում հանդիպել է Գլոբալ էկոլոգիական հիմնադրամի գլխավոր գործադիր տնօրենի հետ 16:47, 23 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263653",
 "firstSeenBaku": "2026-10-23 17:20"
-},
-{
-"title": "Քաղաքականություն Հայաստանը փաստացի արդեն դուրս է եկել ՀԱՊԿ-ից. Թաալաթբեկ Մասադիկով 13:32, 23 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263627",
-"firstSeenBaku": "2026-10-23 14:12"
-},
-{
-"title": "Հայաստան ՄԱԿ-ի Գլխավոր քարտուղարի օգնականը կայցելի Հայաստան՝ մասնակցելու COP17-ի բարձր մակարդակի հանդիպումներին 13:17, 23 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263621",
-"firstSeenBaku": "2026-10-23 14:12"
 },
 {
 "title": "Հայաստան Հոկտեմբերի 24-ը Պոլիոմիելիտի դեմ պայքարի համաշխարհային օրն է 12:40, 24 հոկտեմբերի",
@@ -366,21 +371,6 @@
 "title": "Հայաստան Երևան-Կապան-Երևան թռիչքները սպասարկող օդանավը կանցնի կարճաժամկետ պլանային տեխնիկական սպասարկում 20:40, 23 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263681",
 "firstSeenBaku": "2026-10-23 21:13"
-},
-{
-"title": "14:47 Վարչապետը Երևանի հանրային տրանսպորտում զրուցում է քաղաքացիների հետ",
-"url": "https://armenpress.am/hy/article/1263716",
-"firstSeenBaku": "2026-10-24 15:04"
-},
-{
-"title": "12:33 Կիմ Չեն Ընը ժամանել է Չինաստանի սահմանամերձ Դանդուն քաղաք",
-"url": "https://armenpress.am/hy/article/1263699",
-"firstSeenBaku": "2026-10-24 13:06"
-},
-{
-"title": "12:17 Հայտնի է Հայաստանի ծանրորդների ելույթների ժամանակացույցն ԱԱ-ում",
-"url": "https://armenpress.am/hy/article/1263701",
-"firstSeenBaku": "2026-10-24 13:06"
 },
 {
 "title": "Տնտեսություն Հայաստանն ու ԱՄՆ-ն քննարկել են տնտեսական համագործակցությունը խորացնելու հնարավորությունները 15:58, 23 հոկտեմբերի",
@@ -413,12 +403,22 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
+"title": "Սպորտ Հայտնի է Հայաստանի ծանրորդների ելույթների ժամանակացույցն ԱԱ-ում 12:17, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263701",
+"firstSeenBaku": "2026-10-24 13:06"
+},
+{
 "title": "Սպորտ Ըմբիշ Սուրեն Աղաջանյանն ԱԱ-ի մեկնարկում հաղթեց վրացի մարզիկին Հայաստանի հունահռոմեական ոճի ըմբշամարտի հավաքականի անդամ, աշխարհի երիտասարդների չեմպիոն Սուրեն Աղաջանյանը հաղթանակով մեկնարկեց աշխարհի առաջնությունում:«Արմենպրե... 11:17, 24 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263693",
 "firstSeenBaku": "2026-10-24 11:19"
 }
 ],
 "armenpress-en": [
+{
+"title": "PM tours Yerevan, speaks with residents 14:54, 24 October",
+"url": "https://armenpress.am/en/article/1263716",
+"firstSeenBaku": "2026-10-24 15:04"
+},
 {
 "title": "Professional knowledge must underpin nature conservation efforts, Armenian minister says at SPFB 12:13, 24 October",
 "url": "https://armenpress.am/en/article/1263698",
@@ -427,11 +427,6 @@
 {
 "title": "COP17 now in full swing, says Armenian Deputy Environment Minister 21:14, 23 October",
 "url": "https://armenpress.am/en/article/1263678",
-"firstSeenBaku": "2026-10-23 22:05"
-},
-{
-"title": "CITES: Armenia strengthens oversight of trade in wild animals and plants 21:18, 23 October",
-"url": "https://armenpress.am/en/article/1263680",
 "firstSeenBaku": "2026-10-23 22:05"
 },
 {
@@ -475,9 +470,9 @@
 "firstSeenBaku": "2026-10-23 18:18"
 },
 {
-"title": "14:54 PM tours Yerevan, speaks with residents",
-"url": "https://armenpress.am/en/article/1263716",
-"firstSeenBaku": "2026-10-24 15:04"
+"title": "15:44 Pashinyan proposes urban development project in Ajapnyak",
+"url": "https://armenpress.am/en/article/1263722",
+"firstSeenBaku": "2026-10-24 16:05"
 },
 {
 "title": "14:45 COP17: Armenia, Zimbabwe discuss biodiversity cooperation",
@@ -547,7 +542,7 @@
 "firstSeenBaku": "2026-10-23 19:15"
 },
 {
-"title": "64 միլիարդ՝ մեկ ընկերությունից․ովքե՞ր են Հայաստանում ամենաշատ հարկ վճարել 9 ամսում",
+"title": "«Արարատցեմենտ»-ն ու «Սպայկա»-ն նվազեցրել են հարկերը, Զանգեզուրի պղնձամոլիբդենայինը՝ 65 տոկոսով մեծացրել",
 "url": "https://www.azatutyun.am/a/ovke-r-en-hayastanoum-amenashat-hark-vcharel-9-amsoum/33883426.html",
 "firstSeenBaku": "2026-10-24 11:19"
 },
@@ -609,6 +604,11 @@
 "firstSeenBaku": "2026-10-23 18:18"
 },
 {
+"title": "Մեծ ինվեստիցիոն ծրագիր է պետք անել, որ գան մարդիկ, ընդ որում՝ պետությունը չխառնվի, գան ձեզ հետ բանակցեն․ կամ ձեզնից ձեր տները առնեն, կամ էլ պարտավորվեն նորակառույց շենքում տուն տան․ Փաշինյանը՝ Աջափնյակում հանդիպել է բնակիչներին",
+"url": "https://www.tert.am/am/news/2026/10/24/nikol-pashinyan-/4287992",
+"firstSeenBaku": "2026-10-24 16:05"
+},
+{
 "title": "«Արտքոմփանի» կառուցապատող ընկերությանը բաժին է ընկել Երևանի նորակառույցների շուկայի շուրջ 15%-ը (տեսանյութ, լուսանկար)",
 "url": "https://www.tert.am/am/news/2026/10/23/artcompany-gyurjyan-cascadee/4287915",
 "firstSeenBaku": "2026-10-23 21:13"
@@ -652,6 +652,11 @@
 }
 ],
 "hraparak": [
+{
+"title": "Զելենսկին էլ է եկել Փաշինյանի խելքին․ խաղաղությու՞ն՝ աթոռի գ...",
+"url": "https://hraparak.am/am/post/6cef2ba408b9962be503ea2c3821ed67",
+"firstSeenBaku": "2026-10-24 16:05"
+},
 {
 "title": "Զելենսկին բողոքել է Պուտինից և Թրամփից",
 "url": "https://hraparak.am/am/post/941081c0ad30b492fd7fa4915fe049fe",
@@ -740,14 +745,14 @@
 "firstSeenBaku": "2026-10-24 11:19"
 },
 {
+"title": "Գազի թանկացման սպառնալիքի տակ թաքնված տնտեսական հարցերը Հայաստանի տնտեսությանը հերթական ապոկալիպսիսն են խոստանում։ Եվրասիական տնտեսական միությանն անդամակցության հնարավոր կասեցման շուրջ շրջանառվող կանխատեսումների կենտրոնում ռուսական գազն է։ … Հեղինակ՝ Աբրահամ Թադևոսյան 14:00 2026.10.24",
+"url": "https://www.1in.am/3771807.html",
+"firstSeenBaku": "2026-10-24 14:06"
+},
+{
 "title": "Պուտինի պատմական Ռուսաստանը և Հայաստանի սահմանների ապագան",
 "url": "https://www.1in.am/3771798.html",
 "firstSeenBaku": "2026-10-24 09:08"
-},
-{
-"title": "Հայաստանը լավագույն ինքնաթիռներից է ձեռք բերել. ՀԱՊԿ-ը լծակ չունի մեզ վերադարձնելու",
-"url": "https://www.1in.am/3771587.html",
-"firstSeenBaku": "2026-10-23 09:11"
 },
 {
 "title": "Ռուսաստանը Հայաստանում նոր ապակայունացում է նախապատրաստում. Ալիևն անմասն չէ",
