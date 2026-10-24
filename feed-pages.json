@@ -1,18 +1,18 @@
 {
-"generatedAt": "2026-10-24T09:06:32.600020+00:00",
-"generatedAtBaku": "2026-10-24 13:06",
+"generatedAt": "2026-10-24T10:06:12.620245+00:00",
+"generatedAtBaku": "2026-10-24 14:06",
 "hours": 30,
 "pages": {
 "apa": [
 {
-"title": "Azərbaycan XİN İordaniyada kilsəyə silahlı hücumu pisləyib 12:00 24 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/azerbaycan-xin-iordaniyada-kilseye-silahli-hucumu-pisleyib-1007902",
-"firstSeenBaku": "2026-10-24 12:05"
-},
-{
 "title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899",
 "firstSeenBaku": "2026-10-24 13:06"
+},
+{
+"title": "Azərbaycan XİN İordaniyada kilsəyə silahlı hücumu pisləyib 12:00 24 oktyabr 2026",
+"url": "https://apa.az/xarici-siyaset/azerbaycan-xin-iordaniyada-kilseye-silahli-hucumu-pisleyib-1007902",
+"firstSeenBaku": "2026-10-24 12:05"
 },
 {
 "title": "Azərbaycanda ötən gün 50 şübhəli saxlanılıb 10:49 24 oktyabr 2026",
@@ -77,6 +77,11 @@
 "firstSeenBaku": "2026-10-24 00:04"
 },
 {
+"title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
+"url": "https://qafqazinfo.bax.tv/embed/228152.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=son-xeberler",
+"firstSeenBaku": "2026-10-24 12:05"
+},
+{
 "title": "Sabah Bakıda leysan olacaq",
 "url": "https://qafqazinfo.az/news/detail/sabah-bakida-leysan-olacaq-526147",
 "firstSeenBaku": "2026-10-24 13:06"
@@ -87,9 +92,9 @@
 "firstSeenBaku": "2026-10-24 13:06"
 },
 {
-"title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
-"url": "https://qafqazinfo.bax.tv/embed/228152.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=son-xeberler",
-"firstSeenBaku": "2026-10-24 12:05"
+"title": "“Türkiyə ilə Azərbaycanın bağları müvəqqəti fikir ayrılıqlarından daha dərindir” - Bağçalı",
+"url": "https://qafqazinfo.az/news/detail/turkiye-ile-azerbaycanin-baglari-muveqqeti-fikir-ayriliqlarindan-daha-derindir-bagcali-526117",
+"firstSeenBaku": "2026-10-24 09:08"
 },
 {
 "title": "Niyazi Bayramov şəhid ailələri ilə birgə “44” filmini izləyib - Fotolar",
@@ -97,24 +102,19 @@
 "firstSeenBaku": "2026-10-24 12:05"
 },
 {
-"title": "Xəzərdəki kütləvi balıq tələfatı Azərbaycan üçün təhlükədirmi?",
-"url": "https://qafqazinfo.az/news/detail/xezerdeki-kutlevi-baliq-telefati-azerbaycan-ucun-tehlukedirmi-526131",
-"firstSeenBaku": "2026-10-24 12:05"
-},
-{
-"title": "“Türkiyə ilə Azərbaycanın bağları müvəqqəti fikir ayrılıqlarından daha dərindir” - Bağçalı",
-"url": "https://qafqazinfo.az/news/detail/turkiye-ile-azerbaycanin-baglari-muveqqeti-fikir-ayriliqlarindan-daha-derindir-bagcali-526117",
-"firstSeenBaku": "2026-10-24 09:08"
-},
-{
-"title": "Azərbaycan çempionatlarında 15 000-ci qol",
-"url": "https://qafqazinfo.az/news/detail/azerbaycan-cempionatlarinda-15-000-ci-qol-526124",
-"firstSeenBaku": "2026-10-24 11:19"
+"title": "Xəzərdəki kütləvi balıq tələfatı Azərbaycan üçün təhlükəlidirmi?",
+"url": "https://qafqazinfo.az/news/detail/xezerdeki-kutlevi-baliq-telefati-azerbaycan-ucun-tehlukelidirmi-526131",
+"firstSeenBaku": "2026-10-24 14:06"
 },
 {
 "title": "“Fənərbaxça” Bakıdadır - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/fenerbaxca-bakidadir-fotolar-523743",
 "firstSeenBaku": "2026-10-23 11:25"
+},
+{
+"title": "Azərbaycan çempionatlarında 15 000-ci qol",
+"url": "https://qafqazinfo.az/news/detail/azerbaycan-cempionatlarinda-15-000-ci-qol-526124",
+"firstSeenBaku": "2026-10-24 11:19"
 },
 {
 "title": "Bakıda FIFA DÇ həyəcanı başlayır",
@@ -144,14 +144,19 @@
 ],
 "haqqin": [
 {
-"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 4371",
+"title": "Армения проиграла войну. Теперь она может проиграть и мир Что там у соседей? 23 октября 2026, 14:25 4446",
 "url": "https://haqqin.az/newsarchive/396449",
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
-"title": "Чемпионат мира по футболу в Азербайджане: Аргентина проиграла, Франция, Бразилия и Англия победили",
+"title": "ЧМ по футболу в Азербайджане: Франция и Бразилия забили по 8 голов, Аргентина проиграла Результаты матчей; обновлено 13:46",
 "url": "https://haqqin.az/newsarchive/396508",
 "firstSeenBaku": "2026-10-24 12:05"
+},
+{
+"title": "Кровавая разборка в Баку: задержан сын депутата",
+"url": "https://haqqin.az/newsarchive/396513",
+"firstSeenBaku": "2026-10-24 14:06"
 },
 {
 "title": "В Азербайджане снег и град",
@@ -164,7 +169,7 @@
 "firstSeenBaku": "2026-10-24 05:23"
 },
 {
-"title": "В Москве хаос: закрыты все аэропорты, задерживаются рейсы и в Баку... видео; обновлено 17:22 23 октября 2026, 17:22 12107",
+"title": "В Москве хаос: закрыты все аэропорты, задерживаются рейсы и в Баку... видео; обновлено 17:22 23 октября 2026, 17:22 12129",
 "url": "https://haqqin.az/newsarchive/396414",
 "firstSeenBaku": "2026-10-23 11:25"
 }
@@ -214,11 +219,6 @@
 "title": "07:47 «Ժողովուրդ». ՊՆ-ն ու ԳՇ-ն «տեղում» չեն. ով է պատասխան տալու ադրբեջանցի հովիվի՝ սահմանը հատելու միջադեպի համար",
 "url": "https://news.am/hy/news/1069962",
 "firstSeenBaku": "2026-10-24 08:10"
-},
-{
-"title": "23 հկտ | 23:32 Թրամփը չի բացառել, որ 200-տոկոսանոց մաքսատուրքեր կսահմանի Ռուսաստանից և Ուկրաինայից ներկրվող ապրանքների նկատմամբ",
-"url": "https://news.am/hy/news/1069959",
-"firstSeenBaku": "2026-10-24 00:04"
 },
 {
 "title": "Ուղիղ Փաշինյանի շանտաժը կաշխատի՞. փորձելու են «գողանալ» պատգամավորների I ԼՈՒՐԵՐ I 20:00",
@@ -348,14 +348,14 @@
 ],
 "armenpress-hy": [
 {
-"title": "CITES կոնվենցիա. Հայաստանը կատարելագործում է վայրի կենդանիների և բույսերի առևտրի վերահսկողությունը 20:24, 23 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263680",
-"firstSeenBaku": "2026-10-23 21:13"
+"title": "Հայաստանի մի շարք համայնքներում գործողություններ են իրականացվում ընտրական հանցագործությունների գործերով․ կան ձերբակալվածներ 13:13, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263708",
+"firstSeenBaku": "2026-10-24 14:06"
 },
 {
-"title": "Քաղաքականություն ՏԻՄ ընտրությունների նախընտրական քարոզչությունը ավարտվում է հոկտեմբերի 23-ին՝ ժամը 24։00-ին. ԿԸՀ Հայաստանի կենտրոնական ընտրական հանձնաժողովը հայտարարություն է տարածել` հիշեցնելով, որ ՏԻՄ ընտրությունների նախընտրական քարոզչությունը ավարտվում է հոկտեմբերի 23-ի... 21:27, 23 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263683",
-"firstSeenBaku": "2026-10-23 22:05"
+"title": "Հայաստան Հանրապետությունում առաջիկա օրերին սպասվում է կարճատև անձրև Հանրապետության տարածքում հոկտեմբերի 24-ի ցերեկը, 25-ին՝ գիշերը և կեսօրից հետո, 28-ին և 29-ին կեսօրից հետո առանձին շրջաններում սպասվում է կարճատև անձրև, հնարավոր... 13:40, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263712",
+"firstSeenBaku": "2026-10-24 14:06"
 },
 {
 "title": "Հայաստան ՀՀ ՇՄ նախարարը COP17-ի շրջանակում հանդիպել է Գլոբալ էկոլոգիական հիմնադրամի գլխավոր գործադիր տնօրենի հետ 16:47, 23 հոկտեմբերի",
@@ -403,11 +403,6 @@
 "firstSeenBaku": "2026-10-24 12:05"
 },
 {
-"title": "Տնտեսություն ՀՀ վարչապետի գլխավորությամբ տեղի ունեցած Հանրային ներդրումային կոմիտեի նիստում հաստատվել են տարբեր ոլորտներին առնչվող նախագծեր Վարչապետ Նիկոլ Փաշինյանի գլխավորությամբ տեղի է ունեցել Հանրային ներդրումային կոմիտեի 9–րդ նիստը։ Օրակարգի շրջանակում ներկայացվել են «Հեր-Հերի ջրամբարի ջուրը հետ",
-"url": "https://armenpress.am/hy/article/1263648",
-"firstSeenBaku": "2026-10-23 17:20"
-},
-{
 "title": "Տնտեսություն Հայաստանն ու ԱՄՆ-ն քննարկել են տնտեսական համագործակցությունը խորացնելու հնարավորությունները 15:58, 23 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263643",
 "firstSeenBaku": "2026-10-23 16:07"
@@ -436,6 +431,11 @@
 "title": "Մշակույթ Քննարկվել են Հայաստանի և ՅՈՒՆԵՍԿՕ-ի միջև համագործակցության ընդլայնման հնարավորությունները 16:29, 23 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263649",
 "firstSeenBaku": "2026-10-23 17:20"
+},
+{
+"title": "Սպորտ Ըմբիշ Սուրեն Աղաջանյանն ԱԱ-ի մեկնարկում հաղթեց վրացի մարզիկին Հայաստանի հունահռոմեական ոճի ըմբշամարտի հավաքականի անդամ, աշխարհի երիտասարդների չեմպիոն Սուրեն Աղաջանյանը հաղթանակով մեկնարկեց աշխարհի առաջնությունում:«Արմենպրե... 11:17, 24 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263693",
+"firstSeenBaku": "2026-10-24 11:19"
 }
 ],
 "armenpress-en": [
@@ -592,7 +592,7 @@
 "firstSeenBaku": "2026-10-23 11:25"
 },
 {
-"title": "3 Անհետ կորած ադրբեջանցիների հարազատներն ակցիա են արել Բրյուսելում",
+"title": "4 Անհետ կորած ադրբեջանցիների հարազատներն ակցիա են արել Բրյուսելում",
 "url": "https://www.azatutyun.am/a/33882730.html",
 "firstSeenBaku": "2026-10-23 11:25"
 }
@@ -629,16 +629,6 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
-"title": "Սև ծովում Ադրբեջանի և Ուկրաինայի քաղաքացիներ փոխադրող նավ է խորտակվել. կա 1 զnh",
-"url": "https://www.tert.am/am/news/2026/10/23/black-sea-ship-sinked-azerbaijan/4287879",
-"firstSeenBaku": "2026-10-23 15:10"
-},
-{
-"title": "«Ուժեղ Հայաստանի» ևս 10 անդամի տներ են խուզարկել. Անդրանիկ Գևորգյան",
-"url": "https://www.tert.am/am/news/2026/10/23/andranik-gevorgyan/4287871",
-"firstSeenBaku": "2026-10-23 14:12"
-},
-{
 "title": "«Արտքոմփանի» կառուցապատող ընկերությանը բաժին է ընկել Երևանի նորակառույցների շուկայի շուրջ 15%-ը (տեսանյութ, լուսանկար)",
 "url": "https://www.tert.am/am/news/2026/10/23/artcompany-gyurjyan-cascadee/4287915",
 "firstSeenBaku": "2026-10-23 21:13"
@@ -649,14 +639,14 @@
 "firstSeenBaku": "2026-10-23 17:20"
 },
 {
-"title": "Երևանում բшխվել են «Honda» ավտոմեքենան ու մոպեդը․ վերջինը կողաշրջվել է",
-"url": "https://www.tert.am/am/news/2026/10/24/yerevan-car-crash/4287969",
-"firstSeenBaku": "2026-10-24 12:05"
-},
-{
 "title": "ՊՆ-ն ու ԳՇ-ն «տեղում» չեն. ով է պատասխան տալու ադրբեջանցի հովիվի՝ սահմանը հատելու միջադեպի համար․ «Ժողովուրդ»",
 "url": "https://www.tert.am/am/news/2026/10/24/azerbaijan-armenia/4287948",
 "firstSeenBaku": "2026-10-24 10:06"
+},
+{
+"title": "Ծանրամարտի ԱԱ․ Հայաստանի հավաքականների մրցելույթների ժամանակացույցը",
+"url": "https://www.tert.am/am/news/2026/10/24/weightlifting-armenia/4287976",
+"firstSeenBaku": "2026-10-24 14:06"
 }
 ],
 "hetq": [
@@ -682,6 +672,21 @@
 }
 ],
 "hraparak": [
+{
+"title": "Tesla-ն և SpaceX-ը կարող են միավորվել",
+"url": "https://hraparak.am/am/post/54852fa69ad4c380870288f0c4e0e3cd",
+"firstSeenBaku": "2026-10-24 14:06"
+},
+{
+"title": "Տենց հայաստանցի արտիստ չկա, որ փողի իմ լեվլին հասնի․ Սուպեր...",
+"url": "https://hraparak.am/am/post/b3c4a15b61fbcd46366f9519050ffcc7",
+"firstSeenBaku": "2026-10-24 14:06"
+},
+{
+"title": "Թուրքիան կշարունակի միջնորդական ջանքերը՝ հանուն խաղաղության....",
+"url": "https://hraparak.am/am/post/3bc4976c2e5b37e2f7304ff273bb587f",
+"firstSeenBaku": "2026-10-24 14:06"
+},
 {
 "title": "«Հրապարակ»․ Որդեկորույս ծնողները կհասնեն մինչև ՄԻԵԴ",
 "url": "https://hraparak.am/am/post/61c9ff749afa9f71d747f884255b2793",
@@ -735,11 +740,6 @@
 "firstSeenBaku": "2026-10-24 11:19"
 },
 {
-"title": "Ուսանողները ծանոթացել են ԱԱԾ սահմանապահ զորքերի ծառայությանը և այցելել Կիրանցի սահմանազատված հատված",
-"url": "https://www.1in.am/3772151.html",
-"firstSeenBaku": "2026-10-24 13:06"
-},
-{
 "title": "Պուտինի պատմական Ռուսաստանը և Հայաստանի սահմանների ապագան",
 "url": "https://www.1in.am/3771798.html",
 "firstSeenBaku": "2026-10-24 09:08"
@@ -760,6 +760,11 @@
 "firstSeenBaku": "2026-10-23 22:05"
 },
 {
+"title": "Էլեկտրաէներգիայի պլանային անջատումներ ՀԷՑ-ից հայտնում են․ «Հայաստանի էլեկտրական ցանցեր» փակ բաժնետիրական ընկերությունը տեղեկացնում է, որ հոկտեմբերի 26-ին պլանային նորոգման աշխատանքներ իրականացնելու նպատակով ժամանակավորապես …",
+"url": "https://www.1in.am/3772036.html",
+"firstSeenBaku": "2026-10-24 11:19"
+},
+{
 "title": "ՌԴ երկաթուղիները դիտարկում են Վրաստանի տարածքով Թուրքիայից և Ադրբեջանից միրգ ու բանջարեղեն ներկրելու հնարավորությունը",
 "url": "https://www.1in.am/3771950.html",
 "firstSeenBaku": "2026-10-23 23:15"
@@ -775,14 +780,24 @@
 "firstSeenBaku": "2026-10-23 15:10"
 },
 {
+"title": "Ֆրանսիայում սահմանափակվել են բողոքի ակցիաները․ անվտանգության ապահովման համար կներգրավվի մինչև 70 հազար ոստիկան ու ժանդարմ",
+"url": "https://www.1in.am/3772148.html",
+"firstSeenBaku": "2026-10-24 14:06"
+},
+{
+"title": "Քաղաքային կենսաբազմազանության գոտի՝ Երևանի սրտում",
+"url": "https://www.1in.am/3772197.html",
+"firstSeenBaku": "2026-10-24 14:06"
+},
+{
+"title": "Ուսանողները ծանոթացել են ԱԱԾ սահմանապահ զորքերի ծառայությանը և այցելել Կիրանցի սահմանազատված հատված",
+"url": "https://www.1in.am/3772151.html",
+"firstSeenBaku": "2026-10-24 13:06"
+},
+{
 "title": "Էլ Նինյոն Խաղաղ օվկիանոսն ավելի կապույտ է դարձնում",
 "url": "https://www.1in.am/3772052.html",
 "firstSeenBaku": "2026-10-24 12:05"
-},
-{
-"title": "Մոսկվան և Կիևը պայմանավորվել են հրադադարի շուրջ՝ խաղաղ բնակիչներին տարհանելու համար",
-"url": "https://www.1in.am/3772010.html",
-"firstSeenBaku": "2026-10-24 09:08"
 },
 {
 "title": "2026-10-23 Վաշինգտոնի 205 միլիարդը և Հայաստանի չներկայացված ներդրումային հաշիվը",

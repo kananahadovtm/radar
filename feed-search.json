@@ -1,14 +1,56 @@
 {
-"generatedAt": "2026-10-24T09:06:32.600020+00:00",
-"generatedAtBaku": "2026-10-24 13:06",
+"generatedAt": "2026-10-24T10:06:12.620245+00:00",
+"generatedAtBaku": "2026-10-24 14:06",
 "hours": 30,
 "search": [
+{
+"title": "Central Asian tourist arrivals to Azerbaijan rise by over 12% - Report.az",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXIyd1phVTNQZ1lzWnhJdThMekFIUUdSN0h2ZTJiSlBOTnpfdlI0OGxUbFFONGRaemJHd0VOV2Z4a21GT1JSTTJma25uZEd2WUVrMDd1VlF6WUtxU1lVS3J1Q3g4cjBzZWlIaWgyZTNHcmgyQTJqaEpKLTlpdWZFX3FZR3pUcTlGUTVnOVczQXh6eHM?oc=5",
+"source": "Report.az",
+"time_baku": "2026-10-24 13:52",
+"query": "Азербайджан"
+},
+{
+"title": "Azerbaijan's pharmaceutical export revenue rises by over 4% - Report.az",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmllUmotSTV0ZnA0Z1BVakp2WTF1OHBTemRaLXhyQnVjVldseTZlb3V1MDQzS1YyaEhGVlQyRVpKUUNJRXFsUkw0S2hSaHdtOU9zV3NNT0dRLVBBdGlxNmMyZlNRZjYxV1FYMF9rbUhrNXN3MDlrbXRKQjAwMHRmd3lTVC1FSWI5dXFKTUlkUVQ0UQ?oc=5",
+"source": "Report.az",
+"time_baku": "2026-10-24 13:39",
+"query": "Азербайджан"
+},
+{
+"title": "Caspian-Black Sea-Europe Green Energy Corridor requires €14.3 billion in transmission investment - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZSkZJN29iUnk5akxHNWpBWmpCdVdibGlrZEFETGJNOGVfU0FjRXpkcFBxQmhhTzZ5U25JZEttQ2xSWjRabzBwanNpb0liWml5SnhXcmY0aw?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-24 13:30",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Preliminary schedule of Caspian-Black Sea-Europe Green Energy Corridor made public - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLU1UwY2NGZFRqQ3VzUkVlcjlReDRhRS1Wc1Q1eVhMOHo2blZidlQ0SldVT1FSR2dyTERUYUwyR3ZBZk42aUI5VnlBbGZzM21WbTg3NlZERQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-24 13:19",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Top stories update - azərtac",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VODRna2RvTzRHQ0R1UUFjSG5mQkFDdE9Oc2V2emtFVjJqZHJyVzRUS2EzZ1pBWEtjSGFGbFpGM0JCU0pVS3Y1dGJhMF9UUGRhdmgxRE9ucEM3ZUlnMEVvdzZFa1A?oc=5",
+"source": "azərtac",
+"time_baku": "2026-10-24 13:01",
+"query": "UN Azerbaijan"
+},
 {
 "title": "Azerbaijan's spending on beverage imports rises by over 13% - Report.az",
 "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkJEY2FLVjV2R3pCTUlBZGlxTWRHNjJtckNOdnVuUjlISDZ5SUVDQmI3eDlpQmRzeVpEWl81ZTUxc2k5NFF4UkZDSWdvOG9lZFM4UjZ4S2NieDFlVW9HSGdLS1k0UzFTZGRfcjRlUElCZ0N6R1I5S0Fqb0tYYURRUnM1UFhrM3lzV3p0LUYybzJiUQ?oc=5",
 "source": "Report.az",
 "time_baku": "2026-10-24 12:59",
 "query": "Азербайджан"
+},
+{
+"title": "Turkmenistan seeks to expand cooperation on international standards - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRzJuS2J2SGRxYXRqODAtUUgzMGJKek5aYlBJbG0yeGRoLUdoSWtNbU1ONG5sc1h0Yi10WDRtNm4zOHByOUFzQk10SjhvMG9CbjU4MTRERHBpZjlGNnJ4VkV3?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-24 12:56",
+"query": "Azerbaijan EU"
 },
 {
 "title": "Hellenic Cables seeks to supply cables for Green Energy Corridor - Trend News Agency",
@@ -61,10 +103,17 @@
 },
 {
 "title": "COP17 puts Armenia’s environmental record in the spotlight - Al Jazeera",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjg3dkhUOGZkZGoyaHdmdVFpcWlLNkw5LUJaZ0F6VDB2Z29IQklxaEJ6X3FhM0dmUE9kd2N3VjBFcFZEbnJJR0d1cno4TjU2VlBoU2o3T0R4MTdCaEljS2Z6VVFNbFUwVmRRV21IUkdjNXFEY2pFT1ZueFFxY3FhbkVDTVBGXzJsdENzdEVlNmZ1by1ORTJEeVhReGNic2tsR0VENTlR0gGrAUFVX3lxTFBvM0J2ODZ4dkJKOE9JRUZrNU1jV3ViaVoxTUg5bkpQZDBSN3dRNndDNjhyS0RBbFFhdDJSTEdVNHEzRGxpMGV4cEpzSUM4cy1LYmU4SmQyRzZPWEd6NC0wNmt0dU8xMTFKVjFpUDZuNUJaT3BzOC1FZWRFN0FOcTFVR0V4NmQ1WWVjRlE0VGpsQmxMR2h1VFJ5TEJGekxadG5UeGVhTFRpa1dMWQ?oc=5",
+"source": "Al Jazeera",
+"time_baku": "2026-10-24 11:09",
+"query": "Armenia EU"
+},
+{
+"title": "COP17 puts Armenia’s environmental record in the spotlight - Al Jazeera",
 "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzNCdjg2eHZCSjhPSUVGazVNY1d1YmlaMU1IOW5KUGQwUjd3UTZ3QzY4cktEQWxRYXQyUkxHVTRxM0RsaTBleHBKc0lDOHMtS2JlOEpkMkc2T1hHejQtMDZrdHVPMTExSlYxaVA2bjVCWk9wczgtRWVkRTdBTnExVUdFeDZkNVllY0ZRNFRqbEJsTEdodVRSeUxCRnpMWnRuVHhlYUxUaWtXTFnSAasBQVVfeXFMUG8zQnY4Nnh2Qko4T0lFRms1TWNXdWJpWjFNSDluSlBkMFI3d1E2d0M2OHJLREFsUWF0MlJMR1U0cTNEbGkwZXhwSnNJQzhzLUtiZThKZDJHNk9YR3o0LTA2a3R1TzExMUpWMWlQNm41QlpPcHM4LUVlZEU3QU5xMVVHRXg2ZDVZZWNGUTRUamxCbExHaHVUUnlMQkZ6TFp0blR4ZWFMVGlrV0xZ?oc=5",
 "source": "Al Jazeera",
 "time_baku": "2026-10-24 10:53",
-"query": "Armenia EU"
+"query": "UN Armenia"
 },
 {
 "title": "Azerbaijan reaffirms commitment to multilateralism on United Nations Day - Trend News Agency",
@@ -163,13 +212,6 @@
 "source": "MassisPost",
 "time_baku": "2026-10-24 00:49",
 "query": "NATO Armenia"
-},
-{
-"title": "Pashinyan Accuses EAEU Member States of Seeking to Destabilize Armenia - MassisPost",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFdEVmVfWk5vSGxtYUZKS05LUGdwWDI2WlJLM2t1NWc5blRldi1QRXBhWVFubDJPWnBkQTVJNV9NU0tvS1pTRjlRZm9ZaU0tdmFib2s5R1dpTkNMRkdrelZHaUdqeS0xVGJUUmR6SUMwaDl3QW1CVE9qbVY3NWNvRFBGVVZZQ21RUlFPS244YzNpa1NWcGRJX0s0UnNPc3NVQy1Cd25kNE5WZ9IBqgFBVV95cUxQRFdEVmVfWk5vSGxtYUZKS05LUGdwWDI2WlJLM2t1NWc5blRldi1QRXBhWVFubDJPWnBkQTVJNV9NU0tvS1pTRjlRZm9ZaU0tdmFib2s5R1dpTkNMRkdrelZHaUdqeS0xVGJUUmR6SUMwaDl3QW1CVE9qbVY3NWNvRFBGVVZZQ21RUlFPS244YzNpa1NWcGRJX0s0UnNPc3NVQy1Cd25kNE5WZw?oc=5",
-"source": "MassisPost",
-"time_baku": "2026-10-24 00:49",
-"query": "Армения"
 },
 {
 "title": "Azerbaijan highlights disability rights reforms and mine victims at the UN - Trend News Agency",
@@ -366,6 +408,13 @@
 "source": "Radar Armenia",
 "time_baku": "2026-10-23 18:38",
 "query": "PACE Azerbaijan"
+},
+{
+"title": "YEAs to host nature-themed activities at COP17 in Yerevan - EU NEIGHBOURS east",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWNZQkxSQ0gyT25KV25fV0Z5LU9EQVJVWVVaSnF1Y0FMVjVULXB6cTI5eU5oQVZiRjRGR2pvZVltTW9pUzBIOG1JTDhkcDVIR0xvSkltd05zV1p0WGpVU21zcG53ejUyb0E3N2h3ZXhkXzE4VUZzT2lodWQ0a3Q1bURSSERsYWtrbkhYMEVBQ2dubnhCWUpPQkw3WG5wRFdVSC13Z1NR?oc=5",
+"source": "EU NEIGHBOURS east",
+"time_baku": "2026-10-23 18:37",
+"query": "Armenia EU"
 },
 {
 "title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall - Tert.am",
@@ -970,13 +1019,6 @@
 "query": "NATO Azerbaijan"
 },
 {
-"title": "\"Strong Armenia\" accused the Armenian authorities of attempting to discredit their party ahead of the elections in Stepanavan. - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lN3VyRnBWbnhwbzRPZUhMbTUzeWVvOXFfNURWSmdWaWJwWnZCMGFmOEJRdGd3V29MQWpMRUYtb08tQWVMWmF3amJzMUhyeHp3WHVyeFlMSkgyeGZwV3BYYw?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-10-23 13:15",
-"query": "UN Armenia"
-},
-{
 "title": "Turkmenistan targets 40-60% methane cuts at two pilot sites with EU support - Trend News Agency",
 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12N1FwVWJPSFJKR1lPZjdqYWUyUVY0ZU1qNTJxTTNjblBYeE85a2VFa1IxMFR0WDV1UFppWVBDLTFCWUREZXRNMXpjNVhiRDRSVXctOHppZTJ6UnJjbFNiNHV3?oc=5",
 "source": "Trend News Agency",
@@ -1082,6 +1124,13 @@
 "query": "UN Azerbaijan"
 },
 {
+"title": "The November Noose Tightens Around Trump. Gantaharian - Radar.am",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRzJ4Q0VsV0R6WVB3dnZBY0ZnR0YwTFZibUdHZGRVXzA2LWxraVVhZ3RZQURhTF9lMktidWVNVFhpUkthR3RXWGk5aFRBYnp4WnBHZXphMkhZdw?oc=5",
+"source": "Radar.am",
+"time_baku": "2026-10-23 12:01",
+"query": "Armenia EU"
+},
+{
 "title": "SRC Training Center promotes biodiversity conservation through customs officer training - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CY0Y3U0lFVzlvdllBWndfcmFXUkdOSHc2dlVyc0NBU1pPOUk2VlJKS2U2SzNGaTFRVEh1cFN6UnlzbzFUQjN0V01Pem91OFEwRFHSAVdBVV95cUxOQzZkbFJKekZ3azVwUGx4NWFpdi1KTXFjbmRzcl9QMFUxeTdZUlAyakZPLU9sMm8zRk5YSEV4UXNuWXNacmZzaDFXQTVrbkpjSlVROHZKNEk?oc=5",
 "source": "Armenpress",
@@ -1164,6 +1213,13 @@
 "source": "NEWS.am",
 "time_baku": "2026-10-23 10:55",
 "query": "UN Armenia"
+},
+{
+"title": "Kazakhstan, Germany discuss industrial cooperation, transport corridors - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RYkpHYTdIMlpDOUNjZklJc2tDQ1pkTk9idG0yMkxMeU5lMEQ0NWVfSEdkd1B2QTNkZ0hENGtraldkaGtyS2pOcThDby1LS0FTdGlPa0NBcEUtb2dWNndF?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-23 10:49",
+"query": "Azerbaijan EU"
 },
 {
 "title": "Turkmenistan could gain $300M from 30% methane cut by 2030 - UN - Trend News Agency",
@@ -1430,20 +1486,6 @@
 "source": "MassisPost",
 "time_baku": "2026-10-23 08:09",
 "query": "Армения"
-},
-{
-"title": "From Kerala’s fishing villages to CBD COP17: The fight to recognise traditional knowledge - The News Minute",
-"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVRyY1R5Z2VWYUxlNFFabm1yeHgxS3BpSjYwUExFMTgtdVVDeXRCM0plQ3oyTUk0elExMXVBUXZ2N3UtT1BFOUh3YmRTUzMydGMza0JnS3dlS21XWWxTSXpKT0dJbmp0Z01QdzFwd0tnQkczZlRKc2QwRGQxR3NqVHFNWVU0VzMtQWRlQWdNUkk4enR0NGVOOXh3MGw0OTNjdFRMSTRlbVRIeUR6SExyVzNpdEVCOGx0X2VsdGwzck5OUdIBzwFBVV95cUxOSmFFdExoN3d1bHpOcnFNZmYxLVpQRHA0MTFSU2VGZmtJbU96YWtQM0lCNHZFQ3d3Rlh1c1NzX1pGUUU2SG1ybkp0ZHVkRVFRMzJuV01jTWFKNUZDTmR0b0VqZWRpSWRwaXpzMjctS1hCYU94WEN1UU1rdnFyR19aTWlIdTFpaTAySTU1RFNZQV8yQ0c0dUlNWnpWTHptMXRTd292VWw4c3V2bGw2Zjh2a3ktMG8ydFdtZWFpc3JZbUowY1k4QVJiTWRfTnhMQjA?oc=5",
-"source": "The News Minute",
-"time_baku": "2026-10-23 07:59",
-"query": "UNDP Armenia"
-},
-{
-"title": "Azerbaijan objects to UN Special Rapporteur on freedom of religion or belief - Report.az",
-"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTUtT2t6bGhrbTl5dzdjQjlCaHJZLTlIR2NjZFJRQnhkc3dMdVhHYmZkb1dxMm1tUmFvczlkejIxQjVadWNpbXJFQmx4TG4taHZNRkFVMXFUWFp1UzVjbVdQVjBjbVpqVE9Qa1UzMGpyaHpUdG5Vd0cwZVVKSEhpdE9pSUtJbkcxdVJWNzI3R0c0blQ4Vm9CVXdqR1doSS14TzlHT1k3OTNOb3lPcGRMQUxxZng?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 07:37",
-"query": "UN Azerbaijan"
 }
 ]
 }
