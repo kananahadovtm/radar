@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-24T19:59:09.367781+00:00",
-"generatedAtBaku": "2026-10-24 23:59",
+"generatedAt": "2026-10-24T21:02:44.740845+00:00",
+"generatedAtBaku": "2026-10-25 01:02",
 "hours": 30,
 "pages": {
 "apa": [
@@ -46,32 +46,12 @@
 },
 {
 "title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
-"url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899?locale=az",
-"firstSeenBaku": "2026-10-24 13:06"
-},
-{
-"title": "Bakı Bulvarında Zeytun Festivalı davam edir - FOTO 14:11 24 oktyabr 2026",
-"url": "https://apa.az/sosial/baki-bulvarinda-zeytun-festivali-davam-edir-foto-1007925?locale=az",
-"firstSeenBaku": "2026-10-24 23:59"
-},
-{
-"title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899",
 "firstSeenBaku": "2026-10-24 13:06"
 },
 {
 "title": "Azərbaycan neftinin qiyməti 127 dollara yaxınlaşıb 10:19 24 oktyabr 2026",
 "url": "https://apa.az/senaye-ve-energetika/azerbaycan-neftinin-qiymeti-127-dollara-yaxinlasib-1007888",
-"firstSeenBaku": "2026-10-24 11:19"
-},
-{
-"title": "Azərbaycan XİN İordaniyada kilsəyə silahlı hücumu pisləyib 12:00",
-"url": "https://apa.az/xarici-siyaset/azerbaycan-xin-iordaniyada-kilseye-silahli-hucumu-pisleyib-1007902",
-"firstSeenBaku": "2026-10-24 12:05"
-},
-{
-"title": "Azərbaycan XİN BMT Günü ilə bağlı paylaşım edib 10:07",
-"url": "https://apa.az/xarici-siyaset/azerbaycan-xin-bmt-gunu-ile-bagli-paylasim-edib-1007886",
 "firstSeenBaku": "2026-10-24 11:19"
 }
 ],
@@ -154,6 +134,11 @@
 ],
 "haqqin": [
 {
+"title": "Ибад Гусейнов вернулся в Азербайджан",
+"url": "https://haqqin.az/newsarchive/396562",
+"firstSeenBaku": "2026-10-25 01:02"
+},
+{
 "title": "Президент Алиев на церемонии открытия чемпионата мира и фестиваля FIFA U-15 добавлены фото; обновлено 23:55",
 "url": "https://haqqin.az/newsarchive/396544",
 "firstSeenBaku": "2026-10-24 20:05"
@@ -181,54 +166,39 @@
 "firstSeenBaku": "2026-10-24 17:15"
 },
 {
-"title": "23:00 ՈւՂԻՂ. Մալթայում մեկնարկել է «Մանկակամն Եվրատեսիլ 2026»-ը. Հայաստանը կներկայանա 8-րդ համարի ներքո",
+"title": "00:16 Հայաստանի ներկայացուցիչ Նարեի ելույթը՝ «Մանկական Եվրատեսիլ 2026»-ում",
+"url": "https://style.news.am/arm/news/116822",
+"firstSeenBaku": "2026-10-25 01:02"
+},
+{
+"title": "24 հկտ | 23:00 ՈւՂԻՂ. Մալթայում մեկնարկել է «Մանկակամն Եվրատեսիլ 2026»-ը. Հայաստանը կներկայանա 8-րդ համարի ներքո",
 "url": "https://style.news.am/arm/news/116815",
 "firstSeenBaku": "2026-10-24 23:08"
 },
 {
-"title": "21:39 Իրանը կորցնում է ցամաքային առևտրային ուղիները. Իրաքը և Պակիստանը փակում են առանցքային սահմանային անցակետերը․ ԶԼՄ",
+"title": "24 հկտ | 21:39 Իրանը կորցնում է ցամաքային առևտրային ուղիները. Իրաքը և Պակիստանը փակում են առանցքային սահմանային անցակետերը․ ԶԼՄ",
 "url": "https://news.am/hy/news/1070092",
 "firstSeenBaku": "2026-10-24 22:01"
 },
 {
-"title": "19:05 Փեզեշքիանը կոչ է արել Իրանը դուրս բերել «ո՛չ պատերազմ, ո՛չ խաղաղություն» վիճակից",
+"title": "24 հկտ | 19:05 Փեզեշքիանը կոչ է արել Իրանը դուրս բերել «ո՛չ պատերազմ, ո՛չ խաղաղություն» վիճակից",
 "url": "https://news.am/hy/news/1070062",
 "firstSeenBaku": "2026-10-24 20:05"
 },
 {
-"title": "19:04 «Հայաստանը համերաշխ է Ֆրանսիայի հետ». Փաշինյանը դատապարտել է Տրապում և Լա-Վերիերում տեղի ունեցած հարձակումը",
+"title": "24 հկտ | 19:04 «Հայաստանը համերաշխ է Ֆրանսիայի հետ». Փաշինյանը դատապարտել է Տրապում և Լա-Վերիերում տեղի ունեցած հարձակումը",
 "url": "https://news.am/hy/news/1070075",
 "firstSeenBaku": "2026-10-24 20:05"
 },
 {
-"title": "17:55 Թրամփի հռետորաբանությունը հակասում է ԿՀՎ-ի գործողություններին. ամերիկյան հետախուզությունը ուժեղացնում է Ուկրաինային տրամադրվող օգնությունը",
+"title": "24 հկտ | 17:55 Թրամփի հռետորաբանությունը հակասում է ԿՀՎ-ի գործողություններին. ամերիկյան հետախուզությունը ուժեղացնում է Ուկրաինային տրամադրվող օգնությունը",
 "url": "https://news.am/hy/news/1070054",
 "firstSeenBaku": "2026-10-24 18:04"
 },
 {
-"title": "17:46 Ընդդիմադիր ուժերի հետ կձևավորվի համատեղ աշխատանքային հարթակ. Արցախի պետնախարար",
+"title": "24 հկտ | 17:46 Ընդդիմադիր ուժերի հետ կձևավորվի համատեղ աշխատանքային հարթակ. Արցախի պետնախարար",
 "url": "https://news.am/hy/news/1070065",
 "firstSeenBaku": "2026-10-24 18:04"
-},
-{
-"title": "16:39 Բրիտանիայի վարչապետը Թրամփին խնդրել է ապահովել Ուկրաինայի լիարժեք հասանելիությունը Starlink-ին",
-"url": "https://news.am/hy/news/1070031",
-"firstSeenBaku": "2026-10-24 17:15"
-},
-{
-"title": "16:31 Կարգալույծ հոգևորականները այլևս չունե՞ն ձեր աջակցությունը. հարց՝ Փաշինյանին",
-"url": "https://news.am/hy/news/1070057",
-"firstSeenBaku": "2026-10-24 17:15"
-},
-{
-"title": "16:28 Փաշինյանը շրջանցեց Շինարարներում քանդած կրպակների տարածքը",
-"url": "https://news.am/hy/news/1070055",
-"firstSeenBaku": "2026-10-24 17:15"
-},
-{
-"title": "16:24 «Ավելի քիչ խոսել՝ ավելի շատ գործել». Վաշինգտոնի համբերությունը սպառվում է ԱԲ ընկերությունների ղեկավարների հարցում․ Axios",
-"url": "https://news.am/hy/news/1070028",
-"firstSeenBaku": "2026-10-24 17:15"
 },
 {
 "title": "Ուղիղ Փաշինյանի շանտաժը կաշխատի՞. փորձելու են «գողանալ» պատգամավորների I ԼՈՒՐԵՐ I 20:00",
@@ -271,9 +241,14 @@
 "firstSeenBaku": "2026-10-23 19:15"
 },
 {
-"title": "Փաշինյանին չի մտահոգում Հայաստանի անվտանգությունն ու սահմանների պաշտպանությունը. Կարապետյան",
-"url": "https://news.am/hy/stories/3100",
-"firstSeenBaku": "2026-10-23 18:18"
+"title": "Կարգալույծ հոգևորականները այլևս չունե՞ն ձեր աջակցությունը. հարց՝ Փաշինյանին հոկտեմբերի 24, 16:31",
+"url": "https://news.am/hy/news/1070057",
+"firstSeenBaku": "2026-10-24 17:15"
+},
+{
+"title": "Փաշինյանը շրջանցեց Շինարարներում քանդած կրպակների տարածքը հոկտեմբերի 24, 16:28",
+"url": "https://news.am/hy/news/1070055",
+"firstSeenBaku": "2026-10-24 17:15"
 },
 {
 "title": "Փաշինյանը չպատասխանեց կարգալույծ քահանաների վերաբերյալ դատարանի որոշման մասին հարցին հոկտեմբերի 24, 16:17",
@@ -294,11 +269,6 @@
 "title": "Երեմյանի փորձը՝ Հայաստանի կայուն գյուղատնտեսության զարգացման համար հոկտեմբերի 24, 11:39",
 "url": "https://news.am/hy/news/1070000",
 "firstSeenBaku": "2026-10-24 12:05"
-},
-{
-"title": "Converse Mobile-ը Հայաստանի լավագույն մոբայլ բանկային հավելվածն է՝ ըստ Global Finance-ի հոկտեմբերի 23, 17:34",
-"url": "https://news.am/hy/news/1069896",
-"firstSeenBaku": "2026-10-23 18:18"
 },
 {
 "title": "ԱԱ․ Հայաստանի 4 ըմբիշ դուրս մնաց տիտղոսի համար պայքարից հոկտեմբերի 24, 12:58",
@@ -334,16 +304,6 @@
 "title": "Հայաստանը դարձել է Եվրոպայի մշակութային ժառանգության առաջատար զբոսաշրջային ուղղությունը հոկտեմբերի 23, 20:45",
 "url": "https://news.am/hy/news/1069919",
 "firstSeenBaku": "2026-10-23 21:13"
-},
-{
-"title": "Վիեննայի միջազգային փառատոնին Արցախի համույթների մասնակցությունը չեղարկվել է․ դեսպանատան գրության մեջ նրանք ներկայացվել են որպես «վտանգավոր» Վիեննայի միջազգային փառատոնին Արցախի մշակութային համույթների մասնակցությունը չեղարկվել հոկտեմբերի 23, 17:49",
-"url": "https://news.am/hy/news/1069908",
-"firstSeenBaku": "2026-10-23 18:18"
-},
-{
-"title": "Մահացել է նկարազարդող, ծաղրանկարիչ, Հայաստանի վաստակավոր նկարիչ Վլադիմիր Աբրոյանը հոկտեմբերի 23, 17:35",
-"url": "https://news.am/hy/news/1069876",
-"firstSeenBaku": "2026-10-23 18:18"
 }
 ],
 "armenpress-hy": [
@@ -388,7 +348,7 @@
 "firstSeenBaku": "2026-10-23 21:13"
 },
 {
-"title": "23:00 Մեկնարկեց «Մանկական Եվրատեսիլ 2026»-ը. Հայաստանի պատվիրակ Նարեն ելույթ կունենա 8-րդ համարի ներքո",
+"title": "23:00, 24 հոկտեմբերի Մեկնարկեց «Մանկական Եվրատեսիլ 2026»-ը. Հայաստանի պատվիրակ Նարեն ելույթ կունենա 8-րդ համարի ներքո",
 "url": "https://armenpress.am/hy/article/1263719",
 "firstSeenBaku": "2026-10-24 23:08"
 },
@@ -406,11 +366,6 @@
 "title": "Քաղաքականություն ՀՀ վարչապետի խոսնակը հերքում է Թուրքմենստանում Փաշինյան-Պուտին-Ալիև հանդիպման մասին ռուսական լրատվամիջոցի հրապարակումը ՀՀ վարչապետ Նիկոլ Փաշինյանի, Ադրբեջանի նախագահ Իլհամ Ալիևի ու ՌԴ նախագահ Վլադիմիր Պուտինի միջև եռակողմ հանդիպում Թուրքմենստանում տեղի չի ունեցել։ «Արմենպրես»-ին... ",
 "url": "https://armenpress.am/hy/article/1262451",
 "firstSeenBaku": "2026-10-23 22:05"
-},
-{
-"title": "Մշակույթ Կյանքից հեռացել է Հայաստանի վաստակավոր նկարիչ Վլադիմիր Աբրոյանը 17:29, 23 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263664",
-"firstSeenBaku": "2026-10-23 18:18"
 },
 {
 "title": "Սպորտ Հայտնի է Հայաստանի ծանրորդների ելույթների ժամանակացույցն ԱԱ-ում Հայաստանի ծանրամարտի ֆեդերացիան ներկայացրել է ծանրամարտի աշխարհի 2026 թվականի առաջնությունում ծանրորդների ելույթների ժամանակացույցը:«Արմենպրես»-ի հաղորդմամբ` այ... 12:17, 24 հոկտեմբերի",
@@ -445,52 +400,47 @@
 "firstSeenBaku": "2026-10-23 20:15"
 },
 {
-"title": "Armenia Human, animal and environmental health brought together in COP17 “One Health” discussion 18:13, 23 October",
-"url": "https://armenpress.am/en/article/1263659",
-"firstSeenBaku": "2026-10-23 18:18"
-},
-{
-"title": "23:00 Junior Eurovision 2026 kicks off in Malta, Armenia’s Naré to perform eighth",
+"title": "23:00, 24 October Junior Eurovision 2026 kicks off in Malta, Armenia’s Naré to perform eighth",
 "url": "https://armenpress.am/en/article/1263719",
 "firstSeenBaku": "2026-10-24 23:08"
 },
 {
-"title": "17:39 Pashinyan proposes using AI to assess urban infrastructure repair needs",
+"title": "17:39, 24 October Pashinyan proposes using AI to assess urban infrastructure repair needs",
 "url": "https://armenpress.am/en/article/1263730",
 "firstSeenBaku": "2026-10-24 18:04"
 },
 {
-"title": "17:35 Lyon City Hall delegation visits Armenian Genocide Memorial",
+"title": "17:35, 24 October Lyon City Hall delegation visits Armenian Genocide Memorial",
 "url": "https://armenpress.am/en/article/1263729",
 "firstSeenBaku": "2026-10-24 18:04"
 },
 {
-"title": "16:23 Pashinyan urges extracurricular education providers to inform parents about tax reimbursements",
+"title": "16:23, 24 October Pashinyan urges extracurricular education providers to inform parents about tax reimbursements",
 "url": "https://armenpress.am/en/article/1263723",
 "firstSeenBaku": "2026-10-24 17:15"
 },
 {
-"title": "15:44 Pashinyan proposes urban development project in Ajapnyak",
+"title": "15:44, 24 October Pashinyan proposes urban development project in Ajapnyak",
 "url": "https://armenpress.am/en/article/1263722",
 "firstSeenBaku": "2026-10-24 16:05"
 },
 {
-"title": "14:45 COP17: Armenia, Zimbabwe discuss biodiversity cooperation",
+"title": "14:45, 24 October COP17: Armenia, Zimbabwe discuss biodiversity cooperation",
 "url": "https://armenpress.am/en/article/1263715",
 "firstSeenBaku": "2026-10-24 15:04"
 },
 {
-"title": "14:14 Scattered showers expected in parts of Armenia over coming days",
+"title": "14:14, 24 October Scattered showers expected in parts of Armenia over coming days",
 "url": "https://armenpress.am/en/article/1263712",
 "firstSeenBaku": "2026-10-24 15:04"
 },
 {
-"title": "13:04 Armenia’s Amoyan loses second bout at World Wrestling Championships",
+"title": "13:04, 24 October Armenia’s Amoyan loses second bout at World Wrestling Championships",
 "url": "https://armenpress.am/en/article/1263705",
 "firstSeenBaku": "2026-10-24 13:06"
 },
 {
-"title": "12:59 Armenian weightlifters’ schedule for 2026 World Championships released",
+"title": "12:59, 24 October Armenian weightlifters’ schedule for 2026 World Championships released",
 "url": "https://armenpress.am/en/article/1263701",
 "firstSeenBaku": "2026-10-24 13:06"
 },
@@ -665,7 +615,12 @@
 "firstSeenBaku": "2026-10-24 22:01"
 },
 {
-"title": "Խոշոր հարկատուների ցանկը բացահայտում է Հայաստանի տնտեսության կառուցվածքային աղքատությունը 10:00 2026.10.24",
+"title": "«Մանկական Եվրատեսիլ 2026»․ Հայաստանը հաղթողի գլխավոր հավակնորդների թվում է",
+"url": "https://www.1in.am/3772308.html",
+"firstSeenBaku": "2026-10-25 01:02"
+},
+{
+"title": "Խոշոր հարկատուների ցանկը բացահայտում է Հայաստանի տնտեսության կառուցվածքային աղքատությունը 00:00 2026.10.25",
 "url": "https://www.1in.am/3772163.html",
 "firstSeenBaku": "2026-10-24 19:04"
 },
@@ -673,6 +628,11 @@
 "title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը",
 "url": "https://www.1in.am/3771994.html",
 "firstSeenBaku": "2026-10-24 11:19"
+},
+{
+"title": "5 տուժած, 2 զոհ․ ՃՏՊ՝ Երևան-Աշտարակ ավտոճանապարհին Հոկտեմբերի 24-ին՝ ժամը 19։19-ին, Արագածոտնի մարզային օպերատիվ կառավարման կենտրոն ահազանգ է ստացվել, որ Երևան-Աշտարակ ավտոճանապարհին տեղի է ունեցել ՃՏՊ․ կան … 22:40 2026.10.24",
+"url": "https://www.1in.am/3772357.html",
+"firstSeenBaku": "2026-10-24 23:08"
 },
 {
 "title": "ՌԴ երկաթուղիները դիտարկում են Վրաստանի տարածքով Թուրքիայից և Ադրբեջանից միրգ ու բանջարեղեն ներկրելու հնարավորությունը",
@@ -692,11 +652,6 @@
 {
 "title": "Երևան-Աշտարակ ավտոճանապարհին վթարից տուժած երեխաներից 3-ի վիճակը ծայրահեղ ծանր է. ԱՆ",
 "url": "https://www.1in.am/3772360.html",
-"firstSeenBaku": "2026-10-24 23:08"
-},
-{
-"title": "5 տուժած, 2 զոհ․ ՃՏՊ՝ Երևան-Աշտարակ ավտոճանապարհին",
-"url": "https://www.1in.am/3772357.html",
 "firstSeenBaku": "2026-10-24 23:08"
 },
 {
@@ -724,12 +679,17 @@
 ],
 "civilnet": [
 {
-"title": "23:01 Armenia’s 2027 budget falls short of its own science strategy, Gituzh says",
+"title": "00:09 Pesticide oversight gaps could hamper Armenian produce exports to the EU, report warns",
+"url": "https://civilnet.am/en/news/1014987",
+"firstSeenBaku": "2026-10-25 01:02"
+},
+{
+"title": "24 October, 23:01 Armenia’s 2027 budget falls short of its own science strategy, Gituzh says",
 "url": "https://civilnet.am/en/news/1014986",
 "firstSeenBaku": "2026-10-24 23:08"
 },
 {
-"title": "19:05 New owner to expand Armenian mine, redirect output to US: THIS WEEK IN BUSINESS",
+"title": "24 October, 19:05 New owner to expand Armenian mine, redirect output to US: THIS WEEK IN BUSINESS",
 "url": "https://civilnet.am/en/news/1014954",
 "firstSeenBaku": "2026-10-24 19:04"
 },
@@ -744,11 +704,6 @@
 "firstSeenBaku": "2026-10-23 19:15"
 },
 {
-"title": "23 October, 17:45 Armenia and U.S. discuss new nuclear plant as Yerevan weighs Russian offer",
-"url": "https://civilnet.am/en/news/1014961",
-"firstSeenBaku": "2026-10-23 18:18"
-},
-{
 "title": "Armenia continues to weigh competing proposals on a new nuclear facility from Washington and Moscow",
 "url": "https://civilnet.am/en/stories/1014",
 "firstSeenBaku": "2026-10-23 22:05"
@@ -757,11 +712,6 @@
 "title": "Can Armenian Wine Win Over the World?",
 "url": "https://civilnet.am/en/stories/1006",
 "firstSeenBaku": "2026-10-23 20:15"
-},
-{
-"title": "The Sexism Behind Pashinyan’s Comments",
-"url": "https://civilnet.am/en/stories/1002",
-"firstSeenBaku": "2026-10-23 18:18"
 },
 {
 "title": "Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS Armenia’s controversial Amulsar gold mine officially launched operations, marking the end to years of delays over the project. It’s expected to generate $120-$130 17 October, 19:05",
@@ -798,11 +748,6 @@
 "title": "Press release OSCE Chairman-in-Office highlights dialogue and engagement during visit to Georgia Date Date 16 October 2026 Location Location TBILISI",
 "url": "https://www.osce.org/chairpersonship/668778",
 "firstSeenBaku": "2026-10-23 21:13"
-},
-{
-"title": "News Item OSCE participating States and Asian Partners share regional experiences in conflict prevention to strengthen responses to today’s interconnected security challenges Date Date 23 October 2026",
-"url": "https://www.osce.org/news/partners-cooperation-asian/669141",
-"firstSeenBaku": "2026-10-23 18:18"
 }
 ],
 "un-press": [
@@ -837,6 +782,13 @@
 "title": "A timeline of biblical translation in Armenia",
 "url": "https://armenianweekly.com/2026/10/10/bible-armenian-translation-timeline/",
 "firstSeenBaku": "2026-10-24 20:05"
+}
+],
+"arfd": [
+{
+"title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
+"url": "https://www.arfd.am/eng/news/8757/",
+"firstSeenBaku": "2026-10-25 01:02"
 }
 ],
 "301am": [
