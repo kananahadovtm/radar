@@ -1,8 +1,15 @@
 {
-"generatedAt": "2026-10-24T15:04:45.861973+00:00",
-"generatedAtBaku": "2026-10-24 19:04",
+"generatedAt": "2026-10-24T16:05:49.153956+00:00",
+"generatedAtBaku": "2026-10-24 20:05",
 "hours": 30,
 "search": [
+{
+"title": "Former Member of the European Parliament Slavi Binev was shot dead in Bulgaria - UA.NEWS",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlpXMlhGaUVBRWxPX0VZbWlWb2JZcUpHeU02anRYZXF4MGNLUmNWTzVpem5MZFM4MktiVWd4RzdhVTd2em9aUnZZS0N2XzliMkc1c2ZBdVVpRjRPYkxtYm9rMV9yRHY1ei13dl9zQzZvTXh3eHlCZ1FiQkhFZUFScWh1bjNMNU8ydU1XNVZtYVdidDlhMXYzcXE4YWM?oc=5",
+"source": "UA.NEWS",
+"time_baku": "2026-10-24 19:37",
+"query": "European Parliament Armenia"
+},
 {
 "title": "Azerbaijan says fuel exports helped reduce prices in Armenia by 20–30% - AzerNews",
 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YdmJtQ2lTalNWLUJDWHVmQkM4NEJVdGlaVDByUFlZck9wTkFBbWtsNVdNN3FzSFNjS3pWdWdVN3RtM2YtY2YzM1d6SXU3NEtBLU1oOQ?oc=5",
@@ -23,13 +30,6 @@
 "source": "AzerNews",
 "time_baku": "2026-10-24 16:16",
 "query": "European Parliament Azerbaijan"
-},
-{
-"title": "Exceptionally high temperatures in Armenia in 2023: orographic effects, snowpack response and synoptic drivers - Nature",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5UktaRTc2MUVJOW55Q0RQN0RCUkJzeWVqX1dkX3JhZk9FeUdjSV9ZTFIxM01oeTJHclAtaEJucllYb25VY1BJZm5HaWNlZGd0TTJab2tjVWs0RmlpZ25r?oc=5",
-"source": "Nature",
-"time_baku": "2026-10-24 16:01",
-"query": "Armenia EU"
 },
 {
 "title": "Caspian-Black Sea-Europe energy project valued at €22B - Latest news from Azerbaijan",
@@ -123,7 +123,7 @@
 "query": "Азербайджан"
 },
 {
-"title": "Caspian-Black Sea-Europe Green Energy Corridor requires €14.3 billion in transmission investment - Trend News Agency",
+"title": "Caspian-Black Sea-Europe Green Energy Corridor requires around €22B in total investment - Trend News Agency",
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZSkZJN29iUnk5akxHNWpBWmpCdVdibGlrZEFETGJNOGVfU0FjRXpkcFBxQmhhTzZ5U25JZEttQ2xSWjRabzBwanNpb0liWml5SnhXcmY0aw?oc=5",
 "source": "Trend News Agency",
 "time_baku": "2026-10-24 13:30",
@@ -135,6 +135,20 @@
 "source": "Trend News Agency",
 "time_baku": "2026-10-24 13:19",
 "query": "Azerbaijan EU"
+},
+{
+"title": "Two opposition figures detained in Armenia - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOE5Jci1uQmJodDRkZ2JnYnl4aVlLZmxtTjcxRTc2N3FTS0s5ODVSTnUweV83Nk9xT1BvbkctTGo1ZnhCTkdEZTFIb0o1SU1TcmJGcWtCOFBtczNWMktmQmh0UU8wSG8xdHlOUFZBUFJ2SDF0MFhzR1pmNUxBOE90MFFacUg?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-10-24 13:16",
+"query": "UN Armenia"
+},
+{
+"title": "Law enforcement agency reports arrests amid election-related corruption probes - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9McXJvUGhHQTBldzZOLWNBMEhfdmRyUFQzeHJUZUJsRldUUGpxOE9BZjFhZ3ZEeGFidlVUcEdBTm9vSm9hUk9WS19wRVo0YmRXOTlkelh5WdIBV0FVX3lxTE9McXJvUGhHQTBldzZOLWNBMEhfdmRyUFQzeHJUZUJsRldUUGpxOE9BZjFhZ3ZEeGFidlVUcEdBTm9vSm9hUk9WS19wRVo0YmRXOTlkelh5WQ?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-10-24 13:15",
+"query": "UN Armenia"
 },
 {
 "title": "Top stories update - azərtac",
@@ -151,11 +165,25 @@
 "query": "Азербайджан"
 },
 {
+"title": "Turkmenistan seeks to expand cooperation on international standards - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRzJuS2J2SGRxYXRqODAtUUgzMGJKek5aYlBJbG0yeGRoLUdoSWtNbU1ONG5sc1h0Yi10WDRtNm4zOHByOUFzQk10SjhvMG9CbjU4MTRERHBpZjlGNnJ4VkV3?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-24 12:56",
+"query": "Azerbaijan EU"
+},
+{
 "title": "Hellenic Cables seeks to supply cables for Green Energy Corridor - Trend News Agency",
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZXdSc2NsY3h6b0VWUWZWeVFJakp0OFpRREF0NzBSYkR4MjluMWI5d2taZDJkN1ZhVXdiMkZSRUF6LXlNWVFDWHlObXFZTjJZQU5kQ2lWYw?oc=5",
 "source": "Trend News Agency",
 "time_baku": "2026-10-24 12:33",
 "query": "Azerbaijan EU"
+},
+{
+"title": "Professional knowledge must underpin nature conservation efforts, Armenian minister says at SPFB - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBibndMSUFfc3ZQSUI2b2Zub2syTENfZ1cxTjZnZy1CLTZ4RnBjU2hWNE05elZxSEpkZzlFangtMnVCbG02NExfSWJab2ZkWW1rdWfSAVdBVV95cUxNRUFhQzRfVkhlOTdGNGQxNHIzRFZKVlZiYWIwYTEteDhTUTJzZFlXYnNvcTdmM3dfTXNwQ0ZWYzNFTnd6S3JLTng4STMwV19Ya3ltVUpuS0U?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-10-24 12:13",
+"query": "Armenia EU"
 },
 {
 "title": "Azerbaijan's MFA extends condolences to Jordan regarding armed attack near church - Report.az",
@@ -177,6 +205,13 @@
 "source": "CBC",
 "time_baku": "2026-10-24 12:00",
 "query": "UN Armenia"
+},
+{
+"title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis - Tert.am",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52YnVsdGtCRlJfVlUtZTNONHlkQmJFcDdlU1RRRzVUeVp4V2RXSzFlWmlyTUtMUlBuaktITnhaZUh4NVBCZDctT2RrRDJiX2VIYmRZUFZmTS1fTlo4TlAwaDloZ2FzVkFMZ0prUFJwNlRQb2syTlE?oc=5",
+"source": "Tert.am",
+"time_baku": "2026-10-24 11:49",
+"query": "Armenia EU"
 },
 {
 "title": "Azerbaijan expresses concern at UN over landmine threat leading to disability - azərtac",
@@ -260,7 +295,7 @@
 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQXNpQjFtVldSWEIycUZidkxjNERjVXhaTWdwTjJoZ19mdEVyc2dsYzZ3Z01RTmQ3V1E5WWQtMWxkYmtkZzFRVU5DeHZ3aEFZdlZicmxtV0U4VGNX?oc=5",
 "source": "EurekAlert!",
 "time_baku": "2026-10-24 10:11",
-"query": "UNDP Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "UNDP, UNICEF launch green careers campaign targeting 500 million young people - The Climate Watch",
@@ -361,13 +396,6 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "Liam Lawson logs 10th fastest time in the weekend’s first US Grand Prix practice session - Stuff",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUU4tdkVKUXVxdXZVekkyazVBRjIxcDQ4SnAtaUxET1lraHNJT05YdWwtZTc5amxKYVlCVVlGOVMwZFNFbkhFaHlYZGNBbHRWRTQwVmFfNkpfa0NPbVpLWWlQdDBOVGRVcnJnWkJCY0ZmNWJjeG9POUhwYi1Jd2JTdUliWFF5NGtfZzV2dkRwcDR0enhYUkEza0FHdWxVYmdKaDJzX2JKdy1DV0pYNmx5QlRvU1M0TlBaS1k5dA?oc=5",
-"source": "Stuff",
-"time_baku": "2026-10-23 22:59",
-"query": "PACE Azerbaijan"
-},
-{
 "title": "Greenpeace Pictures Of Week 24 October - Mirage News",
 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOXBGb2lvXzhobkJlNjZocm45ZGhld2JucXlnSUl6ZFRCNkNSNmlhUi1DdWRGT3EyUHF3UXVDSjBqaTRTRUxVUGg5NlJQRzVEankxYmFfQWM2QWRodzBINklxdm9wbVlXSVQzaVk5dkplSlduSktxSnJNeDgwbzg?oc=5",
 "source": "Mirage News",
@@ -379,7 +407,7 @@
 "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmhnUlViX1FsMGx2MXRZa0JRZ0FtV3E4clFkOHYwbnRNT2FNZkpTMGxTTTZGVHBabXhwNVlLOENNWEtNWlMtNkhEMlNKeHZmNUVCdWQxSmJnaFBlb3NnbmZlOHVRVTFqTzV6Q2d0ajZzV2tPS2NreWQyZllUc3lfWmVleUVFSWMzUUJqcjRjRWRQSFh1X0FST3hEd2s1ems?oc=5",
 "source": "European Centre for Law and Justice | ECLJ",
 "time_baku": "2026-10-23 22:22",
-"query": "Armenia EU"
+"query": "European Parliament Armenia"
 },
 {
 "title": "Time to Take Action for Nature — for the Benefit of All - United Nations Development Programme",
@@ -421,7 +449,7 @@
 "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LZnRtWF9ETWdCdEx5dHo1SzhwZnUtc25seTFxUlJtOEV5cXhLOWpTVmdkRmlBZDZSaXFaUXFXYlIyRUU0SEw3Mg?oc=5",
 "source": "1Lurer",
 "time_baku": "2026-10-23 20:57",
-"query": "European Parliament Armenia"
+"query": "Azerbaijan EU"
 },
 {
 "title": "Azerbaijan assumes chairmanship of Turkic Investment Fund's Board of Governors - Report.az",
@@ -473,13 +501,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "EAM Jaishankar And Azerbaijan FM Discuss Connectivity, North–South Transport Corridors - Ommcom News",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjNEalNDUThJRnlNOFgwTGtmY3N0UVphVjRYdlBjOUVKYzlSSmJwQUlxX2ZFdmtMVEVHZmczT2hZVklPYWdDOEVzWG56U2FvQ2pUaVRSWW51YXAzOWlkM0dkMmRIWWlUUGhwWFhUV0Z1UnU5Vmw1ZS1MQm9ZTVRfa1BkLUxfS2JfN0JaNVZ2Yjl6VkdFenBvZzNoOVBZQ1B0V2ZuemR4d00tYlM1TjhvdnRUaEdxLUpuSnJGaA?oc=5",
-"source": "Ommcom News",
-"time_baku": "2026-10-23 19:51",
-"query": "UN Azerbaijan"
-},
-{
 "title": "Katsuya Watanabe: Azerbaijan will always remain a special country to me - Report.az",
 "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NmTzNsT1A5VVNvZ1BRN201U1dkZ0hfQWptWGZBeGVhdVIxRE00R29fT3o0dnhsWHlHYkJIVzlWZFliYVlueE1LXzhUa1lWZ0VkQnBKS0dnOFNnZWQxRUhjTkdlamttbGdoWE1fQXN6Ym9qSU5ZdHltWVhuaFJyVXZEaGZSV2YxZjVHRzJmcURJZk5nOVMxWExfcG1KSUd2a2dVM0hqdkNaTjRU?oc=5",
 "source": "Report.az",
@@ -492,6 +513,13 @@
 "source": "Armenpress",
 "time_baku": "2026-10-23 19:35",
 "query": "European Parliament Armenia"
+},
+{
+"title": "Arman Abovyan became the official representative of the PAP following the arrest of Gagik Tsarukyan - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QZ05aX2ptYm1WM3Z6dEp6WlFJT3VMcU4zNHdIcjhocG9jbkxFT2JjZER0N2RHYmhoODFVZWc4cmtFTGhrankzbGUzSndIYTNHMjU1bGVSLTJOSFN2aHQtOA?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-23 19:31",
+"query": "Armenia EU"
 },
 {
 "title": "Azerbaijan and Pakistan discuss cooperation in field of justice - Report.az",
@@ -550,6 +578,13 @@
 "query": "Armenia EU"
 },
 {
+"title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall - Tert.am",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GaUhoUURzZU9QbGtMYVJ2Q2dyYnQwcU9FNjY2SUxjODR1ejVqRHV5Ynd6TW1fdHh6c2dFTEN4SHgxc1FOVDNiMHRxOXU0QWFhYW8yMTUyMmoydFVs?oc=5",
+"source": "Tert.am",
+"time_baku": "2026-10-23 18:33",
+"query": "Armenia EU"
+},
+{
 "title": "EU Delegation to Ukraine invites journalists to training on EU affairs - EU NEIGHBOURS east",
 "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUowUG9BMWZwcFNKaUVZYi15YVZXaFJBV0EwZldIMVVJY2VxT0tKR1k4OC1EWG5ORXVzdDhvcnJWbUprS3RKcGpmenRUak10VUM1MjViajdNbFNGQVp5ZHdscW4wUDJrRmx4Y2hmeTBhQTZiMmUxRE9wakxoQzRhUDlZVFlwMVVLajZvQmVSZ09QNEZlWmJpM3padW1NNUxRYTdMZFNxNURQOEN0Y1k3Y2U3Zw?oc=5",
 "source": "EU NEIGHBOURS east",
@@ -599,11 +634,11 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Pope Leo XIV cancels Assisi trip on doctors' advice as he recovers from surgery - Tert.am",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlZmJDeVYwNHdrUFAtd05IUTBuTnBRRmlGME4yOFlxckFvQ2Z0V1BpQ2l3c0NoV3g2Slpmc09WU0VKNHJraHBMcW0weHMxWTB6QURrWTI2OVRWdVh2RE4yY2YtRW9pOG9ZR2RZ?oc=5",
+"title": "Green Rock Wins Five-Star Recognition at the International Property Awards for Its Multifunctional Complex in Dilijan - Tert.am",
+"url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRHNiQnRJbDNJckoxcEM0S1pMc3VCU0dTclp4OHNQNF9KRHprbVMwYk1FajY1YnAzTTR6RDVHQzh6ZnN5Z05adHdpbjU0VTRJRDgzWGVDeU9EbGppNGhmd01tWQ?oc=5",
 "source": "Tert.am",
 "time_baku": "2026-10-23 17:37",
-"query": "OSCE Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "Romania condemns attack on Khoryv vessel - Latest news from Azerbaijan",
@@ -697,10 +732,10 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Behind the scenes at COP17: where thousands of delegates are staying in Armenia - JAMnews",
-"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbng3elZUWVFrZktuLUtzckprN2VBdjU1Zms5Vmdvallvcmg4TUlGZVF2Y1JYblM3QzRIdnh0dzNnSWdqME50MkstY3NVN0ZJMzVUMXNnQkM1WGhYenlVb1VWMjFKVVZBU0g3Y1RQSTU1UFd2UG9nTEpaZU5Mc1lNMEoteVBGYlhNcnBlMVJXUVpxR185VmptS2Q4ZDhZQkN3dkE?oc=5",
+"title": "South Ossetia’s new government takes shape, with Russian officials in top posts - JAMnews",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0hrOHpLSGxYU1p2WXVfdnRtd2s0dVFXVUVNREVQNkxZUWtZMHMtdUNfTW1DYjJfb0RINVJDUTlBQ3hqSnhmNTdrWmFDNDAwVE1GbkZnZ1FYSWNiTTVrN20tbkpnU0ZhVW1hVjYtc1hmQng3QThFeHRmWU9oM0Q5ZG8zb3hQQ3dQZFlDeTRfQXc5VkxRVlN3eTE1eDVSUHpQ?oc=5",
 "source": "JAMnews",
-"time_baku": "2026-10-23 16:47",
+"time_baku": "2026-10-23 16:52",
 "query": "Armenia EU"
 },
 {
@@ -747,6 +782,13 @@
 },
 {
 "title": "One seriously injured, two in moderate condition after Yerevan bus crash - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3dTF2eUNidGtoWVpaaDhKOFVJNWJpUzIwdHcxSnFIWkMyWENIU2tmZVBxMzhSR0pMY3lPQjNzZ0NTTlZSeFZneC1vaW1DWDVwdjhlS3JBd9IBV0FVX3lxTFA3dTF2eUNidGtoWVpaaDhKOFVJNWJpUzIwdHcxSnFIWkMyWENIU2tmZVBxMzhSR0pMY3lPQjNzZ0NTTlZSeFZneC1vaW1DWDVwdjhlS3JBdw?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-10-23 16:12",
+"query": "Armenia EU"
+},
+{
+"title": "One seriously injured, two in moderate condition after Yerevan bus crash - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INlBueVZ4X2dwa0xHZERCOXVkQjhxdlozNVNhcERlV09aN0dFV1VxOG0xdVpjTFkxRHZtdk5pR2w1bHFNcUNRbTBOM1Q4Q25jWVHSAVdBVV95cUxQN3UxdnlDYnRraFlaWmg4SjhVSTViaVMyMHR3MUpxSFpDMlhDSFNrZmVQcTM4UkdKTGN5T0Izc2dDU05WUnhWZ3gtb2ltQ1g1cHY4ZUtyQXc?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-23 16:12",
@@ -774,6 +816,13 @@
 "query": "UN Armenia"
 },
 {
+"title": "Honored Artist of Armenia Vladimir Abroyan passed away at the age of 87 - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQTVTZlp1Y01kcjl3STdieGMzR3BUZ0lqTFpXU2p6VkdjMTFzV3pic3Fqa1JUaV9oREg0eXpoNGNJYlBKeV9PWGNvS3pxWm1RT3pia2R4RnFfOWV4NGpaQg?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-23 16:05",
+"query": "Armenia EU"
+},
+{
 "title": "Armenia, United States explore opportunities for deeper economic cooperation - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2QnMyR2JDYlBIRW1ObjNfaG1XVGF6dkhFZ2FRaGphekhIM1UyTEVzZHhTNG1ReXRJVEpYeDUtU3N1Qk1hR3hPSE16Qmx4bXduT0HSAVdBVV95cUxNWjFvNnYyMVFTVjc2VE5tX2hUMnpBaTlCNFlOcU9DOE4yZHhjbGZCdUZKTUxEQV9EYW9UM0ZwYnRWcGZweGhxekFxTTQ4VHlKZi1tZXlNcm8?oc=5",
 "source": "Armenpress",
@@ -795,11 +844,25 @@
 "query": "UN Azerbaijan"
 },
 {
+"title": "Pledge for Gender Equality in Publishing launched by EU 4 Gender Equality programme and IPA - UN Women Europe and Central Asia",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlZPVlN3Q2EwZ3dOQzdrNUpxTEVTYUR2Rk1sZl9fMVVYazVNUzZReWw0Z3hKY3FCVVJJMHp5UndFcjhvSDhFQlc2Vko4cWZYT2ZqMS03M2JLLUE1VG5WRjRhTFI2Qm1WN0xvMDdpMTloRzNDN1BFMFN1S3laeEFtd1NhMURWeld4UlpodHRiZGk0WjBOXy14TWNyYkJId283aVNXQXZ1Y0Q0dXVpTmVqTktMdzJLZ2lBdlZjUzJBS1pUZjA5VHVtZEhnUnE3d3RGcFpNRHZQSUJHVFBJYjdpVTFB?oc=5",
+"source": "UN Women Europe and Central Asia",
+"time_baku": "2026-10-23 16:00",
+"query": "Armenia EU"
+},
+{
 "title": "US dollar, euro drop in Armenia - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nWDRNc0FTdVJjYnZyM0tON3Y5VnBhRXluR1FpdGptenc4UUZnUVc3cHZmQ0pGOFNnazhqM1FsYWZONTRPN0E?oc=5",
 "source": "NEWS.am",
 "time_baku": "2026-10-23 15:57",
 "query": "UN Armenia"
+},
+{
+"title": "Azerbaijan continues to increase defense spending - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTEVGMGNFYVYxN3lYWVRqcDZDN0w1Tm1sUU5XYUZmYko1Y1B5ZFJmOEhiam0yZE44emkzRXIxVVh0ODJKb0dfdG1rNGRSYk5kbDBSbzV3eUxkLTdvRmRUQg?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-10-23 15:38",
+"query": "Armenia EU"
 },
 {
 "title": "Rioters, Looters…How Can France React? - European Centre for Law and Justice | ECLJ",
@@ -820,7 +883,7 @@
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sSUhvdFFMQ2gzMkp3MGx2c2lkUTZMRjhGWlZjcG8xT2VQTmg0REdwR2tkWjhlUkd6MGZyVGJuTFZMV1NOYnZWVjVmdVZqSDFXdjBsLXVaTdIBV0FVX3lxTE9sSUhvdFFMQ2gzMkp3MGx2c2lkUTZMRjhGWlZjcG8xT2VQTmg0REdwR2tkWjhlUkd6MGZyVGJuTFZMV1NOYnZWVjVmdVZqSDFXdjBsLXVaTQ?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-23 15:37",
-"query": "European Parliament Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "India’s Jaishankar welcomes Armenia-Azerbaijan peace process - Armenpress",
@@ -905,13 +968,6 @@
 "source": "Trend News Agency",
 "time_baku": "2026-10-23 15:19",
 "query": "Azerbaijan EU"
-},
-{
-"title": "Alen Simonyan highlighted the EU's support for Armenia - Radar Armenia",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WMVRRakdpbWV4N1k4RzlxNmtqU05XQTJydWZKRVRUdHNuSmN1UVYybGJLczRqS0UxZXBvSTZTV2xkZGFpZG1RVmctSXJ3bWs5Vk14UmtfTWw?oc=5",
-"source": "Radar Armenia",
-"time_baku": "2026-10-23 15:19",
-"query": "Armenia EU"
 },
 {
 "title": "Opportunities for expanding Armenia-UNESCO cooperation conferred on - NEWS.am",
@@ -1005,13 +1061,6 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Serious problems regarding cheese have emerged in Europe. Politico - Radar Armenia",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LU1pxT0k1aG54R3lMaEk1NVVmb2U1VzhabDhlaS1Pb1JSalhBVS1YXzE0dmNNeGV1YWVRX25kUU8wNzVXSHZQRlB4ajVyUk44a3ltUk52aDczN3dBMEQ0?oc=5",
-"source": "Radar Armenia",
-"time_baku": "2026-10-23 14:48",
-"query": "Armenia EU"
-},
-{
 "title": "Azerbaijan moves to extend its energy influence across Caspian - AzerNews",
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnSy1JTWJqcE90TENUbzF1RlExemE0RzlyNWU0eTFmR19MUU10cUxvbl9EYmNud1N4aGlocFM0UUc5NE81Mk5HN2VJRjJ5T21WQU1NblNDOA?oc=5",
 "source": "AzerNews",
@@ -1031,6 +1080,13 @@
 "source": "UkrAgroConsult",
 "time_baku": "2026-10-23 14:42",
 "query": "European Parliament Armenia"
+},
+{
+"title": "EAM Jaishankar and Azerbaijan FM discuss connectivity, North–South transport corridors - Tripura Chronicle",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnh3Nkhhdjd3UzFGdnJZNWlRbGRhMmx4Vjkxc0dvbEdpeGpianNXb3lyOHJxSERhUDNQd2pFOTZDbVhmR0o4ZTZ2S21aVGxiWnE0YjZRR1JPd2k0c0FnZ0hqR01fUTczZFNmUWtYdkJkTko1RXE0MGRPN0Vndk50cE1TblVhYkFlbTlvUlliV1dKazI1aFZpRkswam9wMGZ1dDNDNFpFeGREWVJmb1FSYkhFQlJWZjRMWld0bi1Wb0lGNGM?oc=5",
+"source": "Tripura Chronicle",
+"time_baku": "2026-10-23 14:40",
+"query": "UN Azerbaijan"
 },
 {
 "title": "Rain showers expected in parts of Armenia - Armenpress",
@@ -1093,7 +1149,7 @@
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZ3gxVmFwaS0yZ2pCamNielhsREZOM1VpNnFFYVFzQWFvQzNZbERFLThPTHlNUkxZc0hXaFF1WEd2dHB1WDdadEFvQS1QajloMlHSAVdBVV95cUxQWkNTbDRDQzVVaE9SeGdOWEgtbmNIRWhsQUdOMzBudzVnbExRZVpyRXh4NHJiZVJ5WnZnV2JqNUppNGxXZTNvQ2V6dU1xREMxY0YxaVF3OEk?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-23 14:11",
-"query": "UN Azerbaijan"
+"query": "Armenia EU"
 },
 {
 "title": "Jaishankar: Azerbaijan and India have a long history of cultural ties - Report.az",
@@ -1108,125 +1164,6 @@
 "source": "Latest news from Azerbaijan",
 "time_baku": "2026-10-23 14:06",
 "query": "NATO Armenia"
-},
-{
-"title": "FM Bayramov briefs his Indian counterpart on landmine threat in Azerbaijan’s liberated territories - azərtac",
-"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbklQcnRCck5qZFhMNXFPRHNCSVRRZ2p0Ul93ek1iWHAza0RrQzd1R1hqdDJQcjF1SnhmTFM1YTg3MFZUdnVuM25BMXlEd21JWWN0TnNiZUtLa3dKd2c4Z3U0NERUWkhCM2VGeV8zZ2F5WkVSSGxMQzMycHlpQmh4WllxYTZIQWV1YXFuT190clk5bUNsdGlnZXFSazQ4NE1pa01HR2NCc3dRRTRMTFM4ekNfNEMzQmQyeXlFUkJKNzY4X24wVVI0aVYtdGRoZw?oc=5",
-"source": "azərtac",
-"time_baku": "2026-10-23 14:04",
-"query": "UN Azerbaijan"
-},
-{
-"title": "UN Assistant Secretary-General to visit Armenia for COP17 - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTMWtVNjh3aVBsMlpiMGR4NmNrSW9jOUFpRW45VVNkS1BlX1NOcWNkcEpVQ0NDdWljOFQtaTZEdV9YWl92REMwZFE4d2JTbHJVVEHSAVdBVV95cUxPcVpHMERtaGxqc1pPbDdWRzlNV1p4WXFhWXhTYzY1T0gwV2dHNU95ZG9hNm8xaFpVaVRTZHROd2U3T1BjZXROQWI4T3JKXzlBYURwb3Jwb2c?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-23 14:03",
-"query": "UN Armenia"
-},
-{
-"title": "A group of Artsakh deputies called for ensuring the continued functioning of state institutions of the Republic of Artsakh in Armenia. - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxazI0RjE3X1hNZ21DRFpORHFsYXJJWkl1Qnh2YkRWak44Smw3T1RXaFdPTEY4RFJpYy1vZWN6a1h5N21kWnJ6N3UzSGlrdDRaVXpEaHhURUxTbTF3YVJ2Vg?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-10-23 14:03",
-"query": "UN Armenia"
-},
-{
-"title": "UN Assistant Secretary-General to visit Armenia - АрмИнфо",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pOW9JRVVOZnc3aFNha2hPUHNlVlJuSTlhN1B3ZGFSRjZpcHdfRTY1YWliWEdRRFo0dC1uQTY3bTdJcDVRSEtZTlc4cXUyUWlfbEpCOHJoeFBHNGU4SXlwRQ?oc=5",
-"source": "АрмИнфо",
-"time_baku": "2026-10-23 13:58",
-"query": "UN Armenia"
-},
-{
-"title": "Romania and EU accuse Russia of new drone attack as ship capsizes in Black Sea - Euronews.com",
-"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXJfQ3NxeEZ2TzEyVWpBZHV2Tm91S2JPOE1ZM3RFajltaElaa1hEMk9HZHM1OTZQS3o3b1BxOGlkUVpsaTZURkhpeU1scHRNbVN0YTlKeF95cl9JVVByV1l2LWc4Qk1vUGdHdXVOV3l3eV82UFVqbWVTc0E1eFU1eUJCc1M1NGFCNnNJSThKVFVOQVVwNllPT290dGFPQ0twQjcyRUVTWUlJLVgxU2c?oc=5",
-"source": "Euronews.com",
-"time_baku": "2026-10-23 13:55",
-"query": "Azerbaijan EU"
-},
-{
-"title": "European U19 Championship. Turkey-Armenia: 1:1 - Radar Armenia",
-"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGVkhjVlZBLWZ2MEF2WTcxdnNGZDFyR3kyeGNmaXpveFNTTWVvcnp4UUtvVWlaNlREUVhvTWlSc0FYeWtmb21JU1FhVElsUHRQdV9Qbw?oc=5",
-"source": "Radar Armenia",
-"time_baku": "2026-10-23 13:48",
-"query": "Armenia EU"
-},
-{
-"title": "Azerbaijani, Indian foreign ministers discuss South Caucasus geopolitics - Report.az",
-"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbURHdm90UFJOTGIyYzNYRXpXOXItbHduT0FwN2J2bmhKTDc4RGxRRGZTV2VxOU5uYWZjUE5IZEVWSUE3NlBtMzc1VVJ0cV9udy1TdFBueGs5MXVJZkctaGJlYks4eUI3RHlNdU5ScENfTWZaSlphZmJBRERYcEJiemRhOFlZeVZmWWczT3RkbmR0Y284ZUk4cm05cXhPTW5TT0pnamk2aGltM1poZ3c?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 13:48",
-"query": "Азербайджан"
-},
-{
-"title": "XRG seeks to evolve Southern Gas Corridor into integrated system (Exclusive) - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qMjdhNktvVjlTUWxoZUc4cGM5b0lxM2Y3MnRGeDRuUk5FZGRxa09GRjRjSVlWTXRPZjRSNklReUlpeFRnVjl6bGF0OFByYzh6b21pQkJ0bw?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-23 13:47",
-"query": "Azerbaijan EU"
-},
-{
-"title": "Azerbaijan, NATO discuss partnership prospects - Latest news from Azerbaijan",
-"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5S2trdzVoMF9oZHFCck5aSE44MTB4Y2xsZ2FpWHlyM2ViN0lOc0lFRWFQLS11QzBQRmFzUXZkMWhCbDhIWWRlTmsxSG44aVdhMEFLQTAxYzZRT1RINXgyVGlJUDV4cmNBN3Nod3ZsRkFEemZm?oc=5",
-"source": "Latest news from Azerbaijan",
-"time_baku": "2026-10-23 13:46",
-"query": "NATO Azerbaijan"
-},
-{
-"title": "Bayramov: Azerbaijan, India openly discuss differences in Baku - Report.az",
-"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWMxSGdZUWo3UklhanhsOUVTa0hLN2hDVnJmbnFzWWlWeEZIU3prLWltQldyMVpCbFlsNThsVlgyWG1kcTVFa3U0ZXNlQ3VReXJjRzA2QXdHd1hiNTh5STlfQ0phRzREdGxCQzF5YnZtQm1XSGd6dzBOODQ0THRVU2EtRF9scE5nc2VJNDI4QmRVTGxQdE5sbEE0VWdmd1E?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 13:41",
-"query": "Азербайджан"
-},
-{
-"title": "Samad Bashirli: Azerbaijan attracted $49B in foreign investment in 6 years - Report.az",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGZMVFgwX21ZMEdqR1Fmd3dBM0NnRWl4amV0OVZJRkl3QjhGWkxIQTFYZG52YzRnQmxBMWpvWGVjbzhpU01OcXFtTC12cEF1d285RjF1RmhEVVJYRVdfT3lxSjZtM1VTTHVscU01b09PYmlxcF9Md080SnlDeEI2NGFmazY2Qk5xNlB4dnUxUGl4RHZOeUpaVmotbmV3RUlfVFBj?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 13:38",
-"query": "UN Azerbaijan"
-},
-{
-"title": "U.S. could strike a deal with Russia at Armenia's expense, analyst says - Panorama.am",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aUjlIMGgwMENKSzBTMVhCckNES090NGJwNTRzSkJZdTE0YlRRLUxLc1hSM2FEZFc1cHBTSl9CcjlSNlYxT0dzX045NHpndzNKM0FDOGlPNzUxU203UjZIakx3b1JPc1F4WnVsRnlYYzlmeUNmaDc0?oc=5",
-"source": "Panorama.am",
-"time_baku": "2026-10-23 13:34",
-"query": "NATO Armenia"
-},
-{
-"title": "Pashinyan accuses circles in Russia of seeking to undermine Armenia's independence - AzerNews",
-"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJb09WOENQZ0RhZk9PVFZNci1ITF9uUkFZSUYtVk8yTTdsZWVLQ0NwRUF6TnYxdE5TakY5eDdlSVNQVWVOU1ZsckFXZGZ6R0s0V3Z2QQ?oc=5",
-"source": "AzerNews",
-"time_baku": "2026-10-23 13:33",
-"query": "UN Armenia"
-},
-{
-"title": "Before Kaliningrad invasion, European NATO nation starts making Starlink copy with Ukraine?| Russia | Videos - Hindustan Times",
-"url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeHdjcHB1dkFRSlRrTXc4bll4UTNnbkE0UE1YMk9kcF9STEMzMXh2V1ZSalhrLU5abGdzNlRfSlppLTN0TXJSTDhWWTdtU2xGN3EwbDIxSFl5N09nTnJfckFiZmtOdTJLUkdRUHdQWTJtaEZmV3dIRjFYS1p4OEhVNXhYLVBqWDJvbENrVHVBM2s5bXd2dm5yQ2p6ZmRnMWtFT3hfZFE3dEcwaHN4Tjl5cUtrUWh5Q0ZYQXB2b1JTS29MME5XMjN4dDl0Y2N4ZUk5dmJvR3BSZDFsdXEzcEVvTnczanlaQlJvLWdv0gHwAUFVX3lxTE14NTZxMmJFLWY3NUtsMTZSVGJDTTF4TGxyTFBtakRycmVUMGdCbzdpTEZrNzEzZndRUzBtaldCdGN1c3BYM1pHTmNVMkwwMUxuUExkQUluVm1idFloYWRUakJXTkhDaEYySU9QNThmc0E1WFNJT3lrS0JYTGJNeWVVeDBtWVZEcGo3SkxJbG4yLXhTNFpMYWp3dkFSZDBpRUJwSnNEYmt2bXlWcUtfZFFNcFR4TEdCZ2JRMU5hbU9MOXJqSHYxZUhoTktLRGUzWm83MkJ2eVJ5U3RzZF9YLWhDSjlGbU1KVnJGQVEwckFGVw?oc=5",
-"source": "Hindustan Times",
-"time_baku": "2026-10-23 13:29",
-"query": "NATO Azerbaijan"
-},
-{
-"title": "Azerbaijan, NATO mull co-op prospects within Partnership for Peace program - Report.az",
-"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmhfcGRTSnJsano5TXdnRF9pMXRiUlBCMDVPTzlvWWdQOEpld0FFck5aMnd0X1hJTm5aX2ZJSkJfX2FQMXA2QURnOURUeV81RVRyOFJpeUd2VU5pN3ZCaUJMQUd1Wldfa25CbmN3OU1xUHgzalJ1YXAtcHNobzhJRmNjV2Y1bm9LamxRYUJJY3I4SFVEVFdCczJackJ1dHBKTVoxSnl0a3k3OVNEaWo0cw?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 13:21",
-"query": "NATO Azerbaijan"
-},
-{
-"title": "Turkmenistan targets 40-60% methane cuts at two pilot sites with EU support - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12N1FwVWJPSFJKR1lPZjdqYWUyUVY0ZU1qNTJxTTNjblBYeE85a2VFa1IxMFR0WDV1UFppWVBDLTFCWUREZXRNMXpjNVhiRDRSVXctOHppZTJ6UnJjbFNiNHV3?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-23 13:14",
-"query": "Azerbaijan EU"
-},
-{
-"title": "Azerbaijan, India mull transport corridors situation in South Caucasus - Report.az",
-"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHREem1iV2ZCUE03djhZUWdiakFySTJXR0wtQjRNWXF5OTBUZ3ZXZlNkLWdBMXB3RXN4Zms2RWRTTWd0VlZ2UzZqXzI1RnFvc0RZck8wY1pYUXhUUVdGdTlsX3dYUGhmbGFNNm85LXItZjlNcFA0bGdnQUJla3ZZRWhPSmpEQ0w3T2w3bGdrMlExeVdteXpLQ1ZnLUo?oc=5",
-"source": "Report.az",
-"time_baku": "2026-10-23 13:06",
-"query": "UN Azerbaijan"
 }
 ]
 }
