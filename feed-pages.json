@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-25T21:03:51.446472+00:00",
-"generatedAtBaku": "2026-10-26 01:03",
+"generatedAt": "2026-10-25T22:02:07.115192+00:00",
+"generatedAtBaku": "2026-10-26 02:02",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bakıda avtomobil piyadanı vurub 01:30 26 oktyabr 2026",
+"url": "https://apa.az/hadise/bakida-avtomobil-piyadani-vurub-1008183",
+"firstSeenBaku": "2026-10-26 02:02"
+},
 {
 "title": "\"Sabah\" - \"Qarabağ\" qarşılaşmasında hesab açılmayıb 19:59 25 oktyabr 2026",
 "url": "https://apa.az/futbol/sabah-qarabag-qarsilasmasinda-hesab-acilmayib-1008132",
@@ -20,9 +25,9 @@
 "firstSeenBaku": "2026-10-25 20:06"
 },
 {
-"title": "Bakı Bulvarında Zeytun Festivalının son günüdür - FOTOLENT 15:19 25 oktyabr 2026",
-"url": "https://apa.az/sosial/baki-bulvarinda-zeytun-festivalinin-son-gunudur-fotolent-1008086",
-"firstSeenBaku": "2026-10-25 16:03"
+"title": "Bakıda avtomobil piyadanı vurub 01:30 26 oktyabr 2026",
+"url": "https://apa.az/hadise/bakida-avtomobil-piyadani-vurub-1008183?locale=az",
+"firstSeenBaku": "2026-10-26 02:02"
 },
 {
 "title": "Azərbaycanlı itkin ailələri Brüsseldə silsilə aksiyalar keçirib - FOTOLENT 11:09 25 oktyabr 2026",
@@ -40,9 +45,9 @@
 "firstSeenBaku": "2026-10-25 03:57"
 },
 {
-"title": "Azərbaycanın bəzi rayonlarında yollarda görünüş məsafəsi məhdudlaşacaq 13:37 25 oktyabr 2026",
-"url": "https://apa.az/sosial/azerbaycanin-bezi-rayonlarinda-yollarda-gorunus-mesafesi-mehdudlasacaq-1008074",
-"firstSeenBaku": "2026-10-25 14:05"
+"title": "Bakı Bulvarında Zeytun Festivalının son günüdür - FOTOLENT 15:19 25 oktyabr 2026",
+"url": "https://apa.az/sosial/baki-bulvarinda-zeytun-festivalinin-son-gunudur-fotolent-1008086",
+"firstSeenBaku": "2026-10-25 16:03"
 }
 ],
 "qafqazinfo": [
@@ -124,9 +129,14 @@
 ],
 "haqqin": [
 {
-"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 6722",
+"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 7066",
 "url": "https://haqqin.az/newsarchive/396595",
 "firstSeenBaku": "2026-10-25 17:15"
+},
+{
+"title": "Суперстарт Азербайджана на ЧМ по борьбе! За последние 5 лет у нас больше золота, чем за 30 предыдущих",
+"url": "https://haqqin.az/newsarchive/396621",
+"firstSeenBaku": "2026-10-26 02:02"
 },
 {
 "title": "Чемпионат мира по футболу: Азербайджан обыграл Андорру, но проиграл Австралии Турнирная таблица; видео, обновлено 20:20",
@@ -137,11 +147,6 @@
 "title": "Диана из Азербайджана взбудоражила Пакистан: отец обвиняемого предлагал ей деньги?",
 "url": "https://haqqin.az/newsarchive/396607",
 "firstSeenBaku": "2026-10-25 21:07"
-},
-{
-"title": "Премьер-лига: ничья в матче «Сабах» – «Карабах»",
-"url": "https://haqqin.az/newsarchive/396609",
-"firstSeenBaku": "2026-10-25 20:06"
 }
 ],
 "news.am": [
@@ -262,9 +267,14 @@
 "firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "4 Կառավարությունից ո՛չ հերքում, ո՛չ հաստատում են Փաշինյան-Պուտին-Ալիև հնարավոր հանդիպման մասին լուրը",
+"title": "3 Կառավարությունից ո՛չ հերքում, ո՛չ հաստատում են Փաշինյան-Պուտին-Ալիև հնարավոր հանդիպման մասին լուրը",
 "url": "https://www.azatutyun.am/a/32098433.html",
 "firstSeenBaku": "2026-10-25 20:06"
+},
+{
+"title": "5 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
+"url": "https://www.azatutyun.am/a/32652222.html",
+"firstSeenBaku": "2026-10-26 02:02"
 }
 ],
 "tert": [
@@ -361,11 +371,6 @@
 "title": "Ի՞նչ փոխարժեքներ են սահմանվել այսօր",
 "url": "https://hraparak.am/am/post/e0da93c66b848e95096db9031c46073a",
 "firstSeenBaku": "2026-10-25 21:07"
-},
-{
-"title": "Հայաստանը հաղթեց Մանկական Եվրատեսիլում",
-"url": "https://hraparak.am/am/post/d51855b338757cf5ab8455a4d8aa6c91",
-"firstSeenBaku": "2026-10-25 02:03"
 }
 ],
 "1in": [
@@ -440,14 +445,14 @@
 "firstSeenBaku": "2026-10-24 21:06"
 },
 {
-"title": "2026-10-24 Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են",
-"url": "https://www.1in.am/3772320.html",
-"firstSeenBaku": "2026-10-24 22:01"
-},
-{
 "title": "2026-10-25 Նարեի հաղթանակը. փոքրիկ աղջկա մեծ նվերը Հայաստանին",
 "url": "https://www.1in.am/3772463.html",
 "firstSeenBaku": "2026-10-25 13:07"
+},
+{
+"title": "2026-10-24 Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են",
+"url": "https://www.1in.am/3772320.html",
+"firstSeenBaku": "2026-10-24 22:01"
 },
 {
 "title": "Tesla-ն և SpaceX-ը կարող են միավորվել․ ինչ է հայտնի Մասկի ծրագրի մասին",
@@ -487,11 +492,6 @@
 "title": "24 October, 23:01 Armenia’s 2027 budget falls short of its own science strategy, Gituzh says",
 "url": "https://civilnet.am/en/news/1014986",
 "firstSeenBaku": "2026-10-24 23:08"
-},
-{
-"title": "24 October, 19:05 New owner to expand Armenian mine, redirect output to US: THIS WEEK IN BUSINESS",
-"url": "https://civilnet.am/en/news/1014954",
-"firstSeenBaku": "2026-10-24 19:04"
 },
 {
 "title": "Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS Armenia’s controversial Amulsar gold mine officially launched operations, marking the end to years of delays over the project. It’s expected to generate $120-$130 17 October, 19:05",
