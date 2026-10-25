@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T10:05:59.292897+00:00",
-"generatedAtBaku": "2026-10-25 14:05",
+"generatedAt": "2026-10-25T11:05:27.317551+00:00",
+"generatedAtBaku": "2026-10-25 15:05",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,24 +9,23 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 23,
+"bagramyan26": 24,
 "HRAPARAKAM": 7,
 "ArmenianVendetta": 6,
 "caucasar": 5
 },
 "pages": {
 "apa": 14,
-"qafqazinfo": 18,
-"haqqin": 3,
-"news.am": 19,
-"armenpress-hy": 12,
+"qafqazinfo": 17,
+"haqqin": 2,
+"news.am": 20,
+"armenpress-hy": 14,
 "armenpress-en": 11,
 "azatutyun": 5,
-"tert": 4,
-"hetq": 4,
+"tert": 5,
+"hetq": 5,
 "hraparak": 10,
 "1in": 17,
-"primeminister": 1,
 "civilnet": 8,
 "oc-media": 2,
 "jam-news": 1,
@@ -42,12 +41,13 @@
 "301am": 1,
 "alphanews": 0
 },
-"search": 86
+"search": 83
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"primeminister": "HTTPSConnectionPool(host='www.primeminister.am', port=443): Max retries exceeded with url: /en/press-release (Caused by NameResolutionError(\"HTTPSConnection(host='www.primeminister.am', port=443): Failed to resolve 'www.primeminister.am' ([Errno -3] Temporary failure in name resolution)\"))",
 "eeas-press": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/eeas/press-material_en",
 "eeas-azerbaijan": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/azerbaijan_en",
 "eeas-armenia": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/armenia_en",
