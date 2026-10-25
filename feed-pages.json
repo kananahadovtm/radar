@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-25T12:03:59.078242+00:00",
-"generatedAtBaku": "2026-10-25 16:03",
+"generatedAt": "2026-10-25T13:15:35.453914+00:00",
+"generatedAtBaku": "2026-10-25 17:15",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bakıda ölümlə nəticələnən kütləvi insidentlə bağlı saxlanılanlar hakim qarşısına çıxarılıb 16:08 25 oktyabr 2026",
+"url": "https://apa.az/sosial/bakida-olumle-neticelenen-kutlevi-insidentle-bagli-saxlanilanlar-hakim-qarsisina-cixarilib-1008099",
+"firstSeenBaku": "2026-10-25 17:15"
+},
 {
 "title": "Bakı Bulvarında Zeytun Festivalının son günüdür - FOTOLENT 15:19 25 oktyabr 2026",
 "url": "https://apa.az/sosial/baki-bulvarinda-zeytun-festivalinin-son-gunudur-fotolent-1008086",
@@ -65,11 +70,6 @@
 "firstSeenBaku": "2026-10-25 11:19"
 },
 {
-"title": "Ermənistan “Uşaq Avroviziya 2026”nın qalibi olub 05:00 25 oktyabr 2026",
-"url": "https://apa.az/medeniyyet-siyaseti/ermenistan-usaq-avroviziya-2026nin-qalibi-olub-1008016",
-"firstSeenBaku": "2026-10-25 05:15"
-},
-{
 "title": "Prezident İlham Əliyevin sosial media hesablarında futbol üzrə U-15 dünya çempionatı ilə bağlı videoçarx paylaşılıb 01:38",
 "url": "https://apa.az/resmi-xeber/prezident-ilham-eliyevin-sosial-media-hesablarinda-futbol-uzre-u-15-dunya-cempionati-ile-bagli-videocarx-paylasilib-1008009",
 "firstSeenBaku": "2026-10-25 03:57"
@@ -82,11 +82,6 @@
 ],
 "qafqazinfo": [
 {
-"title": "Sabah Bakıda yağış yağacaq",
-"url": "https://qafqazinfo.az/news/detail/sabah-bakida-yagis-yagacaq-526210",
-"firstSeenBaku": "2026-10-25 13:07"
-},
-{
 "title": "Leyla Əliyeva 98 il sonrakı tarixi gecədə - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/leyla-eliyeva-98-il-sonraki-tarixi-gecede-fotolar-526194",
 "firstSeenBaku": "2026-10-25 11:19"
@@ -95,6 +90,11 @@
 "title": "İnfantino İlham Əliyevə təşəkkür etdi - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/infantino-ilham-eliyeve-tesekkur-etdi-fotolar-526189",
 "firstSeenBaku": "2026-10-25 10:07"
+},
+{
+"title": "Rövşən Nəcəf Azərbaycan-Andorra matçını izlədi - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/rovsen-necef-azerbaycan-andorra-matcini-izledi-fotolar-526228",
+"firstSeenBaku": "2026-10-25 17:15"
 },
 {
 "title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
@@ -122,14 +122,19 @@
 "firstSeenBaku": "2026-10-25 13:07"
 },
 {
-"title": "Naxçıvanda ağır qəza - Yaralılar var - Foto",
-"url": "https://qafqazinfo.az/news/detail/naxcivanda-agir-qeza-yaralilar-var-foto-526202",
-"firstSeenBaku": "2026-10-25 12:05"
+"title": "Sabah Bakıda yağış yağacaq",
+"url": "https://qafqazinfo.az/news/detail/sabah-bakida-yagis-yagacaq-526210",
+"firstSeenBaku": "2026-10-25 13:07"
 },
 {
 "title": "Dilarə Əliyevaya yeni vəzifə verildi",
 "url": "https://qafqazinfo.az/news/detail/dilare-eliyevaya-yeni-vezife-verildi-526161",
 "firstSeenBaku": "2026-10-24 16:05"
+},
+{
+"title": "Naxçıvanda ağır qəza - Yaralılar var - Foto",
+"url": "https://qafqazinfo.az/news/detail/naxcivanda-agir-qeza-yaralilar-var-foto-526202",
+"firstSeenBaku": "2026-10-25 12:05"
 },
 {
 "title": "Azərbaycanlı itkin ailələri Brüsseldə silsilə dinc aksiyalar keçirib - Fotolar",
@@ -169,6 +174,11 @@
 ],
 "haqqin": [
 {
+"title": "Фигуранты кровавой разборки в Баку предстали перед судом. Новые подробности видео",
+"url": "https://haqqin.az/newsarchive/396595",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
 "title": "Анкара завершила тендер на реставрацию переправы на границе с Арменией",
 "url": "https://haqqin.az/newsarchive/396593",
 "firstSeenBaku": "2026-10-25 16:03"
@@ -177,11 +187,6 @@
 "title": "Чемпионат мира по футболу: тяжелая победа Азербайджана над Андоррой ВИДЕО",
 "url": "https://haqqin.az/newsarchive/396587",
 "firstSeenBaku": "2026-10-25 14:05"
-},
-{
-"title": "Алиев поздравляет: «Мы искренне радуемся...»",
-"url": "https://haqqin.az/newsarchive/396577",
-"firstSeenBaku": "2026-10-25 12:05"
 }
 ],
 "news.am": [
@@ -199,6 +204,16 @@
 "title": "Կիեւյան փողոցում վիրավորված երիտասարդը Հայաստանի կիոկուշին կարատեի ֆեդերացիայի նախագահ Անդրանիկ Հակոբյանի որդին է",
 "url": "https://news.am/hy/news/1070139",
 "firstSeenBaku": "2026-10-25 12:05"
+},
+{
+"title": "16:46 Իրանի փոխնախագահը հիջաբով ադրբեջանցի ուսանողուհիներին առաջարկել է սովորել իրանական բուհերում",
+"url": "https://news.am/hy/news/1070196",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
+"title": "16:06 Թուրքիան ավարտել է Հայաստանի սահմանին գտնվող Անիի կամրջի վերականգնման մրցույթը",
+"url": "https://news.am/hy/news/1070189",
+"firstSeenBaku": "2026-10-25 17:15"
 },
 {
 "title": "15:39 Կրեմլ. Մոսկվան, Պեկինը և Վաշինգտոնը սկսել են նախապատրաստվել ԱԽՏՀ-ի շրջանակներում եռակողմ գագաթնաժողովին",
@@ -231,11 +246,6 @@
 "firstSeenBaku": "2026-10-25 13:07"
 },
 {
-"title": "11:58 Գորիսի բնակիչների համար Երևան-Գորիս երթուղով անվճար ուղևորափոխադրումներ են իրականացվում․ «Ականատես»",
-"url": "https://news.am/hy/news/1070137",
-"firstSeenBaku": "2026-10-25 12:05"
-},
-{
 "title": "Փաշինյանը Էջմիածնի Սուրբ Հռիփսիմե եկեղեցում այսօր պատարագի է մասնակցել",
 "url": "https://news.am/hy/stories/3116",
 "firstSeenBaku": "2026-10-25 14:05"
@@ -259,11 +269,6 @@
 "title": "Ինչպես տարեց կինն արհամարհեց Փաշինյանին",
 "url": "https://news.am/hy/stories/3110",
 "firstSeenBaku": "2026-10-24 17:15"
-},
-{
-"title": "«Ձեռք չտաս ինձ». քաղաքացին բորբոքվեց Փաշինյանին հանդիպելիս",
-"url": "https://news.am/hy/stories/3109",
-"firstSeenBaku": "2026-10-24 16:05"
 },
 {
 "title": "Երեմյանի փորձը՝ Հայաստանի կայուն գյուղատնտեսության զարգացման համար հոկտեմբերի 24, 11:39",
@@ -459,14 +464,24 @@
 "firstSeenBaku": "2026-10-25 15:05"
 },
 {
+"title": "Հայաստանը հուլիս-սեպտեմբերին մրգեր է արտահանել Օման․ Միրզոյան (տեսանյութ)",
+"url": "https://www.tert.am/am/news/2026/10/25/mirzoyan-oman/4288048",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
+"title": "Երևան-Սևան ավտոճանապարհին 34-ամյա վարորդը «Chevrolet»-ով դուրս է եկել երթևեկելի գոտուց և բшխվել է գազատար խողովկին․ կա վիրավnր",
+"url": "https://www.tert.am/am/news/2026/10/25/yerevan-sevan-chevrolet/4288047",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
+"title": "Թուրքիան ավարտել է Հայաստանի հետ սահմանին պատմական կամրջի վերականգնման մրցույթը. Թուրքիայի նախարար",
+"url": "https://www.tert.am/am/news/2026/10/25/turkey-ani/4288044",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
 "title": "Երևանում բшխվել են «BYD»-ն ու ԱԱԾ կին աշխատակցի «Kia»-ն. վերջինս լքել է դեպքի վայրը. 4 վիրավnրներից մեկը հիվանդանոցում մшհացել է",
 "url": "https://www.tert.am/am/news/2026/10/25/byd-kia-yerevan/4288043",
 "firstSeenBaku": "2026-10-25 16:03"
-},
-{
-"title": "ՊՆ-ն ու ԳՇ-ն «տեղում» չեն. ով է պատասխան տալու ադրբեջանցի հովիվի՝ սահմանը հատելու միջադեպի համար․ «Ժողովուրդ»",
-"url": "https://www.tert.am/am/news/2026/10/24/azerbaijan-armenia/4287948",
-"firstSeenBaku": "2026-10-24 10:06"
 }
 ],
 "hetq": [
@@ -503,9 +518,9 @@
 "firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "Փաշինյանն անում է այն, ինչ իր մոտ ամենալավն է ստացվում՝ խոչընդոտում է և խանգարու...",
-"url": "https://hraparak.am/am/post/93945588acc76e25c097d4bc11ffc643",
-"firstSeenBaku": "2026-10-25 15:05"
+"title": "Կիկոսի մահը, Փաշինյանի իշխանությունն ու Հայաստանի ապագան",
+"url": "https://hraparak.am/am/post/4641d3396e208bd5fe046a6c5e435cc2",
+"firstSeenBaku": "2026-10-25 17:15"
 },
 {
 "title": "Թուրքերն ու ադրբեջանցիներն այս դեպքը հաստատ աննկատ չեն թողել...",
@@ -516,6 +531,11 @@
 "title": "Արդեն բոլոր սահմաններն անցնում են․ Վլադիմիր Պուտին",
 "url": "https://hraparak.am/am/post/026fba4749156fd8ff601701de76d8d9",
 "firstSeenBaku": "2026-10-25 16:03"
+},
+{
+"title": "Փաշինյանն անում է այն, ինչ իր մոտ ամենալավն է ստացվում՝ խոչը...",
+"url": "https://hraparak.am/am/post/93945588acc76e25c097d4bc11ffc643",
+"firstSeenBaku": "2026-10-25 15:05"
 },
 {
 "title": "Գորիսի բնակիչների համար Երևան-Գորիս երթուղով անվճար ուղևորափ...",
@@ -533,16 +553,6 @@
 "firstSeenBaku": "2026-10-25 11:19"
 },
 {
-"title": "Խոշոր ու ողբերգական ավտովթար Երևան-Գյումրի ճանապարհին․ ծնողն...",
-"url": "https://hraparak.am/am/post/c226611decb9dfc2471e2cf2b5c57464",
-"firstSeenBaku": "2026-10-25 10:07"
-},
-{
-"title": "Հայաստանի 21 համայնքներում այսօր կայանալու են տեղական ինքնակ...",
-"url": "https://hraparak.am/am/post/d0f381a80076a29d168157b638579910",
-"firstSeenBaku": "2026-10-25 09:10"
-},
-{
 "title": "Հայաստանը հաղթեց Մանկական Եվրատեսիլում",
 "url": "https://hraparak.am/am/post/d51855b338757cf5ab8455a4d8aa6c91",
 "firstSeenBaku": "2026-10-25 02:03"
@@ -551,28 +561,28 @@
 "title": "Իմ սերնդի Սովետական Հայաստանը եւ Սովետմիությունը",
 "url": "https://hraparak.am/am/post/7bf913a4a8d0018e1982868a64521659",
 "firstSeenBaku": "2026-10-24 20:05"
-},
-{
-"title": "Հայաստանում ստեղծվում է նոր քաղաքական իրավիճակ՝ ավելի լարված եւ նողկալ...",
-"url": "https://hraparak.am/am/post/3f4aa3dd92b89889c4b29435b8ffb871",
-"firstSeenBaku": "2026-10-24 19:04"
 }
 ],
 "1in": [
+{
+"title": "Փաշինյանի հանրաքվեն՝ ընդդիմության սահմանադրական հաղթանակի հնարավորությունը Հեղինակ՝ Արամ Ամատունի 15:00 2026.10.25",
+"url": "https://www.1in.am/3772182.html",
+"firstSeenBaku": "2026-10-25 15:05"
+},
 {
 "title": "2 զոհ, 5 վիրավոր երեխա. ո՞վ է պատասխան տալիս Հայաստանի մահաբեր ճանապարհների համար Հեղինակ՝ Վահե Վիրաբյան 15:20 2026.10.25",
 "url": "https://www.1in.am/3772511.html",
 "firstSeenBaku": "2026-10-25 16:03"
 },
 {
+"title": "Նիկոլ Փաշինյանը պատարագի է մասնակցել Էջմիածնի Սուրբ Հռիփսիմե եկեղեցում",
+"url": "https://www.1in.am/3772534.html",
+"firstSeenBaku": "2026-10-25 17:15"
+},
+{
 "title": "Նարեի հաղթանակը. փոքրիկ աղջկա մեծ նվերը Հայաստանին",
 "url": "https://www.1in.am/3772463.html",
 "firstSeenBaku": "2026-10-25 13:07"
-},
-{
-"title": "Փաշինյանի հանրաքվեն՝ ընդդիմության սահմանադրական հաղթանակի հնարավորությունը 15:40 2026.10.25",
-"url": "https://www.1in.am/3772182.html",
-"firstSeenBaku": "2026-10-25 15:05"
 },
 {
 "title": "Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են",
@@ -590,18 +600,23 @@
 "firstSeenBaku": "2026-10-25 11:19"
 },
 {
-"title": "Քուշների գաղտնի միլիարդները. ադրբեջանական հետքը տանում է դեպի Սպիտակ տուն",
-"url": "https://www.1in.am/3772176.html",
-"firstSeenBaku": "2026-10-25 11:19"
+"title": "Բաքու-Թբիլիսի-Մոսկվա. Հարավկովկասյան նոր քաղաքական հաշվարկը",
+"url": "https://www.1in.am/3772508.html",
+"firstSeenBaku": "2026-10-25 15:05"
+},
+{
+"title": "ՀՀ շրջակա միջավայրի նախարարը COP17-ի շրջանակներում գենետիկական ռեսուրսների հասանելիությանը նվիրված աշխատաժողովի է մասնակցել Հայաստանի շրջակա միջավայրի նախարար Համբարձում Մաթևոսյանը COP17-ի շրջանակում մասնակցել է գենետիկական ռեսուրսների հասանելիության և դրանց օգտագործումից ստացվող օգուտների արդար ու ",
+"url": "https://www.1in.am/3772478.html",
+"firstSeenBaku": "2026-10-25 16:03"
+},
+{
+"title": "Միջազգային տնտեսական համագործակցությունը պետք է գործի բնության համար, այլ ոչ թե դրա դեմ. Արարատ Միրզոյան Հայաստանը կարևորում է տնտեսական զարգացման և կենսաբազմազանության պահպանության համադրումը՝ միջազգային համագործակցության, նորարարության և բնությանը նպաստող բիզնես մոդելների զարգացման միջոցով։ Այս …",
+"url": "https://www.1in.am/3772475.html",
+"firstSeenBaku": "2026-10-25 16:03"
 },
 {
 "title": "Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում",
 "url": "https://www.1in.am/3772543.html",
-"firstSeenBaku": "2026-10-25 16:03"
-},
-{
-"title": "Միջազգային տնտեսական համագործակցությունը պետք է գործի բնության համար, այլ ոչ թե դրա դեմ. Արարատ Միրզոյան",
-"url": "https://www.1in.am/3772475.html",
 "firstSeenBaku": "2026-10-25 16:03"
 },
 {
@@ -610,19 +625,9 @@
 "firstSeenBaku": "2026-10-25 15:05"
 },
 {
-"title": "Բաքու-Թբիլիսի-Մոսկվա. Հարավկովկասյան նոր քաղաքական հաշվարկը",
-"url": "https://www.1in.am/3772508.html",
-"firstSeenBaku": "2026-10-25 15:05"
-},
-{
 "title": "Երևանին փոխանցվեց հյուրընկալողի խորհրդանշական էստաֆետը․ Տիգրան Ավինյան",
 "url": "https://www.1in.am/3772314.html",
 "firstSeenBaku": "2026-10-25 13:07"
-},
-{
-"title": "Ջրանջատում՝ Երևանում և Արմավիրում",
-"url": "https://www.1in.am/3772466.html",
-"firstSeenBaku": "2026-10-25 11:19"
 },
 {
 "title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը",
@@ -648,13 +653,11 @@
 "title": "Tesla-ն և SpaceX-ը կարող են միավորվել․ ինչ է հայտնի Մասկի ծրագրի մասին",
 "url": "https://www.1in.am/3772106.html",
 "firstSeenBaku": "2026-10-24 23:59"
-}
-],
-"primeminister": [
+},
 {
-"title": "The mining sector should become a pioneer in developing public joint-stock company institutions in Armenia, says the Prime Minister",
-"url": "https://www.primeminister.am/en/press-release/item/2026/10/17/Nikol-Pashinyan-Speech/",
-"firstSeenBaku": "2026-10-24 22:01"
+"title": "Առաջին մեդալը՝ բռնցքամարտի երիտասարդների աշխարհի առաջնությունում Հայաստանն առաջին մեդալն է նվաճել Բուդվայում ընթացող բռնցքամարտի երիտասարդների աշխարհի առաջնությունում։ Այս մասին տեղեկացնում է Հայաստանի բռնցքամարտի ֆեդերացիան։ 70 կգ …",
+"url": "https://www.1in.am/3772366.html",
+"firstSeenBaku": "2026-10-25 12:05"
 }
 ],
 "civilnet": [
