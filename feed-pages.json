@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T19:59:15.284356+00:00",
-"generatedAtBaku": "2026-10-25 23:59",
+"generatedAt": "2026-10-25T21:03:51.446472+00:00",
+"generatedAtBaku": "2026-10-26 01:03",
 "hours": 30,
 "pages": {
 "apa": [
@@ -23,11 +23,6 @@
 "title": "Bakı Bulvarında Zeytun Festivalının son günüdür - FOTOLENT 15:19 25 oktyabr 2026",
 "url": "https://apa.az/sosial/baki-bulvarinda-zeytun-festivalinin-son-gunudur-fotolent-1008086",
 "firstSeenBaku": "2026-10-25 16:03"
-},
-{
-"title": "Bakıda kafedə bir nəfərin öldüyü kütləvi insidentlə bağlı 5 nəfər həbs edilib - YENİLƏNİB 18:58 25 oktyabr 2026",
-"url": "https://apa.az/sosial/bakida-kafede-bir-neferin-olduyu-kutlevi-insidentle-bagli-5-nefer-hebs-edilib-yenilenib-1008099?locale=az",
-"firstSeenBaku": "2026-10-25 23:59"
 },
 {
 "title": "Azərbaycanlı itkin ailələri Brüsseldə silsilə aksiyalar keçirib - FOTOLENT 11:09 25 oktyabr 2026",
@@ -129,7 +124,7 @@
 ],
 "haqqin": [
 {
-"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 21:24 6145",
+"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 6722",
 "url": "https://haqqin.az/newsarchive/396595",
 "firstSeenBaku": "2026-10-25 17:15"
 },
@@ -151,37 +146,47 @@
 ],
 "news.am": [
 {
-"title": "23:11 Կուրթանում հաղթեց «Ուժեղ Հայաստանը»՝ հավաքելով 320 ձայն",
+"title": "00:11 Գերմանիայում Audi-ի ղեկավարի՝ «ավտոկրատ» Թրամփի հետ նախընտրական հանրահավաքում հայտնվելը «խայտառակություն» են անվանել",
+"url": "https://news.am/hy/news/1070255",
+"firstSeenBaku": "2026-10-26 01:03"
+},
+{
+"title": "25 հկտ | 23:52 Սպորտային մարմնամարզության ԱԱ․ Հայաստանը չորրորդն է մեդալային հաշվարկում",
+"url": "https://sport.news.am/arm/news/169793",
+"firstSeenBaku": "2026-10-26 01:03"
+},
+{
+"title": "25 հկտ | 23:11 Կուրթանում հաղթեց «Ուժեղ Հայաստանը»՝ հավաքելով 320 ձայն",
 "url": "https://news.am/hy/news/1070259",
 "firstSeenBaku": "2026-10-25 23:59"
 },
 {
-"title": "21:33 NYT․ Թրամփի կողմից ներում ստացած վենեսուելացի միլիարդատիրոջ ընտանիքը ԱՄՆ նախագահի նախկին փաստաբանին 50 մլն դոլարի պայմանագիր է առաջարկել",
+"title": "25 հկտ | 21:33 NYT․ Թրամփի կողմից ներում ստացած վենեսուելացի միլիարդատիրոջ ընտանիքը ԱՄՆ նախագահի նախկին փաստաբանին 50 մլն դոլարի պայմանագիր է առաջարկել",
 "url": "https://news.am/hy/news/1070245",
 "firstSeenBaku": "2026-10-25 22:02"
 },
 {
-"title": "21:23 Հռոմի պապը Մերձավոր Արևելքում խաղաղության և միջկրոնական երկխոսության կոչ է արել",
+"title": "25 հկտ | 21:23 Հռոմի պապը Մերձավոր Արևելքում խաղաղության և միջկրոնական երկխոսության կոչ է արել",
 "url": "https://news.am/hy/news/1070227",
 "firstSeenBaku": "2026-10-25 22:02"
 },
 {
-"title": "20:52 Axios․ Նեթանյահուն խնդրել է Թրամփին կրկին աջակցել իրեն Իսրայելում ընտրություններից առաջ",
+"title": "25 հկտ | 20:52 Axios․ Նեթանյահուն խնդրել է Թրամփին կրկին աջակցել իրեն Իսրայելում ընտրություններից առաջ",
 "url": "https://news.am/hy/news/1070223",
 "firstSeenBaku": "2026-10-25 21:07"
 },
 {
-"title": "20:37 FT-ի հարցումը․ Ամերիկացիների մոտ 70%-ը մտահոգված է Թրամփի վարչակազմում առկա կոռուպցիայով",
+"title": "25 հկտ | 20:37 FT-ի հարցումը․ Ամերիկացիների մոտ 70%-ը մտահոգված է Թրամփի վարչակազմում առկա կոռուպցիայով",
 "url": "https://news.am/hy/news/1070220",
 "firstSeenBaku": "2026-10-25 21:07"
 },
 {
-"title": "20:30 Հայաստանի հաղթանակը «Մանկական Եվրատեսիլում», Էլեն Սաֆարյանի ու Դիանա Մխիթարյանի հարսանիքները, Քիմ Քարդաշյանի 46-ամյակը. Instagram",
+"title": "25 հկտ | 20:30 Հայաստանի հաղթանակը «Մանկական Եվրատեսիլում», Էլեն Սաֆարյանի ու Դիանա Մխիթարյանի հարսանիքները, Քիմ Քարդաշյանի 46-ամյակը. Instagram",
 "url": "https://style.news.am/arm/news/116825",
 "firstSeenBaku": "2026-10-25 21:07"
 },
 {
-"title": "19:07 Խայտառակություն է, հակասում է Սահմանադրությանը. Մանուկյանը ցուցակներից ընտրողներին հեռացնելու մասին",
+"title": "25 հկտ | 19:07 Խայտառակություն է, հակասում է Սահմանադրությանը. Մանուկյանը ցուցակներից ընտրողներին հեռացնելու մասին",
 "url": "https://news.am/hy/news/1070222",
 "firstSeenBaku": "2026-10-25 20:06"
 },
@@ -208,22 +213,12 @@
 ],
 "armenpress-hy": [
 {
-"title": "Հայաստան Վարչապետն առաջարկել է արհեստական բանականությամբ գնահատել խաղահրապարակների նորոգման ժամկետները Վարչապետ Նիկոլ Փաշինյանն առաջարկել է դիտարկել արհեստական բանականության գործիքների կիրառումը՝ բակային խաղահրապարակների նորոգման անհրաժեշտությունն ու ժամկետները գ... 17:36, 24 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263730",
-"firstSeenBaku": "2026-10-24 18:04"
-},
-{
-"title": "Հայաստան Վարչապետն ավարտել է Աջափնյակ շրջայցը․ քաղաքացիների հետ քննարկել է բնակարանային, սոցիալական և համայնքային խնդիրներ 17:44, 24 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263731",
-"firstSeenBaku": "2026-10-24 18:04"
-},
-{
-"title": "14:38 Հայաստանը հուլիս-սեպտեմբերին մրգեր է արտահանել Օման․ Միրզոյանը վստահ է՝ արտահանման ծավալները կավելանան",
+"title": "14:38, 25 հոկտեմբերի Հայաստանը հուլիս-սեպտեմբերին մրգեր է արտահանել Օման․ Միրզոյանը վստահ է՝ արտահանման ծավալները կավելանան",
 "url": "https://armenpress.am/hy/article/1263748",
 "firstSeenBaku": "2026-10-25 15:05"
 },
 {
-"title": "14:08 Նիկոլ Փաշինյանը պատարագի է մասնակցել Էջմիածնի Սուրբ Հռիփսիմե եկեղեցում",
+"title": "14:08, 25 հոկտեմբերի Նիկոլ Փաշինյանը պատարագի է մասնակցել Էջմիածնի Սուրբ Հռիփսիմե եկեղեցում",
 "url": "https://armenpress.am/hy/article/1263747",
 "firstSeenBaku": "2026-10-25 15:05"
 }
@@ -235,11 +230,6 @@
 "firstSeenBaku": "2026-10-25 07:08"
 },
 {
-"title": "Pashinyan concludes tour of Yerevan’s Ajapnyak district, discusses residents’ concerns 17:46, 24 October",
-"url": "https://armenpress.am/en/article/1263731",
-"firstSeenBaku": "2026-10-24 18:04"
-},
-{
 "title": "23:00, 24 October Junior Eurovision 2026 kicks off in Malta, Armenia’s Naré to perform eighth",
 "url": "https://armenpress.am/en/article/1263719",
 "firstSeenBaku": "2026-10-24 23:08"
@@ -248,16 +238,6 @@
 "title": "18:55, 24 October Armenia’s Hamlet Manukyan wins gold at World Artistic Gymnastics Championships",
 "url": "https://armenpress.am/en/article/1263733",
 "firstSeenBaku": "2026-10-25 12:05"
-},
-{
-"title": "17:39, 24 October Pashinyan proposes using AI to assess urban infrastructure repair needs",
-"url": "https://armenpress.am/en/article/1263730",
-"firstSeenBaku": "2026-10-24 18:04"
-},
-{
-"title": "17:35, 24 October Lyon City Hall delegation visits Armenian Genocide Memorial",
-"url": "https://armenpress.am/en/article/1263729",
-"firstSeenBaku": "2026-10-24 18:04"
 }
 ],
 "azatutyun": [
@@ -349,6 +329,11 @@
 "title": "2026-10-24 21:40:00 Երևան-Աշտարակ ավտոճանապարհին տեղի է ունեցել ՃՏՊ․ կան զոհեր և տուժածներ",
 "url": "https://hetq.am/hy/article/184939",
 "firstSeenBaku": "2026-10-24 22:01"
+},
+{
+"title": "2026-10-18T23:27:00+04:00 Արդյոք Հայաստանը պատրաստ կլինի կոտրել կարծրատիպերը. բնապահպանական սիմպոզիում՝ Երեւանում",
+"url": "https://hetq.am/hy/article/184801",
+"firstSeenBaku": "2026-10-26 01:03"
 },
 {
 "title": "2026-10-17T19:12:00+04:00 «Հայաստանը չի կարող իրեն դիրքավորել իբրեւ կենսաբազմազանության պայքարի առաջամարտիկ, երբ դրա համար գործող մարդիկ թիրախավորվում են»",
@@ -479,22 +464,22 @@
 ],
 "civilnet": [
 {
-"title": "10:00 Yerevan's street signs still honor Bolsheviks, botanists and a Soviet novel",
+"title": "25 October, 10:00 Yerevan's street signs still honor Bolsheviks, botanists and a Soviet novel",
 "url": "https://civilnet.am/en/news/1014873",
 "firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "09:57 Naré brings Armenia its third Junior Eurovision victory",
+"title": "25 October, 09:57 Naré brings Armenia its third Junior Eurovision victory",
 "url": "https://civilnet.am/en/news/1014988",
 "firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "08:00 Armenia holds local elections in 21 communities",
+"title": "25 October, 08:00 Armenia holds local elections in 21 communities",
 "url": "https://civilnet.am/en/news/1014976",
 "firstSeenBaku": "2026-10-25 08:12"
 },
 {
-"title": "00:09 Pesticide oversight gaps could hamper Armenian produce exports to the EU, report warns",
+"title": "25 October, 00:09 Pesticide oversight gaps could hamper Armenian produce exports to the EU, report warns",
 "url": "https://civilnet.am/en/news/1014987",
 "firstSeenBaku": "2026-10-25 01:02"
 },
