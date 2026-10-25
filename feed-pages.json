@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T03:08:59.284880+00:00",
-"generatedAtBaku": "2026-10-25 07:08",
+"generatedAt": "2026-10-25T04:12:29.281379+00:00",
+"generatedAtBaku": "2026-10-25 08:12",
 "hours": 30,
 "pages": {
 "apa": [
@@ -194,11 +194,6 @@
 "title": "24 հկտ | 19:04 «Հայաստանը համերաշխ է Ֆրանսիայի հետ». Փաշինյանը դատապարտել է Տրապում և Լա-Վերիերում տեղի ունեցած հարձակումը",
 "url": "https://news.am/hy/news/1070075",
 "firstSeenBaku": "2026-10-24 20:05"
-},
-{
-"title": "24 հկտ | 17:55 Թրամփի հռետորաբանությունը հակասում է ԿՀՎ-ի գործողություններին. ամերիկյան հետախուզությունը ուժեղացնում է Ուկրաինային տրամադրվող օգնությունը",
-"url": "https://news.am/hy/news/1070054",
-"firstSeenBaku": "2026-10-24 18:04"
 },
 {
 "title": "Հայաստանը՝ Եվրոպայի մշակութային ժառանգության 2026 թվականի առաջատար ուղղություն",
@@ -559,6 +554,11 @@
 ],
 "civilnet": [
 {
+"title": "08:00 Armenia holds local elections in 21 communities",
+"url": "https://civilnet.am/en/news/1014976",
+"firstSeenBaku": "2026-10-25 08:12"
+},
+{
 "title": "00:09 Pesticide oversight gaps could hamper Armenian produce exports to the EU, report warns",
 "url": "https://civilnet.am/en/news/1014987",
 "firstSeenBaku": "2026-10-25 01:02"
@@ -608,11 +608,6 @@
 "title": "Weak Cyberspace Governance Can Undermine Peace, Security, First Committee Told, Calling for Responsible State Behaviors",
 "url": "https://press.un.org/en/2026/gadis3776.doc.htm",
 "firstSeenBaku": "2026-10-24 03:06"
-},
-{
-"title": "Mediation Can Turn ‘Possibility of Peace into a Lasting Reality’, Says Secretary-General in Remarks to Istanbul Conference",
-"url": "https://press.un.org/en/2026/sgsm23343.doc.htm",
-"firstSeenBaku": "2026-10-24 01:09"
 }
 ],
 "armenianweekly": [
@@ -634,13 +629,6 @@
 "title": "France Investigates Suspected Corruption in Thales’ Foreign Deals, Including Azerbaijan",
 "url": "https://www.301.am/2026/10/10/france-investigates-suspected-corruption-in-thales-foreign-deals-including-azerbaijan/",
 "firstSeenBaku": "2026-10-24 17:15"
-}
-],
-"alphanews": [
-{
-"title": "Pashinyan’s rhetoric may change at his meeting with Putin: Dmitry Solonnikov October 23 2026, 21:30",
-"url": "https://alphanews.am/en/pashinyans-rhetoric-may-change-at-his-meeting-with-putin-dmitry-solonnikov/",
-"firstSeenBaku": "2026-10-24 01:09"
 }
 ]
 }
