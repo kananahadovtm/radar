@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T23:00:54.705957+00:00",
-"generatedAtBaku": "2026-10-26 03:00",
+"generatedAt": "2026-10-25T23:58:33.039815+00:00",
+"generatedAtBaku": "2026-10-26 03:58",
 "hours": 30,
 "search": [
 {
@@ -88,6 +88,13 @@
 "query": "Armenia EU"
 },
 {
+"title": "Kyiv needs an additional 70 billion euros - Modern.az",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3lxUGJua3A1UEJNWGZyTFVpU1ZmQTlDa0t5SlEwREx5bWVKMDZNQjBSOWt0RTJmYXJyMENZOHJZRTAzeWR5YXU1dEFna1ZCRUV1SVcyNmFkYThjS3lWYWFieVQxNElGTjJKZDlpa2Q0bGZaZGVkLVpna0QxVnlYWk9B?oc=5",
+"source": "Modern.az",
+"time_baku": "2026-10-25 21:29",
+"query": "European Parliament Azerbaijan"
+},
+{
 "title": "COP17 adopts 14 decisions as Africa demands fair share of biodiversity benefits - The Climate Watch",
 "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlJQbmduN1hWT2pmNEkzTklpTDR5OVdUSzd2YUZ5S0E0VjNXYzZFbGtOZ0t2Z1dkUF83MXRYa1FQWmZ4dE1HMksweFVjMTFSTFVYUUE3SWRpT3g0a3hJUGxxY0VNSHZIMXVqYUhJbm15ZmFfZ1RIakMzTjdmX1l0RHZmZlVwRFdqZmtQX0hNQmh2SGYweEVYMVNkbTB1WWRkSkRvSzhSS2NIbWZR?oc=5",
 "source": "The Climate Watch",
@@ -99,13 +106,6 @@
 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV29MS3dOcnhJLVNCQWt6MWhycUMzeW5QajBtd2ZXeExaMF84YlpLTmlWSjRJaklNcFozTmltYUtpS1JqZDBtZFZLOTJnOTlsME52U3NGX05qaG8tZ3pCdER6LW9nbmxyZ1NIaWhyTmFMTVJvNmd2dlRDTnF0OW0zNEJuVkFkS21lN25HdVBzNA?oc=5",
 "source": "Tomorrow's Affairs",
 "time_baku": "2026-10-25 21:06",
-"query": "European Parliament Armenia"
-},
-{
-"title": "I told Macron that... - Modern.az",
-"url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MHVhbkRQX0c0cmwxbkF0WW9BVm5QcUs2dFNibkJWb3JKNU9qUWFJbVgzWHhDOEp3WVlObEplQXJZTHpiem8wU3lNcWRQS0JBQVQzaU9ZXzFJRGxQUUJrNEttUQ?oc=5",
-"source": "Modern.az",
-"time_baku": "2026-10-25 21:04",
 "query": "European Parliament Azerbaijan"
 },
 {
@@ -281,7 +281,7 @@
 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FNEhSajZ4dWNRYWZsRFY1N093bGJNSkFyRXJna3ZaVlVpV0tDSTJOTnZyaEhobGs3WVhkcUtqTjByVE5qeXVDOUdzQzlEQzVjell0bktDVlA?oc=5",
 "source": "Radar.am",
 "time_baku": "2026-10-25 11:56",
-"query": "Azerbaijan EU"
+"query": "Armenia EU"
 },
 {
 "title": "Azerbaijani families of missing persons hold series of peaceful protests in Brussels - Latest news from Azerbaijan",
@@ -295,7 +295,7 @@
 "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0JJNktRcm5BNzFCdHZxTkhpM1A3b09rYkRzNmFwLVVleUxXRldGZGFITVlUblEwVC1TQ0oySlAxRFBDSUZXd1FGWkstdGdMcEhWUW5tQTJLOWxuWjNobGR6RXhoZTJNVnk0WUxvOXlxRF85ZEpQTlhQUkhUQ18yeWRLZ2RQbFNJUkdsdi1LZlZtclJH?oc=5",
 "source": "Operativ Məlumat Mərkəzi",
 "time_baku": "2026-10-25 11:41",
-"query": "European Parliament Azerbaijan"
+"query": "Azerbaijan EU"
 },
 {
 "title": "Missing Azerbaijanis’ families hold peaceful protests in Brussels - Operativ Məlumat Mərkəzi",
@@ -309,7 +309,7 @@
 "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjJSRElPel9iLWR4WWJ0Y0dyZzl4T0M2cUlBYk1wZWRXTl8xVHNEdDZKRTlJZDNzdjRoY2pUWG1yakFsa084bWIwU281MnJWa0Q3aldud1VORUxBeTd0T2JGbWptRXN6dGlIc2VhMHBkUTBhYXBadGlhTFlpSWV0Y1YwX3Z5ME5KWUxsV1liSExKeU9kTHo2cWpZSEtoQWhXVVJCZ0RBa2FzY2VHVGNOLTZrVlJvUFJCMzZ3aA?oc=5",
 "source": "1News.az",
 "time_baku": "2026-10-25 11:20",
-"query": "European Parliament Armenia"
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Polish teen finishes sixth at Junior Eurovision in Malta as Armenia wins - TVP World",
@@ -347,6 +347,13 @@
 "query": "Azerbaijan EU"
 },
 {
+"title": "Bulgaria votes in presidential election amid regional security concerns - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3Ata3VMSjlLZWQzNDlhcktndlJuZl9xZ3pyS21ZRHYzSWh4cHJFNkVZdTRPMWx2U09nbFBsblk3aGNyYVNjYU1kOTFFQUI1ZklUU056eVVPQmp4bk9ST0hpaEtXZWpaYm1ZUTRidEF0anBacTBGcVE1ck1aaTJRVy1uUjZ3Q0NFQWp3ckp3aFpnNW1tbkVjQWI4eTk0UHl1SklDVGV6SnB5Ulk?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-10-25 10:41",
+"query": "European Parliament Azerbaijan"
+},
+{
 "title": "Anastasiya Lavrina presents Azerbaijan's stance on global governance in China - Report.az",
 "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFRpMmF4clUxY3p5WjdJa3J1dTFyR0p6akxlWDBtQWFNLXVKNTZQaHZZaFlDaElxTGNDUG1iMHJVb0JYVU5PSWU3Wlp4QTJ1MG1PV0hhOFJQTEU4N05TNXpaV01VMWoybjExTjNSN24yeVprRmV6TkYycFZkYWVCc1pEM2NEWERFdC1ORk1OUTBmTW55a3BZNUp1TGg3Y0JPMU0wN3F5QjBiNENnWE5HZjJxc2hndw?oc=5",
 "source": "Report.az",
@@ -375,11 +382,25 @@
 "query": "UN Armenia"
 },
 {
+"title": "Naré wins Junior Eurovision 2026 for Armenia - Public Radio of Armenia",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObDJOTWY5OWZXRzBGeDF4bl9kTnAxZnl0QWg1cVFhQ1RNNnozV1BlN2REVzdsM2NnRjNoTTRkdlBYSkxZcG93SnFnM3hEdmxydlFYeWFPSUpVai1vbVN1bjZoMGRWa1VqaWRSMDhnbEtWcXVwNTI0bWdHR3BEdHJPMm5tTmh6dw?oc=5",
+"source": "Public Radio of Armenia",
+"time_baku": "2026-10-25 09:53",
+"query": "UN Armenia"
+},
+{
 "title": "A butterfly in Yerevan highlights common ground on biodiversity - Xinhua",
 "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FVUVTTTlhWXg0OVc5WTAxMzA0SEszUkZxZFF4WW80WXJ1THZQX1VNeXozV0ZOSGZZMEdnU0NiU1FRTm1XOVFic2tHQnFVT2VIb1V6TXpwMWdOWG8wcERVMi1kMVBfcDVfU3VKYzUzUl9jM2NJUXRnbUR2YlI?oc=5",
 "source": "Xinhua",
 "time_baku": "2026-10-25 09:33",
 "query": "UN Armenia"
+},
+{
+"title": "Tokayev’s vision for Kazakhstan: Republic Day amid sweeping reforms - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BX1JRdnpkZ3JncURGOU1wSTFZV1h1WDA3V1R2X1pTczZjVEQ5X3pCdXNJRWgtQ1BULVlrcGw2eC1OZlprQW9PdHAzNm9mZHd0ZlRNRzBZTWktV0lZWEd3?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-25 09:00",
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Aaron Malouda (2005), Premyer Liqa – Azerbaijan, Sabah FK Stephen Miller (SXuIf7YnSo) - Unisba Media",
@@ -396,10 +417,24 @@
 "query": "UN Azerbaijan"
 },
 {
+"title": "Armenia wins Junior Eurovision 2026 - Apa.az",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CWEdKb0JMbkVXMUdOdWszM2d5MEh6UEVpY01PY2V6MGFURTFFbTNrMy1RR1pJSGNXUk5GS1RmRm93aGZpbmQ2WU9zX0F1VVFUcVFmNFJDZl9yNHFyaGNtV2Q2UmJDeHpuSVNfMDQ2YmxRT19sRGV3SXBOWVR2Z2c?oc=5",
+"source": "Apa.az",
+"time_baku": "2026-10-25 05:28",
+"query": "UN Armenia"
+},
+{
 "title": "Hundreds of Thousands Protest Across Europe - https://globalpost.com/",
 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEpEem9BUFByeFlhWmgyUk51aTRhdzJ2VWJqNGJUeUktLS1zYzc5OXFNalA0NWpuR1pQU1ltdktnSW05Uk01enNJOGhHOUJHcEN1NG92cmlZaWNWRFNsNWNiNjVNQUxFcGpsdlZYYkZYdEJIWnZEUU5SZWE1cU1YRw?oc=5",
 "source": "https://globalpost.com/",
 "time_baku": "2026-10-25 04:06",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Situation in Armenian army - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ubU9GWXVSWERlSGRPN19TanRZak9hbWhCU0hLdmctYmxWYWVhdzZ6aWRIenRlQ0NDUjhtTWZ4eG1OTFNRS2xtanVyOXpWdGF5c1ZvSnFkbUhJWGh1TGVNeEpKaUdqdC1iMkI1T1R3?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-10-25 03:05",
 "query": "Azerbaijan EU"
 },
 {
@@ -408,13 +443,6 @@
 "source": "NEWS.am",
 "time_baku": "2026-10-25 03:05",
 "query": "Azerbaijan EU"
-},
-{
-"title": "Situation in Armenian army - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ubU9GWXVSWERlSGRPN19TanRZak9hbWhCU0hLdmctYmxWYWVhdzZ6aWRIenRlQ0NDUjhtTWZ4eG1OTFNRS2xtanVyOXpWdGF5c1ZvSnFkbUhJWGh1TGVNeEpKaUdqdC1iMkI1T1R3?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-10-25 03:05",
-"query": "Armenia EU"
 },
 {
 "title": "Armenia Wins 2026 JESC - 1TV.GE",
@@ -442,6 +470,13 @@
 "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMFU0QkI3Uk80RVo4U1BzQ0tXREdLTWZSa1Fycm9KcUhSTlhXTXlRTE5fSTVGdDl5MlJLSzRUdi04TnJjai1UVzNNMmlpUjFLOUpld0I2WTdjTFNjOEd0RmVsTmhPeGs4ckc1M0FqQldmbHJickhneXBSaDdEU1AzRXEtM051U0ktWjN3alIzMkdOSVRXZ3JUT3JORHF4TjNIWUxrSEF4T0NnMXlIT3FqUG9naGxfamFtTjJ6MnRfZWNvTDJvSEY4SFNmVkpXUHFfeld3WGU1T1BMNWFNb0dLZmN1ZEoxRF9HREpNcG8yaHM?oc=5",
 "source": "The Sports Examiner",
 "time_baku": "2026-10-25 00:13",
+"query": "Armenia EU"
+},
+{
+"title": "Serbia is preparing to join the Schengen zone - Radar.am",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UbXViaTl3M0xKcXFvNjZWSFdxQ3A3b3pUZDI2V3Q2UnlrX0QxbDltaVNrYkMtdGhPZnFWLTFTemd1WWhQbkV0a3F2dk92SjRLbE42WA?oc=5",
+"source": "Radar.am",
+"time_baku": "2026-10-24 23:53",
 "query": "Armenia EU"
 },
 {
