@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T19:10:16.563155+00:00",
-"generatedAtBaku": "2026-10-25 23:10",
+"generatedAt": "2026-10-25T19:59:15.284356+00:00",
+"generatedAtBaku": "2026-10-25 23:59",
 "hours": 30,
 "pages": {
 "apa": [
@@ -25,14 +25,9 @@
 "firstSeenBaku": "2026-10-25 16:03"
 },
 {
-"title": "U-15 dünya çempionatı: Azərbaycan millisi növbəti qələbəsini qazanıb - FOTOLENT - YENİLƏNİB 13:57 25 oktyabr 2026",
-"url": "https://apa.az/futbol/u-15-dunya-cempionati-azerbaycan-millisi-novbeti-qelebesini-qazanib-fotolent-yenilenib-1008030",
-"firstSeenBaku": "2026-10-25 14:05"
-},
-{
-"title": "Bakıda Yeni Kaledoniya və Fransız Polineziyasının gənc futbolçularına dəstək aksiyası keçirilib - FOTOLENT - YENİLƏNİB 11:21 25 oktyabr 2026",
-"url": "https://apa.az/diger-novler/bakida-yeni-kaledoniya-ve-fransiz-polineziyasinin-genc-futbolcularina-destek-aksiyasi-kecirilib-fotolent-yenilenib-1008036?locale=az",
-"firstSeenBaku": "2026-10-25 21:07"
+"title": "Bakıda kafedə bir nəfərin öldüyü kütləvi insidentlə bağlı 5 nəfər həbs edilib - YENİLƏNİB 18:58 25 oktyabr 2026",
+"url": "https://apa.az/sosial/bakida-kafede-bir-neferin-olduyu-kutlevi-insidentle-bagli-5-nefer-hebs-edilib-yenilenib-1008099?locale=az",
+"firstSeenBaku": "2026-10-25 23:59"
 },
 {
 "title": "Azərbaycanlı itkin ailələri Brüsseldə silsilə aksiyalar keçirib - FOTOLENT 11:09 25 oktyabr 2026",
@@ -134,7 +129,7 @@
 ],
 "haqqin": [
 {
-"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 21:24 5582",
+"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 21:24 6145",
 "url": "https://haqqin.az/newsarchive/396595",
 "firstSeenBaku": "2026-10-25 17:15"
 },
@@ -155,6 +150,11 @@
 }
 ],
 "news.am": [
+{
+"title": "23:11 Կուրթանում հաղթեց «Ուժեղ Հայաստանը»՝ հավաքելով 320 ձայն",
+"url": "https://news.am/hy/news/1070259",
+"firstSeenBaku": "2026-10-25 23:59"
+},
 {
 "title": "21:33 NYT․ Թրամփի կողմից ներում ստացած վենեսուելացի միլիարդատիրոջ ընտանիքը ԱՄՆ նախագահի նախկին փաստաբանին 50 մլն դոլարի պայմանագիր է առաջարկել",
 "url": "https://news.am/hy/news/1070245",
@@ -184,11 +184,6 @@
 "title": "19:07 Խայտառակություն է, հակասում է Սահմանադրությանը. Մանուկյանը ցուցակներից ընտրողներին հեռացնելու մասին",
 "url": "https://news.am/hy/news/1070222",
 "firstSeenBaku": "2026-10-25 20:06"
-},
-{
-"title": "18:01 Նիկոլ Փաշինյանը շնորհավորել է իր օրոք ձերբակալված նախկին նախարարի դստերը՝ Եվրատեսիլում հաղթանակի առթիվ",
-"url": "https://news.am/hy/news/1070207",
-"firstSeenBaku": "2026-10-25 18:04"
 },
 {
 "title": "Սևան-Երևան ավտոճանապարհին մի քանի կիլոմետրանոց խցանում է",
@@ -263,11 +258,6 @@
 "title": "17:35, 24 October Lyon City Hall delegation visits Armenian Genocide Memorial",
 "url": "https://armenpress.am/en/article/1263729",
 "firstSeenBaku": "2026-10-24 18:04"
-},
-{
-"title": "16:23, 24 October Pashinyan urges extracurricular education providers to inform parents about tax reimbursements",
-"url": "https://armenpress.am/en/article/1263723",
-"firstSeenBaku": "2026-10-24 17:15"
 }
 ],
 "azatutyun": [
@@ -410,9 +400,9 @@
 "firstSeenBaku": "2026-10-25 22:02"
 },
 {
-"title": "Նիկոլ Փաշինյանը շնորհակալություն է հայտնել մարմնամարզիկներին",
-"url": "https://www.1in.am/3772593.html",
-"firstSeenBaku": "2026-10-25 23:10"
+"title": "Ավտովթար Երևանում. 4 տուժածներից մեկը հիվանդանոցում մահացել է",
+"url": "https://www.1in.am/3772596.html",
+"firstSeenBaku": "2026-10-25 23:59"
 },
 {
 "title": "Ուզբեկստանի $12 միլիարդի հետևում. Հայաստանի տնտեսական քաղաքականության բացերը",
@@ -438,6 +428,11 @@
 "title": "Հայաստանի նոր տեղը տեխնոլոգիական աշխարհի քարտեզում",
 "url": "https://www.1in.am/3772524.html",
 "firstSeenBaku": "2026-10-25 19:04"
+},
+{
+"title": "Նիկոլ Փաշինյանը շնորհակալություն է հայտնել մարմնամարզիկներին",
+"url": "https://www.1in.am/3772593.html",
+"firstSeenBaku": "2026-10-25 23:10"
 },
 {
 "title": "ՀՀ-ն ջանք չի խնայում դառնալու Արևելքն ու Արևմուտքը, Հյուսիսն ու Հարավը կապող խաչմերուկ. Միրզոյան",
@@ -543,13 +538,6 @@
 "title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
 "url": "https://www.arfd.am/eng/news/8757/",
 "firstSeenBaku": "2026-10-25 01:02"
-}
-],
-"301am": [
-{
-"title": "France Investigates Suspected Corruption in Thales’ Foreign Deals, Including Azerbaijan",
-"url": "https://www.301.am/2026/10/10/france-investigates-suspected-corruption-in-thales-foreign-deals-including-azerbaijan/",
-"firstSeenBaku": "2026-10-24 17:15"
 }
 ]
 }
