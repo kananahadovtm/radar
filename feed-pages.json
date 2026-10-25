@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T02:08:17.674061+00:00",
-"generatedAtBaku": "2026-10-25 06:08",
+"generatedAt": "2026-10-25T03:08:59.284880+00:00",
+"generatedAtBaku": "2026-10-25 07:08",
 "hours": 30,
 "pages": {
 "apa": [
@@ -320,6 +320,11 @@
 ],
 "armenpress-en": [
 {
+"title": "Armenia wins Junior Eurovision 2026 06:24, 25 October",
+"url": "https://armenpress.am/en/article/1263739",
+"firstSeenBaku": "2026-10-25 07:08"
+},
+{
 "title": "Pashinyan concludes tour of Yerevan’s Ajapnyak district, discusses residents’ concerns 17:46, 24 October",
 "url": "https://armenpress.am/en/article/1263731",
 "firstSeenBaku": "2026-10-24 18:04"
@@ -328,11 +333,6 @@
 "title": "PM tours Yerevan, speaks with residents 14:54, 24 October",
 "url": "https://armenpress.am/en/article/1263716",
 "firstSeenBaku": "2026-10-24 15:04"
-},
-{
-"title": "Professional knowledge must underpin nature conservation efforts, Armenian minister says at SPFB 12:13, 24 October",
-"url": "https://armenpress.am/en/article/1263698",
-"firstSeenBaku": "2026-10-24 13:06"
 },
 {
 "title": "23:00, 24 October Junior Eurovision 2026 kicks off in Malta, Armenia’s Naré to perform eighth",
@@ -372,11 +372,6 @@
 {
 "title": "13:04, 24 October Armenia’s Amoyan loses second bout at World Wrestling Championships",
 "url": "https://armenpress.am/en/article/1263705",
-"firstSeenBaku": "2026-10-24 13:06"
-},
-{
-"title": "12:59, 24 October Armenian weightlifters’ schedule for 2026 World Championships released",
-"url": "https://armenpress.am/en/article/1263701",
 "firstSeenBaku": "2026-10-24 13:06"
 }
 ],
