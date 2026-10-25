@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-25T13:15:35.453914+00:00",
-"generatedAtBaku": "2026-10-25 17:15",
+"generatedAt": "2026-10-25T14:04:27.625796+00:00",
+"generatedAtBaku": "2026-10-25 18:04",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -11,24 +11,25 @@
 "telegram": {
 "bagramyan26": 25,
 "HRAPARAKAM": 4,
-"ArmenianVendetta": 6,
+"ArmenianVendetta": 5,
 "caucasar": 5
 },
 "pages": {
-"apa": 15,
+"apa": 14,
 "qafqazinfo": 18,
-"haqqin": 3,
+"haqqin": 4,
 "news.am": 19,
 "armenpress-hy": 14,
 "armenpress-en": 11,
-"azatutyun": 5,
+"azatutyun": 4,
 "tert": 8,
 "hetq": 5,
-"hraparak": 10,
-"1in": 19,
+"hraparak": 9,
+"1in": 18,
+"primeminister": 1,
 "civilnet": 8,
-"oc-media": 2,
-"jam-news": 1,
+"oc-media": 1,
+"jam-news": 0,
 "europarl": 0,
 "osce": 0,
 "nato": 0,
@@ -41,13 +42,12 @@
 "301am": 1,
 "alphanews": 0
 },
-"search": 80
+"search": 72
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
-"primeminister": "HTTPSConnectionPool(host='www.primeminister.am', port=443): Read timed out. (read timeout=30)",
 "eeas-press": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/eeas/press-material_en",
 "eeas-azerbaijan": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/azerbaijan_en",
 "eeas-armenia": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/armenia_en",
