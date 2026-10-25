@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-25T05:10:25.592849+00:00",
-"generatedAtBaku": "2026-10-25 09:10",
+"generatedAt": "2026-10-25T06:07:12.556693+00:00",
+"generatedAtBaku": "2026-10-25 10:07",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bu gün Azərbaycan millisi növbəti 2 matçını keçirəcək 09:36 25 oktyabr 2026",
+"url": "https://apa.az/futbol/bu-gun-azerbaycan-millisi-novbeti-2-matcini-kecirecek-1008030",
+"firstSeenBaku": "2026-10-25 10:07"
+},
 {
 "title": "Ermənistan “Uşaq Avroviziya 2026”nın qalibi olub 05:00 25 oktyabr 2026",
 "url": "https://apa.az/medeniyyet-siyaseti/ermenistan-usaq-avroviziya-2026nin-qalibi-olub-1008016",
@@ -40,11 +45,6 @@
 "firstSeenBaku": "2026-10-24 20:05"
 },
 {
-"title": "FIFA prezidenti: Azərbaycana təşəkkürümü bildirirəm 17:37 24 oktyabr 2026",
-"url": "https://apa.az/futbol/fifa-prezidenti-azerbaycana-tesekkurumu-bildirirem-1007945",
-"firstSeenBaku": "2026-10-24 18:04"
-},
-{
 "title": "Bakıda ölümlə nəticələnən insidentdə iştirak edən deputat Arzuxan Əlizadənin oğlu saxlanılıb - YENİLƏNİB-1 12:00 24 oktyabr 2026",
 "url": "https://apa.az/hadise/bakida-olumle-neticelenen-insidentde-istirak-eden-deputat-arzuxan-elizadenin-oglu-saxlanilib-yenilenib-1-1007899",
 "firstSeenBaku": "2026-10-24 13:06"
@@ -57,14 +57,14 @@
 ],
 "qafqazinfo": [
 {
+"title": "İnfantino İlham Əliyevə təşəkkür etdi - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/infantino-ilham-eliyeve-tesekkur-etdi-fotolar-526189",
+"firstSeenBaku": "2026-10-25 10:07"
+},
+{
 "title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
 "url": "https://qafqazinfo.az/news/detail/bakida-kafede-davada-bir-nefer-olduruldu-anbaan-video-yenilenib-526120",
 "firstSeenBaku": "2026-10-24 12:05"
-},
-{
-"title": "İnfantino İlham Əliyevə təşəkkür etdi",
-"url": "https://qafqazinfo.az/news/detail/infantino-ilham-eliyeve-tesekkur-etdi-526189",
-"firstSeenBaku": "2026-10-25 09:10"
 },
 {
 "title": "Bakıdakı açılış mərasimindən - Video",
@@ -72,14 +72,14 @@
 "firstSeenBaku": "2026-10-25 09:10"
 },
 {
-"title": "Gürcüstanda saxlanılan İbad Hüseynov buraxılıb - Azərbaycana qayıtdı",
-"url": "https://qafqazinfo.az/news/detail/gurcustanda-saxlanilan-ibad-huseynov-buraxilib-azerbaycana-qayitdi-526184",
-"firstSeenBaku": "2026-10-24 23:59"
-},
-{
 "title": "Bakıda kafedə davada bir nəfər öldürüldü - Anbaan video - Yenilənib",
 "url": "https://qafqazinfo.bax.tv/embed/228152.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=son-xeberler",
 "firstSeenBaku": "2026-10-24 12:05"
+},
+{
+"title": "Gürcüstanda saxlanılan İbad Hüseynov buraxılıb - Azərbaycana qayıtdı",
+"url": "https://qafqazinfo.az/news/detail/gurcustanda-saxlanilan-ibad-huseynov-buraxilib-azerbaycana-qayitdi-526184",
+"firstSeenBaku": "2026-10-24 23:59"
 },
 {
 "title": "İlham Əliyev onları belə təbrik etdi - “Bu, tarixdə qalacaq”",
@@ -154,7 +154,7 @@
 "firstSeenBaku": "2026-10-24 20:05"
 },
 {
-"title": "Чемпионат мира по футболу: Азербайджан легко разобрался с Восточным Тимором видео, обновлено 20:48 24 октября 2026, 20:48 8005",
+"title": "Чемпионат мира по футболу: Азербайджан легко разобрался с Восточным Тимором видео, обновлено 20:48 24 октября 2026, 20:48 8106",
 "url": "https://haqqin.az/newsarchive/396508",
 "firstSeenBaku": "2026-10-24 12:05"
 }
@@ -164,11 +164,6 @@
 "title": "Խոշոր ավտովթար Երևան-Գյումրի ճանապարհին․ 2 հոգի տեղում մահացել է, 5 վիրավորից 4-ը երեխաներ են",
 "url": "https://news.am/hy/news/1070087",
 "firstSeenBaku": "2026-10-24 21:06"
-},
-{
-"title": "Մահվան ելքով դժբախտ պատահար՝ Երևանում կառուցվող շենքերից մեկում. 65–ամյա տղամարդը 10–րդ հարկից ընկել է ու հայտնվել վերելակի հորանում",
-"url": "https://news.am/hy/news/1070070",
-"firstSeenBaku": "2026-10-24 19:04"
 },
 {
 "title": "01:22 Հայաստանը՝ «Մանկական Եվրատեսիլ 2026»-ի հաղթող",
@@ -199,6 +194,11 @@
 "title": "24 հկտ | 19:04 «Հայաստանը համերաշխ է Ֆրանսիայի հետ». Փաշինյանը դատապարտել է Տրապում և Լա-Վերիերում տեղի ունեցած հարձակումը",
 "url": "https://news.am/hy/news/1070075",
 "firstSeenBaku": "2026-10-24 20:05"
+},
+{
+"title": "41 օր` ճանապարհին. հայ հեծանվորդը Գերմանիայից հասել է Հայաստան",
+"url": "https://news.am/hy/stories/3113",
+"firstSeenBaku": "2026-10-25 10:07"
 },
 {
 "title": "Հայաստանը՝ Եվրոպայի մշակութային ժառանգության 2026 թվականի առաջատար ուղղություն",
@@ -387,6 +387,11 @@
 "firstSeenBaku": "2026-10-24 20:05"
 },
 {
+"title": "ՏԻՄ ընտրություններ Հայաստանի 21 համայնքում",
+"url": "https://www.azatutyun.am/a/tim-yntroutyounner-hayastani-21-hamaynkoum/33883815.html",
+"firstSeenBaku": "2026-10-25 10:07"
+},
+{
 "title": "«Արարատցեմենտ»-ն ու «Սպայկա»-ն նվազեցրել են հարկերը, Զանգեզուրի պղնձամոլիբդենայինը՝ 65 տոկոսով մեծացրել",
 "url": "https://www.azatutyun.am/a/ovke-r-en-hayastanoum-amenashat-hark-vcharel-9-amsoum/33883426.html",
 "firstSeenBaku": "2026-10-24 11:19"
@@ -442,6 +447,16 @@
 }
 ],
 "hraparak": [
+{
+"title": "ԱԺ «Ուժեղ Հայաստան» խմբակցության պատգամավոր Անդրանիկ Գևորգյանը քվեարկե...",
+"url": "https://hraparak.am/am/post/34c593d10a0bfcae420809a1bc9105e7",
+"firstSeenBaku": "2026-10-25 10:07"
+},
+{
+"title": "Խոշոր ու ողբերգական ավտովթար Երևան-Գյումրի ճանապարհին․ ծնողն...",
+"url": "https://hraparak.am/am/post/c226611decb9dfc2471e2cf2b5c57464",
+"firstSeenBaku": "2026-10-25 10:07"
+},
 {
 "title": "Հայաստանի 21 համայնքներում այսօր կայանալու են տեղական ինքնակ...",
 "url": "https://hraparak.am/am/post/d0f381a80076a29d168157b638579910",
@@ -515,29 +530,24 @@
 ],
 "1in": [
 {
-"title": "Հայաստանի նոր ատոմակայանը. մեկ դարի անկախության ընտրությունը Հեղինակ՝ Արամ Ամատունի 09:00 2026.10.25",
-"url": "https://www.1in.am/3772166.html",
-"firstSeenBaku": "2026-10-25 09:10"
+"title": "Ընտրությունների նախօրեին ձերբակալությունների ալիք Հայաստանի համայնքներում Հեղինակ՝ Աբրահամ Թադևոսյան 09:00 2026.10.25",
+"url": "https://www.1in.am/3772387.html",
+"firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են Հեղինակ՝ Ժիրայր Ոսկանյան 21:15 2026.10.24",
-"url": "https://www.1in.am/3772320.html",
-"firstSeenBaku": "2026-10-24 22:01"
+"title": "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր",
+"url": "https://www.1in.am/3772301.html",
+"firstSeenBaku": "2026-10-25 10:07"
 },
 {
-"title": "«Մանկական Եվրատեսիլ 2026»․ Հայաստանը հաղթողի գլխավոր հավակնորդների թվում է",
-"url": "https://www.1in.am/3772308.html",
-"firstSeenBaku": "2026-10-25 01:02"
-},
-{
-"title": "Փաշինյանի վեց ձայնը և ընդդիմության մեծ թակարդը 09:00 2026.10.25",
+"title": "Փաշինյանի վեց ձայնը և ընդդիմության մեծ թակարդը",
 "url": "https://www.1in.am/3772179.html",
 "firstSeenBaku": "2026-10-24 21:06"
 },
 {
-"title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը",
-"url": "https://www.1in.am/3771994.html",
-"firstSeenBaku": "2026-10-24 11:19"
+"title": "Իրավիճակ է փոխվել. դեպի Հայաստան միգրացիոն հոսքերը բազմազանեցվում են",
+"url": "https://www.1in.am/3772320.html",
+"firstSeenBaku": "2026-10-24 22:01"
 },
 {
 "title": "Խոշոր հարկատուների ցանկը բացահայտում է Հայաստանի տնտեսության կառուցվածքային աղքատությունը",
@@ -545,7 +555,22 @@
 "firstSeenBaku": "2026-10-24 19:04"
 },
 {
-"title": "Երևան-Աշտարակ ավտոճանապարհին վթարից տուժած երեխաներից 3-ի վիճակը ծայրահեղ ծանր է. ԱՆ Երևան-Աշտարակ ավտոճանապարհին տեղի ունեցած ավտովթարի հետևանքով տուժած 5 երեխաները տեղափոխվել են Երևանի բժշկական կենտրոններ: Այս մասին հայտնում է ՀՀ առողջապահության … 23:00 2026.10.24",
+"title": "ԿԸՀ-ն իրենից դուրս է դրել սահմանադրական իր գործառույթը",
+"url": "https://www.1in.am/3771994.html",
+"firstSeenBaku": "2026-10-24 11:19"
+},
+{
+"title": "«Մանկական Եվրատեսիլ 2026»․ Հայաստանը հաղթողի գլխավոր հավակնորդների թվում է «Մանկական Եվրատեսիլ 2026»-ի հաղթողի հավակնորդների թվում, ըստ մի շարք կանխատեսումներ իրականացնող կայքերի, Հայաստանի ներկայացուցիչ Նարեն է՝ «BOO!» երգով։ Կանխատեսումների մի … 00:00 2026.10.25",
+"url": "https://www.1in.am/3772308.html",
+"firstSeenBaku": "2026-10-25 01:02"
+},
+{
+"title": "Tesla-ն և SpaceX-ը կարող են միավորվել․ ինչ է հայտնի Մասկի ծրագրի մասին",
+"url": "https://www.1in.am/3772106.html",
+"firstSeenBaku": "2026-10-24 23:59"
+},
+{
+"title": "Երևան-Աշտարակ ավտոճանապարհին վթարից տուժած երեխաներից 3-ի վիճակը ծայրահեղ ծանր է. ԱՆ",
 "url": "https://www.1in.am/3772360.html",
 "firstSeenBaku": "2026-10-24 23:08"
 },
@@ -553,11 +578,6 @@
 "title": "5 տուժած, 2 զոհ․ ՃՏՊ՝ Երևան-Աշտարակ ավտոճանապարհին",
 "url": "https://www.1in.am/3772357.html",
 "firstSeenBaku": "2026-10-24 23:08"
-},
-{
-"title": "Tesla-ն և SpaceX-ը կարող են միավորվել․ ինչ է հայտնի Մասկի ծրագրի մասին",
-"url": "https://www.1in.am/3772106.html",
-"firstSeenBaku": "2026-10-24 23:59"
 },
 {
 "title": "Հայաստանը համերաշխություն է հայտնում Ֆրանսիային․ Փաշինյան",
@@ -583,6 +603,16 @@
 }
 ],
 "civilnet": [
+{
+"title": "10:00 Yerevan's street signs still honor Bolsheviks, botanists and a Soviet novel",
+"url": "https://civilnet.am/en/news/1014873",
+"firstSeenBaku": "2026-10-25 10:07"
+},
+{
+"title": "09:57 Naré brings Armenia its third Junior Eurovision victory",
+"url": "https://civilnet.am/en/news/1014988",
+"firstSeenBaku": "2026-10-25 10:07"
+},
 {
 "title": "08:00 Armenia holds local elections in 21 communities",
 "url": "https://civilnet.am/en/news/1014976",
