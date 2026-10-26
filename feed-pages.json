@@ -1,9 +1,19 @@
 {
-"generatedAt": "2026-10-26T05:15:39.189357+00:00",
-"generatedAtBaku": "2026-10-26 09:15",
+"generatedAt": "2026-10-26T06:13:36.940069+00:00",
+"generatedAtBaku": "2026-10-26 10:13",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "\"Azərbaycan Jurnalistlərinin Etik Davranış Qaydaları”na əlavələr nədən qaynaqlanır? - Mətbuat Şurasının şərhi 09:37 26 oktyabr 2026",
+"url": "https://apa.az/sosial/azerbaycan-jurnalistlerinin-etik-davranis-qaydalarina-elaveler-neden-qaynaqlanir-metbuat-surasinin-serhi-1008236",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "Bakıda Yeni Ramana küçəsində nəqliyyatın hərəkəti məhdudlaşdırılır 09:34 26 oktyabr 2026",
+"url": "https://apa.az/infrastruktur/bakida-yeni-ramana-kucesinde-neqliyyatin-hereketi-mehdudlasdirilir-1008238",
+"firstSeenBaku": "2026-10-26 10:13"
+},
 {
 "title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:34 26 oktyabr 2026",
 "url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1008219",
@@ -15,11 +25,6 @@
 "firstSeenBaku": "2026-10-26 02:02"
 },
 {
-"title": "Bakıda avtomobil piyadanı vurub 01:30 26 oktyabr 2026",
-"url": "https://apa.az/hadise/bakida-avtomobil-piyadani-vurub-1008183?locale=az",
-"firstSeenBaku": "2026-10-26 02:02"
-},
-{
 "title": "Azərbaycanlı itkin ailələri Brüsseldə silsilə aksiyalar keçirib - FOTOLENT 11:09 25 oktyabr 2026",
 "url": "https://apa.az/xarici-siyaset/azerbaycanli-itkin-aileleri-brusselde-silsile-aksiyalar-kecirib-fotolent-1008045",
 "firstSeenBaku": "2026-10-25 11:19"
@@ -28,16 +33,6 @@
 "title": "İlham Əliyev Qazaxıstan Prezidentini Respublika Günü münasibətilə təbrik edib 11:01",
 "url": "https://apa.az/resmi-xeber/ilham-eliyev-qazaxistan-prezidentini-respublika-gunu-munasibetile-tebrik-edib-1008044",
 "firstSeenBaku": "2026-10-25 11:19"
-},
-{
-"title": "Prezident İlham Əliyevin sosial media hesablarında futbol üzrə U-15 dünya çempionatı ilə bağlı videoçarx paylaşılıb 01:38",
-"url": "https://apa.az/resmi-xeber/prezident-ilham-eliyevin-sosial-media-hesablarinda-futbol-uzre-u-15-dunya-cempionati-ile-bagli-videocarx-paylasilib-1008009",
-"firstSeenBaku": "2026-10-25 03:57"
-},
-{
-"title": "Bakıda kafedə bir nəfərin öldüyü kütləvi insidentlə bağlı 5 nəfər həbs edilib - YENİLƏNİB 18:58 25 oktyabr 2026",
-"url": "https://apa.az/sosial/bakida-kafede-bir-neferin-olduyu-kutlevi-insidentle-bagli-5-nefer-hebs-edilib-yenilenib-1008099",
-"firstSeenBaku": "2026-10-25 20:06"
 }
 ],
 "qafqazinfo": [
@@ -90,31 +85,46 @@
 "title": "Leyla Əliyeva 98 il sonrakı tarixi gecədə - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/leyla-eliyeva-98-il-sonraki-tarixi-gecede-fotolar-526194",
 "firstSeenBaku": "2026-10-25 11:19"
-},
-{
-"title": "İnfantino İlham Əliyevə təşəkkür etdi - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/infantino-ilham-eliyeve-tesekkur-etdi-fotolar-526189",
-"firstSeenBaku": "2026-10-25 10:07"
-},
-{
-"title": "Bakıdakı açılış mərasimindən - Video",
-"url": "https://qafqazinfo.az/news/detail/bakidaki-acilis-merasiminden-video-526188",
-"firstSeenBaku": "2026-10-25 09:10"
 }
 ],
 "haqqin": [
 {
-"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 8644",
-"url": "https://haqqin.az/newsarchive/396595",
-"firstSeenBaku": "2026-10-25 17:15"
-},
-{
-"title": "Суперстарт Азербайджана на ЧМ по борьбе! За последние 5 лет у нас больше золота, чем за 30 предыдущих",
+"title": "Суперстарт Азербайджана на ЧМ по борьбе! За последние 5 лет у нас больше золота, чем за 30 предыдущих 01:48 2422",
 "url": "https://haqqin.az/newsarchive/396621",
 "firstSeenBaku": "2026-10-26 02:02"
+},
+{
+"title": "Пенсионная реформа в Азербайджане: кто получит ежемесячные фиксированные надбавки?",
+"url": "https://haqqin.az/newsarchive/396627",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "Бандитская разборка в Баку: арестованы 11 человек, включая сына депутата фото; видео; обновлено 10:00",
+"url": "https://haqqin.az/newsarchive/396595",
+"firstSeenBaku": "2026-10-25 17:15"
 }
 ],
 "news.am": [
+{
+"title": "10:09 UNESCO-ի World Heritage Centre-ի փոխտնօրենը «տեղյակ չէ» Արցախում եկեղեցիների ոչնչացման մասին",
+"url": "https://news.am/hy/news/1070295",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "10:06 Սերբիայում Վուչիչը պարտվել է խորհրդարանական ընտրություններում և կանխատեսել ՌԴ–ի դեմ պատժամիջոցների սահմանում",
+"url": "https://news.am/hy/news/1070283",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "10:05 Փաշինյանի հետ պարբերաբար ապրող կինը. Էդգար Ղազարյանի ձեւակերպումը վրդովեցրեց ՔՊ–ականներին",
+"url": "https://news.am/hy/news/1070292",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "09:31 Էլեկտրաէներգիայի անջատումներ Երևանի 6 վարչական շրջաններում և 4 մարզերում",
+"url": "https://news.am/hy/news/1070287",
+"firstSeenBaku": "2026-10-26 10:13"
+},
 {
 "title": "08:33 Նեթանյահուն Թրամփին խնդրում է Իսրայելում ընտրությունների ֆոնին ավելի մեծ աջակցություն ցուցաբերել իր արշավին",
 "url": "https://news.am/hy/news/1070273",
@@ -141,16 +151,6 @@
 "firstSeenBaku": "2026-10-25 23:59"
 },
 {
-"title": "25 հկտ | 21:33 NYT․ Թրամփի կողմից ներում ստացած վենեսուելացի միլիարդատիրոջ ընտանիքը ԱՄՆ նախագահի նախկին փաստաբանին 50 մլն դոլարի պայմանագիր է առաջարկել",
-"url": "https://news.am/hy/news/1070245",
-"firstSeenBaku": "2026-10-25 22:02"
-},
-{
-"title": "25 հկտ | 21:23 Հռոմի պապը Մերձավոր Արևելքում խաղաղության և միջկրոնական երկխոսության կոչ է արել",
-"url": "https://news.am/hy/news/1070227",
-"firstSeenBaku": "2026-10-25 22:02"
-},
-{
 "title": "Սևան-Երևան ավտոճանապարհին մի քանի կիլոմետրանոց խցանում է",
 "url": "https://news.am/hy/stories/3131",
 "firstSeenBaku": "2026-10-25 21:07"
@@ -173,21 +173,36 @@
 ],
 "armenpress-hy": [
 {
-"title": "14:38, 25 հոկտեմբերի Հայաստանը հուլիս-սեպտեմբերին մրգեր է արտահանել Օման․ Միրզոյանը վստահ է՝ արտահանման ծավալները կավելանան",
-"url": "https://armenpress.am/hy/article/1263748",
-"firstSeenBaku": "2026-10-25 15:05"
+"title": "Երևանի քաղաքապետարանի գործակարգավարական խորհրդակցություն 09:30, 26 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263765",
+"firstSeenBaku": "2026-10-26 10:13"
 },
 {
-"title": "14:08, 25 հոկտեմբերի Նիկոլ Փաշինյանը պատարագի է մասնակցել Էջմիածնի Սուրբ Հռիփսիմե եկեղեցում",
-"url": "https://armenpress.am/hy/article/1263747",
-"firstSeenBaku": "2026-10-25 15:05"
+"title": "Հայաստան Անդրանիկ Օզանյանի նկարը չի ապամոնտաժվել, այլ տեղափոխվել է՝ անվտանգության նկատառումներից ելնելով. Արտենիի դպրոցի հայտարարությունը 09:57, 26 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263769",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "Հայաստան «Քարի լիճ» տանող ավտոճանապարհին արգելափակված ավտոբուսի 49 ուղևորները տեղափոխվել են Ամբերդ բնակավայր 09:18, 26 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263762",
+"firstSeenBaku": "2026-10-26 10:13"
 }
 ],
 "armenpress-en": [
 {
+"title": "Civil Contract wins in most of 19 communities in Armenia’s local elections 09:20, 26 October",
+"url": "https://armenpress.am/en/article/1263761",
+"firstSeenBaku": "2026-10-26 10:13"
+},
+{
 "title": "Armenia wins Junior Eurovision 2026 06:24, 25 October",
 "url": "https://armenpress.am/en/article/1263739",
 "firstSeenBaku": "2026-10-25 07:08"
+},
+{
+"title": "09:30 Yerevan City Hall executive meeting",
+"url": "https://armenpress.am/en/article/1263765",
+"firstSeenBaku": "2026-10-26 10:13"
 },
 {
 "title": "18:55, 24 October Armenia’s Hamlet Manukyan wins gold at World Artistic Gymnastics Championships",
@@ -212,12 +227,17 @@
 "firstSeenBaku": "2026-10-25 20:06"
 },
 {
-"title": "4 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
+"title": "3 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
 "url": "https://www.azatutyun.am/a/32652222.html",
 "firstSeenBaku": "2026-10-26 02:02"
 }
 ],
 "tert": [
+{
+"title": "Միամտություն կլինի կարծել, որ Ադրբեջանն ու Թուրքիան առանձին են գործում Հայաստանի հետ իրենց ծրագրերում․ Վարուժան Գեղամյան",
+"url": "https://www.tert.am/am/news/2026/10/26/varuzhan-geghamyan/4288080",
+"firstSeenBaku": "2026-10-26 10:13"
+},
 {
 "title": "Նեթանյահուն Թրամփին խնդրում է Իսրայելում ընտրությունների ֆոնին ավելի մեծ աջակցություն ցուցաբերել իր արշավին. Axios",
 "url": "https://www.tert.am/am/news/2026/10/26/neytahau-trump/4288076",
@@ -310,9 +330,14 @@
 ],
 "1in": [
 {
-"title": "Բաքվի նոր շանտաժը. խաղաղության ճանապարհին՝ հին անցակետերը Հեղինակ՝ Հովհան Մանդակունի 22:00 2026.10.25",
-"url": "https://www.1in.am/3772517.html",
-"firstSeenBaku": "2026-10-25 22:02"
+"title": "Հայաստանի նոր ատոմակայանը. մեկ դարի անկախության ընտրությունը Հեղինակ՝ Արամ Ամատունի 10:00 2026.10.26",
+"url": "https://www.1in.am/3772166.html",
+"firstSeenBaku": "2026-10-25 09:10"
+},
+{
+"title": "ՀՀ-Թուրքիա հարաբերություններում միայն առևտուրը բավարար չէ․ սահմանի բացումն ավելի ՀՀ-ին է պետք Հեղինակ՝ Սիրանույշ Պապյան 09:30 2026.10.26",
+"url": "https://www.1in.am/3772344.html",
+"firstSeenBaku": "2026-10-26 10:13"
 },
 {
 "title": "Պուտինի «պատմական Ռուսաստանը» հող է նախապատրաստում Ալիևի տարածքային հավակնությունների համար",
@@ -335,14 +360,24 @@
 "firstSeenBaku": "2026-10-25 11:19"
 },
 {
+"title": "Բաքվի նոր շանտաժը. խաղաղության ճանապարհին՝ հին անցակետերը",
+"url": "https://www.1in.am/3772517.html",
+"firstSeenBaku": "2026-10-25 22:02"
+},
+{
 "title": "Հայաստանի նոր աշխարհագրությունը. NVIDIA-ն, Թումոն և ուժի նոր քարտեզը",
 "url": "https://www.1in.am/3772520.html",
 "firstSeenBaku": "2026-10-25 22:02"
 },
 {
-"title": "Գեղարքունիքի, Արարատի և Տավուշի մարզերի բնակավայրերում գործարկվելու են էլեկտրաշչակներ Հայաստանի ներքին գործերի նախարարության փրկարար ծառայությունը հայտնել է Գեղարքունիքի, Արարատի և Տավուշի մարզերում էլեկտրական շչակների գործարկման մասին։ Փրկարար ծառայությունը տեղեկացրել …",
-"url": "https://www.1in.am/3772484.html",
-"firstSeenBaku": "2026-10-26 08:16"
+"title": "Էլեկտրաէներգիայի պլանային անջատումներ «Հայաստանի էլեկտրական ցանցեր» փակ բաժնետիրական ընկերությունը տեղեկացնում է, որ հոկտեմբերի 26-ին պլանային նորոգման աշխատանքներ իրականացնելու նպատակով ժամանակավորապես կդադարեցվի հետևյալ հասցեների …",
+"url": "https://www.1in.am/3772626.html",
+"firstSeenBaku": "2026-10-26 09:15"
+},
+{
+"title": "Ադրբեջանի հասցեին քննադատության համար Էրդողանի գլխավոր խորհրդականը պաշտոնանկ է արվել 08:50 2026.10.26",
+"url": "https://www.1in.am/3772644.html",
+"firstSeenBaku": "2026-10-26 10:13"
 },
 {
 "title": "Ավտովթար Երևանում. 4 տուժածներից մեկը հիվանդանոցում մահացել է",
@@ -355,16 +390,6 @@
 "firstSeenBaku": "2026-10-25 23:10"
 },
 {
-"title": "ՀՀ-ն ջանք չի խնայում դառնալու Արևելքն ու Արևմուտքը, Հյուսիսն ու Հարավը կապող խաչմերուկ. Միրզոյան",
-"url": "https://www.1in.am/3772560.html",
-"firstSeenBaku": "2026-10-25 21:07"
-},
-{
-"title": "Հյուրընկալել եմ Երևան ժամանած մեր գործընկերներին Կարմիր կամրջում․ Ավինյան",
-"url": "https://www.1in.am/3772569.html",
-"firstSeenBaku": "2026-10-25 20:06"
-},
-{
 "title": "2026-10-25 Նարեի հաղթանակը. փոքրիկ աղջկա մեծ նվերը Հայաստանին",
 "url": "https://www.1in.am/3772463.html",
 "firstSeenBaku": "2026-10-25 13:07"
@@ -375,9 +400,9 @@
 "firstSeenBaku": "2026-10-25 16:03"
 },
 {
-"title": "2026-10-25 Քուշների գաղտնի միլիարդները. ադրբեջանական հետքը տանում է դեպի Սպիտակ տուն",
-"url": "https://www.1in.am/3772176.html",
-"firstSeenBaku": "2026-10-25 11:19"
+"title": "2026-10-25 Ուզբեկստանի $12 միլիարդի հետևում. Հայաստանի տնտեսական քաղաքականության բացերը",
+"url": "https://www.1in.am/3772530.html",
+"firstSeenBaku": "2026-10-25 18:04"
 }
 ],
 "civilnet": [
@@ -409,6 +434,20 @@
 "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
 "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-26-30-october-2026/",
 "firstSeenBaku": "2026-10-26 09:15"
+}
+],
+"osce": [
+{
+"title": "News Item OSCE, IOM and Tajikistan’s Inter-Ministerial Commission discuss anti-trafficking legislation at high-level conference Date Date 26 October 2026",
+"url": "https://dushanbe.osce.org/news/programme-office-dushanbe/669177",
+"firstSeenBaku": "2026-10-26 10:13"
+}
+],
+"un-armenia": [
+{
+"title": "Peace and Biodiversity",
+"url": "https://armenia.un.org/en/324657-peace-and-biodiversity",
+"firstSeenBaku": "2026-10-26 10:13"
 }
 ]
 }
