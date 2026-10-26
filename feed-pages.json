@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-26T21:11:44.979431+00:00",
-"generatedAtBaku": "2026-10-27 01:11",
+"generatedAt": "2026-10-26T22:11:00.884602+00:00",
+"generatedAtBaku": "2026-10-27 02:11",
 "hours": 30,
 "pages": {
 "apa": [
@@ -60,17 +60,22 @@
 "firstSeenBaku": "2026-10-26 17:59"
 },
 {
-"title": "Ermənistanın Bərdənin Qarayusifli kəndində törətdiyi terror aktından 6 il ötür 00:00 27 oktyabr 2026",
-"url": "https://apa.az/daxili-siyaset/ermenistanin-berdenin-qarayusifli-kendinde-toretdiyi-terror-aktindan-6-il-otur-1007594?locale=az",
-"firstSeenBaku": "2026-10-27 00:10"
-},
-{
 "title": "Azərbaycana girişinə qadağa qoyulan Muhammed Emin Yıldırım İstanbulda saxlanılıb 00:54 27 oktyabr 2026",
 "url": "https://apa.az/asiya/azerbaycana-girisine-qadaga-qoyulan-muhammed-emin-yildirim-istanbulda-saxlanilib-1008515?locale=az",
 "firstSeenBaku": "2026-10-27 01:11"
+},
+{
+"title": "Ermənistanın Bərdənin Qarayusifli kəndində törətdiyi terror aktından 6 il ötür 00:00 27 oktyabr 2026",
+"url": "https://apa.az/daxili-siyaset/ermenistanin-berdenin-qarayusifli-kendinde-toretdiyi-terror-aktindan-6-il-otur-1007594?locale=az",
+"firstSeenBaku": "2026-10-27 00:10"
 }
 ],
 "qafqazinfo": [
+{
+"title": "Azərbaycanın “arzuolunmaz şəxs” elan etdiyi Muhammed Emin Yıldırım İstanbulda saxlanılıb",
+"url": "https://qafqazinfo.az/news/detail/azerbaycanin-arzuolunmaz-sexs-elan-etdiyi-muhammed-emin-yildirim-istanbulda-saxlanilib-526364",
+"firstSeenBaku": "2026-10-27 02:11"
+},
 {
 "title": "Leyla və Alyona Əliyevalar “Capybara Azerbaijan”da - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/leyla-ve-alyona-eliyevalar-capybara-azerbaijanda-fotolar-526358",
@@ -92,19 +97,14 @@
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
-"title": "Əliyevalar Göylər kəndində körpələr evi-uşaq bağçasının açılışında - Fotolar",
-"url": "https://qafqazinfo.az/news/detail/eliyevalar-goyler-kendinde-korpeler-evi-usaq-bagcasinin-acilisinda-fotolar-526355",
-"firstSeenBaku": "2026-10-26 23:23"
-},
-{
 "title": "Hikmət Hacıyev Yaponiya ilə viza məsələsindən danışdı",
 "url": "https://qafqazinfo.az/news/detail/hikmet-haciyev-yaponiya-ile-viza-meselesinden-danisdi-526325",
 "firstSeenBaku": "2026-10-26 19:51"
 },
 {
-"title": "İlham Əliyevin İƏT Baş katibi ilə görüşü - 35 illik əməkdaşlıqda yeni hədəflər",
-"url": "https://qafqazinfo.az/news/detail/ilham-eliyevin-iet-bas-katibi-ile-gorusu-35-illik-emekdasliqda-yeni-hedefler-526320",
-"firstSeenBaku": "2026-10-26 17:59"
+"title": "Əliyevalar Göylər kəndində körpələr evi-uşaq bağçasının açılışında - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/eliyevalar-goyler-kendinde-korpeler-evi-usaq-bagcasinin-acilisinda-fotolar-526355",
+"firstSeenBaku": "2026-10-26 23:23"
 },
 {
 "title": "Azərbaycan Avropanın qiymətləndirmə məkanında təmsil olunacaq - Fotolar",
@@ -135,6 +135,11 @@
 "title": "Samuel Eto Bakıya gəldi",
 "url": "https://qafqazinfo.az/news/detail/samuel-eto-bakiya-geldi-526326",
 "firstSeenBaku": "2026-10-26 19:51"
+},
+{
+"title": "İlham Əliyevin İƏT Baş katibi ilə görüşü - 35 illik əməkdaşlıqda yeni hədəflər",
+"url": "https://qafqazinfo.az/news/detail/ilham-eliyevin-iet-bas-katibi-ile-gorusu-35-illik-emekdasliqda-yeni-hedefler-526320",
+"firstSeenBaku": "2026-10-26 17:59"
 },
 {
 "title": "Kamran Əliyev İƏT-in Baş katibi ilə görüşdü - Fotolar",
@@ -177,11 +182,6 @@
 "firstSeenBaku": "2026-10-26 15:20"
 },
 {
-"title": "BMT-nin Terrorçuluqla Mübarizə İdarəsinin nümayəndəsi Əliyevin qəbulunda - Foto",
-"url": "https://qafqazinfo.az/news/detail/bmt-nin-terrorculuqla-mubarize-idaresinin-numayendesi-eliyevin-qebulunda-foto-526295",
-"firstSeenBaku": "2026-10-26 14:21"
-},
-{
 "title": "“Azərbaycan öz təcrübəsini bölüşməyə hazırdır” - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-oz-tecrubesini-bolusmeye-hazirdir-fotolar-526285",
 "firstSeenBaku": "2026-10-26 13:22"
@@ -199,19 +199,29 @@
 "firstSeenBaku": "2026-10-26 11:32"
 },
 {
-"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2096",
+"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2204",
 "url": "https://haqqin.az/newsarchive/396690",
 "firstSeenBaku": "2026-10-26 19:51"
 },
 {
-"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5163",
+"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5250",
 "url": "https://haqqin.az/newsarchive/396670",
 "firstSeenBaku": "2026-10-26 15:20"
 },
 {
-"title": "Баку готов поставить финальную точку ФОТО; обновлено 14:02 26 октября 2026, 14:02 4628",
+"title": "Баку готов поставить финальную точку ФОТО; обновлено 14:02 26 октября 2026, 14:02 4717",
 "url": "https://haqqin.az/newsarchive/396645",
 "firstSeenBaku": "2026-10-26 12:24"
+},
+{
+"title": "В Стамбуле задержали Мухаммеда Эмина Йылдырыма ему запрещен въезд в Азербайджан",
+"url": "https://haqqin.az/newsarchive/396719",
+"firstSeenBaku": "2026-10-27 02:11"
+},
+{
+"title": "Иордания нанесла авиаудары по Сирии: среди погибших мирные жители",
+"url": "https://haqqin.az/newsarchive/396718",
+"firstSeenBaku": "2026-10-27 02:11"
 },
 {
 "title": "Расистский скандал на чемпионате мира в Азербайджане Матч прерван, ФИФА ведет расследование; добавлено видео",
@@ -224,14 +234,9 @@
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
-"title": "Чемпионат мира по футболу: Азербайджан проиграл большим парням с Гаити и занял 3-е место в группе обновлено 19:07 26 октября 2026, 19:07 3979",
+"title": "Чемпионат мира по футболу: Азербайджан проиграл большим парням с Гаити и занял 3-е место в группе обновлено 19:07 26 октября 2026, 19:07 4066",
 "url": "https://haqqin.az/newsarchive/396649",
 "firstSeenBaku": "2026-10-26 13:22"
-},
-{
-"title": "Ильхам Алиев принял Шейху Аль-Нувейс фото; новость дополнена 26 октября 2026, 18:54 2206",
-"url": "https://haqqin.az/newsarchive/396693",
-"firstSeenBaku": "2026-10-26 19:51"
 }
 ],
 "news.am": [
@@ -343,11 +348,6 @@
 {
 "title": "26 հկտ | 18:41 Միրզոյանը և Խերտ Յան Կոպմանը քննարկել են ՀՀ-ԵՄ գործընկերության ռազմավարական օրակարգի կյանքի կոչմանն ուղղված աշխատանքները",
 "url": "https://news.am/hy/news/1070468",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "26 հկտ | 18:07 Իրանի փոխնախագահն աջակցել է գիտության նախարարին, որին Ադրբեջանը քննադատել էր",
-"url": "https://news.am/hy/news/1070444",
 "firstSeenBaku": "2026-10-26 19:51"
 },
 {
@@ -697,12 +697,7 @@
 "firstSeenBaku": "2026-10-26 11:32"
 },
 {
-"title": "3 Կառավարությունից ո՛չ հերքում, ո՛չ հաստատում են Փաշինյան-Պուտին-Ալիև հնարավոր հանդիպման մասին լուրը",
-"url": "https://www.azatutyun.am/a/32098433.html",
-"firstSeenBaku": "2026-10-25 20:06"
-},
-{
-"title": "4 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
+"title": "5 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
 "url": "https://www.azatutyun.am/a/32652222.html",
 "firstSeenBaku": "2026-10-26 02:02"
 }
@@ -789,11 +784,6 @@
 "title": "2026-10-25 22:45:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/184974",
 "firstSeenBaku": "2026-10-25 23:10"
-},
-{
-"title": "2026-10-25 19:20:00 Աշխատանքներ են տարվում՝ Հայաստանից Օման արտահանվող ապրանքների ցանկն ընդլայնելու. Անի Բադալյան",
-"url": "https://hetq.am/hy/article/184972",
-"firstSeenBaku": "2026-10-25 20:06"
 },
 {
 "title": "2026-10-18T23:27:00+04:00 Արդյոք Հայաստանը պատրաստ կլինի կոտրել կարծրատիպերը. բնապահպանական սիմպոզիում՝ Երեւանում",
