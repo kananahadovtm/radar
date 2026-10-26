@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-26T03:14:12.790490+00:00",
-"generatedAtBaku": "2026-10-26 07:14",
+"generatedAt": "2026-10-26T04:16:19.260886+00:00",
+"generatedAtBaku": "2026-10-26 08:16",
 "hours": 30,
 "pages": {
 "apa": [
@@ -67,11 +67,6 @@
 "firstSeenBaku": "2026-10-25 22:02"
 },
 {
-"title": "“Euronews” AQEM-in Bakı prioritetlərindən yazdı - Video",
-"url": "https://qafqazinfo.az/news/detail/euronews-aqem-in-baki-prioritetlerinden-yazdi-video-526200",
-"firstSeenBaku": "2026-10-25 11:19"
-},
-{
 "title": "FIFA prezidenti “Sabah”-“Qarabağ” matçında - Video",
 "url": "https://qafqazinfo.az/news/detail/fifa-prezidenti-sabah-qarabag-matcinda-video-526239",
 "firstSeenBaku": "2026-10-25 20:06"
@@ -97,6 +92,11 @@
 "firstSeenBaku": "2026-10-25 11:19"
 },
 {
+"title": "“Euronews” AQEM-in Bakı prioritetlərindən yazdı - Video",
+"url": "https://qafqazinfo.az/news/detail/euronews-aqem-in-baki-prioritetlerinden-yazdi-video-526200",
+"firstSeenBaku": "2026-10-25 11:19"
+},
+{
 "title": "Leyla Əliyeva 98 il sonrakı tarixi gecədə - Fotolar",
 "url": "https://qafqazinfo.az/news/detail/leyla-eliyeva-98-il-sonraki-tarixi-gecede-fotolar-526194",
 "firstSeenBaku": "2026-10-25 11:19"
@@ -114,7 +114,7 @@
 ],
 "haqqin": [
 {
-"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 7988",
+"title": "Фигуранты кровавой разборки в Баку арестованы. Среди них и сын депутата видео; обновлено 21:24 25 октября 2026, 21:24 8312",
 "url": "https://haqqin.az/newsarchive/396595",
 "firstSeenBaku": "2026-10-25 17:15"
 },
@@ -222,11 +222,6 @@
 "firstSeenBaku": "2026-10-25 13:07"
 },
 {
-"title": "Հայաստանը հաղթել է «Մանկական Եվրատեսիլ»-ում",
-"url": "https://www.azatutyun.am/a/33883640.html",
-"firstSeenBaku": "2026-10-25 02:03"
-},
-{
 "title": "ՏԻՄ ընտրություններ Հայաստանում. մի շարք համայնքներում ճնշումների, ուղղորդումների մասին ահազանգեր կան (լրացվող)",
 "url": "https://www.azatutyun.am/a/tim-yntroutyounner-hayastani-21-hamaynkoum/33883815.html",
 "firstSeenBaku": "2026-10-25 10:07"
@@ -330,9 +325,9 @@
 ],
 "1in": [
 {
-"title": "Պուտինի «պատմական Ռուսաստանը» հող է նախապատրաստում Ալիևի տարածքային հավակնությունների համար Հեղինակ՝ Արամ Ամատունի 21:00 2026.10.25",
-"url": "https://www.1in.am/3772188.html",
-"firstSeenBaku": "2026-10-25 21:07"
+"title": "Հայաստանի նոր ատոմակայանը. մեկ դարի անկախության ընտրությունը Հեղինակ՝ Արամ Ամատունի 08:00 2026.10.26",
+"url": "https://www.1in.am/3772166.html",
+"firstSeenBaku": "2026-10-25 09:10"
 },
 {
 "title": "Բաքվի նոր շանտաժը. խաղաղության ճանապարհին՝ հին անցակետերը Հեղինակ՝ Հովհան Մանդակունի 22:00 2026.10.25",
@@ -343,11 +338,6 @@
 "title": "Հայաստանի նոր աշխարհագրությունը. NVIDIA-ն, Թումոն և ուժի նոր քարտեզը Հեղինակ՝ Արա Խանբաբյան 21:15 2026.10.25",
 "url": "https://www.1in.am/3772520.html",
 "firstSeenBaku": "2026-10-25 22:02"
-},
-{
-"title": "Ավտովթար Երևանում. 4 տուժածներից մեկը հիվանդանոցում մահացել է",
-"url": "https://www.1in.am/3772596.html",
-"firstSeenBaku": "2026-10-25 23:59"
 },
 {
 "title": "Ուզբեկստանի $12 միլիարդի հետևում. Հայաստանի տնտեսական քաղաքականության բացերը",
@@ -375,9 +365,19 @@
 "firstSeenBaku": "2026-10-25 19:04"
 },
 {
+"title": "Ավտովթար Երևանում. 4 տուժածներից մեկը հիվանդանոցում մահացել է",
+"url": "https://www.1in.am/3772596.html",
+"firstSeenBaku": "2026-10-25 23:59"
+},
+{
 "title": "Նիկոլ Փաշինյանը շնորհակալություն է հայտնել մարմնամարզիկներին",
 "url": "https://www.1in.am/3772593.html",
 "firstSeenBaku": "2026-10-25 23:10"
+},
+{
+"title": "Պուտինի «պատմական Ռուսաստանը» հող է նախապատրաստում Ալիևի տարածքային հավակնությունների համար",
+"url": "https://www.1in.am/3772188.html",
+"firstSeenBaku": "2026-10-25 21:07"
 },
 {
 "title": "ՀՀ-ն ջանք չի խնայում դառնալու Արևելքն ու Արևմուտքը, Հյուսիսն ու Հարավը կապող խաչմերուկ. Միրզոյան",
@@ -398,6 +398,16 @@
 "title": "2026-10-25 Նարեի հաղթանակը. փոքրիկ աղջկա մեծ նվերը Հայաստանին",
 "url": "https://www.1in.am/3772463.html",
 "firstSeenBaku": "2026-10-25 13:07"
+},
+{
+"title": "2026-10-25 Քուշների գաղտնի միլիարդները. ադրբեջանական հետքը տանում է դեպի Սպիտակ տուն",
+"url": "https://www.1in.am/3772176.html",
+"firstSeenBaku": "2026-10-25 11:19"
+},
+{
+"title": "2026-10-25 2 զոհ, 5 վիրավոր երեխա. ո՞վ է պատասխան տալիս Հայաստանի մահաբեր ճանապարհների համար",
+"url": "https://www.1in.am/3772511.html",
+"firstSeenBaku": "2026-10-25 16:03"
 }
 ],
 "civilnet": [
