@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-10-27T04:15:13.613644+00:00",
-"generatedAtBaku": "2026-10-27 08:15",
+"generatedAt": "2026-10-27T05:13:23.220769+00:00",
+"generatedAtBaku": "2026-10-27 09:13",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:22 27 oktyabr 2026",
+"url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1008546",
+"firstSeenBaku": "2026-10-27 09:13"
+},
 {
 "title": "Azərbaycana girişinə qadağa qoyulan Muhammed Emin Yıldırım İstanbulda saxlanılıb 00:54 27 oktyabr 2026",
 "url": "https://apa.az/asiya/azerbaycana-girisine-qadaga-qoyulan-muhammed-emin-yildirim-istanbulda-saxlanilib-1008515",
@@ -25,21 +30,6 @@
 "firstSeenBaku": "2026-10-26 23:23"
 },
 {
-"title": "Paşinyan: Ermənistanda yeni müxalifət formalaşmalıdır 18:53 26 oktyabr 2026",
-"url": "https://apa.az/mdb-olkeleri/pasinyan-ermenistanda-yeni-muxalifet-formalasmalidir-1008474",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "Prezident İlham Əliyev Dünya Turizm Təşkilatının Baş katibini qəbul edib 18:34 26 oktyabr 2026",
-"url": "https://apa.az/resmi-xeber/prezident-ilham-eliyev-dunya-turizm-teskilatinin-bas-katibini-qebul-edib-1008471",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "Ceyhun Bayramov İƏT-in Baş katibi ilə görüşüb 18:32 26 oktyabr 2026",
-"url": "https://apa.az/xarici-siyaset/ceyhun-bayramov-iet-in-bas-katibi-ile-gorusub-1008470",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
 "title": "Azərbaycana girişinə qadağa qoyulan Muhammed Emin Yıldırım İstanbulda saxlanılıb 00:54 27 oktyabr 2026",
 "url": "https://apa.az/asiya/azerbaycana-girisine-qadaga-qoyulan-muhammed-emin-yildirim-istanbulda-saxlanilib-1008515?locale=az",
 "firstSeenBaku": "2026-10-27 01:11"
@@ -55,9 +45,9 @@
 "firstSeenBaku": "2026-10-26 17:59"
 },
 {
-"title": "17:11 26 oktyabr 2026 Azərbaycanda bu il 276 minə yaxın daşınmaz əmlak çıxarışla təmin edilib",
-"url": "https://apa.az/infrastruktur/azerbaycanda-bu-il-276-mine-yaxin-dasinmaz-emlak-cixarisla-temin-edilib-1008438",
-"firstSeenBaku": "2026-10-26 17:59"
+"title": "Prezident İlham Əliyev Dünya Turizm Təşkilatının Baş katibini qəbul edib 18:34",
+"url": "https://apa.az/resmi-xeber/prezident-ilham-eliyev-dunya-turizm-teskilatinin-bas-katibini-qebul-edib-1008471",
+"firstSeenBaku": "2026-10-26 19:51"
 }
 ],
 "qafqazinfo": [
@@ -184,12 +174,12 @@
 "firstSeenBaku": "2026-10-26 11:32"
 },
 {
-"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2601",
+"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2750",
 "url": "https://haqqin.az/newsarchive/396690",
 "firstSeenBaku": "2026-10-26 19:51"
 },
 {
-"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5662",
+"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5794",
 "url": "https://haqqin.az/newsarchive/396670",
 "firstSeenBaku": "2026-10-26 15:20"
 },
@@ -204,19 +194,9 @@
 "firstSeenBaku": "2026-10-27 02:11"
 },
 {
-"title": "Иордания нанесла авиаудары по Сирии: среди погибших мирные жители",
-"url": "https://haqqin.az/newsarchive/396718",
-"firstSeenBaku": "2026-10-27 02:11"
-},
-{
 "title": "Расистский скандал на чемпионате мира в Азербайджане Матч прерван, ФИФА ведет расследование; добавлено видео",
 "url": "https://haqqin.az/newsarchive/396701",
 "firstSeenBaku": "2026-10-26 22:15"
-},
-{
-"title": "Губернатор Арушанян упомянул про «иванов». Посольство России «в недоумении»",
-"url": "https://haqqin.az/newsarchive/396700",
-"firstSeenBaku": "2026-10-26 21:22"
 }
 ],
 "news.am": [
@@ -224,6 +204,16 @@
 "title": "Հայաստանը պետք է ներողություն խնդրի Ադրբեջանի ժողովրդից․ Հաջիև",
 "url": "https://news.am/hy/news/1070413",
 "firstSeenBaku": "2026-10-26 17:59"
+},
+{
+"title": "08:46 Էլեկտրաէներգիայի անջատումներ Երևանի 5 վարչական շրջաններում և 8 մարզերում",
+"url": "https://news.am/hy/news/1070528",
+"firstSeenBaku": "2026-10-27 09:13"
+},
+{
+"title": "08:20 «Փաստ». Կախվածություն սահմանափակ թվով ընկերություններից. ի՞նչ նկարագիր ունի Հայաստանի տնտեսությունը",
+"url": "https://news.am/hy/news/1070512",
+"firstSeenBaku": "2026-10-27 09:13"
 },
 {
 "title": "08:08 «Ժողովուրդ». ՔՊ-ն փակ նիստերում քննարկում է Արցախի, ՀՀ անկախության Հռչակագրի և եկեղեցու հարցերը",
@@ -286,39 +276,9 @@
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
-"title": "26 հկտ | 20:23 Հայաստան, Վրաստան, Ադրբեջան․ որտեղ է մեկ շնչին ընկնող եկամուտն ավելի բարձր՝ գնողունակության համարժեքության հաշվարկով",
-"url": "https://news.am/hy/news/1070463",
-"firstSeenBaku": "2026-10-26 21:22"
-},
-{
-"title": "26 հկտ | 20:21 Երկու տարի անց կրկին նույն խնդրի առաջ ենք կանգնած. Արցախ TV-ին կարող է կորցնել տարածքը",
-"url": "https://news.am/hy/news/1070481",
-"firstSeenBaku": "2026-10-26 21:22"
-},
-{
-"title": "26 հկտ | 20:03 Ուղիղ Փաշինյանը՝ դիրիժոր. նա կորոշի՝ ով կարող է լինել ընդդիմություն Հայաստանում I ԼՈՒՐԵՐ I 20:00",
+"title": "Ուղիղ Փաշինյանը՝ դիրիժոր. նա կորոշի՝ ով կարող է լինել ընդդիմություն Հայաստանում I ԼՈՒՐԵՐ I 20:00",
 "url": "https://news.am/hy/news/1070479",
 "firstSeenBaku": "2026-10-26 21:22"
-},
-{
-"title": "26 հկտ | 19:44 Սա հաղթանակի պատմություն չէ, սա Փաշինյանի կողմից ձևավորված քաղաքական և ընտրական պայմանների հետևանքն է. Ամստերդամ",
-"url": "https://news.am/hy/news/1070478",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "26 հկտ | 19:42 Փաշինյանը շնորհավորել է «Ուսանողական ցուցակ» կուսակցությանը Սերբիայում ընտրություններում հաղթանակի կապակցությամբ",
-"url": "https://news.am/hy/news/1070477",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "26 հկտ | 19:29 Մարզպետի հայրիկը մեզ ասաց՝ հերիք ա Տիգրանաշեն ասեք, գինը բարձրացնում եք. «Ուժեղ Հայաստանի» անդամ",
-"url": "https://news.am/hy/news/1070470",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
-"title": "26 հկտ | 19:25 Բնությունը կսպասի՞ սահմանների սահմանազատմանը. Մաթևոսյանը՝ Շիկահողում էկոցիդի մասին",
-"url": "https://news.am/hy/news/1070474",
-"firstSeenBaku": "2026-10-26 19:51"
 },
 {
 "title": "Ուղիղ Բաքվի նոր պահանջը. Հաջիևը պնդում է, թե հայերը պետք է ներողություն խնդրեն իրենցից I ԼՈՒՐԵՐ I 16:00",
@@ -339,6 +299,11 @@
 "title": "Mining Armenia Forum 2026․ մեկնաբանում է արհեստական բանականությունը հոկտեմբերի 26, 16:20",
 "url": "https://news.am/hy/news/1070414",
 "firstSeenBaku": "2026-10-26 17:59"
+},
+{
+"title": "Հայաստան, Վրաստան, Ադրբեջան․ որտեղ է մեկ շնչին ընկնող եկամուտն ավելի բարձր՝ գնողունակության համարժեքության հաշվարկով հոկտեմբերի 26, 20:23",
+"url": "https://news.am/hy/news/1070463",
+"firstSeenBaku": "2026-10-26 21:22"
 },
 {
 "title": "Երևանում Deepal-ը վրաերթի է ենթարկել տատին ու թոռանը, ապա բախվել կայանված Mercedes-ին, վերջինա էլ՝ Nissan Tiida-ին հոկտեմբերի 26, 16:32",
@@ -373,8 +338,8 @@
 ],
 "armenpress-hy": [
 {
-"title": "Հայաստանի տղամարդկանց սպորտային մարմնամարզության հավաքականը ժամանեց Հայաստան 07:44, 27 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1263890",
+"title": "Մեդալակիր մարմնամարզիկները Երևանում են․ «Զվարթնոց»-ում հանդիսավորությամբ դիմավորեցին հավաքականին 08:10, 27 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263891",
 "firstSeenBaku": "2026-10-27 08:15"
 },
 {
@@ -413,11 +378,6 @@
 "firstSeenBaku": "2026-10-26 13:22"
 },
 {
-"title": "08:10 Մեդալակիր մարմնամարզիկները Երևանում են․ «Զվարթնոց»-ում հանդիսավորությամբ դիմավորեցին հավաքականին",
-"url": "https://armenpress.am/hy/article/1263891",
-"firstSeenBaku": "2026-10-27 08:15"
-},
-{
 "title": "22:21, 26 հոկտեմբերի Երևանում կայացել է Հայաստան-ԵՄ համատեղ աշխատանքային խմբի հինգերորդ հանդիպումը",
 "url": "https://armenpress.am/hy/article/1263888",
 "firstSeenBaku": "2026-10-26 23:23"
@@ -426,6 +386,11 @@
 "title": "Տնտեսություն Հայաստանի արտաքին առևտրաշրջանառությունը 2026 թվականի առաջին ինը ամիսներին աճել է 3․2 տոկոսով 13:51, 26 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1263814",
 "firstSeenBaku": "2026-10-26 14:21"
+},
+{
+"title": "Լուսանկար Հայաստանի տղամարդկանց սպորտային մարմնամարզության հավաքականը ժամանեց Հայաստան 07:44, 27 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1263890",
+"firstSeenBaku": "2026-10-27 08:15"
 },
 {
 "title": "Լուսանկար Երևանում մեկնարկել է բնության պահպանմանն ու վերականգնմանն ուղղված բարձր մակարդակի երկխոսությունը 15:23, 26 հոկտեմբերի",
@@ -445,6 +410,11 @@
 ],
 "armenpress-en": [
 {
+"title": "Armenia’s men’s artistic gymnastics team welcomed home after triumphant World Championships performance 08:12, 27 October",
+"url": "https://armenpress.am/en/article/1263891",
+"firstSeenBaku": "2026-10-27 08:15"
+},
+{
 "title": "Dutch FM to visit Armenia 13:56, 26 October",
 "url": "https://armenpress.am/en/article/1263812",
 "firstSeenBaku": "2026-10-26 14:21"
@@ -458,11 +428,6 @@
 "title": "Pashinyan says Armenia needs new state-centered opposition 12:21, 26 October",
 "url": "https://armenpress.am/en/article/1263788",
 "firstSeenBaku": "2026-10-26 12:24"
-},
-{
-"title": "Yerevan mayor emphasizes importance of local company building new Metro station 11:14, 26 October",
-"url": "https://armenpress.am/en/article/1263781",
-"firstSeenBaku": "2026-10-26 11:32"
 },
 {
 "title": "Politics Alen Simonyan and Gert Jan Koopman stress importance of continued development of Armenia–EU relations Secretary of Armenia’s Security Council Alen Simonyan received a delegation led by Gert Jan Koopman, Director-General for Enlargement and Eastern Neighbourhood ... 19:27, 26 October",
@@ -495,14 +460,14 @@
 "firstSeenBaku": "2026-10-26 14:21"
 },
 {
+"title": "Yerevan Yerevan mayor emphasizes importance of local company building new Metro station 11:14, 26 October",
+"url": "https://armenpress.am/en/article/1263781",
+"firstSeenBaku": "2026-10-26 11:32"
+},
+{
 "title": "Press centre Armenia to consolidate three employment programs into a single package starting in 2027 13:35, 26 October",
 "url": "https://armenpress.am/en/article/1263802",
 "firstSeenBaku": "2026-10-26 14:21"
-},
-{
-"title": "08:12 Armenia’s men’s artistic gymnastics team welcomed home after triumphant World Championships performance",
-"url": "https://armenpress.am/en/article/1263891",
-"firstSeenBaku": "2026-10-27 08:15"
 },
 {
 "title": "23:44, 26 October Fifth meeting of Armenia–EU joint working group held in Yerevan",
@@ -540,16 +505,6 @@
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
-"title": "20:13, 26 October Hambardzum Matevosyan hopes for joint environmental projects with Azerbaijan and other neighbours",
-"url": "https://armenpress.am/en/article/1263871",
-"firstSeenBaku": "2026-10-26 21:22"
-},
-{
-"title": "19:49, 26 October Links between urban development and biodiversity in Armenia discussed at COP17",
-"url": "https://armenpress.am/en/article/1263864",
-"firstSeenBaku": "2026-10-26 19:51"
-},
-{
 "title": "Economy Mobile Centre tops list of Armenia’s largest corporate taxpayers 15:43, 26 October",
 "url": "https://armenpress.am/en/article/1263830",
 "firstSeenBaku": "2026-10-26 17:59"
@@ -573,6 +528,11 @@
 "title": "Economy Armenia’s economic activity grows 6.9% in January-September 13:40, 26 October",
 "url": "https://armenpress.am/en/article/1263804",
 "firstSeenBaku": "2026-10-26 14:21"
+},
+{
+"title": "Photos Armenia’s men’s artistic gymnastics team welcomed home after triumphant World Championships performance 07:51, 27 October",
+"url": "https://armenpress.am/en/article/1263890",
+"firstSeenBaku": "2026-10-27 09:13"
 },
 {
 "title": "Videos COP17: Armenia will use this high-level environmental platform to raise issues, minister says 10:38, 26 October",
@@ -622,7 +582,7 @@
 ],
 "azatutyun": [
 {
-"title": "Հիջաբի շուրջ նոր վեճ Բաքվի ու Թեհրանի միջև․ Ադրբեջանը Իրանին մեղադրում է ներքին գործերին միջամտելու մեջ",
+"title": "Հիջաբի շուրջ նոր վեճ Բաքվի ու Թեհրանի միջև․ Ադրբեջանն Իրանին մեղադրում է ներքին գործերին միջամտելու մեջ",
 "url": "https://www.azatutyun.am/a/33884665.html",
 "firstSeenBaku": "2026-10-26 22:15"
 },
@@ -712,16 +672,6 @@
 "title": "Երևան-Գյումրի ավտոճանապարհին բшխվել են քարով բարձված «Զիլ» բեռնատարը և «Toyota Camry»-ն․ վերջինը գլխիվայր հայտնվել է երթևեկելի գոտում․ կա վիրшվոր",
 "url": "https://www.tert.am/am/news/2026/10/26/accident-/4288184",
 "firstSeenBaku": "2026-10-26 21:22"
-},
-{
-"title": "Հայաստանի՝ դեպի ԵՄ «ձգտումը» դիվերսիֆիկացում ներկայացնելը՝ քարոզչական միֆ. «Փաստ»",
-"url": "https://www.tert.am/am/news/2026/10/27/armenia-eu/4288212",
-"firstSeenBaku": "2026-10-27 08:15"
-},
-{
-"title": "Նոր Սահմանադրության օրակարգը սպառնում է Հայաստանը վերածել համակենտրոնացման ճամբարի. «Փաստ»",
-"url": "https://www.tert.am/am/news/2026/10/27/new-constitution/4288211",
-"firstSeenBaku": "2026-10-27 08:15"
 }
 ],
 "hetq": [
@@ -795,13 +745,13 @@
 "firstSeenBaku": "2026-10-26 22:15"
 },
 {
-"title": "Մաֆիոզ Հայաստանի վերադարձը լուրջ մարտահրավեր է․ քայլեր են անհրաժեշտ Հեղինակ՝ Սիրանույշ Պապյան 21:15 2026.10.26",
-"url": "https://www.1in.am/3772941.html",
+"title": "Փաշինյանի հաղթանակների հետևում՝ Հայաստանի քաղաքական դատարկությունը",
+"url": "https://www.1in.am/3772948.html",
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
-"title": "Փաշինյանի հաղթանակների հետևում՝ Հայաստանի քաղաքական դատարկությունը 08:00 2026.10.27",
-"url": "https://www.1in.am/3772948.html",
+"title": "Մաֆիոզ Հայաստանի վերադարձը լուրջ մարտահրավեր է․ քայլեր են անհրաժեշտ",
+"url": "https://www.1in.am/3772941.html",
 "firstSeenBaku": "2026-10-26 21:22"
 },
 {
@@ -810,17 +760,22 @@
 "firstSeenBaku": "2026-10-26 10:13"
 },
 {
-"title": "Երասխի մայրուղու սննդի օբյեկտի աշխատանքը վերականգնվել է Վերացվել է Երևան-Երասխ մայրուղում գործող հանրային սննդի օբյեկտի արտադրական գործունեության կասեցումը։ Սննդամթերքի անվտանգության տեսչական մարմնի կողմից «Վան» Ա/Կ՝ Արարատի մարզ, … 00:40 2026.10.27",
+"title": "ՀԾԿՀ նախագահն Աթենքում մասնակցում է Էներգետիկ կարգավորողների տարածաշրջանային ասոցիացիայի ղեկավարների հանդիպմանը Հայաստանի Հանրապետության հանրային ծառայությունները կարգավորող հանձնաժողովի նախագահ Մեսրոպ Մեսրոպյանի գլխավորած պատվիրակությունը մասնակցում է Հունաստանի մայրաքաղաք Աթենքում անցկացվող Էներգե",
+"url": "https://www.1in.am/3772844.html",
+"firstSeenBaku": "2026-10-27 01:11"
+},
+{
+"title": "Երասխի մայրուղու սննդի օբյեկտի աշխատանքը վերականգնվել է Վերացվել է Երևան-Երասխ մայրուղում գործող հանրային սննդի օբյեկտի արտադրական գործունեության կասեցումը։ Սննդամթերքի անվտանգության տեսչական մարմնի կողմից «Վան» Ա/Կ՝ Արարատի մարզ, …",
 "url": "https://www.1in.am/3772863.html",
 "firstSeenBaku": "2026-10-27 01:11"
 },
 {
-"title": "COP17-ի շրջանակում հանդիպել են Հայաստանի և Նորվեգիայի շրջակա միջավայրի նախարարները COP17-ի նախագահ, Հայաստանի շրջակա միջավայրի նախարար Համբարձում Մաթևոսյանը COP17-ի շրջանակում հանդիպել է Նորվեգիայի կլիմայի և շրջակա միջավայրի նախարար Սիգրուն Օսլանդի …",
-"url": "https://www.1in.am/3772887.html",
-"firstSeenBaku": "2026-10-27 01:11"
+"title": "Անկարան կողմ է վեճերի խաղաղ կարգավորմանը",
+"url": "https://www.1in.am/3773006.html",
+"firstSeenBaku": "2026-10-27 09:13"
 },
 {
-"title": "Հայաստանի հասարակությունը պետք է գիտակցի խաղաղության կարևորությունը. Բայրամով 14:10 2026.10.26",
+"title": "Հայաստանի հասարակությունը պետք է գիտակցի խաղաղության կարևորությունը. Բայրամով",
 "url": "https://www.1in.am/3772792.html",
 "firstSeenBaku": "2026-10-26 14:21"
 },
@@ -833,6 +788,11 @@
 "title": "Ադրբեջանի հասցեին քննադատության համար Էրդողանի գլխավոր խորհրդականը պաշտոնանկ է արվել",
 "url": "https://www.1in.am/3772644.html",
 "firstSeenBaku": "2026-10-26 10:13"
+},
+{
+"title": "COP17-ի շրջանակում հանդիպել են Հայաստանի և Նորվեգիայի շրջակա միջավայրի նախարարները",
+"url": "https://www.1in.am/3772887.html",
+"firstSeenBaku": "2026-10-27 01:11"
 },
 {
 "title": "Հայաստանը պետք է ընդունի հակա-SLAPP օրենսդրություն․ Անահիտ Մանասյան",
