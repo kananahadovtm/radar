@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-27T00:05:52.618349+00:00",
-"generatedAtBaku": "2026-10-27 04:05",
+"generatedAt": "2026-10-27T01:22:55.065755+00:00",
+"generatedAtBaku": "2026-10-27 05:22",
 "hours": 30,
 "pages": {
 "apa": [
@@ -45,11 +45,6 @@
 "firstSeenBaku": "2026-10-26 17:59"
 },
 {
-"title": "Azərbaycanda bu il 276 minə yaxın daşınmaz əmlak çıxarışla təmin edilib 17:11 26 oktyabr 2026",
-"url": "https://apa.az/infrastruktur/azerbaycanda-bu-il-276-mine-yaxin-dasinmaz-emlak-cixarisla-temin-edilib-1008438",
-"firstSeenBaku": "2026-10-26 17:59"
-},
-{
 "title": "Azərbaycana girişinə qadağa qoyulan Muhammed Emin Yıldırım İstanbulda saxlanılıb 00:54 27 oktyabr 2026",
 "url": "https://apa.az/asiya/azerbaycana-girisine-qadaga-qoyulan-muhammed-emin-yildirim-istanbulda-saxlanilib-1008515?locale=az",
 "firstSeenBaku": "2026-10-27 01:11"
@@ -58,6 +53,11 @@
 "title": "Ermənistanın Bərdənin Qarayusifli kəndində törətdiyi terror aktından 6 il ötür 00:00 27 oktyabr 2026",
 "url": "https://apa.az/daxili-siyaset/ermenistanin-berdenin-qarayusifli-kendinde-toretdiyi-terror-aktindan-6-il-otur-1007594?locale=az",
 "firstSeenBaku": "2026-10-27 00:10"
+},
+{
+"title": "17:11 26 oktyabr 2026 Azərbaycanda bu il 276 minə yaxın daşınmaz əmlak çıxarışla təmin edilib",
+"url": "https://apa.az/infrastruktur/azerbaycanda-bu-il-276-mine-yaxin-dasinmaz-emlak-cixarisla-temin-edilib-1008438",
+"firstSeenBaku": "2026-10-26 17:59"
 }
 ],
 "qafqazinfo": [
@@ -80,6 +80,11 @@
 "title": "Azərbaycan QHT-lərindən İran Prezidentinə - Açıq məktub",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-qht-lerinden-iran-prezidentine-aciq-mektub-526294",
 "firstSeenBaku": "2026-10-26 14:21"
+},
+{
+"title": "Bakıda ən ucuz mənzillər bu ərazilərdə satılır - Video",
+"url": "https://qafqazinfo.az/news/detail/bakida-en-ucuz-menziller-bu-erazilerde-satilir-video-526375",
+"firstSeenBaku": "2026-10-27 05:22"
 },
 {
 "title": "Kollina da Azərbaycana gəldi - Video",
@@ -184,12 +189,12 @@
 "firstSeenBaku": "2026-10-26 11:32"
 },
 {
-"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2310",
+"title": "Задолго до последнего изгнания… Места памяти Западного Азербайджана 26 октября 2026, 19:17 2365",
 "url": "https://haqqin.az/newsarchive/396690",
 "firstSeenBaku": "2026-10-26 19:51"
 },
 {
-"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5346",
+"title": "Россия нашла в Азербайджане «хлебное место» Обзор на haqqin.az 26 октября 2026, 14:40 5405",
 "url": "https://haqqin.az/newsarchive/396670",
 "firstSeenBaku": "2026-10-26 15:20"
 },
@@ -655,11 +660,6 @@
 "title": "Էրդողանն աշխատանքից ազատել է իր խորհրդականին, որը քննադատել էր Ադրբեջանում հիջաբի արգելքը",
 "url": "https://www.azatutyun.am/a/erdoghann-ashkhatankits-azatel-e-ir-khorhrdakanin-ory-knnadatel-er-adrbejanoum-hijabi-argelky/33884298.html",
 "firstSeenBaku": "2026-10-26 11:32"
-},
-{
-"title": "5 Հայաստանը և Իրանը երկուստեք կզրոյացնեն բեռնատարներից գանձվող ճանապարհավճարները",
-"url": "https://www.azatutyun.am/a/32652222.html",
-"firstSeenBaku": "2026-10-26 02:02"
 }
 ],
 "tert": [
@@ -739,11 +739,6 @@
 "title": "2026-10-26 10:44:00 Դատախազությունը «Երևանի թիվ 7 շուկա» ՍՊ ընկերության օտարման գործընթացում խախտում է հայտնաբերել",
 "url": "https://hetq.am/hy/article/184983",
 "firstSeenBaku": "2026-10-26 11:32"
-},
-{
-"title": "2026-10-25 22:45:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
-"url": "https://hetq.am/hy/article/184974",
-"firstSeenBaku": "2026-10-25 23:10"
 },
 {
 "title": "2026-10-18T23:27:00+04:00 Արդյոք Հայաստանը պատրաստ կլինի կոտրել կարծրատիպերը. բնապահպանական սիմպոզիում՝ Երեւանում",
