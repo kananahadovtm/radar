@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-29T22:17:36.220842+00:00",
-"generatedAtBaku": "2026-10-30 02:17",
+"generatedAt": "2026-10-29T23:15:49.866217+00:00",
+"generatedAtBaku": "2026-10-30 03:15",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -33,11 +33,6 @@
 "title": "Bakıda İƏT-ə üzv dövlətlərin korrupsiyaya qarşı mübarizə aparan hüquq-mühafizə orqanları rəhbərlərinin üçüncü Yüksəksəviyyəli Görüşü keçirilib YENİLƏNİB VİDEO",
 "url": "https://azertag.az/xeber/bakida_iet_e_uzv_dovletlerin_korrupsiyaya_qarsi_mubarize_aparan_huquq_muhafize_orqanlari_rehberlerinin_uchuncu_yuksekseviyyeli_gorusu_kechirilib__yenilenib_video-4483818",
 "firstSeenBaku": "2026-10-28 21:26"
-},
-{
-"title": "Heydər Əliyev Fondu ilə ICESCO arasında əməkdaşlığa dair növbəti saziş imzalanıb",
-"url": "https://azertag.az/xeber/heydar_aliyev_fondu_ile_icesco_arasinda_emekdasliga_dair_novbeti_sazis_imzalanib-4485408",
-"firstSeenBaku": "2026-10-28 20:29"
 },
 {
 "title": "Azərbaycan nümayəndəsi BMT-də mina təhlükəsindən və itkin düşmüş şəxslərdən danışıb",
@@ -195,11 +190,6 @@
 "firstSeenBaku": "2026-10-29 16:18"
 },
 {
-"title": "“Bakı Prosesi”nin əsas siyasi fəlsəfəsi fərqlilikləri qarşılıqlı zənginləşmə imkanı kimi qiymətləndirməkdir",
-"url": "https://azertag.az/xeber/baki_prosesinin_esas_siyasi_felsefesi_ferqlilikleri_qarsiliqli_zenginlesme_imkani_kimi_qiymetlendirmekdir-4486641",
-"firstSeenBaku": "2026-10-29 16:18"
-},
-{
 "title": "Azərbaycandan Ukraynaya növbəti humanitar yardım çatdırılıb VİDEO",
 "url": "https://azertag.az/xeber/azerbaycandan_ukraynaya_novbeti_humanitar_yardim_chatdirilib_video-4486896",
 "firstSeenBaku": "2026-10-29 18:31"
@@ -208,9 +198,19 @@
 "title": "Birinci vitse-prezident Mehriban Əliyeva Türkiyə xalqının Cümhuriyyət Bayramını təbrik edib",
 "url": "https://azertag.az/xeber/4485732",
 "firstSeenBaku": "2026-10-29 14:26"
+},
+{
+"title": "Birinci vitse-prezident Mehriban Əliyeva \"Qağayı” tamaşasının təqdimatında iştirak edib",
+"url": "https://azertag.az/xeber/4487400",
+"firstSeenBaku": "2026-10-30 03:15"
 }
 ],
 "apa": [
+{
+"title": "Rusiya XİN Aİ və NATO-nu ABŞ-ın Ukrayna üzrə danışıqlarına mane olmaqda ittiham edib 02:50 30 oktyabr 2026",
+"url": "https://apa.az/mdb-olkeleri/rusiya-xin-ai-ve-nato-nu-abs-in-ukrayna-uzre-danisiqlarina-mane-olmaqda-ittiham-edib-1009601",
+"firstSeenBaku": "2026-10-30 03:15"
+},
 {
 "title": "KİV: Almaniyanın silah tədarükünü gecikdirməsi səbəbindən NATO-nun müdafiə planları ləngiyir 01:12 30 oktyabr 2026",
 "url": "https://apa.az/avropa/kiv-almaniyanin-silah-tedarukunu-gecikdirmesi-sebebinden-nato-nun-mudafie-planlari-lengiyir-1009589",
@@ -401,7 +401,12 @@
 "firstSeenBaku": "2026-10-29 16:18"
 },
 {
-"title": "Такой победы у Азербайджана еще не было! Исторический успех Кенуль Алиевой в Абу-Даби И золото Балабея Агаева; видео 29 октября 2026, 19:18 3083",
+"title": "Прозападная Армения и российские миллионы. ФБР раскрыло схему обзор на haqqin.az 02:34 324",
+"url": "https://haqqin.az/newsarchive/396990",
+"firstSeenBaku": "2026-10-30 03:15"
+},
+{
+"title": "Такой победы у Азербайджана еще не было! Исторический успех Кенуль Алиевой в Абу-Даби И золото Балабея Агаева; видео 29 октября 2026, 19:18 3135",
 "url": "https://haqqin.az/newsarchive/396975",
 "firstSeenBaku": "2026-10-29 19:30"
 },
@@ -886,16 +891,6 @@
 "title": "2026-10-29 00:35:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
 "url": "https://hetq.am/hy/article/185081",
 "firstSeenBaku": "2026-10-29 01:17"
-},
-{
-"title": "2026-10-28 19:59:00 Հայաստանը մեծ կարևորություն է տալիս Սլովենիայի հետ տնտեսական համագործակցության ամրապնդմանը. Միրզոյան",
-"url": "https://hetq.am/hy/article/185076",
-"firstSeenBaku": "2026-10-28 20:29"
-},
-{
-"title": "2026-10-28 19:51:00 Փլուզում՝ Երևանի Օտյան փողոցում. 2 մարդ հոսպիտալացվել է",
-"url": "https://hetq.am/hy/article/185075",
-"firstSeenBaku": "2026-10-28 20:29"
 },
 {
 "title": "Քարոլին Մուգար․ ««Հայաստանի ծառատունկի ծրագրով» անտառտնկման շատ ամուր հիմք ենք դրել, բայց դեռ այդ ճանապարհի սկզբնամասում ենք»",
@@ -1469,6 +1464,11 @@
 ],
 "un-press": [
 {
+"title": "First Committee Forwards 14 Texts on Outer Space, Conventional Weapons to General Assembly",
+"url": "https://press.un.org/en/2026/gadis3780.doc.htm",
+"firstSeenBaku": "2026-10-30 03:15"
+},
+{
 "title": "Speakers Call for Clearing Space Debris in Joint Meeting of First and Fourth Committees",
 "url": "https://press.un.org/en/2026/gaspd845.doc.htm",
 "firstSeenBaku": "2026-10-30 02:17"
@@ -1526,19 +1526,9 @@
 "firstSeenBaku": "2026-10-29 13:29"
 },
 {
-"title": "U.S. defense firms debut at Azerbaijan arms fair as Ondas’s Israeli ties…",
-"url": "https://armenianweekly.com/2026/10/14/us-debut-at-adex/",
-"firstSeenBaku": "2026-10-28 20:29"
-},
-{
 "title": "How a medical mission connected one student’s future to Armenia",
 "url": "https://armenianweekly.com/2026/10/22/how-a-medical-mission-connected-one-students-future-to-armenia/",
 "firstSeenBaku": "2026-10-29 21:28"
-},
-{
-"title": "An open letter to Prime Minister Pashinyan",
-"url": "https://armenianweekly.com/2026/10/21/an-open-letter-to-prime-minister-pashinyan/",
-"firstSeenBaku": "2026-10-28 20:29"
 }
 ],
 "armenian-assembly": [
@@ -1568,6 +1558,98 @@
 "title": "ARF Bureau Member Lilit Galstyan Calls for OSCE PA",
 "url": "https://www.arfd.am/eng/news/8749/",
 "firstSeenBaku": "2026-10-29 13:29"
+}
+],
+"301am": [
+{
+"title": "FREE ARMENIAN HOSTAGES",
+"url": "https://www.301.am/free-armenian-hostages/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Pashinyan Justifies Violence After Parliament Brawl Sparked by His Own Party",
+"url": "https://www.301.am/2026/10/29/pashinyan-justifies-violence-after-parliament-brawl-sparked-by-his-own-party/",
+"firstSeenBaku": "2026-10-29 17:40"
+},
+{
+"title": "New York Students Tour St. Vartan Armenian Cathedral During Major Restoration Ahead of Its 60th Anniversary",
+"url": "https://www.301.am/2026/10/22/new-york-students-tour-st-vartan-armenian-cathedral-during-major-restoration-ahead-of-its-60th-anniversary/",
+"firstSeenBaku": "2026-10-29 17:40"
+},
+{
+"title": "Oscar-Winning Actor Leonardo DiCaprio Praises Armenia for Co-Leading Global Initiative to Save Endangered Species",
+"url": "https://www.301.am/2026/10/16/oscar-winning-actor-leonardo-dicaprio-praises-armenia-for-co-leading-global-initiative-to-save-endangered-species/",
+"firstSeenBaku": "2026-10-28 22:20"
+},
+{
+"title": "Aliyev Mocks Armenian Hostages, Insults Former Armenian Presidents and Glorifies Military Attacks at Baku Summit",
+"url": "https://www.301.am/2026/10/15/aliyev-mocks-armenian-hostages-insults-former-armenian-presidents-and-glorifies-military-attacks-at-baku-summit/",
+"firstSeenBaku": "2026-10-28 22:20"
+},
+{
+"title": "Armenians in Iran: Centuries of History and Community",
+"url": "https://www.301.am/2026/04/02/armenians-in-iran-centuries-of-history-and-community/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "A Relic That Survived the Armenian Genocide",
+"url": "https://www.301.am/2026/04/24/a-relic-that-survived-the-armenian-genocide/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Ajapahyans: The Final Remnants of Armenian Royalty",
+"url": "https://www.301.am/2025/06/28/ajapahyans-the-final-remnants-of-armenian-royalty/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Archaeologists Uncover One of the Region’s Oldest Settlements in Yerevan’s Silikyan District",
+"url": "https://www.301.am/2026/03/25/archaeologists-uncover-one-of-the-regions-oldest-settlements-in-yerevans-silikyan-district/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Historic Armenian Church Fragments Discovered During Restoration Works in Central Tbilisi",
+"url": "https://www.301.am/2026/10/05/historic-armenian-church-fragments-discovered-during-restoration-works-in-central-tbilisi/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "First-Ever Mayoral Primary Elections in Armenia Elect New Gyumri Interim Mayor",
+"url": "https://www.301.am/2024/12/11/first-ever-mayoral-primary-elections-in-armenia-elect-new-gyumri-interim-mayor/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Armenian Who Got Lost Was Tortured to Death in Baku; Armed Azerbaijani Who Shot Mother May Have Gotten Lost, Pashinyan Says",
+"url": "https://www.301.am/2026/10/08/azerbaijan-tortured-armenian-who-got-lost-across-border-while-pashinyan-suggests-armed-azerbaijani-soldier-may-have-done-the-same/",
+"firstSeenBaku": "2026-10-30 01:19"
+},
+{
+"title": "Azerbaijan Lectures Armenia About Peace While Armenians Are Shot in Shaki and Held Hostage in Baku",
+"url": "https://www.301.am/2026/10/02/azerbaijan-lectures-armenia-about-peace-while-armenians-are-shot-in-shaki-and-held-hostage-in-baku/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Pashinyan-Ordered Church Report Uses Disputed Allegations to Build Case for Leadership Change",
+"url": "https://www.301.am/2026/09/25/pashinyan-ordered-church-report-uses-disputed-allegations-to-build-case-for-leadership-change/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Azerbaijan Builds A New Narrative Of Armenian “Provocations.” What Does The New Messaging Signal?",
+"url": "https://www.301.am/2026/09/23/azerbaijan-builds-a-new-narrative-of-armenian-provocations-what-does-the-new-messaging-signal/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Foreign Diplomats Legitimize Azerbaijan’s Ethnic Cleansing Through Visit to Occupied Artsakh",
+"url": "https://www.301.am/2026/09/12/foreign-diplomats-legitimize-azerbaijans-ethnic-cleansing-through-visit-to-occupied-artsakh/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Stage Props and Photo Ops: Pashinyan’s Shameless Use and Abuse of the Armenian Church",
+"url": "https://www.301.am/2026/08/30/stage-props-and-photo-ops-pashinyans-shameless-use-and-abuse-of-the-armenian-church/",
+"firstSeenBaku": "2026-10-29 13:29"
+},
+{
+"title": "Court Dismisses Lawsuit Challenging Catholicos Karekin II’s Decision Amid Pashinyan’s Campaign Against Church",
+"url": "https://www.301.am/2026/10/22/court-dismisses-lawsuit-challenging-catholicos-karekin-iis-decision-amid-pashinyans-campaign-against-church/",
+"firstSeenBaku": "2026-10-29 16:18"
 }
 ],
 "alphanews": [
