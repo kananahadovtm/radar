@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-28T23:14:26.892749+00:00",
-"generatedAtBaku": "2026-10-29 03:14",
+"generatedAt": "2026-10-29T00:11:12.287210+00:00",
+"generatedAtBaku": "2026-10-29 04:11",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,26 +9,26 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 59,
+"bagramyan26": 58,
 "HRAPARAKAM": 7,
-"ArmenianVendetta": 9,
+"ArmenianVendetta": 8,
 "caucasar": 5
 },
 "pages": {
-"azertag": 63,
-"apa": 15,
-"qafqazinfo": 15,
+"azertag": 61,
+"apa": 14,
+"qafqazinfo": 13,
 "haqqin": 8,
 "news.am": 31,
 "armenpress-hy": 20,
 "armenpress-en": 35,
-"azatutyun": 9,
+"azatutyun": 8,
 "tert": 17,
 "hetq": 16,
 "hraparak": 18,
-"1in": 16,
+"1in": 15,
 "primeminister": 1,
-"civilnet": 19,
+"civilnet": 18,
 "oc-media": 9,
 "jam-news": 3,
 "europarl": 0,
@@ -37,13 +37,13 @@
 "un-press": 5,
 "un-azerbaijan": 14,
 "un-armenia": 11,
-"armenianweekly": 6,
+"armenianweekly": 5,
 "armenian-assembly": 0,
 "arfd": 0,
 "301am": 5,
 "alphanews": 10
 },
-"search": 0
+"search": 166
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
@@ -56,28 +56,6 @@
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
-"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/",
-"search:Azerbaijan EU": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Azerbaijan+EU+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:Armenia EU": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Armenia+EU+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:EUMA Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=EUMA+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:European Parliament Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=European+Parliament+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:European Parliament Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=European+Parliament+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:PACE Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=PACE+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:PACE Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=PACE+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:OSCE Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=OSCE+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:OSCE Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=OSCE+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:NATO Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=NATO+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:NATO Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=NATO+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:UN Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=UN+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:UN Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=UN+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:Kallas Azerbaijan Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Kallas+Azerbaijan+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:UNDP Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=UNDP+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:UNDP Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=UNDP+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:intellinews Azerbaijan Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=intellinews+Azerbaijan+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:eurasianet Azerbaijan Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=eurasianet+Azerbaijan+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:Азербайджан": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:Армения": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:ECHR Azerbaijan": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ECHR+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:ECHR Armenia": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ECHR+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en"
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
 }
 }
