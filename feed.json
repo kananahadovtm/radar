@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-30T01:40:04.195451+00:00",
-"generatedAtBaku": "2026-10-30 05:40",
+"generatedAt": "2026-10-30T02:23:30.385299+00:00",
+"generatedAtBaku": "2026-10-30 06:23",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -15,7 +15,7 @@
 "caucasar": 6
 },
 "pages": {
-"azertag": 36,
+"azertag": 37,
 "apa": 16,
 "qafqazinfo": 21,
 "haqqin": 6,
@@ -37,8 +37,8 @@
 "euma": 8,
 "europarl": 0,
 "osce": 6,
-"nato": 2,
-"un-press": 2,
+"nato": 1,
+"un-press": 3,
 "un-azerbaijan": 0,
 "un-armenia": 0,
 "armenianweekly": 9,

@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-30T01:40:04.195451+00:00",
-"generatedAtBaku": "2026-10-30 05:40",
+"generatedAt": "2026-10-30T02:23:30.385299+00:00",
+"generatedAtBaku": "2026-10-30 06:23",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -33,6 +33,11 @@
 "title": "Bakıda keçirilən NATO qiymətləndirilməsi başa çatıb",
 "url": "https://azertag.az/xeber/bakida_kechirilen_nato_qiymetlendirilmesi_basa_chatib-4487133",
 "firstSeenBaku": "2026-10-29 19:30"
+},
+{
+"title": "Bakı və Abşeronun bir sıra ərazilərində elektrik enerjisinin verilişi məhdudlaşdırılacaq",
+"url": "https://azertag.az/xeber/baki_ve_abseronun_bir_sira_erazilerinde_elektrik_enerjisinin_verilisi_mehdudlasdirilacaq-4487454",
+"firstSeenBaku": "2026-10-30 06:23"
 },
 {
 "title": "Bakıda yük avtomobili qəza törədib, hərəkət məhdudlaşdırılıb",
@@ -381,12 +386,12 @@
 "firstSeenBaku": "2026-10-29 16:18"
 },
 {
-"title": "Прозападная Армения и российские миллионы. ФБР раскрыло схему обзор на haqqin.az 02:34 1101",
+"title": "Прозападная Армения и российские миллионы. ФБР раскрыло схему обзор на haqqin.az 02:34 1373",
 "url": "https://haqqin.az/newsarchive/396990",
 "firstSeenBaku": "2026-10-30 03:15"
 },
 {
-"title": "Такой победы у Азербайджана еще не было! Исторический успех Кенуль Алиевой в Абу-Даби И золото Балабея Агаева; видео 29 октября 2026, 19:18 3256",
+"title": "Такой победы у Азербайджана еще не было! Исторический успех Кенуль Алиевой в Абу-Даби И золото Балабея Агаева; видео 29 октября 2026, 19:18 3303",
 "url": "https://haqqin.az/newsarchive/396975",
 "firstSeenBaku": "2026-10-29 19:30"
 },
@@ -1387,11 +1392,6 @@
 ],
 "nato": [
 {
-"title": "Personal Data Protection at NATO",
-"url": "https://www.nato.int/en/about-us/official-texts-and-resources/personal-data-protection-at-nato",
-"firstSeenBaku": "2026-10-29 00:19"
-},
-{
 "title": "NATO Integrated Air and Missile Defence",
 "url": "https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence",
 "firstSeenBaku": "2026-10-29 21:28"
@@ -1399,9 +1399,14 @@
 ],
 "un-press": [
 {
-"title": "Speakers Call for Clearing Space Debris in Joint Meeting of First and Fourth Committees",
+"title": "Speakers Call for Clearing Space Debris in Joint Meeting of First, Fourth Committees",
 "url": "https://press.un.org/en/2026/gaspd845.doc.htm",
 "firstSeenBaku": "2026-10-30 02:17"
+},
+{
+"title": "First Committee Forwards 14 Texts on Outer Space, Conventional Weapons to General Assembly",
+"url": "https://press.un.org/en/2026/gadis3781.doc.htm",
+"firstSeenBaku": "2026-10-30 06:23"
 },
 {
 "title": "Outer Space Vital in Tackling Disasters, Food Insecurity, Climate Change, Fourth Committee Says, Stressing Need for Data Cooperation",
