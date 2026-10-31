@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-31T02:26:22.627735+00:00",
-"generatedAtBaku": "2026-10-31 06:26",
+"generatedAt": "2026-10-31T03:23:40.711571+00:00",
+"generatedAtBaku": "2026-10-31 07:23",
 "hours": 30,
 "search": [
 {
@@ -15,14 +15,7 @@
 "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcnk4OW5oQ3JRRkppVEJJLU52eWdrSm8zYU1zeWFsTUVQQVFSNHVwYnhSdWQ5SlRhd1ZTT2p6eVNYSVRheWtsUWhWZF91UXpjeHdtVzZWWnFYbkJweWhUMXQzOHQ3dFZlMmxIaDg1OGd2LXpHNDJNT3puajl2SFYzX3hpOFpuUURZYVNRdGh1M2JOQjctVU5KREU5bEl0aklMU2czaWkxZ0NFb2FxMU5UY0ZSMW14YWp3TE00NTRDcml0Z09Wbm5IZDFLTmZjSWQ2OHFGLWdiLWZWb2UwQmItOEJUVEQ5TTgwb2RSU19TUjNIZw?oc=5",
 "source": "EU NEIGHBOURS east",
 "time_baku": "2026-10-31 04:00",
-"query": "Armenia EU"
-},
-{
-"title": "Uzbekistan’s average monthly wages rise 18% - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fSXdYR1JpVF9RVkxPTGRBNmpOaHNMYU5aQ1RzRWJoVDd3Z0NKLVRUYVQzcVdKeHBPMUUyVS00N2hQUlhwc3Y5STlobFc4Q1RzRGU2UnpwaTdpQ3hXWDI4?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-31 03:00",
-"query": "European Parliament Azerbaijan"
+"query": "European Parliament Armenia"
 },
 {
 "title": "China's Blue Bay initiative gets UN honor - China Daily Global Edition",
@@ -88,13 +81,6 @@
 "query": "Азербайджан"
 },
 {
-"title": "Turkmen branch of Russia’s Tatneft announces tender for major overhaul of diesel power plants - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYcjd2TlVOSVhaRE42UC1OcThyMWp6b24wakNUWFZjUV85WENrXzNqQmJWSnlqd3RhNlV4UThWbi0yNGgzMU5XcVVPZXhfWWFqdThVaDRfN096eTJQdlFrX0Nn?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 23:10",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Azerbaijan’s president absent from Turkey summit, fuels speculation of tensions with Ankara - European Interest",
 "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWs4aWstbHhQWFFfakVUVGxtdlRhN1ZwX3pWVl9ZLXpOY0Z3bS1SRnZOYy1iTDhqQklGNjZSUXdFTUR3b3BDR0pBT0gtZlA5QVRMSXQxbjFRc0NrbUZvMHJCck9Od1psWnU3ZFhvaWNXRUs5bXlqTVNGOGZTcjdwdk90enFUc3F2S2hjZ2d3WXBCWnd0ellwQXJSVDlWQWcxa3BEc3dmcDBNSXVMUGtEZGk3WTdTQ01QbUx3bnh4RQ?oc=5",
 "source": "European Interest",
@@ -103,7 +89,7 @@
 },
 {
 "title": "A headscarf dispute tests Erdogan’s alliance with Baku - نون بوست",
-"url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4ZDloeDl2d1FkM19FMVNlY19rTnBOcVY2UEttUWlLS2NreER3cmNiMDFLSlFoYjNaNmNMeE1wQkcwckUtWDE1ZzFhd9IBS0FVX3lxTFB4ZDloeDl2d1FkM19FMVNlY19rTnBOcVY2UEttUWlLS2NreER3cmNiMDFLSlFoYjNaNmNMeE1wQkcwckUtWDE1ZzFhdw?oc=5",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ea3lBNVpsaG9yUnQ3SkpDWjVZMnVicUVxSHZmM2s0TXplb0lhTnJWWEEwbFVfWi1wTTMzNGtQbXF3UEwzdXgzYnNVYkxoNGIxLVdR0gFTQVVfeXFMTkRreUE1Wmxob3JSdDdKSkNaNVkydWJxRXFIdmYzazRNemVvSWFOclZYQTBsVV9aLXBNMzM0a1BtcXdQTDN1eDNic1ViTGg0YjEtV1E?oc=5",
 "source": "نون بوست",
 "time_baku": "2026-10-30 22:41",
 "query": "UN Azerbaijan"
@@ -177,6 +163,13 @@
 "source": "Arka.am",
 "time_baku": "2026-10-30 20:46",
 "query": "UN Armenia"
+},
+{
+"title": "Turkic states back Asia-Europe routes amid new opportunities - Euronews.com",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGJOa0JYUzFZd0ZPNEJZUVBTYjVyMVFCSk5jNkFzQXBmanRaQ2NCd0ZZUmJFN0QyR1dLYzZkMkVKZDkzRDRqamxUWFJ4WmNUeVFmMkEweXdiT0tua3lZWWM4a2c0aGpjUnROandsVlFRNkJlLWVwS0dBQ0FZdXEtOUpwNTJnNjBfcVRYQTZNc2doN3UySmFvOF9VU25WZDFObEw1cG8tUzYxb2xac3V3bmZRN1FNcm9GRjJMTmVrWQ?oc=5",
+"source": "Euronews.com",
+"time_baku": "2026-10-30 20:44",
+"query": "Azerbaijan EU"
 },
 {
 "title": "EU Commission proposes €45 billion in additional Ukraine support for 2027 - Operativ Məlumat Mərkəzi",
@@ -263,13 +256,6 @@
 "query": "eurasianet Azerbaijan Armenia"
 },
 {
-"title": "Maverick Vinales could sacrifice Sepang MotoGP Sprint despite strong Friday speed - Crash.net",
-"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYW5Cdmg1QmlENkNEdUEzZGNDTFlScmllZ0pYNTl0RExIU0M3ZkpoSHhYd1FoRUFocjk0ZUFhOG5RTWRQb0VUblhaQktMRFpxak9LOF9fUmctai1WQnpwbUZSbHd1WVZpc0JiVVc3MEo4YlhzNFlna2V1UWhGa1dlMllnYU9rcFRMRU1IWVlSRGlxU1l6WlVsNVN4Yi1sZE5mQXluaGpkR3hxT3kxSHVKSXRIZ1hvTVIxdFYw?oc=5",
-"source": "Crash.net",
-"time_baku": "2026-10-30 18:19",
-"query": "Азербайджан"
-},
-{
 "title": "Azerbaijani PM: developing relations with Georgia among key foreign policy priorities - IMEDI.GE",
 "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjc3T3lJeHJtazBZZUZieWVVcVhxX2MwRnRvV00wamtTM2dScE1kMEF4Z2JwX044c3ZmdU5rR0xBZmpXSTBMVE1oNm95cGJMLXF6eUVnUlRjd3hiRzhCQ2NnLTMyTTFpTVFLUUdYSEJxa2I2OUl3SWJFZ18tWFloSHFQVHpucllZU2pkM0hUQ2hMakhldGgtYU95YTNNUkRJb09ILWZsM19pM1luLTNxbUpDcGVDZlFjNnUwNnQ5SGt4eDVG?oc=5",
 "source": "IMEDI.GE",
@@ -333,24 +319,10 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Uzbekistan, Türkiye’s Dolsar sign engineering deal for Upper Pskem HPP - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YS2FnNjVreDZ1Y1NTbWplWl9jbG9rN2dsbUpCTG5iN2kyZGhwVFRCYU9DMkRFdm01U01keXBZQjNiWmFVa3AyT3N4YU5wTmlnRHo5TDBCdi1ObDFtZDVv?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 17:49",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Three Ombudsman candidates recommended for Azerbaijani parliament vote (PHOTO) - Trend News Agency",
 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0RnEyRjVGUnNRUlF6VkRsRGpyeEROU2Q4RjVwZ3pHWlpEWUFEdXBuSC1OMERqUEUtcmZaOXZIWWpZNU1Jd3F5ajFVZWNOOWNwNjMxUnU5WG5FYXdDUGRodzdn?oc=5",
 "source": "Trend News Agency",
 "time_baku": "2026-10-30 17:48",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Tajikistan, Egypt discuss strengthening bilateral cooperation - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wbU51MXF6NUU5SXE3aFRZSllOOTEtbGo1Q1R4UlZJcGpjVnd4eFlHSDZEaEx6UTVZaktfRW56RVk1dU5EbkVScDlnWHpmZjlieWg3SjBaSzlGaVBDUDdn?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 17:42",
 "query": "European Parliament Azerbaijan"
 },
 {
@@ -396,13 +368,6 @@
 "query": "PACE Armenia"
 },
 {
-"title": "Azerbaijan’s parliament sets agenda for Nov. 3 session - Operativ Məlumat Mərkəzi",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTNBNWFrbUstZjA4NEhkZWEzV2w4TnFLWHgxM1N4VEFRWUloUm9kcHM4My11WUZ0NzJrRDk4RXZnaGhEMXBYdS1YN1dvWnM0Y3h1b0d1UGJXT3BRQzN0VnVYTTJvRU5JRzZsSXZldmNaLWpzUDhwemxVZWtFTkJYUXNkVnY1OUNyRTJCaGFFdU9mZw?oc=5",
-"source": "Operativ Məlumat Mərkəzi",
-"time_baku": "2026-10-30 17:31",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Agenda of Azerbaijan's Parliament session on November 3 announced - Apa.az",
 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTZkWTY2V2NEbDZZVkNrdGRIUk5mbjJETHFKOElBOWYySXlYbU5DdzN0dlczWDhrUjl2UzdaTGRsUEtFRG9lU3RDRmJYU0xuTE9GbkpJN2ZXZndtMFNzRGhZTkhVeVhrLU42V2ltU1RPTUFMT240NmlSMFcxVDI3LVU1ZU54ZXVZSXRhVlBpN01JRFZCMktxb2VvXzdpV0ZXMktKXzI1VlE?oc=5",
 "source": "Apa.az",
@@ -431,25 +396,11 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "Uzbekistan receives 40 South Korean CNG tractors under agricultural project - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NVViRF9NcUhXdEVHOEtRY1RoT3FyS2hDaU9QRlBKN1dINDFNeWpBN3BveFpRbExYOXptZTc0NkNHT3VJX2IyX3NybVZvbG1GNWJ1cmtHbEtEaVdnU0g4?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 17:20",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Interior minister, HayPass CEO sign report confirming fulfillment of investment commitments ahead of biometric system rollout - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTnBWcktRWG1IRmU3enRxRUx0cDVINTlsRHYyOXlSa2NFTGFUc3JVWXBYb3NJNnY3YUNmWEc2OE5pOXVvQnBNalBfY25UT2o2X0HSAVdBVV95cUxPMU9Lekw3eW8ydlJ4eXhTTkx4Y3I2Mk9xaHptdk1GckMxdXRudkJYX25WMDJNZ29Ya2VudW82VHdINm55X2x2bDhoc1hObEJkU010Nm5fLTg?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 17:20",
 "query": "UN Armenia"
-},
-{
-"title": "Uzbekistan draws on South Korea’s expertise for Clean Air project - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rRENqdW5PNmM5dkQyU0p5RUhiYkVHNWtKRkE1NGllRUI5U1M5bUN0bTd4ZUZ1eW9VckdJWGYtWlEwcE5fVWZ0Z3ZLUmt1cTJITGVoczFmTm41Vk9NTlVJ?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 17:03",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Microbiological abnormalities detected in dairy products from several Armenian producers – study - Arka.am",
@@ -473,13 +424,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "Uzbekistan's TMK, Oman Investment Bank discuss Eurobond issuance - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbHhVNXVORmRfRjlOT2xsYmNUYzRxYWZ3eTZPRG1KcFVtY2hNYzMtbE9ua0daQXBrbjJtOGNVRFJCZ3dHdGxBS0g3ejE3MDZoVmo1MDl5WGQ3XzZ5UVZ3?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 16:49",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Digital connection Europe-Asia reaches Bulgaria in 2027 ᐉ News from Fakti.bg - Business - Fakti.bg",
 "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXBsOHNZWlJTOWpYT0xrd3c4bzUwdUVLbXFrQjg2WnB2UDJSaWY2Y0s5c2dnZTN2WVl1UUFSS05xUzBnc01nOEZRNEJ0d3l4MUtYUHBvbmpXX3VDVUR2bHM1S05LOFYyVkN4cmIzUGx4MVl1NXdySHNvQ2hVd21tczFvSVluOXVycGxUWjJ6ZUJSNk1I?oc=5",
 "source": "Fakti.bg",
@@ -494,13 +438,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "PM chairs discussion on youth engagement in public administration - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNDBlUlVqVXNWcHVVVkZZalUzTzExb2hTdVh4VXVieFJIX0NNUlJ5UjBlTXJXb2FKWDJ2UjVzNGtqeVE2WTNkY3FCRTJUVGdlVGfSAVdBVV95cUxQTGpoMWtQRGxFcFpwQnV5YnRRVUtxU0FJWl9nYjI1ck9ULWVLR1JjT0hNZWV0X0p4YXIxLVlvU0ZVRnE4Z2FwcDl5cEV5ZGl3eXZpaGk3b0E?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-30 16:42",
-"query": "Armenia EU"
-},
-{
 "title": "New biometric system introduction enters operational phase in Armenia: New document signed (PHOTOS) - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NU3JCM0NhaHByN1h4NjJDT0hrYlBoanI5U0JGbmpDZ0Y1ZnVuYU10dkR1Q0tpc2lyQkNoal9OeTBHcnc1WlE?oc=5",
 "source": "NEWS.am",
@@ -513,13 +450,6 @@
 "source": "NEWS.am",
 "time_baku": "2026-10-30 16:37",
 "query": "UN Armenia"
-},
-{
-"title": "LIVE : Economic cooperation key pillar of Azerbaijan-Georgia partnership - Latest news from Azerbaijan",
-"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGZ0Q0JfTGh2Qk5fN0QxWHc1SVdXVGp4OEFzaUF5YW4xenlZRW1fWWtPT1ZCQXl3T3VBbFhOMEtvR2RtbTRDd090S2hmbzZhSUVLei1GWVpxMlRKRDV3TWhYdk5kY084ZUYwM2M5YXZJRFBZM2dXckZ2UkVEbFdvU2pWOHowVWgzMjExeElYazQwUWFHQkE?oc=5",
-"source": "Latest news from Azerbaijan",
-"time_baku": "2026-10-30 16:27",
-"query": "Azerbaijan EU"
 },
 {
 "title": "Armenia-India relations’ development prospects talked about in New Delhi (PHOTOS) - NEWS.am",
@@ -547,7 +477,7 @@
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92M09wcmZSaHN2UENXNHh1RThlQ0g0U011WVIwUUkzNEdETXI1Um5NQ0JkMXhTYldaX2dGTnBhMFNqdFU2ZGhxdDRWY3Z2dTBpMXfSAVdBVV95cUxQWDFXeXNsSGlNWnpHV2htamtEQ1NFQUlLSXRsUEJzVHR5SUpkV0FNaWdMUHVDa0xYdnRZSWluRmFkS3ljVGp2aEtqSUxHb2dpc0VoZW1vVjA?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 16:17",
-"query": "OSCE Azerbaijan"
+"query": "Armenia EU"
 },
 {
 "title": "Armenia must take necessary steps to achieve peace - Azerbaijani FM - Trend News Agency",
@@ -569,13 +499,6 @@
 "source": "United Nations Development Programme",
 "time_baku": "2026-10-30 16:10",
 "query": "UNDP Armenia"
-},
-{
-"title": "President of Uzbekistan thanks President Ilham Aliyev for strengthening ties among Turkic states - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwZFhfNUQtdzhvOUxKZ3BfLVhLWXRiT0lZdV9YWi1ydm1keEZqcHlKVmN4ZEYwWTV0TFNkNHlqUG9scFFxLWZVWTgyZE1RZHV2bDAwOHg3ZTdKTGNtWFI4?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 16:02",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "How Armenia opened a controversial gold mine ahead of hosting UN biodiversity summit - Mediapart",
@@ -613,13 +536,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "ECO plans first international transport financing conference in 2027 (Exclusive) - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RWGw1SFh1RnZaS3FXbkJURGltbGY0NUVEeTBYMmUycThCTzhENnM5YmZDT21Ca2cxZE1iWGphQzFGU2xyWWVlLU1wRU9YYUhCLW0xbUt5NGEwaWxpeVc4?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 15:32",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Azerbaijan presidential aide: Armenia is a landlocked country, but we have offer - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oOVZmTVIyT3MtaFozdWxBTEk2TnA0b0dVWFBWdldJeG9jWUM5MWtBM196WXNKZ25JYTJiMnFFRXhZR2M5T2c?oc=5",
 "source": "NEWS.am",
@@ -632,13 +548,6 @@
 "source": "ABC media",
 "time_baku": "2026-10-30 15:30",
 "query": "PACE Azerbaijan"
-},
-{
-"title": "Opposition Armenia faction rejects proposal to support referendum on new Constitution - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UMmlUelNPY29vZTk0WG9iYjZyWE01aC1TcEpJX1BDV0k3bDI5WkFlNDB0VE1oa3VNaEJrakhpemdtNGJ5aFoxSmJrSjA4T3lnSFpHSEZRVdIBV0FVX3lxTE1UMmlUelNPY29vZTk0WG9iYjZyWE01aC1TcEpJX1BDV0k3bDI5WkFlNDB0VE1oa3VNaEJrakhpemdtNGJ5aFoxSmJrSjA4T3lnSFpHSEZRVQ?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-30 15:29",
-"query": "Armenia EU"
 },
 {
 "title": "The Speaker of the Armenian Parliament: If the opposition is convinced that the Armenian people are against the new Constitution, let them put the issue to a referendum. - ArmInfo",
@@ -667,13 +576,6 @@
 "source": "Report.az",
 "time_baku": "2026-10-30 15:21",
 "query": "Азербайджан"
-},
-{
-"title": "Uzbekistan, Spanish firms sign deals on agricultural technology, logistics - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NX05qR1RqUWJEdmdPZE5XRHZZMVRlOG1jTTluRFl0blc1dXVMZFpzRmg4Wlh1UXNMMHBxTTY1YXUtSGJ4R2hlM0N1bGxUd2JZaUY2WFdlem92RTcxS2RJ?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 15:15",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Aliyev’s snub of Turkic summit brings Azerbaijan-Turkey tensions to fore - Internazionale",
@@ -774,13 +676,6 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "Kyrgyzstan develops roadmap for cross-border paperless trade - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12X1diUWVkek9SUXh2NDlQWHhBaWRWSlN6eWczLXpkQllwWjBLeDYzdjlXejgtRDJFRXItRWszZHE0MmF1WlMyQjJ5dlZLQUE0TFREUGItZm43dnVRQlZ3?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 14:20",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Caspian Sea unites Azerbaijan and Central Asia, presidential aide says - Report.az",
 "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlk4a3JEaHZ1Y1hCa3hFSDdrdzZnaWVTSDVFaGRaRUNCRC1wZlVwZ1pJVm1XOElhZjJDQ19fS2xMYWhfaTBIT1Jrb05hd2ppdFdQYTU3cFNkbkJTVjNRdEFlRGh2OEZFanR5RHZnaW9KM25PeDVIai1QSVRkYlZ6ZFdYQ1ZMWFZXSzc5WFZSNzlaV2NONk5zRWRLdDlpSWs2Mkp1WVY0Ylh4N2c?oc=5",
 "source": "Report.az",
@@ -793,13 +688,6 @@
 "source": "IntelliNews",
 "time_baku": "2026-10-30 14:13",
 "query": "Azerbaijan EU"
-},
-{
-"title": "“Strong Armenia”: Azerbaijan cannot be a guarantor of peace for Armenia - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMVdDWFRBN0JMNnVaNVhqNE1JeUNXWFNzb0pZV0VSWmVxRnZOd2NuQjk5YWJyLW8zbklrckZJVGR0QjdRd1UzZG8wd3lZa184dk5FUE56eGlVM2daTEVUMQ?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-10-30 14:13",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Azerbaijan holds key rate at 6.5% as reserves hit $89.4bn - IntelliNews",
@@ -844,13 +732,6 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "International conference on environmental protection and the judiciary held in Yerevan on the sidelines of COP17 - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kcUJ4RmFKU0t1QVBaRnJBV2NjWmlNaHg2QmpuTG1xYjdVeFhySjNsZ3hwMkNreUZIdGlzLXAzbEx2VjY1S0xNNW5hNVppcUlOYk5wcUZhMNIBV0FVX3lxTE9kcUJ4RmFKU0t1QVBaRnJBV2NjWmlNaHg2QmpuTG1xYjdVeFhySjNsZ3hwMkNreUZIdGlzLXAzbEx2VjY1S0xNNW5hNVppcUlOYk5wcUZhMA?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-30 13:47",
-"query": "Armenia EU"
-},
-{
 "title": "Azerbaijan parliament approves amendments to criminal, administrative codes - Operativ Məlumat Mərkəzi",
 "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckYycnZ5bXNlaVJNNWQya2dZRW1WUkJMVTBtWS1zN0dBNmFvbGwtdlJ0RUJXci0ydDYzLS1FNkhoODk3alhoTnpYWmRjRHBJYmtuUkZjQXF2elBsYnBIeTg5OFhDSmFUWmNvQlNocGd1OFRZQWJJWldDU1dFWDg2UHRrZnRkSXhWMzhqYXE5QVVlTFVGUEs4SGQ3N3pKQ2lxNy1JY2g5UExlSTdQVHgw?oc=5",
 "source": "Operativ Məlumat Mərkəzi",
@@ -862,14 +743,7 @@
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfNW8wTnRmeXRtZU5INDZyWDRSYzQ2aXZiUGFqTjMtR2s5UkFMUTRHWEZLZ3BybEtEMl9WUHRqcWlUMXdYc0E?oc=5",
 "source": "NEWS.am",
 "time_baku": "2026-10-30 13:45",
-"query": "Armenia EU"
-},
-{
-"title": "Armenia’s Anti-Corruption Committee chairman attends IACP 2026 conference in United States - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVcjVRRzR5dkV1VF96ZVB2dXFSLUtyU21sbXhzaXRZQkJTYWtOQnNxTmgwUjREU2tHR2hIV0QtcnNTRHg1cmxWQzVkQnlDR3FZUElXNUVRc9IBV0FVX3lxTFBVcjVRRzR5dkV1VF96ZVB2dXFSLUtyU21sbXhzaXRZQkJTYWtOQnNxTmgwUjREU2tHR2hIV0QtcnNTRHg1cmxWQzVkQnlDR3FZUElXNUVRcw?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-30 13:38",
-"query": "Armenia EU"
+"query": "NATO Armenia"
 },
 {
 "title": "Azerbaijan parliament approves anti-corruption whistleblower bill - Operativ Məlumat Mərkəzi",
@@ -897,14 +771,14 @@
 "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNVVCMHBENmlUMGxKc2Z4UmRnZ240OVN3MEZreXlQUkZrQVhhUkFOd3V5T0k1dk5oTHBkT3RBLWtHejNIbzYyLXI2UmVsWFdUWEdfa2w5UHE5UTAwZnJDcDBvdUd2Q1J6TDdEamwwOGdwTkZqcGhJdF81azBlZ2hqQjZ4dW5pdVBhdk9HWlFmVXc0bHJkVE9aenptQzBsNHhFTVJWNklCYTRVbnN0RUpjclBhTnJ5OU0xV2lIeS1PdHFFbzNpWFdNSy13bWwyUzJVdmlDYXB5U3VZc0hNTFNKVEtxUzVGbFJoVk16NFRR?oc=5",
 "source": "EU NEIGHBOURS east",
 "time_baku": "2026-10-30 13:32",
-"query": "Armenia EU"
+"query": "European Parliament Armenia"
 },
 {
-"title": "Another group of 70 families arrives in Azerbaijan's Aghdam city - Apa.az",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ0dEcFRmNnVEdlhDeVNDbXdpQmVEcGxCWWEtazVDVnNDRWhwckVVYU9sWDhOVHVpeFFsNXJDbVo4T05MckYzZ0tBZXlhS25hQ2VNTzhrVEF6Tmt1V1dERFlLRmlTQ0NHUUJWRlhvaWdIblFWMUJjU05yWXZ6RUNQWlN0YXRDTHg4MFRKU0RJamdSQ01UMkQzLXNsMA?oc=5",
-"source": "Apa.az",
-"time_baku": "2026-10-30 13:30",
-"query": "European Parliament Azerbaijan"
+"title": "Kazakhstan plans to commission Bakhty-Ayagoz railway line in 2027 - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zcHY0TTJsdWVqUmNsZ1p2aEhZTjJWVVZmWWJfRkRadU1JTVgxU1BMY25VQXQxODlPY3pDN3JxVkVWMzFsdGRkTUxoa0lCaldFTGRpU2JnNzZLTlZKSnIw?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-30 13:22",
+"query": "PACE Azerbaijan"
 },
 {
 "title": "Another anti-Azerbaijan wave in Türkiye: Absurd accusations against Baku amid race for UN secretary-general post – Analysis - TodayPress.tv",
@@ -970,25 +844,11 @@
 "query": "UN Armenia"
 },
 {
-"title": "Pentagon urges European allies to soften rhetoric on Russia - Operativ Məlumat Mərkəzi",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1B4dzdVNGxEdG9IR25QLVZCcUFnR3p2YTk5dW5TbWpxMkpESjZodDR5eDZNLTNkYXloYWpqUmJaOHNwWlZ6aG5OOUFQdzRMcDE0N2tYODVpVHFFd0NsYkZnM1VUSE0tc0FkZUIxQTd4OENJc0RQaTJoRXZxZU5faEg0dUd3Z0pVdVhJVVpyLWZVYWtud0VHdUNqQQ?oc=5",
-"source": "Operativ Məlumat Mərkəzi",
-"time_baku": "2026-10-30 13:06",
-"query": "NATO Azerbaijan"
-},
-{
-"title": "Maltese Selection 1993: Bayzo & Claudette Pace - \"L'ghanja ta' hajti\", \"You are my music\" - Eurovisionworld",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTZyaHdXeGtxSkxfMWk5RVd2RE1RckJlUFA2VlB0Z0RHbEhWTjktTi1Kam14WTZZajJjdXNScmYtd2tRRmRSTVVLTFVXX1BqbDcxNkNUSFNuTFBzeEg1QTNYZUJhcGlRQWZERnFEakxjN2Z1SEF5TEtYUlduNFRLWklXVWJpa1JPV2d2ZWhB?oc=5",
-"source": "Eurovisionworld",
-"time_baku": "2026-10-30 13:02",
-"query": "PACE Armenia"
-},
-{
 "title": "Sevak Mikayelyan elected member of Central Bank Board - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51X0tmNVh6TlRaUzM1emVpN2phbDQ4ZUNRanlhcFVUamhVUGZDWjRCS0NfVlF0Y3pyQ1Q2QUJaNjBLOEtOcThfYnRrTklMWkpBdHRFV1VrMNIBV0FVX3lxTE51X0tmNVh6TlRaUzM1emVpN2phbDQ4ZUNRanlhcFVUamhVUGZDWjRCS0NfVlF0Y3pyQ1Q2QUJaNjBLOEtOcThfYnRrTklMWkpBdHRFV1VrMA?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 13:00",
-"query": "Armenia EU"
+"query": "OSCE Armenia"
 },
 {
 "title": "Azerbaijan, Georgia sign customs and agricultural cooperation documents - Report.az",
@@ -1075,13 +935,6 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "Armenia develops consumer education initiative in schools - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRlBjSEZzdThrV3FyUUgwX28wcHZ5emdxa0lPT2RmNEV1VDAzbnBTVXdZRlhBVEN5S29sWFRUM2hhMmFqUEU5aWhWbEpPQXJHUEHSAVdBVV95cUxNNTZQRWlta01qSFRhNVhkbGRwZFBadGFDVkJJMUpfNVRnaEpqSGc3c3F2REJ2TmFFd3JoVGtkQ25aUU94dFI3X1lSQzJyX1Q0OXoyb3ItdVk?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-10-30 12:15",
-"query": "Armenia EU"
-},
-{
 "title": "Azerbaijan-Georgia Economic Cooperation Commission holds 11th meeting (PHOTO) - Trend News Agency",
 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTld1alJOQmVkZk9rNXVXMU9pbW9QZFhXNlZxM0REZTVEeldkTTJwZzVELUVQbUFsVHdIcm1MR3J2ajBUZ0h4MEVKRmdCMFlVSFhYZg?oc=5",
 "source": "Trend News Agency",
@@ -1103,13 +956,6 @@
 "query": "OSCE Armenia"
 },
 {
-"title": "The visa liberalization process has been highlighted as important - Radar.am",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13R2ZDOGYxZ1F2SE9peUZwTU1FUnpiMHdROHFCZmx6eUdDb0IxNDZWZ0hCSXFrNmlnNk5BU3MwcXh0WC0zdzJSNGtIdWNjTmhWakxreGtZeno?oc=5",
-"source": "Radar.am",
-"time_baku": "2026-10-30 12:01",
-"query": "Armenia EU"
-},
-{
 "title": "Azerbaijan and Georgia to establish new Agstafa-Gardabani border crossing - Operativ Məlumat Mərkəzi",
 "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0xhVGdWSFlZRXFWaG5JeGpsS3lEd1g4S0ZJdzVQcTN0Y3k4OWJGOHJ6ejNaVWFrNHNHd0plY3gxMnZwU19UZ0M0Y0p4LXFKRlgweXJoLXZFR3dBc3BTdEQ3R3FHdE1LS0tDelhldVdPTm5MdHRhaU9laG9WZTRZdzhtZWZrbkZXMnlUQXZyaEQ3MXlYN0p4NHB1WFRKdDZGMXZTcmR5NjRtNHlnLUE?oc=5",
 "source": "Operativ Məlumat Mərkəzi",
@@ -1117,25 +963,11 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "EU called for increased pressure on Russia following strike on Dnipro power plant - 1Lurer",
-"url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xNGpIc2pZOWhzbFBRNDNtTmhxTzVWejFvcXpNZzFnMDNkall4SG95a0sxQVJlRzJVMzB2MXI3S3JUUVVfbDdQSw?oc=5",
-"source": "1Lurer",
-"time_baku": "2026-10-30 11:47",
-"query": "Armenia EU"
-},
-{
 "title": "Deputy Prime Minister: The process of visa liberalization is an important area for expanding contacts, mobility, and ties between Armenian citizens and EU countries - ArmInfo",
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nN0d6YXFzZjRTdEw2XzM0ZmN6WHNoOExRLVJHUlc5MTlWcHd3ZVJucWhxVjNzNG9EQ2N4YUMxZnctQ3BQS1A5aE5xYUpYNzJCLWo5cnhZR2VObE4xaEJNYQ?oc=5",
 "source": "ArmInfo",
 "time_baku": "2026-10-30 11:46",
-"query": "Armenia EU"
-},
-{
-"title": "Kyrgyzstan's Transport Ministry receives over 50 new road machinery units - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJeXh5aWtIV295ZHBsVXNiVXZoS2FnOGVQUmtPZnp3WmI0X0czQW55bW9yR0tKRm16Qmc4b3lyYlV2RTd0amRtbmxDX29GWjNTRVQ4SFUzcXZZd1VveHQw?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 11:46",
-"query": "European Parliament Azerbaijan"
+"query": "European Parliament Armenia"
 },
 {
 "title": "Aliyev to skip Turkey-led summit for first time in more than a decade amid growing tension - OC Media",
@@ -1177,14 +1009,7 @@
 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pTURPdER5WEpUNHVyaWdObDBhMTYyeEl2SkJSbzd2UGZQdzZjYmFlbFUyclB4aFFPTWJndU5OV2NxS3ZtNXdBcmw0UXJqUjBlVFUtc0Zfd9IBV0FVX3lxTE9pTURPdER5WEpUNHVyaWdObDBhMTYyeEl2SkJSbzd2UGZQdzZjYmFlbFUyclB4aFFPTWJndU5OV2NxS3ZtNXdBcmw0UXJqUjBlVFUtc0Zfdw?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 11:38",
-"query": "Armenia EU"
-},
-{
-"title": "Narek Mkrtchyan participated in discussion and presented agenda for Armenia-US relations, as well as investment potential in Armenia - 1Lurer",
-"url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQb0JLRG1fNXU4TmVMMm5tbmV3VkxWOUQxamFXWHNGV3pVU0ctQklZSTBjNnNNd2d2a2ZhaHpIenJlN1F0MkpqUQ?oc=5",
-"source": "1Lurer",
-"time_baku": "2026-10-30 11:38",
-"query": "OSCE Azerbaijan"
+"query": "OSCE Armenia"
 },
 {
 "title": "Ambassador: Azerbaijan-Kyrgyzstan business forum to be held - Apa.az",
@@ -1192,20 +1017,6 @@
 "source": "Apa.az",
 "time_baku": "2026-10-30 11:34",
 "query": "PACE Azerbaijan"
-},
-{
-"title": "Azerbaijan to reassess financial institutions after 40% transaction growth - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IcjVPMzE4WEx5dXNlcGs0R3FDQXJlcmc3RTJEcXNQRnlQb2ZpZTdkb240ZmwxTWZqLXZreDZqa0NMcXhuNUFnV2FWbXdidDlBQUZDVWdhRQ?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 11:29",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Ansar Aidarov appointed chairman of Kazakhstan's Samruk-Energy - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85S3ZlMDlNc0drU2VYZDN3eVEwc3NxdjZYNEFGcW9SNERPRFl5VDFwdzNXXzQyQVhhS24tNi10bTJBOW5lU2Joc1ZLRnRFYXhERVE5c3E5TjNoU0k0Rk1V?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 11:25",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Brawl in Armenia’s parliament: Pashinyan says he “supports” his party colleagues - JAMnews",
@@ -1255,13 +1066,6 @@
 "source": "Armenpress",
 "time_baku": "2026-10-30 11:02",
 "query": "OSCE Armenia"
-},
-{
-"title": "Uzbekistan's Namangan explores trade ties with Italy's Emilia-Romagna - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsaC1wclYzY0ltT2hYdUxQT0VGeEhrZWV4Wjh1ZF9YazJBYUE4MkhfS0FzX3ZGYzJpeHg2N1dvTnlpOFhYRFBxd25IbHE2NkpEUGE3NURhdm9IU1ktTG5N?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 10:56",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Mental health in schools: A crisis we cannot afford to overlook - EU Reporter",
@@ -1373,7 +1177,7 @@
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5meloxZ2x0VnRKMGJaRTQtTlRBNjhORTV1NnpwRE81aWhFaUdJYlJIZVBmWkExM2prVlZITnp4bTlWNlpiVnhoOW84ZEFTVFVfY0HSAVdBVV95cUxNajJnYmw2SjZsbWs4Nk1OWm1SQkU2dm9GUEV2QnVTVm1jRFNhWXBaVFBGRTNTaG9Od1ZmbUotSDdjNGMxWkx0bnFMNFl6RnlEQXdFbXN1ZlE?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 10:30",
-"query": "Armenia EU"
+"query": "OSCE Azerbaijan"
 },
 {
 "title": "Armenian deputy FM meets OSCE official on sidelines of COP17 - Armenpress",
@@ -1411,20 +1215,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "Pashinyan and Slovenia’s Foreign Minister emphasized the need to organize high-level reciprocal visits - Tert.am",
-"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNUdBZGdsYV9RNnBKSkRQa2N4a1FydGFKS0ptam42X3FoQWp6M0xCY0pLWmJCOHhFb3lScVRXNGl6bE1Ka0libWF4Z2FYQU5zM2Q1cjNEcnpEVGNzQVhXWkR6dkJ5U3c?oc=5",
-"source": "Tert.am",
-"time_baku": "2026-10-30 10:17",
-"query": "Armenia EU"
-},
-{
-"title": "Kyrgyzstan raises budget transparency score to 69 points in 2025 - IBP - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oWXVfZGM5OXJNcmdybE0wNC1obDdpa3BzWGtOM3FLODlCQjkwX0cxam9jNEd4bnVvQ2tCMWlfQ2hpTlh1MGVMSjBJT2syV0UyUFdmSm01eDRoakFLRVlF?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 10:16",
-"query": "European Parliament Azerbaijan"
-},
-{
 "title": "Ali Asadov meets with Kobakhidze - TodayPress.tv",
 "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GNGRZUC0wakwtNEtOOXluYlFIRnoxY0U1UVloNFV6NE9NWm9ZTS1YcDVyRS1Tc3E5ZFZKLU04NzVRYnVLT1FqVjhZRnNnVFVJNGRwV3UtZ2JaYktsSk4ycUpIYzctRDVsZDEzWmJqVQ?oc=5",
 "source": "TodayPress.tv",
@@ -1432,11 +1222,11 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Uzbekistan, Türkiye’s EKSIM Holding explore new investment projects - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ITEY0Q19pLVBQMXozN3N1OTcxSElMVmh3TFRrbmJLcllfSGhEMVBhV2MzRGNwamVqczRtdjhZajhvS3ZSdjRCeDJxNUZVeEluWU1RWWhzWDlob1FlVXQ0?oc=5",
-"source": "Trend News Agency",
+"title": "Press Statement following the DASE mission to 11th EU-Malaysia Inter-Parliamentary Meeting (October 2026) - European Parliament",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWoydFZrZEp6RXkzUlJudy1rRHREVkRRSFoxOUxyU2d3d3NwUTUzTVVXcDlmZEFTQ1NHZlc2NjNieDZmUVlnNUVXb2w5NW1DTFdmZkRjQnROdlFDVGxfQ1NKLXdtUEFyTW5KaXA0Qm9Jd2U5UGZNZTNtRkxMdkNxbTZ3clYtVXBYcU4tVFJyRDVsbnhjOGNUUXBJM3oyU3pDbnJpLWc1WVNuaGFPRTN2dUs3cVQ0eEFmaUIw?oc=5",
+"source": "European Parliament",
 "time_baku": "2026-10-30 10:12",
-"query": "European Parliament Azerbaijan"
+"query": "Azerbaijan EU"
 },
 {
 "title": "Kim Jong Un calls for drone technology superiority - Operativ Məlumat Mərkəzi",
@@ -1451,13 +1241,6 @@
 "source": "Armenpress",
 "time_baku": "2026-10-30 10:03",
 "query": "Armenia EU"
-},
-{
-"title": "Evyap Holding to accelerate new manufacturing project in Uzbekistan - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MeC1GNkswLUtBWXBOM21XbkJqU3Fuc3AxdjMxVGdBUkJ3SFE0Nm1YcVVnc0xMVXNDWWxPY2xzNndwaGpmaFkwTmMxZVE2OUowNVJEVDlRVmlSOFgwTVlF?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 10:03",
-"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Whats going on between Turkey and Azerbaijan? Erdogan personally invited Aliyev, but he wont come - Fakti.bg",
@@ -1478,20 +1261,13 @@
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDWERxZ04wNVgyTHoxdTlVUjlTUHJHblQtVjVQU1VBM0dwMnJ2NEd4RWpTaEtyQzJBOEdfQ3JxZV9oLUpkYktUOEFTa1NFS09KN2fSAVdBVV95cUxQYUxnSjZtOHE2RmRyTTJVekpGd3VQZnlqODdWSVRlbVJUYVd1VlE2dm54bkRNdEJXb2Z3UGhabWVuQUxSLVVBSzhqdGxyYkVjS0hGMUxQN3c?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-30 09:49",
-"query": "Armenia EU"
+"query": "OSCE Azerbaijan"
 },
 {
-"title": "Mirziyoyev, OYAK CEO discuss Turkish investment in Uzbekistan - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvd0sxSVh1dnUzckp3OXpiR1VsNzRuSndOUDMwSjE5WTY2cjBDdTV4UkM4eTVaR2duZ3E2ZGpCUHRUUUZtZmdUV2RsczFuWXM2NC1jMWxCTE1KZjM0QVcw?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-10-30 09:43",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Who will become Azerbaijan's new ombudsman? Parliament is considering the candidates - شبكة تواصل الإخبارية",
-"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YNkFxMGNtWG02SmVxdjUwWGNxZkJwSTZRUmRKaEcxcmJSMGJWdWdKWnRpTmNkR2ZLclJKNHJaWk1Xa2VUWC1yQ0RJNk0waTFkUEhv?oc=5",
-"source": "شبكة تواصل الإخبارية",
-"time_baku": "2026-10-30 09:41",
+"title": "Who will become Azerbaijan's new ombudsman? Parliament is considering the candidates - 1News.az",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVd1eExCSXdKMEphZThjTGlPSkZ4ejhkdTVIWnZXa0EzUG1KNXF2Y3FSNlpsc0tsMUdNYXdjV09qQVVWSEhaYVV6MzFUNGF2elg2eVFOS2tCaThjMTl2NDRTNHVNMmFBenZKMHl6c2NWd1JIbVc4R2ZKMUNrZFd4YnBaTHVMQV9XV2FZdVp5RHBZamZGdDN4LW1LWVZnbzBJcUdqT1dKQzVQeHR3MjdWUE12UHpmMFZ5azd1bnlxaE82SnNk?oc=5",
+"source": "1News.az",
+"time_baku": "2026-10-30 09:40",
 "query": "European Parliament Azerbaijan"
 },
 {
@@ -1528,6 +1304,13 @@
 "source": "Jamaica Gleaner",
 "time_baku": "2026-10-30 09:09",
 "query": "PACE Azerbaijan"
+},
+{
+"title": "Russian Duma speaker Volodin accuses Armenia of pursuing a ‘deceitful policy’ - OC Media",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTNrbXFUcWxFWlYyV3FxRzVOWHd5YUZUcXZfZ2VTbzNZdlliOTlfc25tWDNOSmtzNmRTVVg3Sy1PaTVTZW5DNElFbGhfY3VxNlJTWXlVWm5ENFBpM3Y2bElEeTFHeXpBWVQxY0VzbTU0akdEcENycUlTckk3b3ZseDZhalM1NWpOQmRaUlZvUVByUG5IWW5rZ0VPaEhzZw?oc=5",
+"source": "OC Media",
+"time_baku": "2026-10-30 09:03",
+"query": "Armenia EU"
 },
 {
 "title": "Video | Parliament Chaos In Armenia, Albania: MPs Throw Punches, Opposition Fires Flares - NDTV",
@@ -1605,27 +1388,6 @@
 "source": "Xalqqazeti.az",
 "time_baku": "2026-10-30 03:08",
 "query": "UN Azerbaijan"
-},
-{
-"title": "Armenian lawmakers clash in parliament after heated argument turns violent - Washington Times",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUpYYjlWZThCLXdvMWJxdGpWeWc1a2NrVGtSN3ZzeWV4cmx0R0M3ZFd3M1ZMczZDNHQ3MEMxdGZlWVMyUUEwbUpFVDJGNXc1YUc2X1V2bERuY0FITF9ocDRrUHRkUG41bnFuVXRXcXMyWDVBV3VSRFEwMkVKRmJiUUFoM3FXWFJTZ09RdHRNLTdlX1N4a1JjbXJvaEhobzZWOHdMdmh5VlNMZ01pQTVuWnN0X0lsNUwwRVE?oc=5",
-"source": "Washington Times",
-"time_baku": "2026-10-30 01:19",
-"query": "PACE Armenia"
-},
-{
-"title": "Armenia, Azerbaijan, and Georgia, top stories this morning - JAMnews",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXE5TG9VNGtuX1dVd2dUdHU0blRpVDZDUzR4Z2xHZkxnaWNBVnBXb2stOFhUeGJ3OGtadm44UUluSE9LTDcxTVNJWWRJRUFuQWdLM2JoVlJrQ2hIYkU2U0Nsdk0tUnZ4dW1ZeVZXRUtwQlozQUg0ZU9qckJkdVRWcA?oc=5",
-"source": "JAMnews",
-"time_baku": "2026-10-30 01:06",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "29 October 2026, NATO Evaluation Level-2 in Baku concludes - Azərbaycan Respublikası Müdafiə Nazirliyi",
-"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yQlhYLVdsa3JBUVU1Q3lqbmVOVk9ieW5zNFlTb0RjcjRRclptT2xhQ01ScDB3VWlfMVlYcF9yeEhIdElGUkhuR2ViajhNWXR3X2xUNExZM2NtdnM?oc=5",
-"source": "Azərbaycan Respublikası Müdafiə Nazirliyi",
-"time_baku": "2026-10-30 00:35",
-"query": "NATO Azerbaijan"
 }
 ]
 }
