@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-10-31T17:12:51.194952+00:00",
-"generatedAtBaku": "2026-10-31 21:12",
+"generatedAt": "2026-10-31T18:09:37.802254+00:00",
+"generatedAtBaku": "2026-10-31 22:09",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -78,6 +78,16 @@
 "title": "Ceyhun Bayramov: TDT çərçivəsində iqtisadi əməkdaşlığın genişləndirilməsi əsas prioritetlərdəndir",
 "url": "https://azertag.az/xeber/ceyhun_bayramov_tdt_cherchivesinde_iqtisadi_emekdasligin_genislendirilmesi_esas_prioritetlerdendir-4489137",
 "firstSeenBaku": "2026-10-30 21:22"
+},
+{
+"title": "Bakı Beynəlxalq İncəsənət Festivalı çərçivəsində “Zikra: xatirələr gecəsi” tamaşası nümayiş olunub",
+"url": "https://azertag.az/xeber/baki_beynelxalq_incesenet_festivali_cherchivesinde_zikra_xatireler_gecesi_tamasasi_numayis_olunub-4489977",
+"firstSeenBaku": "2026-10-31 22:09"
+},
+{
+"title": "Azərbaycan cüdoçuları Asiya Kubokunda 5 medal qazanıblar",
+"url": "https://azertag.az/xeber/azerbaycan_cudochulari_asiya_kubokunda_5_medal_qazaniblar-4489956",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "Azərbaycan millisi “Böyük Dəbilqə” turnirində komanda hesabında birinci olub",
@@ -215,11 +225,6 @@
 "firstSeenBaku": "2026-10-31 10:16"
 },
 {
-"title": "Azərbaycan nefti 126 dollara satılır VİDEO",
-"url": "https://video.azertag.az/site/video/347058",
-"firstSeenBaku": "2026-10-31 11:33"
-},
-{
 "title": "TDT-nin 13-cü Zirvə Görüşü – Azərbaycan sədrliyi Türkiyəyə təhvil verib",
 "url": "https://azertag.az/xeber/tdt_nin_13_cu_zirve_gorusu___azerbaycan_sedrliyi_turkiyeye_tehvil_verib-4489275",
 "firstSeenBaku": "2026-10-30 23:25"
@@ -255,9 +260,9 @@
 "firstSeenBaku": "2026-10-30 16:17"
 },
 {
-"title": "“Dövlət Geoloji İnformasiya sahəsinə aid olan qulluqçu vəzifələrinin Vahid Tarif-İxtisas Sorğu Kitabçası”nın təsdiq edilməsi barədə” Azərbaycan Respublikası Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin Kollegiyasının 2025-ci il 23 sentyabr tarixli 3-17/3-5-20/2025 nömrəli Qərarının ləğv edilməsi h",
-"url": "https://azertag.az/xeber/dovlet_geoloji_informasiya_sahesine_aid_olan_qulluqchu_vezifelerinin_vahid_tarif_ixtisas_sorgu_kitabchasinin_tesdiq_edilmesi_barede_azerbaycan_respublikasi_emek_ve_ehalinin_sosial_mudafiesi_nazirliyinin_kollegiyasinin_2025_ci_il_23_sentyabr_tarixli_3_17_3_5_20_2025_nomreli_qerarinin_legv_edilmesi_haqqindaazerbaycan_respublikasi_emek_ve_ehalinin_sosial_mudafiesi_nazirliyinin_kollegiyasinin_qerari-4488312",
-"firstSeenBaku": "2026-10-30 15:17"
+"title": "Prezident İlham Əliyev “FIFA U-15 World Cup and Festival”ın final matçını izləyib, mükafatlandırma mərasimində iştirak edib VİDEO",
+"url": "https://azertag.az/xeber/4489074",
+"firstSeenBaku": "2026-10-31 00:17"
 },
 {
 "title": "Azərbaycanlı şagirdlər Almaniyada Eynşteyn Olimpiadasında uğur qazanıblar",
@@ -280,16 +285,6 @@
 "firstSeenBaku": "2026-10-31 20:12"
 },
 {
-"title": "Azərbaycan və Türkiyə arasında münasibətlərin cari vəziyyəti müzakirə olunub",
-"url": "https://azertag.az/xeber/4489140",
-"firstSeenBaku": "2026-10-31 21:12"
-},
-{
-"title": "Sabahdan Bakı-Tbilisi-Bakı marşrutu üzrə qatar reyslərinin sayı 4-ə çatdırılır VİDEO",
-"url": "https://azertag.az/xeber/4489548",
-"firstSeenBaku": "2026-10-31 21:12"
-},
-{
 "title": "Böyük Britaniyada təhsil alan azərbaycanlı mütəxəssis: Süni intellekt kiberhücumları daha mürəkkəb hala gətirir - MÜSAHİBƏ",
 "url": "https://azertag.az/xeber/4488567",
 "firstSeenBaku": "2026-10-31 08:22"
@@ -306,6 +301,11 @@
 }
 ],
 "apa": [
+{
+"title": "Qaxda 7 nəfər qidadan zəhərlənib, 5-i Bakıya təxliyə edilib 21:49 31 oktyabr 2026",
+"url": "https://apa.az/hadise/qaxda-7-nefer-qidadan-zeherlenib-5-i-bakiya-texliye-edilib-1010048",
+"firstSeenBaku": "2026-10-31 22:09"
+},
 {
 "title": "\"Qəbələ\"-Qarabağ\" oyununda hesab açılmayıb 19:42 31 oktyabr 2026",
 "url": "https://apa.az/futbol/qebele-qarabag-oyununda-hesab-acilmayib-1010027",
@@ -394,14 +394,14 @@
 "firstSeenBaku": "2026-10-31 01:15"
 },
 {
-"title": "Qaxda 7 nəfər göbələkdən zəhərləndi - 5-i Bakıya göndərildi",
-"url": "https://qafqazinfo.az/news/detail/qaxda-7-nefer-gobelekden-zeherlendi-5-i-bakiya-gonderildi-526978",
-"firstSeenBaku": "2026-10-31 21:12"
-},
-{
 "title": "İlham Əliyev mükafatlandırma mərasimində - Video",
 "url": "https://qafqazinfo.bax.tv/embed/228361.html?utm_source=playerden&utm_medium=paylasim&utm_campaign=idman-xeberleri",
 "firstSeenBaku": "2026-10-30 20:27"
+},
+{
+"title": "Qaxda 7 nəfər göbələkdən zəhərləndi - 5-i Bakıya göndərildi - Yenilənib",
+"url": "https://qafqazinfo.az/news/detail/qaxda-7-nefer-gobelekden-zeherlendi-5-i-bakiya-gonderildi-yenilenib-526978",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "“Qarabağ” “Qəbələ” ilə heç-heçə etdi - Video",
@@ -456,14 +456,24 @@
 ],
 "haqqin": [
 {
-"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 12:28 3374",
+"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 12:28 3478",
 "url": "https://haqqin.az/newsarchive/397111",
 "firstSeenBaku": "2026-10-31 13:18"
 },
 {
-"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 10:00 2453",
+"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 10:00 2539",
 "url": "https://haqqin.az/newsarchive/397064",
 "firstSeenBaku": "2026-10-31 10:16"
+},
+{
+"title": "Аждар Багиров впервые стал чемпионом Европы, у Кенана Насибова снова золото Азербайджан сильнее всех; обновлено 21:47",
+"url": "https://haqqin.az/newsarchive/397148",
+"firstSeenBaku": "2026-10-31 21:12"
+},
+{
+"title": "Конфликт между двумя футболистами «Карабаха», Гурбан Гурбанов сразу заменил обоих ВИДЕО",
+"url": "https://haqqin.az/newsarchive/397150",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "И в Германии протесты. Пока мирные ФОТО; видео",
@@ -489,16 +499,6 @@
 "title": "Предупредили азербайджанцев, пользующихся устройствами Apple",
 "url": "https://haqqin.az/newsarchive/397132",
 "firstSeenBaku": "2026-10-31 17:27"
-},
-{
-"title": "Турция вступила в борьбу за пост генсека ООН. Реакция Баку",
-"url": "https://haqqin.az/newsarchive/397133",
-"firstSeenBaku": "2026-10-31 17:27"
-},
-{
-"title": "16:02 Лайнер Баку-Москва",
-"url": "https://haqqin.az/newsarchive/397129",
-"firstSeenBaku": "2026-10-31 16:12"
 }
 ],
 "news.am": [
@@ -511,6 +511,11 @@
 "title": "Ռեստորանային սպասքով ու մատուցողներով. Փաշինյանը թիմակիցների հետ խաշ է ուտում Արաբկիրում",
 "url": "https://news.am/hy/news/1071604",
 "firstSeenBaku": "2026-10-31 12:23"
+},
+{
+"title": "21:28 MySpace Roadshow 6. Ինչպես գրագետ ներդրում կատարել Եվրոպայի և ԱՄԷ–ի անշարժ գույքի շուկայում",
+"url": "https://news.am/hy/news/1071706",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "21:00 Երեւանում հարս ու սկեսուր հայտնվել են դատարանում միմյանց նկատմամբ բռնի գործողություններ կատարելու մեղադրանքով",
@@ -578,26 +583,6 @@
 "firstSeenBaku": "2026-10-31 17:27"
 },
 {
-"title": "15:59 Միրզոյանն ու Բահրեյնի ԱԳ նախարարը քննարկել են Հարավային Կովկասում և Մերձավոր Արևելքում տեղի ունեցող զարգացումները",
-"url": "https://news.am/hy/news/1071651",
-"firstSeenBaku": "2026-10-31 16:12"
-},
-{
-"title": "15:46 WWF-ը COP17-ի արդյունքներն ավելի շուտ դրական է գնահատել, իսկ Greenpeace-ը քննադատել է միջոցառումների անբավարարությունը․ dpa",
-"url": "https://news.am/hy/news/1071649",
-"firstSeenBaku": "2026-10-31 16:12"
-},
-{
-"title": "15:21 Խամենեին կարգադրել է պատասխանել ցանկացած սպառնալիքի՝ առանց աշխարհագրական սահմանափակումների",
-"url": "https://news.am/hy/news/1071647",
-"firstSeenBaku": "2026-10-31 16:12"
-},
-{
-"title": "15:17 «Հենց այն, ինչ անհրաժեշտ է G20-ին». Ռուբիոն փոխանցել է Լեհաստանի հաջողությունների վերաբերյալ Թրամփի գնահատականը",
-"url": "https://news.am/hy/news/1071646",
-"firstSeenBaku": "2026-10-31 16:12"
-},
-{
 "title": "Ուղիղ Մոսկվան դժգոհ է Երևանում ԱՄՆ դեսպանատան մասշտաբից I ԼՈՒՐԵՐ I 20:00",
 "url": "https://news.am/hy/news/1071531",
 "firstSeenBaku": "2026-10-30 20:27"
@@ -611,6 +596,11 @@
 "title": "Ուղիղ Փաշինյանն Ալեն Սիմոնյանին գործուղում է Մոսկվա I ԼՈՒՐԵՐ I 16:00",
 "url": "https://news.am/hy/news/1071463",
 "firstSeenBaku": "2026-10-30 16:17"
+},
+{
+"title": "Նոր նմուշի առաջին անձնագրերը ստացան Փաշինյանն ու Ռուբինյանը",
+"url": "https://news.am/hy/stories/3251",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "Հայաստանը մտել է Վրաստան այցելած զբոսաշրջիկների թվով առաջատար երկրների եռյակ",
@@ -762,11 +752,6 @@
 "firstSeenBaku": "2026-10-30 21:22"
 },
 {
-"title": "Politics Türkiye reiterates support for Armenia-Azerbaijan peace process 14:46, 30 October",
-"url": "https://armenpress.am/en/article/1264328",
-"firstSeenBaku": "2026-10-30 15:17"
-},
-{
 "title": "Armenia Armenia and France discuss strengthening rescue capabilities 15:22, 31 October",
 "url": "https://armenpress.am/en/article/1264391",
 "firstSeenBaku": "2026-10-31 16:12"
@@ -837,11 +822,6 @@
 "title": "Լեհաստանի նախագահը հայտարարում է Սահմանադրական տրիբունալի բռնազավթման մասին",
 "url": "https://www.azatutyun.am/a/lehastani-nakhagahy-haytararoum-e-sahmanadrakan-tribounali-brnazavtman-masin/33887966.html",
 "firstSeenBaku": "2026-10-31 17:27"
-},
-{
-"title": "«Ո՛չ»-ի շտա՞բ, թե՞ տապալում խորհրդարանում. Սահմանադրության հարցով ընդդիմության ու իշխանության պլանը",
-"url": "https://www.azatutyun.am/a/33887246.html",
-"firstSeenBaku": "2026-10-30 15:17"
 },
 {
 "title": "Փաշինյանի խորհրդավոր առաջարկը",
@@ -926,6 +906,11 @@
 "title": "2026-10-30 16:10:00 Քաղաքական խորհրդակցություններ Հայաստանի և Հնդկաստանի արտաքին քաղաքական գերատեսչությունների միջև",
 "url": "https://hetq.am/hy/article/185124",
 "firstSeenBaku": "2026-10-30 16:17"
+},
+{
+"title": "2026-10-17T19:12:00+04:00 «Հայաստանը չի կարող իրեն դիրքավորել իբրեւ կենսաբազմազանության պայքարի առաջամարտիկ, երբ դրա համար գործող մարդիկ թիրախավորվում են»",
+"url": "https://hetq.am/hy/article/184793",
+"firstSeenBaku": "2026-10-31 22:09"
 }
 ],
 "hraparak": [
@@ -938,6 +923,11 @@
 "title": "Ադրբեջանն այլեւս եղբայր, առավել եւս՝ մեծ եղբայր չի՞ համարում Թուրքիայի...",
 "url": "https://hraparak.am/am/post/86f707054a69dc297a598014f0c522b9",
 "firstSeenBaku": "2026-10-31 15:12"
+},
+{
+"title": "Մինչ քաղաքը խեղդվում է խցանումներից, Երևանի քաղաքապետը պատրա...",
+"url": "https://hraparak.am/am/post/afa3e37732485088556d40603329f198",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "Փաշինյանը Հայաստանին կանգնեցնում է կեղծ երկընտրանքի առաջ․ քա...",
@@ -985,11 +975,6 @@
 "firstSeenBaku": "2026-10-31 12:23"
 },
 {
-"title": "Հրավիրել է Հռոմի Պապին Ադրբեջան",
-"url": "https://hraparak.am/am/post/473eb98e3f2467ee572bb8d3e004f5e4",
-"firstSeenBaku": "2026-10-31 11:33"
-},
-{
 "title": "Սահմանամերձ Ոսկեպարը զրկված է բուժկետից",
 "url": "https://hraparak.am/am/post/f4fdd04132f8fe18df91fd316c6dc67f",
 "firstSeenBaku": "2026-10-30 21:22"
@@ -1002,24 +987,29 @@
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "«Գրին քարտի» խաղարկության կասեցումը. Թրամփի դատական հաղթանակը և 55 հազար մարդու ճակատագիրը Հեղինակ՝ Արա Խանբաբյան 19:00 2026.10.31",
+"title": "ԹՐԻՓՓ-ի շինարարությունից առաջ սահմանազատում է պետք երեք հատվածում Հեղինակ՝ Ժիրայր Ոսկանյան 21:40 2026.10.31",
+"url": "https://www.1in.am/3774811.html",
+"firstSeenBaku": "2026-10-31 22:09"
+},
+{
+"title": "«Գրին քարտի» խաղարկության կասեցումը. Թրամփի դատական հաղթանակը և 55 հազար մարդու ճակատագիրը",
 "url": "https://www.1in.am/3774847.html",
 "firstSeenBaku": "2026-10-31 19:13"
 },
 {
-"title": "Ադրբեջան-Թուրքիա լարվածությունը հասավ ՄԱԿ. Բաքուն մերժում է Անկարայի թեկնածուին Հեղինակ՝ Արա Խանբաբյան 18:20 2026.10.31",
+"title": "Ադրբեջան-Թուրքիա լարվածությունը հասավ ՄԱԿ. Բաքուն մերժում է Անկարայի թեկնածուին",
 "url": "https://www.1in.am/3774853.html",
 "firstSeenBaku": "2026-10-31 19:13"
 },
 {
-"title": "Երևանում շահագործվող շատրվանների աշխատանքը նոյեմբերի 1-ից կդադարեցվի",
+"title": "Երևանում շահագործվող շատրվանների աշխատանքը նոյեմբերի 1-ից կդադարեցվի Երևանում շահագործվող շատրվանների աշխատանքը նոյեմբերի 1-ից կդադարեցվի մինչև հաջորդ տարվա մայիս։ Այս մասին հայտնում են Երևանի քաղաքապետարանից: «2026 թվականի մայիսից … 20:20 2026.10.31",
 "url": "https://www.1in.am/3774963.html",
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "Թայֆաբազություն է․ Փաշինյանը խոստացավ՝ կռիվներ լինելու են",
-"url": "https://www.1in.am/3774591.html",
-"firstSeenBaku": "2026-10-30 19:27"
+"title": "Արարատ Միրզոյանը մասնակցել է «Մանամայի երկխոսության» պաշտոնական բացման արարողությանը ՀՀ արտաքին գործերի և միջազգային առևտրի նախարար Արարատ Միրզոյանը մասնակցել է «Մանամայի երկխոսության» պաշտոնական բացման արարողությանը։ Այդ մասին հայտնում են …",
+"url": "https://www.1in.am/3774954.html",
+"firstSeenBaku": "2026-10-31 20:12"
 },
 {
 "title": "Իրանը պահանջում է վերացնել նավթի արտահանման սահմանափակումները և կրճատել տարածաշրջանում ԱՄՆ-ի զինված ներկայությունը. Աբբաս Արաղչի 20:30 2026.10.31",
@@ -1037,29 +1027,24 @@
 "firstSeenBaku": "2026-10-30 19:27"
 },
 {
-"title": "Արարատ Միրզոյանը մասնակցել է «Մանամայի երկխոսության» պաշտոնական բացման արարողությանը",
-"url": "https://www.1in.am/3774954.html",
-"firstSeenBaku": "2026-10-31 20:12"
-},
-{
 "title": "Հայաստանում օդի ջերմաստիճանը կբարձրանա",
 "url": "https://www.1in.am/3774942.html",
 "firstSeenBaku": "2026-10-31 18:17"
 },
 {
-"title": "Արարատ Միրզոյանն ու Բահրեյնի ԱԳ նախարարը քննարկել են երկկողմ հարաբերությունների զարգացման հեռանկարները",
-"url": "https://www.1in.am/3774939.html",
-"firstSeenBaku": "2026-10-31 17:27"
-},
-{
-"title": "Երևանից՝ Էկվադոր․ COP18-ի հյուրընկալող երկիրն ընտրված է",
-"url": "https://www.1in.am/3774880.html",
-"firstSeenBaku": "2026-10-31 17:27"
+"title": "Թայֆաբազություն է․ Փաշինյանը խոստացավ՝ կռիվներ լինելու են",
+"url": "https://www.1in.am/3774591.html",
+"firstSeenBaku": "2026-10-30 19:27"
 },
 {
 "title": "2026-10-30 Ալիևի պատասխանը՝ Հայաստանի սահմանադրական հանրաքվեի բանալին",
 "url": "https://www.1in.am/3774391.html",
 "firstSeenBaku": "2026-10-30 21:22"
+},
+{
+"title": "«Սարդարապատ»-ը Արմավիրի քաղաքային մարզադաշտում առաջին տնային խաղն անցկացրեց «Վան»-ի դեմ. գրանցվեց ոչ-ոքի Հայաստանի Պրեմիեր լիգայի 12-րդ տուրի շրջանակում «Սարդարապատ» ֆուտբոլային ակումբն առաջին անգամ հանդիպում անցկացրեց Արմավիրի քաղաքային մարզադաշտում՝ սեփական հարկի տակ ընդունելով …",
+"url": "https://www.1in.am/3774927.html",
+"firstSeenBaku": "2026-10-31 17:27"
 }
 ],
 "primeminister": [
@@ -1086,11 +1071,6 @@
 "firstSeenBaku": "2026-10-30 17:39"
 },
 {
-"title": "30 October, 15:11 Explainer: Votes Armenia needs to adopt a new constitution",
-"url": "https://civilnet.am/en/news/1015102",
-"firstSeenBaku": "2026-10-30 15:17"
-},
-{
 "title": "Chipmaker Nvidia plans expansion in Armenia",
 "url": "https://civilnet.am/en/stories/1064",
 "firstSeenBaku": "2026-10-31 19:13"
@@ -1104,6 +1084,11 @@
 "title": "Azerbaijan is not a misunderstood Austria",
 "url": "https://civilnet.am/en/stories/1051",
 "firstSeenBaku": "2026-10-30 18:33"
+},
+{
+"title": "Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS Armenia’s controversial Amulsar gold mine officially launched operations, marking the end to years of delays over the project. It’s expected to generate $120-$130 17 October, 19:05",
+"url": "https://civilnet.am/en/news/1014821",
+"firstSeenBaku": "2026-10-31 22:09"
 },
 {
 "title": "Life under threat in Armenia’s Shikahogh forest 23 October, 18:24",
@@ -1166,6 +1151,11 @@
 }
 ],
 "eeas-press": [
+{
+"title": "Remarks by HR/VP Kaja Kallas at the G20 Foreign Ministers Meeting – Plenary Session III: Supply chains",
+"url": "https://www.eeas.europa.eu/eeas/remarks-hrvp-kaja-kallas-g20-foreign-ministers-meeting-plenary-session-iii-supply-chains_en",
+"firstSeenBaku": "2026-10-31 22:09"
+},
 {
 "title": "EU Explanation of Vote: UN General Assembly 1st Committee: before the vote on Cluster III (Outer space)",
 "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-explanation-vote-un-general-assembly-1st-committee-vote-cluster-iii-outer-space_en",
