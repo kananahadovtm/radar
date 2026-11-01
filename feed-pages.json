@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-01T01:44:43.217099+00:00",
-"generatedAtBaku": "2026-11-01 05:44",
+"generatedAt": "2026-11-01T02:29:17.142636+00:00",
+"generatedAtBaku": "2026-11-01 06:29",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -232,6 +232,11 @@
 ],
 "apa": [
 {
+"title": "Bakıda taxta bazarında yanğın baş verib 05:24 1 noyabr 2026",
+"url": "https://apa.az/hadise/bakida-taxta-bazarinda-yangin-bas-verib-1010101",
+"firstSeenBaku": "2026-11-01 06:29"
+},
+{
 "title": "Fidan: Ukraynada sülh əldə olunduqdan sonra Avropa Rusiya ilə münasibətlərini yenidən qurmalıdır 04:44 1 noyabr 2026",
 "url": "https://apa.az/asiya/fidan-ukraynada-sulh-elde-olunduqdan-sonra-avropa-rusiya-ile-munasibetlerini-yeniden-qurmalidir-1010095",
 "firstSeenBaku": "2026-11-01 05:44"
@@ -257,11 +262,6 @@
 "firstSeenBaku": "2026-10-31 19:13"
 },
 {
-"title": "Zəfər Günü münasibətilə Bakı bulvarında konsert və atəşfəşanlıq olacaq 16:42 31 oktyabr 2026",
-"url": "https://apa.az/sosial/zefer-gunu-munasibetile-baki-bulvarinda-konsert-ve-atesfesanliq-olacaq-1010009",
-"firstSeenBaku": "2026-10-31 17:27"
-},
-{
 "title": "Bakıda zəhərlənmə şübhəsi ilə 4 qadın xəstəxanaya yerləşdirilib - YENİLƏNİB 02:36 1 noyabr 2026",
 "url": "https://apa.az/hadise/bakida-zeherlenme-subhesi-ile-4-qadin-xestexanaya-yerlesdirilib-yenilenib-1010082?locale=az",
 "firstSeenBaku": "2026-11-01 03:11"
@@ -275,11 +275,6 @@
 "title": "Azərbaycan neftinin qiyməti 126 dolları ötüb 08:56 31 oktyabr 2026",
 "url": "https://apa.az/birja/azerbaycan-neftinin-qiymeti-126-dollari-otub-1009917",
 "firstSeenBaku": "2026-10-31 09:18"
-},
-{
-"title": "Azərbaycanda “Ürək transplantasiyası həftəsi” çərçivəsində konfrans keçirilib - FOTO 16:06 31 oktyabr 2026",
-"url": "https://apa.az/sosial/azerbaycanda-urek-transplantasiyasi-heftesi-cercivesinde-konfrans-kecirilib-foto-1010001",
-"firstSeenBaku": "2026-10-31 16:12"
 },
 {
 "title": "12:06 31 oktyabr 2026 Azərbaycanda xalça istehsalı 61 dəfədən çox artıb",
@@ -351,12 +346,12 @@
 ],
 "haqqin": [
 {
-"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 3926",
+"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 3953",
 "url": "https://haqqin.az/newsarchive/397111",
 "firstSeenBaku": "2026-10-31 13:18"
 },
 {
-"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 31 октября 2026, 10:00 2849",
+"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 31 октября 2026, 10:00 2865",
 "url": "https://haqqin.az/newsarchive/397064",
 "firstSeenBaku": "2026-10-31 10:16"
 },
@@ -366,12 +361,12 @@
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "Конфликт между двумя футболистами «Карабаха», Гурбан Гурбанов сразу заменил обоих ВИДЕО 31 октября 2026, 21:39 3169",
+"title": "Конфликт между двумя футболистами «Карабаха», Гурбан Гурбанов сразу заменил обоих ВИДЕО 31 октября 2026, 21:39 3245",
 "url": "https://haqqin.az/newsarchive/397150",
 "firstSeenBaku": "2026-10-31 22:09"
 },
 {
-"title": "В Габале «Карабах» упустил шанс стать лидером ВИДЕО 31 октября 2026, 19:27 1663",
+"title": "В Габале «Карабах» упустил шанс стать лидером ВИДЕО 31 октября 2026, 19:27 1683",
 "url": "https://haqqin.az/newsarchive/397144",
 "firstSeenBaku": "2026-10-31 20:12"
 }
@@ -888,18 +883,6 @@
 "firstSeenBaku": "2026-11-01 03:11"
 }
 ],
-"jam-news": [
-{
-"title": "Armenia calls for investigation into alleged abuses by Russian company running railway",
-"url": "https://jam-news.net/armenia-calls-for-investigation-into-alleged-abuses-by-russian-company-running-railway/",
-"firstSeenBaku": "2026-10-31 00:17"
-},
-{
-"title": "Abkhazians outraged by remarks about them in Russian-published encyclopaedia on Black Sea Armenians",
-"url": "https://jam-news.net/abkhazians-outraged-by-remarks-about-them-in-russian-published-encyclopaedia-on-black-sea-armenians/",
-"firstSeenBaku": "2026-10-31 00:17"
-}
-],
 "eeas-press": [
 {
 "title": "Remarks by HR/VP Kaja Kallas at the G20 Foreign Ministers Meeting – Plenary Session III: Supply chains",
@@ -932,11 +915,6 @@
 "title": "‘More Weapons Do Not Mean More Peace’, Expert Warns Third Committee, Urging Shift from War Economies as Human Rights Council Faces Funding Crisis",
 "url": "https://press.un.org/en/2026/gashc4454.doc.htm",
 "firstSeenBaku": "2026-10-31 03:13"
-},
-{
-"title": "Fourth Committee Approves Draft on Outer Space, Urging States to Prevent Arms Race in Realm, Strengthen capacity, Technology in Developing Countries",
-"url": "https://press.un.org/en/2026/gaspd846.doc.htm",
-"firstSeenBaku": "2026-10-31 00:17"
 }
 ],
 "armenianweekly": [
