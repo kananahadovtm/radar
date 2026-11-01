@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-01T03:26:39.528695+00:00",
-"generatedAtBaku": "2026-11-01 07:26",
+"generatedAt": "2026-11-01T04:29:17.374544+00:00",
+"generatedAtBaku": "2026-11-01 08:29",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -210,6 +210,11 @@
 "firstSeenBaku": "2026-10-31 23:20"
 },
 {
+"title": "Bakı Beynəlxalq İncəsənət Festivalı çərçivəsində “Zikra: xatirələr gecəsi” tamaşası nümayiş olunub",
+"url": "https://azertag.az/xeber/4489977",
+"firstSeenBaku": "2026-11-01 08:29"
+},
+{
 "title": "Böyük Britaniyada təhsil alan azərbaycanlı mütəxəssis: Süni intellekt kiberhücumları daha mürəkkəb hala gətirir - MÜSAHİBƏ",
 "url": "https://azertag.az/xeber/4488567",
 "firstSeenBaku": "2026-10-31 08:22"
@@ -326,12 +331,12 @@
 ],
 "haqqin": [
 {
-"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 3998",
+"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 4056",
 "url": "https://haqqin.az/newsarchive/397111",
 "firstSeenBaku": "2026-10-31 13:18"
 },
 {
-"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 31 октября 2026, 10:00 2903",
+"title": "Азербайджанский почерк у стен Врандука: Azvirt покоряет Боснию 31 октября 2026, 10:00 2936",
 "url": "https://haqqin.az/newsarchive/397064",
 "firstSeenBaku": "2026-10-31 10:16"
 },
@@ -346,7 +351,7 @@
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "Конфликт между двумя футболистами «Карабаха», Гурбан Гурбанов сразу заменил обоих ВИДЕО 31 октября 2026, 21:39 3415",
+"title": "Конфликт между двумя футболистами «Карабаха», Гурбан Гурбанов сразу заменил обоих ВИДЕО 31 октября 2026, 21:39 3648",
 "url": "https://haqqin.az/newsarchive/397150",
 "firstSeenBaku": "2026-10-31 22:09"
 }
@@ -868,26 +873,6 @@
 "title": "Remarks by HR/VP Kaja Kallas at the G20 Foreign Ministers Meeting – Plenary Session III: Supply chains",
 "url": "https://www.eeas.europa.eu/eeas/remarks-hrvp-kaja-kallas-g20-foreign-ministers-meeting-plenary-session-iii-supply-chains_en",
 "firstSeenBaku": "2026-10-31 22:09"
-},
-{
-"title": "EU Explanation of Vote: UN General Assembly 1st Committee: before the vote on Cluster III (Outer space)",
-"url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-explanation-vote-un-general-assembly-1st-committee-vote-cluster-iii-outer-space_en",
-"firstSeenBaku": "2026-10-31 02:14"
-},
-{
-"title": "Remarks by HR/VP Kaja Kallas at the G20 Foreign Ministers Meeting – Plenary Session II: Energy",
-"url": "https://www.eeas.europa.eu/eeas/remarks-hrvp-kaja-kallas-g20-foreign-ministers-meeting-plenary-session-ii-energy_en",
-"firstSeenBaku": "2026-10-31 02:14"
-},
-{
-"title": "EU Explanation of Vote (EoV) before the vote: UN General Assembly 1st Committee: Draft Decision by the Russian Federation on Transparency and confidence-building measures in outer space activities",
-"url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-explanation-vote-eov-vote-un-general-assembly-1st-committee-draft-decision-russian-federation_en",
-"firstSeenBaku": "2026-10-31 02:14"
-},
-{
-"title": "EU Explanation of Vote: UN General Assembly 1st Committee: Before the vote on A/C.1/81/L.69 “Promoting international cooperation on peaceful uses in the context of international security”",
-"url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-explanation-vote-un-general-assembly-1st-committee-vote-ac181l69-promoting-international_en",
-"firstSeenBaku": "2026-10-31 02:14"
 }
 ],
 "un-press": [
@@ -909,6 +894,28 @@
 "title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
 "url": "https://www.arfd.am/eng/news/8757/",
 "firstSeenBaku": "2026-11-01 02:12"
+}
+],
+"301am": [
+{
+"title": "Armenian Doctor Gevorg Tamamyan Among Seven Candidates for WHO Director-General, Nominated by Botswana",
+"url": "https://www.301.am/2026/10/31/armenian-doctor-gevorg-tamamyan-nominated-by-botswana-for-who-director-general/",
+"firstSeenBaku": "2026-10-31 07:23"
+},
+{
+"title": "Artsakh Public Council Criticizes Exclusion of Artsakh Armenians’ Rights From COP17 Agenda",
+"url": "https://www.301.am/2026/10/30/artsakh-rights-cop17-public-council/",
+"firstSeenBaku": "2026-10-31 03:13"
+},
+{
+"title": "Iran Raises Serious Concerns Over TRIPP Despite Armenian Officials’ Claims That Tehran Was Satisfied",
+"url": "https://www.301.am/2026/10/30/iran-tripp-concerns-armenia/",
+"firstSeenBaku": "2026-10-31 03:13"
+},
+{
+"title": "How Students Defeated Vučić in Serbia and What Lessons Armenia’s Opposition Can Learn",
+"url": "https://www.301.am/2026/10/27/serbia-student-protests-armenia-lessons/",
+"firstSeenBaku": "2026-10-31 03:13"
 }
 ]
 }
