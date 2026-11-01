@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-01T13:28:54.864334+00:00",
-"generatedAtBaku": "2026-11-01 17:28",
+"generatedAt": "2026-11-01T14:18:46.150530+00:00",
+"generatedAtBaku": "2026-11-01 18:18",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -53,6 +53,21 @@
 "title": "Prezident: Azərbaycan ilə Əlcəzair arasında ənənəvi dostluq və qardaşlıq münasibətlərinin hazırkı səviyyəsi məmnunluq doğurur",
 "url": "https://azertag.az/xeber/prezident_azerbaycan_ile_elcezair_arasinda_enenevi_dostluq_ve_qardasliq_munasibetlerinin_hazirki_seviyyesi_memnunluq_dogurur-4490124",
 "firstSeenBaku": "2026-11-01 12:24"
+},
+{
+"title": "Azərbaycan güləşçisi Qazaxıstandakı dünya çempionatında bürünc medal qazanıb",
+"url": "https://azertag.az/xeber/azerbaycan_guleschisi_qazaxistandaki_dunya_chempionatinda_burunc_medal_qazanib-4490325",
+"firstSeenBaku": "2026-11-01 18:18"
+},
+{
+"title": "Azərbaycan güləşçisi İslam Bazarqanov dünya çempionatını beşinci pillədə başa vurub",
+"url": "https://azertag.az/xeber/azerbaycan_guleschisi_islam_bazarqanov_dunya_chempionatini_besinci_pillede_basa_vurub-4490319",
+"firstSeenBaku": "2026-11-01 18:18"
+},
+{
+"title": "Azərbaycan güləşçisi Qazaxıstandakı dünya çempionatında bürünc medalı əldən verib",
+"url": "https://azertag.az/xeber/azerbaycan_guleschisi_qazaxistandaki_dunya_chempionatinda_burunc_medali_elden_verib-4490310",
+"firstSeenBaku": "2026-11-01 18:18"
 },
 {
 "title": "Azərbaycan güləşçisi Qazaxıstandakı dünya çempionatında bürünc medal uğrunda mübarizə aparacaq YENİLƏNİB",
@@ -147,11 +162,6 @@
 {
 "title": "Qərbi Azərbaycandan olan Nəcəfovlar ailəsinin evliliklərinin 50 illiyi qeyd olunub",
 "url": "https://azertag.az/xeber/qerbi_azerbaycandan_olan_necefovlar_ailesinin_evliliklerinin_50_illiyi_qeyd_olunub-4489638",
-"firstSeenBaku": "2026-10-31 16:12"
-},
-{
-"title": "Azərbaycanın iki güləşçisi dünya çempionatında yarımfinal görüşünə çıxacaq",
-"url": "https://azertag.az/xeber/azerbaycanin_iki_guleschisi_dunya_chempionatinda_yarimfinal_gorusune_chixacaq-4489665",
 "firstSeenBaku": "2026-10-31 16:12"
 },
 {
@@ -292,21 +302,16 @@
 "title": "Paşinyan xaş qonaqlığında - Video",
 "url": "https://qafqazinfo.az/news/detail/pasinyan-xas-qonaqliginda-video-526945",
 "firstSeenBaku": "2026-10-31 14:15"
-},
-{
-"title": "Beynəlxalq axtarışda olan şəxs tutularaq Azərbaycana gətirildi",
-"url": "https://qafqazinfo.az/news/detail/beynelxalq-axtarisda-olan-sexs-tutularaq-azerbaycana-getirildi-526933",
-"firstSeenBaku": "2026-10-31 11:33"
 }
 ],
 "haqqin": [
 {
-"title": "Чистый лист Тбилиси для Вашингтона наша аналитика 16:18 534",
+"title": "Чистый лист Тбилиси для Вашингтона наша аналитика 16:18 778",
 "url": "https://haqqin.az/newsarchive/397184",
 "firstSeenBaku": "2026-11-01 17:28"
 },
 {
-"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 4733",
+"title": "Осетра довели до грани исчезновения. Цену кутума — до 30 манатов Наши проблемы 31 октября 2026, 12:28 4793",
 "url": "https://haqqin.az/newsarchive/397111",
 "firstSeenBaku": "2026-10-31 13:18"
 },
@@ -336,9 +341,14 @@
 "firstSeenBaku": "2026-11-01 12:24"
 },
 {
-"title": "Алиев поздравляет 13:21 1706",
+"title": "Алиев поздравляет 13:21 1879",
 "url": "https://haqqin.az/newsarchive/397195",
 "firstSeenBaku": "2026-11-01 13:23"
+},
+{
+"title": "Бандитская разборка в Баку: арестованы еще двое фото; видео; обновлено 19:59 26 октября 2026, 19:59 18247",
+"url": "https://haqqin.az/newsarchive/396595",
+"firstSeenBaku": "2026-11-01 18:18"
 }
 ],
 "news.am": [
@@ -356,6 +366,11 @@
 "title": "Երեւանում 15-ամյա երեք երեխա ծայրահեղ ծանր վիճակում տեղափոխվել են հիվանդանոց",
 "url": "https://news.am/hy/news/1071720",
 "firstSeenBaku": "2026-11-01 00:10"
+},
+{
+"title": "18:12 Հարավային Կովկասի փորձը ցույց է տալիս ոչ միայն երկարատև առճակատման գինը, այլև այն հնարավորությունները, որոնք կարող է ստեղծել դիվանագիտությունը. Միրզոյան",
+"url": "https://news.am/hy/news/1071796",
+"firstSeenBaku": "2026-11-01 18:18"
 },
 {
 "title": "16:42 Ադրբեջանը Ռուսաստանի հետ պայմանավորվել է իր բանակի զրահատեխնիկայի արդիականացման շուրջ",
@@ -396,11 +411,6 @@
 "title": "10:46 Վրաստանում ավելի քան 60 անօրինական ներգաղթյալի են ձերբակալել․ նրանց թվում կան Ադրբեջանի, Թուրքիայի և Ռուսաստանի քաղաքացիներ",
 "url": "https://news.am/hy/news/1071729",
 "firstSeenBaku": "2026-11-01 11:38"
-},
-{
-"title": "09:52 Լեհ ոստիկանները ղեկավարությունից պարզաբանումներ են պահանջել Սահմանադրական տրիբունալի մոտ իրենց գործողությունների օրինականության վերաբերյալ",
-"url": "https://news.am/hy/news/1071727",
-"firstSeenBaku": "2026-11-01 10:21"
 },
 {
 "title": "Նոր նմուշի առաջին անձնագրերը ստացան Փաշինյանն ու Ռուբինյանը",
@@ -525,11 +535,6 @@
 "firstSeenBaku": "2026-10-31 17:27"
 },
 {
-"title": "Տեսանյութ Վարչապետը մասնակցել է «ՀայՓաս» ընկերության Երևան մոլի նոր գրասենյակի բացման արարողությանը 10:53, 31 հոկտեմբերի",
-"url": "https://armenpress.am/hy/article/1264384",
-"firstSeenBaku": "2026-10-31 11:33"
-},
-{
 "title": "Սպորտ Սպորտով զբաղվելը կարող է և պետք է լինի աղջիկների ընտրությունը. Ժաննա Անդրեասյան Երևանում կայացել է «Հայաստանի աղջիկների առաջնորդությունը սպորտում» («GOALS Armenia») կրթական հիմնադրամի կազմակերպած GOALS Girls Summit 2026 գագաթնաժողովը՝ «Ավել... 16:23, 31 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1264407",
 "firstSeenBaku": "2026-10-31 17:27"
@@ -594,7 +599,7 @@
 ],
 "azatutyun": [
 {
-"title": "5 Լեհաստանի նախագահը հայտարարում է Սահմանադրական տրիբունալի բռնազավթման մասին",
+"title": "4 Լեհաստանի նախագահը հայտարարում է Սահմանադրական տրիբունալի բռնազավթման մասին",
 "url": "https://www.azatutyun.am/a/lehastani-nakhagahy-haytararoum-e-sahmanadrakan-tribounali-brnazavtman-masin/33887966.html",
 "firstSeenBaku": "2026-10-31 17:27"
 }
@@ -626,16 +631,6 @@
 "firstSeenBaku": "2026-10-31 17:27"
 },
 {
-"title": "ՆԳ նախարարը կենսաչափական առաջին անձնագիրը հանձնել է Նիկոլ Փաշինյանին",
-"url": "https://www.tert.am/am/news/2026/11/01/arpine-sargsyan-/4288885",
-"firstSeenBaku": "2026-11-01 14:17"
-},
-{
-"title": "Շղթայական ավտովթար՝ Երևանում․ Իսակովի պողոտայում բախվել են 6 մեքենա",
-"url": "https://www.tert.am/am/news/2026/11/01/erevan-car-cash/4288893",
-"firstSeenBaku": "2026-11-01 16:12"
-},
-{
 "title": "ԱՄՆ-ն ներկայացնող Ժան-Պոլ Բոսնոյանը UFC-ի շրջանակում կայացած մենամարտի երկրորդ ռաունդում տեխնիկական նոկաուտով հաղթել է ադրբեջանցի մարզիկին",
 "url": "https://www.tert.am/am/news/2026/11/01/jan-pol-bosnoyann/4288887",
 "firstSeenBaku": "2026-11-01 15:13"
@@ -656,11 +651,6 @@
 "title": "2026-10-31 23:39:00 Փաշինյանը մասնակցել է կենսաչափական համակարգի գործարկման և անձնագրերի հանձնման արարողությանը",
 "url": "https://hetq.am/hy/article/185148",
 "firstSeenBaku": "2026-11-01 00:10"
-},
-{
-"title": "2026-10-31 10:49:00 Վարչապետը ներկա է գտնվել «ՀայՓաս» ընկերության երևանյան նոր գրասենյակի բացմանը",
-"url": "https://hetq.am/hy/article/185138",
-"firstSeenBaku": "2026-10-31 11:33"
 },
 {
 "title": "2026-10-17T19:12:00+04:00 «Հայաստանը չի կարող իրեն դիրքավորել իբրեւ կենսաբազմազանության պայքարի առաջամարտիկ, երբ դրա համար գործող մարդիկ թիրախավորվում են»",
@@ -715,7 +705,7 @@
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "Սերգեյ Բագրատյանն ընտրվել է Երևանի շախմատի ֆեդերացիայի նախագ...",
+"title": "Սերգեյ Բագրատյանն ընտրվել է Երևանի շախմատի ֆեդերացիայի նախագահ",
 "url": "https://hraparak.am/am/post/45d43eb0b0f4ae94cec72bb1ec94f8bf",
 "firstSeenBaku": "2026-10-31 20:12"
 }
@@ -732,6 +722,11 @@
 "firstSeenBaku": "2026-11-01 10:21"
 },
 {
+"title": "Հայաստանը դարձել է ՅՈՒՆԵՍԿՕ-ի Համաշխարհային ժառանգության կոմիտեի անդամ",
+"url": "https://www.1in.am/3775166.html",
+"firstSeenBaku": "2026-11-01 18:18"
+},
+{
 "title": "«Ուկրաինական սցենար». ո՞վ է սպառնում Հայաստանին",
 "url": "https://www.1in.am/3775136.html",
 "firstSeenBaku": "2026-11-01 13:23"
@@ -742,14 +737,14 @@
 "firstSeenBaku": "2026-10-31 22:09"
 },
 {
-"title": "Միացի՛ր նոյեմբերի 6-ին կայանալիք ծառատունկին Երևանի քաղաքապետարանը առաջարկում է միանալ նոյեմբերի 6-ին կայանալիք ծառատունկին՝ որպես կամավոր: «Մալաթիա-Սեբաստիա վարչական շրջանի՝ Հայրենական մեծ պատերազմում հաղթանակի 40-ամյակին նվիրված … 15:30 2026.11.01",
-"url": "https://www.1in.am/3775145.html",
+"title": "Հայաստանում ֆինանսական կառավարման նոր համակարգ կներդրվի",
+"url": "https://www.1in.am/3775150.html",
 "firstSeenBaku": "2026-11-01 16:12"
 },
 {
-"title": "Միրզոյանը հանդիպել է Եգիպտոսի իր գործընկերոջ հետ Հոկտեմբերի 30-ին «Մանամայի երկխոսություն» միջազգային ֆորումի շրջանակներում ՀՀ արտաքին գործերի և միջազգային առևտրի նախարար Արարատ Միրզոյանը հանդիպում է ունեցել Եգիպտոսի …",
-"url": "https://www.1in.am/3775121.html",
-"firstSeenBaku": "2026-11-01 15:13"
+"title": "Միացի՛ր նոյեմբերի 6-ին կայանալիք ծառատունկին Երևանի քաղաքապետարանը առաջարկում է միանալ նոյեմբերի 6-ին կայանալիք ծառատունկին՝ որպես կամավոր: «Մալաթիա-Սեբաստիա վարչական շրջանի՝ Հայրենական մեծ պատերազմում հաղթանակի 40-ամյակին նվիրված …",
+"url": "https://www.1in.am/3775145.html",
+"firstSeenBaku": "2026-11-01 16:12"
 },
 {
 "title": "Իրանը պահանջում է վերացնել նավթի արտահանման սահմանափակումները և կրճատել տարածաշրջանում ԱՄՆ-ի զինված ներկայությունը. Աբբաս Արաղչի",
@@ -757,9 +752,9 @@
 "firstSeenBaku": "2026-10-31 21:12"
 },
 {
-"title": "Հայաստանում ֆինանսական կառավարման նոր համակարգ կներդրվի",
-"url": "https://www.1in.am/3775150.html",
-"firstSeenBaku": "2026-11-01 16:12"
+"title": "Միրզոյանը հանդիպել է Եգիպտոսի իր գործընկերոջ հետ",
+"url": "https://www.1in.am/3775121.html",
+"firstSeenBaku": "2026-11-01 15:13"
 },
 {
 "title": "Ժան-Պոլ Լեբոսնոյանը հաղթել է ադրբեջանցի Ֆարման Հասանովին",
@@ -780,13 +775,6 @@
 "title": "2026-10-31 Ադրբեջան-Թուրքիա լարվածությունը հասավ ՄԱԿ. Բաքուն մերժում է Անկարայի թեկնածուին",
 "url": "https://www.1in.am/3774853.html",
 "firstSeenBaku": "2026-10-31 19:13"
-}
-],
-"primeminister": [
-{
-"title": "PM Pashinyan chairs consultation on issues related to the involvement of youth in public administration",
-"url": "https://www.primeminister.am/en/press-release/item/2026/10/30/Nikol-Pashinyan-meeting/",
-"firstSeenBaku": "2026-10-31 11:33"
 }
 ],
 "civilnet": [
