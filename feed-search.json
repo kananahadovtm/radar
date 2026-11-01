@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-01T04:29:17.374544+00:00",
-"generatedAtBaku": "2026-11-01 08:29",
+"generatedAt": "2026-11-01T05:26:29.618042+00:00",
+"generatedAtBaku": "2026-11-01 09:26",
 "hours": 30,
 "search": [
 {
@@ -29,7 +29,7 @@
 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUY5VFNUTmktd2c3bjctOFNNN3F1aExwVXpPVC1LcW9rcmhiMnNLQTBrRk13bWwxY0hOaWFqNXVoMW5CWkdpYThJTV90OWxmQU1vT2hmQ1JMaGk2MjBIcm1qZ1BFOGZWanBhUGlOVWZ5WjBaYVN6cjRldGd0WTQzV0k0RHZDVE40VmNJ?oc=5",
 "source": "JAMnews",
 "time_baku": "2026-11-01 01:34",
-"query": "European Parliament Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "Greenpeace criticises UN biodiversity summit - The Brussels Times",
@@ -64,7 +64,7 @@
 "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamM1d1JlMzY2OUU4Y3hZU0xQUmdkS2haTE9zZUhBSVFNbW1UXzlsa0FpcS1VU3AwLVdORHFnT1Zkckg5UDZKZ3JkUEtLRlJKaVZjVXlEVHFtQjU1d2N3WnppTnh4V3RneFRHWGVmWWVVbUU3X05HZTJTcVFvc1lCSXVQcXFFTHRaaHdLNWxUdkx1ZVpk?oc=5",
 "source": "Xalqqazeti.az",
 "time_baku": "2026-10-31 22:45",
-"query": "OSCE Azerbaijan"
+"query": "UN Azerbaijan"
 },
 {
 "title": "UN CBD-COP17 Closing Statement - The Nature Conservancy",
@@ -72,6 +72,20 @@
 "source": "The Nature Conservancy",
 "time_baku": "2026-10-31 22:36",
 "query": "UN Armenia"
+},
+{
+"title": "Berliner Zeitung: Azerbaijan’s religious tolerance offers hope for the Islamic world - Xalqqazeti.az",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdWdESnFIc2MxNXl3TkREOHV6YUxWQ3VVWTJ2SEx4S0pMVDk5VlA4ajA4bEp1UnFLeUZhSjJ5R2RUbUtjU0dpSmJJMFhZNXU4LUVScWdvdjl3ckgwdmZnR3k5SnBYZk1qUUlyTG94bGFjWEt5eHprLW05Q0FWbHZrS25OdmZhMWlRSWJlTkZxQnRQWm5uNWkzVQ?oc=5",
+"source": "Xalqqazeti.az",
+"time_baku": "2026-10-31 22:34",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Azerbaijan welcomes Feridun Sinirlioğlu’s candidacy for UN secretary-general - Azerbaijan.az",
+"url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tU091TzdmSWlQLU5jdGtLcnYwMUUzZDRRM2xkcklEZG9pYUJ0Vm9kMlBQZEg5Vm15RTdpMHd6NFZKZDFueTBCdmktNA?oc=5",
+"source": "Azerbaijan.az",
+"time_baku": "2026-10-31 22:16",
+"query": "OSCE Azerbaijan"
 },
 {
 "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short - The Globe and Mail",
@@ -102,13 +116,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "Türkiye puts forward OSCE chief Sinirlioglu for UN secretary-general post - UPDATED - Latest news from Azerbaijan",
-"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUVjT2gzZVEyVjdIbmFCMGNSWVh3SkdmdWtfT1pOSHNrNEpvN3dPdDFwbFdVVGtXb21JS0sxSEtrQ3U1eEJoMUo3MXR0R0prdXBIT193RnpJMU5UVmlGWUVaNnRObmUycGlXNlI1SzhKY3BVczVZYUs2eHNCdUtUaEZRa1QyNm9uUmRMNE43ZkpGNHdTS2dlQ1JrT284MEVnUHpnVw?oc=5",
-"source": "Latest news from Azerbaijan",
-"time_baku": "2026-10-31 20:28",
-"query": "OSCE Azerbaijan"
-},
-{
 "title": "Antonia Ruzic vs Alina Charaeva - Match WTA - Prudential Hong Kong Tennis Open 1970 - Third round - tennismajors.com",
 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHRtbXE0Q3pOM3BqTUFxSDZqMVF1YnR4MldlR1ZBcGJ6S212eEpqUktjdTE3WVE5cG82ZTBpZlp2X0VyODJMLUxRS0FvNDlUMVdJamNHaE1YcFE2eDFxdTd6QV9QQ2p5TXhSTWpCMUVFemY5TFhheW9kYk9lRFJtcWtsYkl2dkM1a05VTXZoald4cGYwYU9URzR4aHUxLXdCT0hJT3d1dTM?oc=5",
 "source": "tennismajors.com",
@@ -137,17 +144,17 @@
 "query": "UN Armenia"
 },
 {
-"title": "Ararat Mirzoyan and Bahraini Foreign Minister discuss prospects for developing bilateral relations - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTWnh3T21oY29hdGZoT21JbUdCaTNDX1plS0ZvLVdjV3k5cFpaUGQzRFFyR1hjTDgwT3MyM2xLb1g3cVdOYnduYTB0WVdNczBuaVHSAVdBVV95cUxQQzJZSjdNcEhEck50djFjYXZUTC1IbjRvdjlzeG5id2FYT1Nvc3B0M21lUWNzb2JGenF5aWpCRm5Hdk5nR0JISi1Nam90V2EyY2FCVXp2Wms?oc=5",
+"title": "Armenia officially launches new biometric system as HayPass opens first service centre - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRXNfaU5KNmFLT0RrT25GWGJQQmNHcENIZGdDQWdEa211R1NvaVUxa1M3M3ZIcEhLUWVORWdtMGFaY1BVLVFRdFhHUmhQUUlNdlHSAVdBVV95cUxQSzFOS2tsY1dxeHZEaU9odXJfcGJYTXFBZnllOURCNEpwdkhIVVlwV0dDcUdRaUNQb1ptcUJKTERfVXYyWldmTHg4X25fWUVVN1B3RmQ5aVk?oc=5",
 "source": "Armenpress",
-"time_baku": "2026-10-31 18:03",
-"query": "OSCE Azerbaijan"
+"time_baku": "2026-10-31 18:08",
+"query": "Armenia EU"
 },
 {
-"title": "Mirzoyan and Raggi discuss developing Armenia–Lebanon partnership based on mutual trust - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aRHloRFpFam9uS3QzakZMajh4UTJaN2tyMVlKVE56ZDJZX20yWWE5ZEpweFZNcEhaZGxWNU1CRU9vREFtb241TUx3dDF2eC1aYmtsUlI3RdIBV0FVX3lxTE9aRHloRFpFam9uS3QzakZMajh4UTJaN2tyMVlKVE56ZDJZX20yWWE5ZEpweFZNcEhaZGxWNU1CRU9vREFtb241TUx3dDF2eC1aYmtsUlI3RQ?oc=5",
+"title": "Research on active galactic nuclei presented at Byurakan Observatory - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HOU9XOUlvbzl5Y1ZvMzdlSG81LWxSRTlxTU95Q2xnQUpZUmZtTEkyRWZuUU9IdzhIc0NLUk8td2VVbk9kbDByQXRZR2V0eVpscmfSAVdBVV95cUxOOGo2Mjk5Q2RkUTdDa1YzOXNHaC1obVRTaFlVb0x6N3B1Uk9UbGxMd1pzdkFHWmVXaUlQM0lXRkh5SlZ0T3BQQzkzU0JQRDVuMUlGWVFGX0E?oc=5",
 "source": "Armenpress",
-"time_baku": "2026-10-31 17:56",
+"time_baku": "2026-10-31 18:00",
 "query": "Armenia EU"
 },
 {
@@ -155,7 +162,7 @@
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUzFucFdaUkp0a1ZoOTNfRUozaVlkNlppUTczc053MzBfa0M2VmdhU0pFRUZ2eUlXblo3Z3lmRm0tVmVtZk11dm85N0xjcWlRRXfSAVdBVV95cUxPWkR5aERaRWpvbkt0M2pGTGo4eFEyWjdrcjFZSlROemQyWV9tMllhOWRKcHhWTXBIWmRsVjVNQkVPb0RBbW9uNU1Md3QxdngtWmJrbFJSN0U?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-31 17:56",
-"query": "OSCE Azerbaijan"
+"query": "Armenia EU"
 },
 {
 "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan - Carbon Brief",
@@ -163,6 +170,13 @@
 "source": "Carbon Brief",
 "time_baku": "2026-10-31 17:36",
 "query": "UN Armenia"
+},
+{
+"title": "France to deploy 70,000 security personnel as it prepares for Halloween protests - Tert.am",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GMDhBNUxoalJ3T3Bwa2RlRnlIZk9MTHJGQklpQ3FhZVFtcHlydE5hdmd1OWZlcHFQYlhkblF1U012Zi0wZXFRMDRkUVBib3pNRjRUOTVLSHNXakpmZkE?oc=5",
+"source": "Tert.am",
+"time_baku": "2026-10-31 17:22",
+"query": "Armenia EU"
 },
 {
 "title": "Azerbaijan expanding use of AI for research, workforce development - Report.az",
@@ -197,7 +211,7 @@
 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qazA0aDYyN3V3eDhwaGFFZ3M3aEc4Q0k1Yk1LNFhWWVBFQkI1b1lfenA5azA1TmUtYzRXYXdjazJ1Z0JjYkVDX3RNY0g5OFUxV0d4SnpJRFN6YXZ1VndpU3diSQ?oc=5",
 "source": "Trend News Agency",
 "time_baku": "2026-10-31 16:39",
-"query": "OSCE Azerbaijan"
+"query": "UN Azerbaijan"
 },
 {
 "title": "Azerbaijan supported the nomination of Feridun Sinirlioğlu for the post of UN Secretary-General - 1News.az",
@@ -211,7 +225,21 @@
 "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0w5SHhBOEExcExXUFVMaVBJOWh0WC1hektPVVhVbTJ1eXpvV1VmMHdpeUxfNnR0Ylc5SHhEUExORnM2UGlnQjZzakZOQi15TGotQUdoaEJaOHNvVTJCQnNWYmxkdkdwY0RRRGZBZmJZRm1WSWJ1WTduN0VCRVp5T1otNUNiem5FZmFtbV9jM1gzQXYzcVFSVjZVNzhGYVhsaVZkLWtwNUdlWkRobi1tSlo2UlRkb3dWTE91T3NxWXk3RTZ0N3d0T3I5LW5qQzA?oc=5",
 "source": "Apa.az",
 "time_baku": "2026-10-31 16:29",
-"query": "OSCE Azerbaijan"
+"query": "UN Azerbaijan"
+},
+{
+"title": "Foreign Ministry: We welcome initiative to nominate Feridun Sinirlioglu for UN Secretary-General - Operativ Media",
+"url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejI1LVJBN3l4YXpuNDVEZUtuNml3X3VGMmx1R1NlQU5ZOXVOVGNoRkFaU3FTOWhiTi1jRzl5a0tLdlJjLXpkaW5GLUxFcExrc2ZUNDhWXzYzekdBOGxiUTRWQW1QOUZfRGQ1enA0Z3dwYkNpMHpzZlk1aHY5M2Z5VU14QV80T0JjZGZudXNwZk1ZQjdwTS05RTR4cGVIR3FLb1MxSnAtbmh0bHlkSXREandtbnEtLTZWRS1HWkpGcERaXzhJRE92c21qRUJkcDM2?oc=5",
+"source": "Operativ Media",
+"time_baku": "2026-10-31 16:22",
+"query": "UN Azerbaijan"
+},
+{
+"title": "ECO highlights Azerbaijan's role as strategic transport hub (Exclusive) - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82VzJCYzJOZ1BKUi1iZm1oWDc0anQ1NTB3TDhIRDZSQVVld2pGTVdFOWJmUmY3aXEyY1lmWlFEWTNnUjYtRHFfVHljcHBUQ2hyNFMwTjZwb1NNNXlXaWw0NHJGNA?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-31 16:00",
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Meeting of the Minister of Foreign Affairs and International Trade of Armenia with the Minister of Foreign Affairs of Bahrain - NEWS.am",
@@ -242,13 +270,6 @@
 "query": "PACE Armenia"
 },
 {
-"title": "Ecuador to host next UN biodiversity summit in 2028 - Macau Business",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkUxTjc2ZHcyOGVaenk3MjFDZmQzWVo1ckhDM09iZUJCbElKN0RkS2lfU3V0YU10UUtnMTNrQWVZUmVocm5YejFxQlY1LXRhb3dFQnhFMGJpZG5OaXRzbUhHOUE2Q1BsdGJwc2lpc0VrWkdENGw5aEVLcFJmckU1OTdUd2Y?oc=5",
-"source": "Macau Business",
-"time_baku": "2026-10-31 15:05",
-"query": "UNDP Armenia"
-},
-{
 "title": "Cautious optimism as UN Biodiversity Conference ends in Armenia - Yahoo",
 "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUVZcGxxZmVUQVVYWHZHNlFmWkRUZWVCaHdwZjFhanlWd25CVWNod3ZsZFcwWTd6T1RRcENFZ1dkUU5uOUlNS3RZS1hxMzVHWW9LUXRQLVlVdmpGb2JRdUNxWG43OUU0VDBHVUlQQjdaWXg5TE1zUE41enlENHZKdGJ2b3BRZTVwcFlpODJqN0pXRFhGVGRqT1NIcExYeGJBLWNFa0RB?oc=5",
 "source": "Yahoo",
@@ -263,11 +284,32 @@
 "query": "UN Armenia"
 },
 {
+"title": "The editor of the encyclopedia \"Armenians of the Black Sea Region\" publicly apologized to the residents of Abkhazia. - Caucasian Knot",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRGdZZURYelp2ZV9EeE9tYkp3d3lVZVRsWEF1RV9BclEyVGNwc0pubDVXZlB5V3pSYW96bUtXRnRRX0lXa1o2WUFEYTQ3YmVzX09yd0dGN2s?oc=5",
+"source": "Caucasian Knot",
+"time_baku": "2026-10-31 14:47",
+"query": "Armenia EU"
+},
+{
+"title": "Tajikistan, China advance 90-km Murghab-Kulma road reconstruction project - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Gd2dOQ3FBdUxvSHJ5WkFOTG5FT2hXaEgybVpoSUJEQ2xoVXBPSEVTWEw1ZGVraDlMVW9jZ00zampXYVJGSmJPNlpnbjZsaDVRaUhiZm5IcThWaEduNGtR?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-31 14:33",
+"query": "European Parliament Azerbaijan"
+},
+{
 "title": "China’s Blue Bay Restoration Initiative named UN World Restoration Flagship - Myanmar International TV",
 "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDdwYWowYVRCM1FjRDlYeE8tek5HblZBTGxhUTdZUEpJZHBraWdNZUpsdDNqaEFMMjRreXVrMG81VVY3dG1LM2ltUm4tSVFEQV93dmdTd0VuT3RWVHdfMDdBeXZCSTROLW9MaUQzVldaQ1hHeTdJSlNxVWEwWWh4YTlxT0pmS3ROSlF6emszUG4zLW5KMWFDQllrNVZDRW40VFFOTlhqSUZkdEo1TWpRWWV3aEJvZw?oc=5",
 "source": "Myanmar International TV",
 "time_baku": "2026-10-31 13:48",
 "query": "UNDP Armenia"
+},
+{
+"title": "Tajikistan, South Korea’s KUKJE ST sign MoU on AI-based road safety system - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01emhMN3ZVbXZWaXlRSl9fM29fQ1dEbkpHQ05hTTBmUmU0VHJTdk9hSTBhWkNjYjFoZWtSbkUwMmhhZjduNHpSNGlKQzN6dGZpZ09GdzhPSkE0aGlvYUlN?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-31 13:35",
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "From Armenia to Ecuador: COP18 host country selected - Armenpress",
@@ -281,7 +323,7 @@
 "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SGktTTlRN1ZBelJicVVzOFl2WXFaOWdWTFU1MEdfcXZIY0JzYkt1eFpvVFVaYlJSMjRiTDh6RWpnVHJkZEw0MGtUNTJweXVESUxBYjI2eURZdDY0cnBF?oc=5",
 "source": "Trend News Agency",
 "time_baku": "2026-10-31 13:27",
-"query": "UN Azerbaijan"
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "The HALO Trust – an organization known for its unreliable and questionable demining activities - Latest news from Azerbaijan",
@@ -295,21 +337,21 @@
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BX3RxNVc4S1hZelg0MHVaUTl3RFNCQjlJX3FCZlFFU2dwRl9XcjZ1dkZCbG9oSVJvSHpFR05iUENDVFFXYThOdndMRENYZVdMQ25LY3ppLUhTS0JPTmowZw?oc=5",
 "source": "ArmInfo",
 "time_baku": "2026-10-31 13:21",
-"query": "European Parliament Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "CEC assigns ballot numbers to parties contesting local elections - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdzdoTlVOekxsdzFWc3Rad1hIenlVT0VseWh2NFVDQ0IwTHVkem9Md3lhc0Z0SnhDdVB2eGtJMzN6VEh5a2k1S01BblV3UHpVT2fSAVdBVV95cUxNY2trM18wUmN6SVAzREpBMUlZSGY5Vlh0UGNmeC1NcXVIRHp1SnVORDFoNVdxendXZmNLMkc5QnJIcFlSSEVKLVBBekdpOVUyUHY2Tm9uaVk?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-10-31 13:15",
-"query": "OSCE Azerbaijan"
+"query": "Armenia EU"
 },
 {
 "title": "Moscow explained the risks Armenia faces by cutting ties with Russia - ArmInfo",
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUG5VZ1JkWE1hQ0NadnZaVU9BWm52dVIxM0JJX0dBOUlHekNUVXZpSWw1UDdqNTFESUFfLXpYWVBmSkh0dVBCTnpURG9ubFJ3ZDFoRWMzM2hGdWJRbmhjcA?oc=5",
 "source": "ArmInfo",
 "time_baku": "2026-10-31 12:53",
-"query": "European Parliament Armenia"
+"query": "Armenia EU"
 },
 {
 "title": "Armenia identifies violations in Energachap privatization tender (PAN.am) - PanARMENIAN Network",
@@ -368,8 +410,15 @@
 "query": "UN Azerbaijan"
 },
 {
+"title": "Funding deadlock derails global effort to save nature - POLITICO.eu",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjZrTW5XOWpTQWFxaVo2MkdvbmlIOUZkMHR3aVFSQjlUSzU4aVpEbi1QM1ZQME51QVBqVXVQRUthVTdBci1sY2FGU2pCZ2llLU1qTDc0eEM1U0ZaaGJxTmdFSUN2Nnczb0owT29Mc19xNFVDTWVsUnJmUWtQQW91UWl0cVd6Z010dEw4Zm1sTQ?oc=5",
+"source": "POLITICO.eu",
+"time_baku": "2026-10-31 11:35",
+"query": "Armenia EU"
+},
+{
 "title": "Nations commit to get nature goals back on track at UN nature summit - The Hindu",
-"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVVXTzlKMEIzZlNWaDdUNWVORXBSLUhERm56YTd3RGExNjVUWDRGMi0wMjhybWxWQV90bDROV241Und0WmFBcmY3a1lEZUNQUlFfSUJFMnZRMWp3b2liUmFwRDBkMnZZU2ZpdTVWdktmcUl1S0UxMk5VcTNXT3ZaS0kyNXVmdUtyQ01WTURvNWVtZUNJTGNST085ZFZmM2dBbVhwOWVIU0N6NFE5ekVXVVVLTDVVd1J2MVJ5cWlvX3liejhmc05yTUxZMFjSAdMBQVVfeXFMT3dlLTM1TWI1Wi10aV9pTVExTFRveEZLYUFwTGhkQjUwRnBidzNJWkdWdTNxM19pdUhFeGU2dTNTVkRVb193aVNtMjNwcTdXOXlfMGVTQmdCZzYyWUM5MTcyRzEzRnk2VGRHQTBxelliSkpLSVFoMk5ySkhLRzBoaDJINEgwVTE2NjdTc1M3d080T29iMmVvU09ta2cwR2t0TjNFZEl4QVpmZ1FQeDBpdEFzWjE4SEdkVFhXVG5fQVltTHA4VHR0MHczZGZJc2V3VzlLbw?oc=5",
+"url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2UtMzVNYjVaLXRpX2lNUTFMVG94RkthQXBMaGRCNTBGcGJ3M0laR1Z1M3EzX2l1SEV4ZTZ1M1NWRFVvX3dpU20yM3BxN1c5eV8wZVNCZ0JnNjJZQzkxNzJHMTNGeTZUZEdBMHF6WWJKSktJUWgyTnJKSEtHMGhoMkg0SDBVMTY2N1NzUzd3TzRPb2IyZW9TT21rZzBHa3ROM0VkSXhBWmZnUVB4MGl0QXNaMThIR2RUWFdUbl9BWW1McDhUdHQwdzNkZklzZXdXOUtv0gHTAUFVX3lxTE93ZS0zNU1iNVotdGlfaU1RMUxUb3hGS2FBcExoZEI1MEZwYnczSVpHVnUzcTNfaXVIRXhlNnUzU1ZEVW9fd2lTbTIzcHE3Vzl5XzBlU0JnQmc2MllDOTE3MkcxM0Z5NlRkR0EwcXpZYkpKS0lRaDJOckpIS0cwaGgySDRIMFUxNjY3U3NTN3dPNE9vYjJlb1NPbWtnMEdrdE4zRWRJeEFaZmdRUHgwaXRBc1oxOEhHZFRYV1RuX0FZbUxwOFR0dDB3M2RmSXNld1c5S28?oc=5",
 "source": "The Hindu",
 "time_baku": "2026-10-31 11:28",
 "query": "UNDP Armenia"
@@ -387,6 +436,13 @@
 "source": "Azərtac",
 "time_baku": "2026-10-31 11:04",
 "query": "Azerbaijan EU"
+},
+{
+"title": "Kyrgyzstan, EBRD review investment projects across six sectors - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0d0VBUjBVLWkwekZaZTVxb2swbkctYzhEU19wQk5yczJEZ3M2b0RtX2JvaTNLcTZkcDM3Q3dtOHhodWNQRlFwMzh2U3NmcFJWOGFMY2dYNkJacy1Fakkw?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-10-31 11:02",
+"query": "European Parliament Azerbaijan"
 },
 {
 "title": "Formula 1 Mexico City Grand Prix 2026: Championship Pressure Builds as Antonelli Closes In on the Title - SportCo",
@@ -424,18 +480,18 @@
 "query": "Armenia EU"
 },
 {
+"title": "Polish Constitutional Tribunal standoff prompts police deployment - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWk4aklDRnFMaWh3X3NxdGdDTnFXMmdUVjJrR0g3ZDdSUG1YVUtHM3JYNFVGM3B2Y3BQSWJCd1NiSUlJSlBzQ2puSmhMMHVRNTlGci1OdjFjZlJqanJJaVdGbUNpZ1hPZDBDLU1qd296bHBQcEVLM1dkeXJDeUdWTGZyZ0VXMnV4TUVBTWtZeHhwQnBQRDVJN1NNN29RWENqc25z?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-10-31 10:11",
+"query": "European Parliament Azerbaijan"
+},
+{
 "title": "Türkiye announces former FM Sinirlioglu as UN secretary-general candidate - Türkiye Today",
 "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWQ4STZ6anRGRFRDNUdDWDgwTmxkYlVzczBHTUVjTDV4aW5XcGlBM1E0RFBGbjdLbGczX2Y5aUI4WUg1eDd1TC1EV25xY1JwTjJKdm5xUnVUWmE4MUZISXNvYThvb081WlNuTDNmYmR1bUVtdXpYTmVURW1NTHBOSkhPT3libUxxMkxoSkc3ZmYxWlo4anlvVGdhUWVxWVVpSW02ZEEyOW91azhBUzBPbUd3NnRhb3RK?oc=5",
 "source": "Türkiye Today",
 "time_baku": "2026-10-31 10:06",
-"query": "OSCE Azerbaijan"
-},
-{
-"title": "Diplomatic breakthrough: COP17 delivers a deal, not the money - The Climate Watch",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFNVUDFmOElJS3dIWC1uWW9uUW14Y1pxNTJhNEhLWDRCaUpYaTVwOFJKYkFNY1Y4ZUlXV0h1eUVrUE1leElHcDB3UGUzTGhzUHRvdmFsX01pWFB0djVpT1JWV3J6eTI3OG11VWN1OVl1ZGZnY3dXN0ItclI4VU1scTdLZUVYQmxuUVVyenk3LVFCZw?oc=5",
-"source": "The Climate Watch",
-"time_baku": "2026-10-31 10:00",
-"query": "UNDP Armenia"
+"query": "UN Azerbaijan"
 },
 {
 "title": "Top leader To Lam hosts Representative of Azerbaijani President - en.baochinhphu.vn",
@@ -452,13 +508,6 @@
 "query": "UN Azerbaijan"
 },
 {
-"title": "Nations agree to get UN nature goals back on track - Kuwait Times",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVgzUTFhaXZ5QlM0VWJpNzZaYnRrQ0w5cnc2WTNnWk01ckNSSE80cEMyTnRjR0VwN0ZnUENFSERtVFhFQm16Skh5cEdlcDZ0bENFWFhnZjRjOXJEU21McHo4R09hRTZUTDBybXpFTzBSV0gzNUdPXzZ5OGM5cnBheVJvZWg0Z3NNLWVwMXFESWxMc1FPaFJ3RER5Z9IBnwFBVV95cUxQMUhqTUw5Ym9WZVRfbVpWSjl0LWpIaXFFcDNYTkVDTXdnYnBFZjNJZ1Utb1piRlo1M2J5b0xfYnhMS0lROVpCLXJmUGpWbE1yZGNfZ0tlSUhuLV9iNUV3UHBrb25YTVpsM00wRk9vajhMT2VIbDdvblpTZ0x1cy12azlVN1ZDeDhTMW13ckR6MWhzcTM4UnBtV29TeE1pWUU?oc=5",
-"source": "Kuwait Times",
-"time_baku": "2026-10-31 08:55",
-"query": "UNDP Armenia"
-},
-{
 "title": "Turkey Clears Makkah Pact in Committee With No Date for Full Vote - https://houseofsaud.com/",
 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xV2FRVXdib0Y4TUZ5M25DWnl3MUZBamJNS3liV05nQ1lVZHZadTlyWWQzNkZLOHRaNE01Nm9mUE4zU3hPQlFsVWtNUjlpOVNSUWhBU0tUMWc0cFNRM1RiLUpwX0NrT3d6N3JscEp1c0RlaFE3R1ZUbk1Idw?oc=5",
 "source": "https://houseofsaud.com/",
@@ -467,10 +516,24 @@
 },
 {
 "title": "Peace Cannot Depend on Aliyev’s Restraint - MassisPost",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CaGdNUjlxYmxGRXViekxnTXRTMG1xOGlXczFiZGNGSDMydkFsUUxoM203eHlqY2pEVnhqZk1kcDFIUDBDOHdndnlWSl9sT0s2cnVuNXZBdXJQQThzSFNycHAwZmhmenpEV3lJajE5bUJQQWFrUjAtUmJrcTfSAYIBQVVfeXFMTjZzYUdJSFpGQmxjSElybjlraVR5OTZjZk1VODhMWmQ2U0o5M0Z4cWx5Z2k5V2hQeVpjU0RwVW5TcWIxVlpMdUk0enJUR2FEbkNvRGRpNm5VQVVGdTBBZTd6RTRYZXE3bkhGRTZaV3Y0NnpVZzB1anNpaDNCOWhlV19Gdw?oc=5",
+"source": "MassisPost",
+"time_baku": "2026-10-31 07:26",
+"query": "Armenia EU"
+},
+{
+"title": "Peace Cannot Depend on Aliyev’s Restraint - MassisPost",
 "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnNhR0lIWkZCbGNISXJuOWtpVHk5NmNmTVU4OExaZDZTSjkzRnhxbHlnaTlXaFB5WmNTRHBVblNxYjFWWkx1STR6clRHYURuQ29EZGk2blVBVUZ1MEFlN3pFNFhlcTduSEZFNlpXdjQ2elVnMHVqc2loM0I5aGVXX0Z30gGCAUFVX3lxTE42c2FHSUhaRkJsY0hJcm45a2lUeTk2Y2ZNVTg4TFpkNlNKOTNGeHFseWdpOVdoUHlaY1NEcFVuU3FiMVZaTHVJNHpyVEdhRG5Db0RkaTZuVUFVRnUwQWU3ekU0WGVxN25IRkU2Wld2NDZ6VWcwdWpzaWgzQjloZVdfRnc?oc=5",
 "source": "MassisPost",
 "time_baku": "2026-10-31 07:26",
-"query": "European Parliament Azerbaijan"
+"query": "European Parliament Armenia"
+},
+{
+"title": "Latvia and Armenia sign immigration protocol / Article - LSM",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3NscmxDZU5rTTR0WklrY3FTMEhlVmk1THJCRUNOVnRIVTYzVkh4LWF1VE13c3RTcGI0cG53b1FhaDFBTkhGUWhXTzFpYkFrUzVEdmw4dzFRSldSSHhUWWhWQ3V3UVQ2UXNleXNyaUx3NGxVd2M1dW1Pa1dDYmNsT3IwVVFIU1F5VV94YVRtVXRUc1N6UFRGaG5WN2RfTnhVTllySFVEbExwMHdickZB?oc=5",
+"source": "LSM",
+"time_baku": "2026-10-31 06:18",
+"query": "NATO Armenia"
 },
 {
 "title": "COP17 on biodiversity: Nations agree on push to get nature goals back on track - Le Monde.fr",
@@ -478,6 +541,20 @@
 "source": "Le Monde.fr",
 "time_baku": "2026-10-31 05:02",
 "query": "UN Armenia"
+},
+{
+"title": "Why has Poland's Constitutional Tribunal crisis brought protesters and police to Warsaw? - Apa.az",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0JhRXFraWRMMTg3YlEtaHdVZVp1Qzk3a2FrdXhCbHJBZ09XNm5ZMDloSzVkdmRuX3ZCdUFQOXJkNHNjQ2JxYlZxQjJWSFR4YndsUnYwTmhTSzZiRnA0alRGcXlsTzl5bkRxVTkycnFaYl81b0trMUVfTUtfWVA0b2xweUp1eEpfZi1fY3pGcG91dVBSRWw0Y3Bwb2xhbmVzRTlIUkYycFZ2eHFqLXlFV01PMUlhXzNmS1E?oc=5",
+"source": "Apa.az",
+"time_baku": "2026-10-31 04:57",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Erdoğan Reaffirms Turkey’s Support for Armenia–Azerbaijan Normalization Process - MassisPost",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0w5M09BMmFlX3VqMFltUEtjd1VISkdoOThtM3llOEFFNXY4aHhJNDd0WkZ5c3dZOEpYOHRKVWhnMmkza3h5RHBjNHVNYVhlOW5XanRrdGxrQnRPdUowRThFV01JaEc1aUVsUU1SVUxlcGFPN2ZSQVZsbmd2NGZEbzB1aFUtU1B4NFJ4Ni15QTI1ZFk0UkJ6eVZJUWxXV0t5T08tWGZSeGFnUld4Uks40gG0AUFVX3lxTE9KSi1YYmFaeVlub0RPWktka29wM1cwVTRjRklrdEtGX2d6SGZGdVhqejEwS2g3TWtyc3dRT1A2VmJpZXpUR0dVcTZGcUpMWFdkLXpaNHpQZ2p1SGFoZS1JWmszX05HMV9RRHBXMEN3bC1WcnlBbXVsNlNWaXB0Y0NYRVNBTVFXNk1fbjRHVDF4R2hLMzF3enpoZmxQMUhkNExXaUg4Tnd3eS1xRzd6V0VpQi1MaQ?oc=5",
+"source": "MassisPost",
+"time_baku": "2026-10-31 04:35",
+"query": "NATO Armenia"
 },
 {
 "title": "Armenian Lawmaker Calls on Male MPs to Apologize to Female Colleagues Following Parliamentary Brawl - MassisPost",
@@ -492,20 +569,6 @@
 "source": "EU NEIGHBOURS east",
 "time_baku": "2026-10-31 04:00",
 "query": "Armenia EU"
-},
-{
-"title": "China's Blue Bay initiative gets UN honor - China Daily Global Edition",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHhzREdPUXZIdURsX3NLMms1aGRYejZLRFUxTG9Jdmo2OGJMRE02VHJIMjgtc1ZNYU44M21OVmhPM1RwWmIxb2J4TmFwVTVqQjZFNU5pZVVybE1VU2xtZFRkczlfbFdha3J6TjVsWWpuMk5DcXlqLWhCVnJJX2YzTFJ3?oc=5",
-"source": "China Daily Global Edition",
-"time_baku": "2026-10-31 02:54",
-"query": "UNDP Armenia"
-},
-{
-"title": "COP17: Hopes grow for hard-fought compromise as UN biodiversity talks spill into overtime - BusinessGreen",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHRXWnZJWjRGVC1sNDduXzRWdW4tekdveUJucDhNTkJSakdVX2lYcmpmcUhxLWNYb1NQdy0tVm10UVpnZXM0VFl3UmczYXJqNnhDT2xPRGNwcENaLUFfUlJzeWJUaUY5Q3dMNVloUjdZOW5XQTB1V0I0NmN1VGtaMFg3WlV4cmF6NXB6QjR2UldvaWEtVXhtM3BieGZhdk5LMjhjVHpPVE1qbTFMb29RVDBVRVl5dlk?oc=5",
-"source": "BusinessGreen",
-"time_baku": "2026-10-31 02:52",
-"query": "UN Armenia"
 }
 ]
 }
