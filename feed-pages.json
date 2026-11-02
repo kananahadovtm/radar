@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-11-02T22:22:24.622600+00:00",
-"generatedAtBaku": "2026-11-03 02:22",
+"generatedAt": "2026-11-02T23:18:46.115118+00:00",
+"generatedAtBaku": "2026-11-03 03:18",
 "hours": 30,
 "pages": {
 "azertag": [
+{
+"title": "Azərbaycanın Yeniyetmələrin IV Yay Olimpiya Oyunlarında ilk qızıl medalçısı Vətənə qayıdıb",
+"url": "https://azertag.az/xeber/azerbaycanin_yeniyetmelerin_iv_yay_olimpiya_oyunlarinda_ilk_qizil_medalchisi_vetene_qayidib-4492014",
+"firstSeenBaku": "2026-11-03 03:18"
+},
 {
 "title": "Azərbaycan-Çin Sənaye Parkının yaradılması nəzərdən keçirilib",
 "url": "https://azertag.az/xeber/azerbaycan_chin_senaye_parkinin_yaradilmasi_nezerden_kechirilib-4491738",
@@ -23,11 +28,6 @@
 "title": "Yol-nəqliyyat hadisəsi törətməkdə təqsirləndirilən şəxs Monteneqrodan Azərbaycana ekstradisiya olunacaq",
 "url": "https://azertag.az/xeber/yol_neqliyyat_hadisesi_toretmekde_teqsirlendirilen_sexs_monteneqrodan_azerbaycana_ekstradisiya_olunacaq-4491408",
 "firstSeenBaku": "2026-11-02 16:33"
-},
-{
-"title": "Rəcəb Tayyib Ərdoğan Zəfər Günü münasibətilə Prezident İlham Əliyevi və xalqımızı Azərbaycan səmasından təbrik etdi VİDEO",
-"url": "https://azertag.az/xeber/receb_tayyib_erdogan_zefer_gunu_munasibetile_prezident_ilham_aliyevi_ve_xalqimizi_azerbaycan_semasindan_tebrik_etdi_video-4490991",
-"firstSeenBaku": "2026-11-02 13:38"
 },
 {
 "title": "Birinci vitse-prezident Mehriban Əliyeva “Zikra: xatirələr gecəsi” tamaşasını izləyib",
@@ -155,9 +155,9 @@
 "firstSeenBaku": "2026-11-02 16:33"
 },
 {
-"title": "Pərvanə Hacıyeva: “Güclü cəmiyyətin zərif simaları” layihəsi qadınların təcrübə mübadiləsinə geniş imkan yaradıb",
-"url": "https://azertag.az/xeber/pervane_haciyeva_guclu_cemiyyetin_zerif_simalari_layihesi_qadinlarin_tecrube_mubadilesine_genis_imkan_yaradib-4491381",
-"firstSeenBaku": "2026-11-02 16:33"
+"title": "Rəcəb Tayyib Ərdoğan Zəfər Günü münasibətilə Prezident İlham Əliyevi və xalqımızı Azərbaycan səmasından təbrik etdi VİDEO",
+"url": "https://azertag.az/xeber/receb_tayyib_erdogan_zefer_gunu_munasibetile_prezident_ilham_aliyevi_ve_xalqimizi_azerbaycan_semasindan_tebrik_etdi_video-4490991",
+"firstSeenBaku": "2026-11-02 13:38"
 },
 {
 "title": "Rəcəb Tayyib Ərdoğan Zəfər Günü münasibətilə Prezident İlham Əliyevi və xalqımızı Azərbaycan səmasından təbrik etdi VİDEO",
@@ -171,6 +171,11 @@
 }
 ],
 "apa": [
+{
+"title": "ABŞ NATO ölkələrindən PURL proqramına ayırdıqları vəsaiti artırmağı xahiş edə bilər 03:13 3 noyabr 2026",
+"url": "https://apa.az/amerika/abs-nato-olkelerinden-purl-proqramina-ayirdiqlari-vesaiti-artirmagi-xahis-ede-biler-1010496",
+"firstSeenBaku": "2026-11-03 03:18"
+},
 {
 "title": "Qarabağ Universitetinin Biznes və İqtisadiyyat fakültəsinə yeni təyinat olub 21:21 2 noyabr 2026",
 "url": "https://apa.az/elm-ve-tehsil/qarabag-universitetinin-biznes-ve-iqtisadiyyat-fakultesine-yeni-teyinat-olub-1010466",
@@ -197,13 +202,13 @@
 "firstSeenBaku": "2026-11-02 19:32"
 },
 {
-"title": "Yaponiyanın yeni səfiri etimadnaməsinin surətini Ceyhun Bayramova təqdim edib 17:09 2 noyabr 2026",
-"url": "https://apa.az/xarici-siyaset/yaponiyanin-yeni-sefiri-etimadnamesinin-suretini-ceyhun-bayramova-teqdim-edib-1010396",
+"title": "İrandan Azərbaycana külli miqdarda narkotikin keçirilməsinin qarşısı alınıb - FOTO 16:43 2 noyabr 2026",
+"url": "https://apa.az/hadise/irandan-azerbaycana-kulli-miqdarda-narkotikin-kecirilmesinin-qarsisi-alinib-foto-1010388",
 "firstSeenBaku": "2026-11-02 17:48"
 },
 {
-"title": "İrandan Azərbaycana külli miqdarda narkotikin keçirilməsinin qarşısı alınıb - FOTO 16:43 2 noyabr 2026",
-"url": "https://apa.az/hadise/irandan-azerbaycana-kulli-miqdarda-narkotikin-kecirilmesinin-qarsisi-alinib-foto-1010388",
+"title": "Yaponiyanın yeni səfiri etimadnaməsinin surətini Ceyhun Bayramova təqdim edib 17:09",
+"url": "https://apa.az/xarici-siyaset/yaponiyanin-yeni-sefiri-etimadnamesinin-suretini-ceyhun-bayramova-teqdim-edib-1010396",
 "firstSeenBaku": "2026-11-02 17:48"
 },
 {
@@ -296,7 +301,7 @@
 "firstSeenBaku": "2026-11-02 13:38"
 },
 {
-"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5795",
+"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5885",
 "url": "https://haqqin.az/newsarchive/397278",
 "firstSeenBaku": "2026-11-02 15:30"
 }
@@ -1077,18 +1082,6 @@
 "title": "Story Exploring the past, shaping the future: OSCE Mission brings young people to Janjevë/Janjevo to help preserve cultural heritage Date Date 22 October 2026 Source Source OSCE Mission in Kosovo",
 "url": "https://omik.osce.org/node/669108",
 "firstSeenBaku": "2026-11-02 15:30"
-}
-],
-"un-press": [
-{
-"title": "Secretary-General Appoints Samer Abdeljaber of Jordan United Nations Resident Coordinator, Humanitarian Coordinator in Yemen",
-"url": "https://press.un.org/en/2026/sga2449.doc.htm",
-"firstSeenBaku": "2026-11-03 02:22"
-},
-{
-"title": "Secretary-General Appoints Jean P. Bernardini of Brazil United Nations Resident Coordinator in Uruguay",
-"url": "https://press.un.org/en/2026/sga2448.doc.htm",
-"firstSeenBaku": "2026-11-03 02:22"
 }
 ],
 "un-armenia": [
