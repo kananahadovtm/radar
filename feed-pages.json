@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-02T03:30:31.322088+00:00",
-"generatedAtBaku": "2026-11-02 07:30",
+"generatedAt": "2026-11-02T04:37:47.521422+00:00",
+"generatedAtBaku": "2026-11-02 08:37",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -23,6 +23,11 @@
 "title": "Birinci vitse-prezident Mehriban Əliyeva “Zikra: xatirələr gecəsi” tamaşasını izləyib",
 "url": "https://azertag.az/xeber/birinci_vitse_prezident_mehriban_aliyeva_zikra_xatireler_gecesi_tamasasini_izleyib-4490439",
 "firstSeenBaku": "2026-11-01 23:20"
+},
+{
+"title": "Bakıda 13 istiqamətdə nəqliyyatın hərəkətində sıxlıq yaranıb",
+"url": "https://azertag.az/xeber/bakida_13_istiqametde_neqliyyatin_hereketinde_sixliq_yaranib-4490598",
+"firstSeenBaku": "2026-11-02 08:37"
 },
 {
 "title": "AZƏRTAC-ın xüsusi müxbiri “24news” internet televiziyasında Azərbaycan-Gürcüstan əlaqələrindən danışıb",
@@ -127,6 +132,11 @@
 ],
 "apa": [
 {
+"title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:11 2 noyabr 2026",
+"url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1010235",
+"firstSeenBaku": "2026-11-02 08:37"
+},
+{
 "title": "Birinci vitse-prezident Mehriban Əliyeva “Zikra: xatirələr gecəsi” tamaşasını izləyib 23:13 1 noyabr 2026",
 "url": "https://apa.az/resmi-xeber/birinci-vitse-prezident-mehriban-eliyeva-zikra-xatireler-gecesi-tamasasini-izleyib-1010216",
 "firstSeenBaku": "2026-11-01 23:20"
@@ -181,7 +191,7 @@
 ],
 "haqqin": [
 {
-"title": "Чистый лист Тбилиси для Вашингтона наша аналитика 1 ноября 2026, 16:18 1855",
+"title": "Чистый лист Тбилиси для Вашингтона наша аналитика 1 ноября 2026, 16:18 1901",
 "url": "https://haqqin.az/newsarchive/397184",
 "firstSeenBaku": "2026-11-01 17:28"
 },
@@ -196,7 +206,7 @@
 "firstSeenBaku": "2026-11-01 23:20"
 },
 {
-"title": "Бандитская разборка в Баку: арестованы еще двое фото; видео; обновлено 19:59 26 октября 2026, 19:59 18311",
+"title": "Бандитская разборка в Баку: арестованы еще двое фото; видео; обновлено 19:59 26 октября 2026, 19:59 18322",
 "url": "https://haqqin.az/newsarchive/396595",
 "firstSeenBaku": "2026-11-01 18:18"
 }
@@ -363,11 +373,6 @@
 "firstSeenBaku": "2026-11-01 10:21"
 },
 {
-"title": "Էլեկտրաէներգիայի պլանային անջատումներ «Հայաստանի էլեկտրական ցանցեր» փակ բաժնետիրական ընկերությունը տեղեկացնում է, որ նոյեմբերի 2-ին պլանային նորոգման աշխատանքներ իրականացնելու նպատակով ժամանակավորապես կդադարեցվի հետևյալ հասցեների …",
-"url": "https://www.1in.am/3774966.html",
-"firstSeenBaku": "2026-11-01 20:13"
-},
-{
 "title": "Ռուբիոն և Լավրովը քննարկել են Թրամփի ու Պուտինի հնարավոր հանդիպումը",
 "url": "https://www.1in.am/3775191.html",
 "firstSeenBaku": "2026-11-01 20:13"
@@ -383,14 +388,14 @@
 "firstSeenBaku": "2026-11-01 18:18"
 },
 {
-"title": "Հայաստանում ֆինանսական կառավարման նոր համակարգ կներդրվի",
-"url": "https://www.1in.am/3775150.html",
-"firstSeenBaku": "2026-11-01 16:12"
-},
-{
 "title": "2026-11-01 Հանրաքվեից սարսափող ընդդիմությունը. Ռուբինյանի առաջարկի քաղաքական թակարդը",
 "url": "https://www.1in.am/3774859.html",
 "firstSeenBaku": "2026-11-01 09:26"
+},
+{
+"title": "2026-11-01 «Ուկրաինական սցենար». ո՞վ է սպառնում Հայաստանին",
+"url": "https://www.1in.am/3775136.html",
+"firstSeenBaku": "2026-11-01 13:23"
 },
 {
 "title": "Ժան-Պոլ Լեբոսնոյանը հաղթել է ադրբեջանցի Ֆարման Հասանովին",
@@ -420,13 +425,6 @@
 "title": "International Day to End Impunity for Crimes against Journalists: Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath",
 "url": "https://www.eeas.europa.eu/eeas/international-day-end-impunity-crimes-against-journalists-joint-statement-executive-vice-president_en",
 "firstSeenBaku": "2026-11-01 17:28"
-}
-],
-"arfd": [
-{
-"title": "Artur Khachatryan Rejects Claims of Armenia-Azerba",
-"url": "https://www.arfd.am/eng/news/8757/",
-"firstSeenBaku": "2026-11-01 02:12"
 }
 ],
 "301am": [
