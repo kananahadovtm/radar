@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-02T21:23:12.639053+00:00",
-"generatedAtBaku": "2026-11-03 01:23",
+"generatedAt": "2026-11-02T22:22:24.622600+00:00",
+"generatedAtBaku": "2026-11-03 02:22",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -296,14 +296,9 @@
 "firstSeenBaku": "2026-11-02 13:38"
 },
 {
-"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5675",
+"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5795",
 "url": "https://haqqin.az/newsarchive/397278",
 "firstSeenBaku": "2026-11-02 15:30"
-},
-{
-"title": "Спецоперация на границе Польши с Россией",
-"url": "https://haqqin.az/newsarchive/397312",
-"firstSeenBaku": "2026-11-02 20:39"
 }
 ],
 "news.am": [
@@ -426,11 +421,6 @@
 "title": "Միայն Երևանն ու Բաքուն. նոր երաշխավորներ չեն լինի․ Հովհաննիսյան նոյեմբերի 2, 16:26",
 "url": "https://news.am/hy/news/1071976",
 "firstSeenBaku": "2026-11-02 17:48"
-},
-{
-"title": "Հայաստանը՝ «Մանկական Եվրատեսիլ 2026»-ի հաղթող հոկտեմբերի 25, 01:22",
-"url": "https://style.news.am/arm/news/116823/hayastany-mankakan-evratesil-2026-i-haxtox.html",
-"firstSeenBaku": "2026-11-01 20:13"
 },
 {
 "title": "Ադրբեջանն ու հայ բնապահպանները․ ինչո՞ւ են համընկնում Ամուլսարի դեմ հնչող պահանջները. Armlur.am նոյեմբերի 2, 17:00",
@@ -838,16 +828,6 @@
 "firstSeenBaku": "2026-11-01 23:20"
 },
 {
-"title": "2026-11-01 20:00:00 Ֆընգին Չինաստանից Հայաստան բերած շարադրությունը",
-"url": "https://hetq.am/hy/article/185157",
-"firstSeenBaku": "2026-11-01 20:13"
-},
-{
-"title": "2026-11-01 19:20:00 Հելոուինը Երևանում (լուսանկարներ)",
-"url": "https://hetq.am/hy/article/185156",
-"firstSeenBaku": "2026-11-01 20:13"
-},
-{
 "title": "Անտառի «վերքերը». ադրբեջանցիները զավթել են Շիկահողի արգելոցի մոտ 1/6 մասը",
 "url": "https://hetq.am/hy/article/184980",
 "firstSeenBaku": "2026-11-02 22:30"
@@ -1099,6 +1079,18 @@
 "firstSeenBaku": "2026-11-02 15:30"
 }
 ],
+"un-press": [
+{
+"title": "Secretary-General Appoints Samer Abdeljaber of Jordan United Nations Resident Coordinator, Humanitarian Coordinator in Yemen",
+"url": "https://press.un.org/en/2026/sga2449.doc.htm",
+"firstSeenBaku": "2026-11-03 02:22"
+},
+{
+"title": "Secretary-General Appoints Jean P. Bernardini of Brazil United Nations Resident Coordinator in Uruguay",
+"url": "https://press.un.org/en/2026/sga2448.doc.htm",
+"firstSeenBaku": "2026-11-03 02:22"
+}
+],
 "un-armenia": [
 {
 "title": "Peace and Biodiversity",
@@ -1145,11 +1137,6 @@
 "title": "Ararat-Armenia Accuses FFA of Tailoring Statute Changes to Specific Presidential Candidate",
 "url": "https://www.301.am/2026/11/01/ararat-armenia-accuses-ffa-of-tailoring-statute-changes-to-specific-presidential-candidate/",
 "firstSeenBaku": "2026-11-02 01:14"
-},
-{
-"title": "Armenian War Veteran Sargis Stepanyan Becomes Five-Time World Para-Armwrestling Champion",
-"url": "https://www.301.am/2026/11/01/armenian-war-veteran-sargis-stepanyan-becomes-five-time-world-para-armwrestling-champion/",
-"firstSeenBaku": "2026-11-01 20:13"
 }
 ],
 "alphanews": [
