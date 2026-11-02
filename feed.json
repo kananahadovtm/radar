@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-01T23:13:28.687112+00:00",
-"generatedAtBaku": "2026-11-02 03:13",
+"generatedAt": "2026-11-02T00:09:28.605674+00:00",
+"generatedAtBaku": "2026-11-02 04:09",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,7 +9,7 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 23,
+"bagramyan26": 21,
 "HRAPARAKAM": 5,
 "ArmenianVendetta": 3,
 "caucasar": 2
@@ -47,7 +47,7 @@
 "301am": 7,
 "alphanews": 0
 },
-"search": 47
+"search": 42
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
