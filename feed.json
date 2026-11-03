@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-03T03:29:21.970093+00:00",
-"generatedAtBaku": "2026-11-03 07:29",
+"generatedAt": "2026-11-03T04:30:19.498263+00:00",
+"generatedAtBaku": "2026-11-03 08:30",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,24 +9,23 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 54,
+"bagramyan26": 55,
 "HRAPARAKAM": 0,
 "ArmenianVendetta": 8,
 "caucasar": 7
 },
 "pages": {
 "azertag": 29,
-"apa": 10,
+"apa": 11,
 "qafqazinfo": 14,
 "haqqin": 2,
 "armenpress-en": 21,
 "azatutyun": 10,
-"tert": 15,
-"hraparak": 11,
-"1in": 13,
+"tert": 17,
+"hraparak": 10,
 "primeminister": 2,
 "oc-media": 1,
-"jam-news": 1,
+"jam-news": 2,
 "eeas-press": 5,
 "eeas-azerbaijan": 0,
 "eeas-armenia": 0,
@@ -43,15 +42,16 @@
 "301am": 4,
 "alphanews": 11
 },
-"search": 195
+"search": 175
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
-"news.am": "HTTPSConnectionPool(host='news.am', port=443): Read timed out.",
-"armenpress-hy": "HTTPSConnectionPool(host='armenpress.am', port=443): Read timed out. (read timeout=30)",
+"news.am": "HTTPSConnectionPool(host='news.am', port=443): Read timed out. (read timeout=30)",
+"armenpress-hy": "HTTPSConnectionPool(host='armenpress.am', port=443): Read timed out.",
 "hetq": "HTTPSConnectionPool(host='hetq.am', port=443): Read timed out.",
-"civilnet": "HTTPSConnectionPool(host='civilnet.am', port=443): Read timed out.",
+"1in": "HTTPSConnectionPool(host='www.1in.am', port=443): Read timed out.",
+"civilnet": "HTTPSConnectionPool(host='civilnet.am', port=443): Read timed out. (read timeout=30)",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
