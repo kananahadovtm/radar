@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-02T23:18:46.115118+00:00",
-"generatedAtBaku": "2026-11-03 03:18",
+"generatedAt": "2026-11-03T00:12:33.086394+00:00",
+"generatedAtBaku": "2026-11-03 04:12",
 "hours": 30,
 "pages": {
 "azertag": [
@@ -150,11 +150,6 @@
 "firstSeenBaku": "2026-11-02 16:33"
 },
 {
-"title": "Deputat: Azərbaycan qadını dövlətçilik ənənələrinin qorunmasında mühüm rol oynayır",
-"url": "https://azertag.az/xeber/deputat_azerbaycan_qadini_dovletchilik_enenelerinin_qorunmasinda_muhum_rol_oynayir-4491399",
-"firstSeenBaku": "2026-11-02 16:33"
-},
-{
 "title": "Rəcəb Tayyib Ərdoğan Zəfər Günü münasibətilə Prezident İlham Əliyevi və xalqımızı Azərbaycan səmasından təbrik etdi VİDEO",
 "url": "https://azertag.az/xeber/receb_tayyib_erdogan_zefer_gunu_munasibetile_prezident_ilham_aliyevi_ve_xalqimizi_azerbaycan_semasindan_tebrik_etdi_video-4490991",
 "firstSeenBaku": "2026-11-02 13:38"
@@ -301,7 +296,7 @@
 "firstSeenBaku": "2026-11-02 13:38"
 },
 {
-"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5885",
+"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 5940",
 "url": "https://haqqin.az/newsarchive/397278",
 "firstSeenBaku": "2026-11-02 15:30"
 }
@@ -381,11 +376,6 @@
 "title": "նոյեմբերի 2 | 20:09 Փաշինյանը մեղադրում է Մոսկվային. Հայաստանը կհեռացվի՞ այս տարի ԵԱՏՄ-ից I ԼՈՒՐԵՐ I 20:00",
 "url": "https://news.am/hy/news/1072034",
 "firstSeenBaku": "2026-11-02 20:39"
-},
-{
-"title": "նոյեմբերի 2 | 18:59 Ղազախստանն ու Ադրբեջանը «Կասպյան կամուրջ» կստեղծեն",
-"url": "https://news.am/hy/news/1072017",
-"firstSeenBaku": "2026-11-02 19:32"
 },
 {
 "title": "Ուղիղ Ընդդիմությունը պատրաստվում է նորից փողո՞ց դուրս գալ Փաշինյանին հեռացնելու համար I ԼՈՒՐԵՐ I 18:00",
@@ -917,11 +907,6 @@
 "firstSeenBaku": "2026-11-02 19:32"
 },
 {
-"title": "Ներողություն պահանջելու փոխարեն Հայաստանն ու Ադրբեջանը կարող են դիմել ՄԱԿ-ի դատական ատյան",
-"url": "https://www.1in.am/3774820.html",
-"firstSeenBaku": "2026-11-01 22:10"
-},
-{
 "title": "ONEX-ը գործարկեց ROXY-ին՝ Հայաստանում առաջին օնլայն գնումների AI օգնականին",
 "url": "https://www.1in.am/3775604.html",
 "firstSeenBaku": "2026-11-02 20:39"
@@ -1084,6 +1069,18 @@
 "firstSeenBaku": "2026-11-02 15:30"
 }
 ],
+"un-press": [
+{
+"title": "Secretary-General Appoints Samer Abdeljaber of Jordan United Nations Resident Coordinator, Humanitarian Coordinator in Yemen",
+"url": "https://press.un.org/en/2026/sga2449.doc.htm",
+"firstSeenBaku": "2026-11-03 02:22"
+},
+{
+"title": "Secretary-General Appoints Jean P. Bernardini of Brazil United Nations Resident Coordinator in Uruguay",
+"url": "https://press.un.org/en/2026/sga2448.doc.htm",
+"firstSeenBaku": "2026-11-03 02:22"
+}
+],
 "un-armenia": [
 {
 "title": "Peace and Biodiversity",
@@ -1099,6 +1096,16 @@
 }
 ],
 "arfd": [
+{
+"title": "ARF Member Artsvik Minasyan Elected to Armenia’s C",
+"url": "https://www.arfd.am/eng/news/8790/",
+"firstSeenBaku": "2026-11-03 04:12"
+},
+{
+"title": "Yerevan ratifies TRIPP, lacks two-thirds for const",
+"url": "https://www.arfd.am/eng/news/8787/",
+"firstSeenBaku": "2026-11-03 04:12"
+},
 {
 "title": "Our Pan-Armenian National Agenda Should Not be Und",
 "url": "https://www.arfd.am/eng/news/8771/",
