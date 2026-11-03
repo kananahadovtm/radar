@@ -1,13 +1,13 @@
 {
-"generatedAt": "2026-11-03T04:30:19.498263+00:00",
-"generatedAtBaku": "2026-11-03 08:30",
+"generatedAt": "2026-11-03T05:31:29.852412+00:00",
+"generatedAtBaku": "2026-11-03 09:31",
 "hours": 30,
 "pages": {
 "azertag": [
 {
-"title": "Bakı bəzi ərazilərində elektrik enerjisinin verilişində fasilələr yaranacaq",
-"url": "https://azertag.az/xeber/baki_bezi_erazilerinde_elektrik_enerjisinin_verilisinde_fasileler_yaranacaq-4492044",
-"firstSeenBaku": "2026-11-03 08:30"
+"title": "Bakının bəzi ərazilərində elektrik enerjisinin verilişində fasilələr yaranacaq",
+"url": "https://azertag.az/xeber/bakinin_bezi_erazilerinde_elektrik_enerjisinin_verilisinde_fasileler_yaranacaq-4492044",
+"firstSeenBaku": "2026-11-03 09:31"
 },
 {
 "title": "Azərbaycanın Yeniyetmələrin IV Yay Olimpiya Oyunlarında ilk qızıl medalçısı Vətənə qayıdıb",
@@ -130,11 +130,6 @@
 "firstSeenBaku": "2026-11-02 17:48"
 },
 {
-"title": "Azərbaycanın investisiya üstünlüyü - İstehsaldan regional ixraca",
-"url": "https://azertag.az/xeber/azerbaycanin_investisiya_ustunluyu___istehsaldan_regional_ixraca-4491486",
-"firstSeenBaku": "2026-11-02 17:48"
-},
-{
 "title": "Rəcəb Tayyib Ərdoğan Zəfər Günü münasibətilə Prezident İlham Əliyevi və xalqımızı Azərbaycan səmasından təbrik etdi VİDEO",
 "url": "https://azertag.az/xeber/receb_tayyib_erdogan_zefer_gunu_munasibetile_prezident_ilham_aliyevi_ve_xalqimizi_azerbaycan_semasindan_tebrik_etdi_video-4490991",
 "firstSeenBaku": "2026-11-02 13:38"
@@ -151,6 +146,11 @@
 }
 ],
 "apa": [
+{
+"title": "Bakının bir sıra ərazilərində elektrik enerjisinin verilişində müvəqqəti məhdudiyyət yaranacaq 08:35 3 noyabr 2026",
+"url": "https://apa.az/sosial/bakinin-bir-sira-erazilerinde-elektrik-enerjisinin-verilisinde-muveqqeti-mehdudiyyet-yaranacaq-1010513",
+"firstSeenBaku": "2026-11-03 09:31"
+},
 {
 "title": "Bakıda bu yollarda sıxlıq var - SİYAHI 08:24 3 noyabr 2026",
 "url": "https://apa.az/sosial/bakida-bu-yollarda-sixliq-var-siyahi-1010508",
@@ -175,16 +175,6 @@
 "title": "Polşa təxribat təhlükəsi səbəbindən Kalininqradla sərhəddə xüsusi əməliyyata başlayıb 19:41 2 noyabr 2026",
 "url": "https://apa.az/avropa/polsa-texribat-tehlukesi-sebebinden-kalininqradla-serhedde-xususi-emeliyyata-baslayib-1010453",
 "firstSeenBaku": "2026-11-02 20:39"
-},
-{
-"title": "Azərbaycan–Çin Sənaye Parkı yaradıla bilər 18:07 2 noyabr 2026",
-"url": "https://apa.az/aqrar-senaye-kompleksi/azerbaycan-cin-senaye-parki-yaradila-biler-1010431",
-"firstSeenBaku": "2026-11-02 19:32"
-},
-{
-"title": "Azərbaycan Prokurorluğunun veteranları təltif ediliblər 18:01 2 noyabr 2026",
-"url": "https://apa.az/sosial/azerbaycan-prokurorlugunun-veteranlari-teltif-edilibler-1010432",
-"firstSeenBaku": "2026-11-02 19:32"
 },
 {
 "title": "İrandan Azərbaycana külli miqdarda narkotikin keçirilməsinin qarşısı alınıb - FOTO 16:43 2 noyabr 2026",
@@ -286,9 +276,278 @@
 "firstSeenBaku": "2026-11-02 13:38"
 },
 {
-"title": "Вашингтон досчитал до пяти. А где Азербайджан? Обзор на haqqin.az 2 ноября 2026, 14:35 6476",
+"title": "Вашингтон досчитал до пяти. А где Азербайджан? обзор на haqqin.az; все еще актуально 2 ноября 2026, 14:35 6648",
 "url": "https://haqqin.az/newsarchive/397278",
 "firstSeenBaku": "2026-11-02 15:30"
+}
+],
+"news.am": [
+{
+"title": "Փոխրհաձգություն ադրբեջանա-իրանական սահմանին",
+"url": "https://news.am/hy/news/1071991",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "08:50 «Ժողովուրդ». Հայաստանի խնդրանքով հետաձգվել է Ռուսաստանի դեմ բողոքի քննությունը․ ի՞նչ է թաքցնում Պապոյանը",
+"url": "https://news.am/hy/news/1072101",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "08:47 Էլեկտրաէներգիայի անջատումներ Երևանի 2 վարչական շրջաններում և 4 մարզերում",
+"url": "https://news.am/hy/news/1072104",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "08:44 «Փաստ». Վաղուց 2018 թվականը չէ. ո՞ւմ հույսով է սպառնում Փաշինյանը",
+"url": "https://news.am/hy/news/1072099",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "08:43 Հրդեհ է բռնկվել Երևանի Գայի պողոտայում գտնվող առևտրի կենտրոններից մեկում",
+"url": "https://news.am/hy/news/1072103",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "08:32 «Ժողովուրդ». Փաշինյանին մտահոգել է համայնքապետերի վերարտադրությունը․ նոր դեմքեր «աճեցնելու» հանձնարարական է տրվել",
+"url": "https://news.am/hy/news/1072095",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "08:26 «Փաստ». Ընդդիմությունն արձագանքում է «հանրային ճնշում» գեներացնելու վերաբերյալ Փաշինյանի սպառնալիքին",
+"url": "https://news.am/hy/news/1072093",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "07:47 «Ժողովուրդ». Բացառիկ. Ավինյան-Ալեն Սիմոնյան թեժ պայքար է ՔՊ-ում. աթոռամարտ",
+"url": "https://news.am/hy/news/1072078",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "07:44 Փաշինյանը աշխատանքային այցով մեկնել է Բրյուսել. կմասնակցի Euronews–ի կազմակերպած «ԵՄ ընդլայնման գագաթնաժողով 2026»-ին",
+"url": "https://news.am/hy/news/1072080",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "00:23 ԱՄՆ-ի նոր հարվածի դեպքում Իրանի պատասխանը պարտադիր չէ, որ սահմանափակվի այս տարածաշրջանով. պատգամավոր",
+"url": "https://news.am/hy/news/1072068",
+"firstSeenBaku": "2026-11-03 01:23"
+},
+{
+"title": "նոյեմբերի 2 | 23:23 Ռուսաստանն արգելք է սահմանել նավթաքիմիական արտադրանքի առանձին տեսակների արտահանման վրա",
+"url": "https://news.am/hy/news/1072064",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "նոյեմբերի 2 | 22:33 Հայաստանի իշխանությունները կփորձեն դաս տալ Ռուսաստանին. «Օրվա ամփոփում»՝ ռուսերեն",
+"url": "https://news.am/hy/news/1072059",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "նոյեմբերի 2 | 22:08 Նարեկ Կարապետյանը, Իրինա Յոլյանն ու Անուշ Միրզոյանն այցելել են Շաքիում ադրբեջանցու կրшկոցից վիրավորում ստացած Անի Ավետիսյանին",
+"url": "https://news.am/hy/news/1072057",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "նոյեմբերի 2 | 22:05 Ընդդիմությունը չի պատրաստվում ճնշման տակ զիջման գնալ Սահմանադրության հարցում",
+"url": "https://news.am/hy/news/1072053",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Ուղիղ Փաշինյանը մեղադրում է Մոսկվային. Հայաստանը կհեռացվի՞ այս տարի ԵԱՏՄ-ից I ԼՈՒՐԵՐ I 20:00",
+"url": "https://news.am/hy/news/1072034",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "Ուղիղ Ընդդիմությունը պատրաստվում է նորից փողո՞ց դուրս գալ Փաշինյանին հեռացնելու համար I ԼՈՒՐԵՐ I 18:00",
+"url": "https://news.am/hy/news/1072012",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "Ուղիղ Ընդդիմությունը պնդում է՝ զիջման չեն գնալու Սահմանադրության հարցում I ԼՈՒՐԵՐ I 14:00",
+"url": "https://news.am/hy/news/1071931",
+"firstSeenBaku": "2026-11-02 14:33"
+},
+{
+"title": "Մենք Լեռնային Ղարաբաղի կորուստը թույլ չտալու համար բոլոր հնարավորությունները չօգտագործեցինք. Զատուլին նոյեմբերի 2, 18:32",
+"url": "https://news.am/hy/news/1072015",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "ONEX-ը գործարկեց ROXY-ին՝ Հայաստանում առաջին օնլայն գնումների AI օգնականին նոյեմբերի 2, 18:26",
+"url": "https://news.am/hy/news/1072014",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "Նոր Սահմանադրությամբ՝ հայերենը որպես միակ պետական լեզու սահմանող հոդվածը կդառնա անփոփոխելի.Ռուբինյան",
+"url": "https://news.am/hy/stories/3275",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "My Space Roadshow 6. Երևանում անցկացվել է անշարժ գույքի միջազգային 6-րդ ցուցահանդեսը",
+"url": "https://news.am/hy/stories/3265",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "Ադրբեջանի և Իրանի սահմանին փոխhրшձգnւթյուն է տեղի ունեցել",
+"url": "https://news.am/hy/stories/3264",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "Ադրբեջանցիների հոգևոր առաջնորդը տարածքային հավակնություններ է ներկայացրել Հայաստանի նկատմամբ Ադրբեջանցիների այսպես կոչված հոգևոր առաջնորդ Ալլահշուքյուր Փաշազադեն տարածքային հավակնություններ նոյեմբերի 2, 21:46",
+"url": "https://news.am/hy/news/1072048",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Միայն Երևանն ու Բաքուն. նոր երաշխավորներ չեն լինի․ Հովհաննիսյան նոյեմբերի 2, 16:26",
+"url": "https://news.am/hy/news/1071976",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "Հայաստանի տնտեսական ակտիվության աճի հիմնական աղբյուրները շարունակում են մնալ ծառայություններն ու շինարարությունը. ԵԱԶԲ Հայաստանի տնտեսական ակտիվության աճի հիմնական աղբյուրները շարունակում են մնալ ծառայություններն նոյեմբերի 2, 22:00",
+"url": "https://news.am/hy/news/1072023",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Երևանը դարձել է ռուսաստանցիների հանգստի համար ամենաշատ էժանացած արտասահմանյան ուղղությունը նոյեմբերի 2, 21:30",
+"url": "https://news.am/hy/news/1072024",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "Eleveight AI ընկերությունը նախատեսում է 2 միլիարդ դոլար ներդնել Հայաստանում նոյեմբերի 2, 21:03",
+"url": "https://news.am/hy/news/1072026",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "Ադրբեջանն ու հայ բնապահպանները․ ինչո՞ւ են համընկնում Ամուլսարի դեմ հնչող պահանջները. Armlur.am նոյեմբերի 2, 17:00",
+"url": "https://news.am/hy/news/1071989",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "Հայաստանում 2027 թվականին նախատեսում են ընդլայնել ավանդների փոխհատուցում ստացողների շրջանակը նոյեմբերի 2, 20:56",
+"url": "https://news.am/hy/news/1072042",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "Հայաստանում կենսաթոշակի չափը կբարձրանա. նախարար նոյեմբերի 2, 18:02",
+"url": "https://news.am/hy/news/1072009",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "Ջուր չլինելու պատճառով Երևանի 3 վարչական շրջաններում դասերը կանցկացվեն օնլայն նոյեմբերի 2, 16:25",
+"url": "https://news.am/hy/news/1071980",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "նոյեմբերի 2, 18:15 ԱՄՆ-ն առաջիկա օրերին կարող է միջուկային հարված հասցնել Իրանին. Թաքեր Կարլսոն Իսրայելի վարչապետ Բենիամին Նեթանյահուի ճնշման ներքո Թրամփի վարչակազմը կարող է հաշված օրերի",
+"url": "https://news.am/hy/news/1072006",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "ՌԴ-ի և Ուկրաինայի հետախուզական ծառայությունները տարհանում են սկսել Ալեշկիում, սակայն դա վերագրվել է Մելանյա Թրամփին․ Le Monde նոյեմբերի 2, 15:12",
+"url": "https://news.am/hy/news/1071941",
+"firstSeenBaku": "2026-11-02 15:30"
+},
+{
+"title": "նոյեմբերի 2, 09:37 Հայաստանի Պրեմիեր լիգա․ 12-րդ տուրի արդյունքներն ու մրցաշարային դրությունը",
+"url": "https://sport.news.am/arm/news/169970",
+"firstSeenBaku": "2026-11-02 10:38"
+}
+],
+"armenpress-hy": [
+{
+"title": "Իրանը Հայաստանին առաջարկել է ստեղծել անդրսահմանային համատեղ խաղաղության և բարեկամության պարկ. Համիդ Զոհրաբի 16:27, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264509",
+"firstSeenBaku": "2026-11-02 16:33"
+},
+{
+"title": "Քաղաքականություն ԱԽ քարտուղարը մասնակցել է տարածաշրջանային և աշխարհաքաղաքական զարգացումներին նվիրված համաժողովին ՀՀ անվտանգության խորհրդի քարտուղար Ալեն Սիմոնյանը մասնակցել է «Հայկական խորհրդի» նախաձեռնությամբ Երևանում անցկացված համաժողովին, հանդես եկել բացման խոսքով և պատ... 21:52, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264544",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Քաղաքականություն ԱԺ նախագահը հայտնել է նոր Սահմանադրությամբ հայերենի պետական կարգավիճակն անփոփոխելի դարձնելու մասին 20:16, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264539",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "Քաղաքականություն Այն կարգավորումները, որոնք արտահայտված են ԹՐԻՓՓ համաձայնագրում, չեն կարող կիրառվել Ադրբեջանում․ Արթուր Հովհաննիսյան 12:57, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264466",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "Քաղաքականություն Քայլ-քայլ Հայաստանի պետական սահմանների ամբողջ վերահսկողությունը պատվիրակելու ենք մեր սահմանապահ ծառայությանը. Փաշինյան 12:22, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264463",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "Հայաստան Երևանում ինքնագլորով երթևեկող 27-ամյա երիտասարդի մոտ խլացուցիչով ինքնաձիգ է հայտնաբերվել 20:57, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264540",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "Հայաստան Ապօրինի ընդերքօգտագործման հետևանքով պետության պատճառվել է 146 մլն դրամի վնաս. ԲԸՏՄ-ն հաղորդումներ է ներկայացրել ՔԿ 17:16, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264523",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "Աշխարհ Լեհաստանը Ռուսաստանի հետ սահմանամերձ շրջաններում հատուկ գործողություն է իրականացնում 21:31, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264542",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "19:51, 2 նոյեմբերի Ղազախստանում սահմանադրական կարգը բռնի փոխելու մեղադրանքով 10 մարդ է ձերբակալվել",
+"url": "https://armenpress.am/hy/article/1264538",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "Տեսանյութ COP17-ի «Հայաստան» տաղավարն ունեցել է շուրջ 10 000 այցելու 09:13, 3 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264550",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "Տեսանյութ Նիկոլ Փաշինյանն ԱԺ-ում ներկայացրել է ՀՀ 2027 թվականի պետբյուջեի նախագիծը 12:15, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264462",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "Մշակույթ Բանաստեղծուհի Աննա Եղոյանը «Տրիգեր» պոետիկ երեկոյով հանդես կգա Երևանում 16:13, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264505",
+"firstSeenBaku": "2026-11-02 16:33"
+},
+{
+"title": "Մշակույթ «ՄանուՖեստ» մանկապատանեկան ֆիլմերի միջազգային փառատոնը կանցկացվի Երևանում, Արագածոտնի, Լոռու և Սյունիքի մարզերում 16:09, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264503",
+"firstSeenBaku": "2026-11-02 16:33"
+},
+{
+"title": "Հայաստան Բեմ, որտեղ հաղթահարվում են վախերն ու կարծրատիպերը. «Արև» թատրոնի նոր ներկայացումը 14:14, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264477",
+"firstSeenBaku": "2026-11-02 14:33"
+},
+{
+"title": "Մշակույթ Հայաստանի առաջին պետական տիկնիկային թատրոնը ներկայանում է ստեղծագործական նոր շնչով 09:39, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264434",
+"firstSeenBaku": "2026-11-02 10:38"
+},
+{
+"title": "Սպորտ Ճապոնիայի կառավարության աջակցությամբ վերանորոգվել է Հայաստանի ֆիզիկական կուլտուրայի և սպորտի պետական ինստիտուտի ձյուդոյի և կարատեի դահլիճը Հայաստանի ֆիզիկական կուլտուրայի և սպորտի պետական ​​ինստիտուտում տեղի է ունեցել նույն ինստիտուտի ձյուդոյի և կարատեի դահլիճի վերանորոգման ծրագրի ավարտական հա",
+"url": "https://armenpress.am/hy/article/1264526",
+"firstSeenBaku": "2026-11-02 17:48"
+},
+{
+"title": "Սպորտ Հայաստանի հրաձգության հավաքականը սկսում է պայքարն աշխարհի վարկանիշային առաջնությունում 09:30, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264430",
+"firstSeenBaku": "2026-11-02 09:37"
+},
+{
+"title": "Սպորտ Ծանրամարտի աշխարհի առաջնությունում նոյեմբերի 2-ին Հայաստանն ունի երկու մասնակից 09:00, 2 նոյեմբերի",
+"url": "https://armenpress.am/hy/article/1264431",
+"firstSeenBaku": "2026-11-02 09:37"
+},
+{
+"title": "Տնտեսություն Հայաստան-Չինաստան և հակառակ ուղղությամբ բեռնափոխադրողները կազատվեն ճանապարհային որոշ հարկերից և վճարներից 10:02, 12 հոկտեմբերի",
+"url": "https://armenpress.am/hy/article/1262527",
+"firstSeenBaku": "2026-11-02 14:33"
 }
 ],
 "armenpress-en": [
@@ -358,8 +617,8 @@
 "firstSeenBaku": "2026-11-02 19:32"
 },
 {
-"title": "16:57, 2 November Central Bank of Armenia: exchange rates and prices of precious metals - 02-11-26",
-"url": "https://armenpress.am/en/article/1264519",
+"title": "Economy 2027 state budget envisages 1.084 trillion drams for Labor and Welfare Ministry Armenia’s Ministry of Labor and Welfare is projected to receive 1 trillion 84 billion drams under the 2027 state budget, an increase of 91 billion drams compare... 16:52, 2 November",
+"url": "https://armenpress.am/en/article/1264511",
 "firstSeenBaku": "2026-11-02 17:48"
 },
 {
@@ -400,6 +659,11 @@
 ],
 "azatutyun": [
 {
+"title": "Փաշինյանն աշխատանքային այցով մեկնել է Բրյուսել",
+"url": "https://www.azatutyun.am/a/33889397.html",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
 "title": "Գերիների հարցը խաղաղության հաստատման գործընթացի շրջանակում նախատեսվող լուծումներից առանձին հարց է. Ալեքսանյան",
 "url": "https://www.azatutyun.am/a/33888887.html",
 "firstSeenBaku": "2026-11-02 16:33"
@@ -408,11 +672,6 @@
 "title": "Հայաստան գազի մատակարարումը շարունակվում է սովորական ռեժիմով. «Գազպրոմ Արմենիա»",
 "url": "https://www.azatutyun.am/a/hayastan-gazi-matakararoumy-sharounakvoum-e-sovorakan-rezhimov-gazprom-armenia/33888782.html",
 "firstSeenBaku": "2026-11-02 13:38"
-},
-{
-"title": "Սահմանազատման հաջորդ փուլը կարող է անցկացվել Սյունիքում՝ TRIPP-ի հատվածում. Մհեր Գրիգորյան",
-"url": "https://www.azatutyun.am/a/33888736.html",
-"firstSeenBaku": "2026-11-02 11:59"
 },
 {
 "title": "Փաշինյանը դարձյալ հանրային ճնշում է «խոստանում» ընդդիմությանը, եթե դեմ գնան նոր Սահմանադրությանը. ընդդիմադիրներն արձագանքում են",
@@ -448,6 +707,11 @@
 "title": "Սահմանազատման հաջորդ փուլը կարող է անցկացվել Սյունիքում՝ TRIPP-ի հատվածում. Մհեր Գրիգորյան",
 "url": "https://www.azatutyun.am/a/33888861.html",
 "firstSeenBaku": "2026-11-02 15:30"
+},
+{
+"title": "2 Սահմանազատման հաջորդ փուլը կարող է անցկացվել Սյունիքում՝ TRIPP-ի հատվածում. Մհեր Գրիգորյան",
+"url": "https://www.azatutyun.am/a/33888736.html",
+"firstSeenBaku": "2026-11-02 11:59"
 }
 ],
 "tert": [
@@ -455,11 +719,6 @@
 "title": "Արևմուտքում վերջապես ձայներ են բարձրանում, որոնք արձանագրում են, որ Փաշինյանը բռնшպետություն է հաստատում Հայաստանում և ապօրինաբար հալшծում Եկեղեցուն և ընդդիմությանը․ Լևոն Զուրաբյան",
 "url": "https://www.tert.am/am/news/2026/11/02/levon-zurabyan-/4289035",
 "firstSeenBaku": "2026-11-02 23:33"
-},
-{
-"title": "Նոր Սահմանադրությամբ՝ հայերենը որպես միակ պետական լեզու սահմանող հոդվածը կդառնա անփոփոխելի․ Ռուբեն Ռուբինյան (տեսանյութ)",
-"url": "https://www.tert.am/am/news/2026/11/02/ruben-rubinyan-/4289014",
-"firstSeenBaku": "2026-11-02 19:32"
 },
 {
 "title": "Փաշինյանն աշխատանքային այցով մեկնել է Բրյուսել",
@@ -470,6 +729,11 @@
 "title": "Վաղվա միջոցառումը, որին մասնակցելու է Փաշինյանը, կազմակերպված է ոչ թե ԵՄ-ի պաշտոնական մարմինների, այլ Euronews հեռուստաընկերության կողմից․ Արմեն Աշոտյան (տեսանյութ)",
 "url": "https://www.tert.am/am/news/2026/11/02/armen-ashotyan-pashinyan-/4289033",
 "firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "Նոր Սահմանադրությամբ՝ հայերենը որպես միակ պետական լեզու սահմանող հոդվածը կդառնա անփոփոխելի․ Ռուբեն Ռուբինյան (տեսանյութ)",
+"url": "https://www.tert.am/am/news/2026/11/02/ruben-rubinyan-/4289014",
+"firstSeenBaku": "2026-11-02 19:32"
 },
 {
 "title": "Ընդդիմությանը հաջողվել է փաստի առաջ կանգնեցնել և՛ Փաշինյանին, և՛ Ալիևին․ Իշխան Սաղաթելյան",
@@ -497,16 +761,6 @@
 "firstSeenBaku": "2026-11-02 13:38"
 },
 {
-"title": "Երևանի քաղաքապետարանի դեմ գործով դիմումը ՍԴ-ում է",
-"url": "https://www.tert.am/am/news/2026/11/02/municipality-court/4288957",
-"firstSeenBaku": "2026-11-02 13:38"
-},
-{
-"title": "Փաշինյանը պետական հեղաշրջման մասին խոսեց՝ հայտարարելով ընդդիմության նկատմամբ ճնշման մասին. Գեղամ Մանուկյան",
-"url": "https://www.tert.am/am/news/2026/11/02/manukyan-pashinyan/4288954",
-"firstSeenBaku": "2026-11-02 11:59"
-},
-{
 "title": "Ադրբեջանի Կովկասի մուսուլմանների վարչության ղեկավար Ալլահշուքյուր Փաշազադեն շարունակում է առաջ մղել «Արևմտյան Ադրբեջանի» օրակարգը",
 "url": "https://www.tert.am/am/news/2026/11/02/azerbajan-armenia-/4289041",
 "firstSeenBaku": "2026-11-03 00:23"
@@ -514,11 +768,6 @@
 {
 "title": "Լեհաստանը Ռուսաստանի հետ սահմանամերձ շրջաններում հատուկ գործողություն է իրականացնում",
 "url": "https://www.tert.am/am/news/2026/11/02/russia-/4289040",
-"firstSeenBaku": "2026-11-03 00:23"
-},
-{
-"title": "Եմենում հութիների հրթիռային հարվածի հետևանքով խաղաղ բնակչության շրջանում կան զոհեր և տասնյակ վիրավորներ",
-"url": "https://www.tert.am/am/news/2026/11/02/emen-/4289038",
 "firstSeenBaku": "2026-11-03 00:23"
 },
 {
@@ -535,6 +784,53 @@
 "title": "Հայաստանի խնդրանքով հետաձգվել է Ռուսաստանի դեմ բողոքի քննությունը. «Ժողովուրդ»",
 "url": "https://www.tert.am/am/news/2026/11/03/arm-russ/4289046",
 "firstSeenBaku": "2026-11-03 08:30"
+}
+],
+"hetq": [
+{
+"title": "2026-11-03 09:20:00 Նիկոլ Փաշինյանը դատարանում վիճարկում է իր և Աննա Հակոբյանի կապիտալի մասին հրապարակումները",
+"url": "https://hetq.am/hy/article/185182",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "2026-11-03 08:21:00 Նիկոլ Փաշինյանը աշխատանքային այցով մեկնել է Բրյուսել",
+"url": "https://hetq.am/hy/article/185181",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "2026-11-02 22:58:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
+"url": "https://hetq.am/hy/article/185180",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "2026-11-02 22:47:00 ԱԽ քարտուղար Ալեն Սիմոնյանը մասնակցել է «Հայկական խորհրդի» նախաձեռնությամբ անցկացված համաժողովին",
+"url": "https://hetq.am/hy/article/185179",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "2026-11-02 18:34:00 Առցանց առևտրի հարթակների համար նոր պարտականություններ կսահմանվեն",
+"url": "https://hetq.am/hy/article/185176",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "2026-11-02 16:17:00 ԱԺ նախագահ Ռուբեն Ռուբինյանն ընդունել է Հայաստանում Կանադայի դեսպան Ջուլի Քրոուլիին",
+"url": "https://hetq.am/hy/article/185168",
+"firstSeenBaku": "2026-11-02 16:33"
+},
+{
+"title": "2026-11-02 12:40:00 Երևանի և Կոտայքի մարզի մի շարք հասցեներում 36 ժամ ջուր չի լինի",
+"url": "https://hetq.am/hy/article/185164",
+"firstSeenBaku": "2026-11-02 13:38"
+},
+{
+"title": "2026-11-02 08:44:00 Հայաստանը միացել է «Քաղցրահամ ջրերի մարտահրավեր» նախաձեռնությանը. ի՞նչ է այն եւ ի՞նչ կտա մեր երկրին",
+"url": "https://hetq.am/hy/article/185158",
+"firstSeenBaku": "2026-11-02 09:37"
+},
+{
+"title": "Անտառի «վերքերը». ադրբեջանցիները զավթել են Շիկահողի արգելոցի մոտ 1/6 մասը",
+"url": "https://hetq.am/hy/article/184980",
+"firstSeenBaku": "2026-11-02 22:30"
 }
 ],
 "hraparak": [
@@ -589,6 +885,78 @@
 "firstSeenBaku": "2026-11-02 13:38"
 }
 ],
+"1in": [
+{
+"title": "Պատերազմի սպասումով խաղաղություն չեն կառուցում",
+"url": "https://www.1in.am/3775276.html",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "«Գաղտնի պլան». Հայաստանի տնտեսության դեմ բացված քաղաքական ճակատը 09:00 2026.11.03",
+"url": "https://www.1in.am/3775357.html",
+"firstSeenBaku": "2026-11-02 21:32"
+},
+{
+"title": "Սփյուռքի անունից խոսելու իրավունքը և Հայաստանի ինքնիշխան կամքը 09:00 2026.11.03",
+"url": "https://www.1in.am/3775273.html",
+"firstSeenBaku": "2026-11-02 19:32"
+},
+{
+"title": "ONEX-ը գործարկեց ROXY-ին՝ Հայաստանում առաջին օնլայն գնումների AI օգնականին",
+"url": "https://www.1in.am/3775604.html",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "Team Telecom Armenia-ն միավորում է պետության և մասնավոր հատվածի ջանքերը՝ հանուն բնության",
+"url": "https://www.1in.am/3775653.html",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "«Ուժեղ Հայաստան» խմբակցության ղեկավարը ու Չեխիայի դեսպանը քննարկել են ՀՀ–ԵՄ գործակցությունը և տարածաշրջանային զարգացումները ԱԺ «Ուժեղ Հայաստան» խմբակցության ղեկավար Նարեկ Կարապետյանը, խմբակցության պատգամավորներ Հարություն Հարությունյանը և Հասմիկ Ենգոյանը նոյեմբերի 2-ին հանդիպել են Հայաստանի Հանրապետ",
+"url": "https://www.1in.am/3775637.html",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "Ղազախստանում սահմանադրական կարգը բռնի փոխելու մեղադրանքով 10 մարդ է ձերբակալվել 08:10 2026.11.03",
+"url": "https://www.1in.am/3775666.html",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "Լեհաստանը Ռուսաստանի հետ սահմանամերձ շրջաններում հատուկ գործողություն է իրականացնում 08:30 2026.11.03",
+"url": "https://www.1in.am/3775672.html",
+"firstSeenBaku": "2026-11-03 09:31"
+},
+{
+"title": "Հայաստանի էներգետիկ շուկայի բարեփոխումները՝ ԵՄ աջակցությամբ և միջազգային փորձի փոխանակմամբ․ ՀԾԿՀ",
+"url": "https://www.1in.am/3775517.html",
+"firstSeenBaku": "2026-11-03 01:23"
+},
+{
+"title": "«ՄանուՖեստ» մանկապատանեկան ֆիլմերի միջազգային փառատոնը կանցկացվի Երևանում, Արագածոտնի, Լոռու և Սյունիքի մարզերում",
+"url": "https://www.1in.am/3775561.html",
+"firstSeenBaku": "2026-11-03 00:23"
+},
+{
+"title": "Հայաստանը կատարել է ռազմավարական ընտրություն՝ հօգուտ տևական խաղաղության․ Միրզոյան",
+"url": "https://www.1in.am/3775687.html",
+"firstSeenBaku": "2026-11-03 00:23"
+},
+{
+"title": "ԱԺ նախագահը հայտնել է նոր Սահմանադրությամբ հայերենի պետական կարգավիճակն անփոփոխելի դարձնելու մասին",
+"url": "https://www.1in.am/3775660.html",
+"firstSeenBaku": "2026-11-02 23:33"
+},
+{
+"title": "ՆԱՏՕ-ն և Ուկրաինան հուշագիր են ստորագրել Կիևին DIANA ծրագրին հասանելիություն տրամադրելու մասին",
+"url": "https://www.1in.am/3775495.html",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Հայաստանի երեք շախմատիստ կմասնակցի աշխարհի Մ20 արագ և կայծակնային շախմատի առաջնություններին",
+"url": "https://www.1in.am/3775548.html",
+"firstSeenBaku": "2026-11-02 16:33"
+}
+],
 "primeminister": [
 {
 "title": "Today, we mark the launch of a passport in the Republic of Armenia that complies with all modern international standards: Prime Minister",
@@ -599,6 +967,48 @@
 "title": "PM Pashinyan attends the opening of \"HayPass\" company’s new office in Yerevan",
 "url": "https://www.primeminister.am/en/press-release/item/2026/10/31/Nikol-Pashinyan-HayPass-31-10/",
 "firstSeenBaku": "2026-11-02 11:59"
+}
+],
+"civilnet": [
+{
+"title": "02 November, 22:05 Armenia introduces biometric passports, tightens residence permit rules",
+"url": "https://civilnet.am/en/news/1015144",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "02 November, 20:01 Why the U.S. midterm elections are important for Armenia",
+"url": "https://civilnet.am/en/news/1015143",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "02 November, 14:48 Armenia emerging as regional internet transit hub, Team Telecom chief says",
+"url": "https://civilnet.am/en/news/1015138",
+"firstSeenBaku": "2026-11-02 15:30"
+},
+{
+"title": "02 November, 11:07 Armenia’s bees face mounting threats from climate change, pesticides and disease",
+"url": "https://civilnet.am/en/news/1015026",
+"firstSeenBaku": "2026-11-02 11:59"
+},
+{
+"title": "Armenia’s passport changes its color",
+"url": "https://civilnet.am/en/stories/1080",
+"firstSeenBaku": "2026-11-02 22:30"
+},
+{
+"title": "Mariam Hoveyan How Armenia's local governments are elected 26 October, 16:24",
+"url": "https://civilnet.am/en/news/1013871",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "Yerevan to host Prince Talal International Prize ceremony honoring clean energy projects Sponsored content The Arab Gulf Program for Development (AGFUND) will honor four clean energy projects with the Prince Talal International Prize for Human Development 26 October, 16:56",
+"url": "https://civilnet.am/en/news/1015016",
+"firstSeenBaku": "2026-11-02 20:39"
+},
+{
+"title": "PROFAL Launches Architectural Glass Processing Factory with an Investment of Over $20 Million Sponsored contentAhead of its 25th anniversary, PROFAL, a leading Armenian manufacturer of aluminum doors and windows, has launched the region’s largest architectural 19 October, 15:59",
+"url": "https://civilnet.am/en/news/1014868",
+"firstSeenBaku": "2026-11-02 21:32"
 }
 ],
 "oc-media": [
