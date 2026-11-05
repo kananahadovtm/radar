@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-05T05:39:01.392773+00:00",
-"generatedAtBaku": "2026-11-05 09:39",
+"generatedAt": "2026-11-05T06:38:43.781548+00:00",
+"generatedAtBaku": "2026-11-05 10:38",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,25 +9,26 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 69,
-"HRAPARAKAM": 9,
-"ArmenianVendetta": 21,
+"bagramyan26": 74,
+"HRAPARAKAM": 12,
+"ArmenianVendetta": 22,
 "caucasar": 5
 },
 "pages": {
-"azertag": 54,
-"apa": 14,
+"azertag": 51,
+"apa": 16,
 "qafqazinfo": 13,
-"haqqin": 5,
-"news.am": 33,
-"armenpress-hy": 21,
-"armenpress-en": 30,
+"haqqin": 4,
+"news.am": 28,
+"armenpress-hy": 22,
+"armenpress-en": 28,
 "azatutyun": 9,
-"tert": 19,
+"tert": 21,
 "hetq": 10,
-"1in": 14,
-"primeminister": 1,
-"civilnet": 13,
+"hraparak": 15,
+"1in": 11,
+"primeminister": 2,
+"civilnet": 14,
 "oc-media": 6,
 "jam-news": 1,
 "eeas-press": 14,
@@ -46,12 +47,11 @@
 "301am": 6,
 "alphanews": 10
 },
-"search": 124
+"search": 134
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
-"hraparak": "HTTPSConnectionPool(host='hraparak.am', port=443): Read timed out. (read timeout=30)",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
