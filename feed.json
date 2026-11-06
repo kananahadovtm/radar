@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-06T07:52:46.585660+00:00",
-"generatedAtBaku": "2026-11-06 11:52",
+"generatedAt": "2026-11-06T09:34:46.053932+00:00",
+"generatedAtBaku": "2026-11-06 13:34",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,34 +9,29 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 60,
-"HRAPARAKAM": 15,
-"ArmenianVendetta": 13,
-"caucasar": 6
+"bagramyan26": 65,
+"HRAPARAKAM": 16,
+"ArmenianVendetta": 14,
+"caucasar": 7
 },
 "pages": {
-"azertag": 46,
-"apa": 19,
-"qafqazinfo": 14,
-"haqqin": 10,
-"news.am": 27,
-"armenpress-hy": 21,
+"azertag": 43,
+"apa": 16,
+"qafqazinfo": 17,
+"haqqin": 13,
+"news.am": 31,
+"armenpress-hy": 19,
 "armenpress-en": 24,
-"azatutyun": 9,
-"tert": 10,
+"azatutyun": 11,
+"tert": 12,
 "hetq": 8,
-"hraparak": 8,
-"1in": 16,
+"hraparak": 15,
 "primeminister": 1,
 "civilnet": 8,
 "oc-media": 6,
 "jam-news": 2,
-"eeas-press": 16,
-"eeas-azerbaijan": 10,
-"eeas-armenia": 18,
-"euma": 8,
 "europarl": 0,
-"osce": 3,
+"osce": 4,
 "nato": 1,
 "un-press": 2,
 "un-azerbaijan": 0,
@@ -45,13 +40,18 @@
 "armenian-assembly": 3,
 "arfd": 2,
 "301am": 17,
-"alphanews": 22
+"alphanews": 26
 },
-"search": 170
+"search": 180
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
 "caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"1in": "HTTPSConnectionPool(host='www.1in.am', port=443): Read timed out. (read timeout=30)",
+"eeas-press": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/eeas/press-material_en",
+"eeas-azerbaijan": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/azerbaijan_en",
+"eeas-armenia": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/delegations/armenia_en",
+"euma": "403 Client Error: Forbidden for url: https://www.eeas.europa.eu/euma_en",
 "europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
