@@ -1,8 +1,638 @@
 {
-"generatedAt": "2026-11-11T08:22:34.185865+00:00",
-"generatedAtBaku": "2026-11-11 12:22",
+"generatedAt": "2026-11-11T16:35:34.227971+00:00",
+"generatedAtBaku": "2026-11-11 20:35",
 "hours": 30,
 "search": [
+{
+"title": "Azerbaijan House in German city of Stuttgart hosts event marking Victory Day - Azərtac",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVdHVE41Q3lvR1JEeFZ3UXRfRVhMbGlDVTE1Y0xHVUR5NDg4ZUktLTEwdUlOWS00WTVzTHhCdXpUR0N1bERCazZOZXMyQ1hoRXZTRzY5bHl2c25WQ1NGSlhtdFJvSlBKSEc5eXdpOUNKTmVsc1dCb3FxU3k4bERUTnJ4UFc4aklTeVRaam1pNVk4QVJCQTRZYUZtQnpiei1FWFcwOWJoNFcxX1lHNHAzai1R?oc=5",
+"source": "Azərtac",
+"time_baku": "2026-11-11 20:31",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Armenia's war on historical reality finds new battleground in Blue Mosque - AzerNews",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaUNwS2NBRXJfQzhQMnBaQlpWdnJra21mbjJqY2FCUWZIbzc5Nm1QYnJCTjdTdzlCMlNUdDRFRjFLR29HYVFEMlp1T2h3bHRzSTYxczFaVQ?oc=5",
+"source": "AzerNews",
+"time_baku": "2026-11-11 20:03",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijani diaspora marks Victory Day with event in Stuttgart (PHOTO) - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91cmhfUlh4Um1vVEV5U1VPdTAyeGhwOEtnblROcDhhQ2FOcUFZN1pxUG12dkVvUngtRDJudUhOUG93RzhYQnZCcjBmNFl0cFFrdHl5ZEEzSQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 20:02",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Armenia loses voting rights in CSTO - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoNlp3RTlXaE9tX1JqT2ljSWpEWnVZbWdzNXdxT3ItT3NXWm9YWVlPZWZQU3Z4WlpsUUduekEtenZtMXBxRHJWcTFHSzFNcFh4bGVoWi1sZFRFRzBoeVhzZ2ZwNmpVR0NMNnZhTWN2eG1haHVlaGhlSm9Odw?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-11-11 20:02",
+"query": "UN Armenia"
+},
+{
+"title": "UN sees climate technology center driving Caspian regional cooperation (Exclusive) - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83VDRZTk1WVlJlbnJKM0gyRHB4c0RQdUVqUk9jdE5VZmRUR3lidUh4SHdCbEVMZnhjT05Ybm1ib1BKRV9TLXJiTHdEa2hPSzFu?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 20:00",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Azerbaijan Railways Freight Volume Rises 13% on Transit Growth - PravdaReport",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDhGM05Na3VqMHZTaWNSVmdHSV9acXdNeldxWEdRbkRONEszc0NrTTAzVXNmY1FTRWJScmRmYXc5NkhUZVNVS0djLTA4R0pmZjU1M3N6WTVseTBDVHpTVHkxRTlGSXhxc0VxWERLQmJ3OUllQm01cE5pLTh2M29jRUZTM3NlWUYwc3Z3Z2tiaUxyVXM?oc=5",
+"source": "PravdaReport",
+"time_baku": "2026-11-11 19:51",
+"query": "NATO Azerbaijan"
+},
+{
+"title": "Leyla Aliyeva visits Azerbaijan pavilion at COP31 - Azərtac",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0pndF83Q1U5OUpHNFlfV24yWGg1TlV1eGVGTGN1N2xRQWM0b0QySDNNRDJWdW1yaGlDU2NrYWJ1Y0wzYnhwS0tEbXFNdlNMRnZRQUpSVl93YXpQS3pMV3Vkd3Z6czRENzFRUjZacEpMZ1AxRXgwTmRHSlZoY0ZEejE5MXRleUpRM0tEZENR?oc=5",
+"source": "Azərtac",
+"time_baku": "2026-11-11 19:51",
+"query": "UN Azerbaijan"
+},
+{
+"title": "New edition of IRS-Heritage magazine published in Moscow - Azərtac",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemlJRm13Ri1TVnVJU0ZidTdidFpBeTl6OXhUaTdMMEEzRmxtZHVHcmVZYnpXaXp3ZkNlbkFFanZMRGJqa3c1ZEk1dzRFbFlBU2w4QnFKU0dYeWtlLWNUV1BUSDRfbW9PbDdLdzhsRXVuU1FacjFyQ3o1N0tpMVRydWloOVcyX3FjOFMyZnE0Y3JWUzN0TlJn?oc=5",
+"source": "Azərtac",
+"time_baku": "2026-11-11 19:44",
+"query": "Азербайджан"
+},
+{
+"title": "Dublin Summit and Baku perspective: Azerbaijan’s diplomatic success - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tMy1wczZIanQwdmc2Z042aEJ1VE14NDFFczZtcjl1SzRWTGlCOW1IVmI2VW11Z3pNNjVDaW1DMzdVVzN6eVhuaGZJTnR4ZnZQeU51LXpVWQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 19:19",
+"query": "Azerbaijan EU"
+},
+{
+"title": "CSTO Secretary General states condition for restoration of Armenia's participation in the organization - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40dkt2YmZNVmVZMGZmeXFQdGU3cUF3cl91UnN1MGY0RTU5cm10ZG1fRFNwamZVODN3eXhzZmg5N28xUFRFN3c?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 19:10",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijan pledges 40% emissions cut by 2035, Teymur Musayev says - Report.az",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG1qeEEzOENkal9INjB4YXdQMnVHTjBKZTZuX1VBV2k5TW42TlZ1VW9aTEdhVTRBTW51aWpYaS1teEt1NHlWMzlHMkNsbHg3VUZQcW9QTXYzaFVMZEFoaC1EbC11ck0tbHlCSUoxQVJGZU9venVuTjZkbnZOdE9hTkQ3MlZsc0F6OVFNUUZlUGNKcVJFMTlv?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 19:07",
+"query": "Азербайджан"
+},
+{
+"title": "Russia wants to strip Armenia of its voting rights in the CSTO: what is happening between Moscow and Yerevan - UkrMedia News",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ULWtBOHlFaDRoamV6eXVyQUdraTRqOHR3di1xMUZUQzkwSDFFSTVzcTBXZTN5NDlMWEQ0VENsRS1OUlBqZmg5X0E3QWx2cmJjMzdyTUJuMXllU0k1ZHpkbkVuQkVfT2R3di1paWJxRFRfVlRM?oc=5",
+"source": "UkrMedia News",
+"time_baku": "2026-11-11 19:03",
+"query": "NATO Armenia"
+},
+{
+"title": "Azerbaijan urges countries to meet existing climate commitments - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnhySTlhczdjdnQ0Z2kzRndwa3YzSlM2UDJsazlOSEFaUXhISnVCMWxJVFdneDJyWm8zcHRDQ01wRmFQSE9KNU8xTXdlT21XUTJ6Qk9BNEljWWlLN0RhcGJuRkJHUXp2dVZ3bVdBZi0wX21FUnZ4NnpXM0VXdlBNMmt0WkdHTjBQS0Exa21XeWVyRWNKXzA1cGZvMy1Tc3RFS2g0?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 18:59",
+"query": "Азербайджан"
+},
+{
+"title": "Armenia has lost its voting rights in the CSTO - UA.NEWS",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNVZzaFk2NzcxbHJPU2xaZXZaQ2JIQWRMc1FrUmUyNDFYUnhQX0xNa0Jqb3NuWmhpbWlabXZRbWFKMmFzaXpYeXVSbmFzSUI0OFZiXy1MQzJraHNNbWFCV0lxRklOWTFTZFBoYzMtdHI?oc=5",
+"source": "UA.NEWS",
+"time_baku": "2026-11-11 18:54",
+"query": "European Parliament Armenia"
+},
+{
+"title": "Kremlin spox: Armenia has also been deprived of right to appoint its representatives to responsible positions in CSTO - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9meEEwbjJId0wyaEFpNjg3OV9xQmNpcEJvcUNiRmRhelVxSUdraFc4VV9pUENSYUlLT3ZNcWtwRDIzRGlGeFE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 18:47",
+"query": "UN Armenia"
+},
+{
+"title": "Armenia premier-Turkey president meeting underway - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yVEdEMjhBSHhpSjBkd2hqRUwxeUZxQTdRQUtVZl9wdGFib1huN0tKa0N6N2NYbU5HTkpUc3FqcGNIWEdvU2c?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 18:44",
+"query": "UN Armenia"
+},
+{
+"title": "Armenia deprived of voting rights in CSTO - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oeC02eDdtZnFVVm1wLXBXY3g0YXpZa09Xa3R3TTl2TDRwb2lSc1BZb0VUeEJadDFYSXFTS3B6WXJIYU1wYnc?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 18:41",
+"query": "UN Armenia"
+},
+{
+"title": "What did Armenia’s Pashinyan, Iran’s Pezeshkian discuss? - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51THA4R1didWZ0dWZIdi1uRUs4X1V5WjdIbF9sdEpwZXNqS2Nxc2hvSng1Q3QxQWloeUNLQVBKNmpwSE5OQkE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 18:25",
+"query": "UN Armenia"
+},
+{
+"title": "Five goals in less than half an hour: Youth team opens Euro 2027 qualifiers with seven - vijesti.me",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTB5RnF0Q1NpWUFYeExEcU9ZVTNSeldoNXhYTWZWQ0ZtZU1fZUxFOW41MVBEZDNJaWRaWTdpdWdRSkVpdmt3S3N4bUhyem5VVHpQcU5seHhVYV8zSFNuMGE0UHpnZFh4LXJwMHE0NzdTRHNJWG83OTVkQ09QRmJoRlZPdVdLNTFReGJjR1ZRZ3BBSlV4LVp1bGtwM0JzU2N1d2JJcFhqREZrTDd3VFhTVWlJVlgtWnpxdmU00gG7AUFVX3lxTE1hMHlGcXRDU2lZQVh4TERxT1lVM1J6V2g1eFhNZlZDRm1lTV9lTEU5bjUxUERkM0lpZFpZN2l1Z1FKRWl2a3dLc3htSHJ6blVUelBxTmx4eFVhXzNIU24wYTRQemdkWHgtcnAwcTQ3N1NEc0lYbzc5NWRDT1BGYmhGVk91V0s1MVF4YmNHVlFncEFKVXgtWnVsa3AzQnNTY3V3YklwWGpERmtMN3dUWFNVaUlWWC1aenF2ZTQ?oc=5",
+"source": "vijesti.me",
+"time_baku": "2026-11-11 18:12",
+"query": "PACE Azerbaijan"
+},
+{
+"title": "Former Armenian security chief calls EU membership ambitions an illusion, warns of deeper dependence on Russia - CIVILNET",
+"url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aXk5YmdQbW5rcnlhbDZSYjdYWURvLXFoM1N6VlBFSVF0Y2NLcHhwc2dJalN1QldqcmtXLXZ4em5ZQWRWZ0RMSmNSOA?oc=5",
+"source": "CIVILNET",
+"time_baku": "2026-11-11 18:03",
+"query": "European Parliament Armenia"
+},
+{
+"title": "How to export Armenia goods to EU? Guide, interactive scheme publicized - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTGx0aTdaQVhXWjJSeVFmdGNycVprT2pDSXV5Zm1aa2hPQmxxTWdZS2dMODJvRGVyVEwyNUpJbVVZMTl0c3c?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 17:56",
+"query": "Armenia EU"
+},
+{
+"title": "Libaridian’s new book features interviews with Ter-Petrosyan, Aliyev, and Demirel - Mediamax.am",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uUVNzbUZZRk5oUmFzQUxILTVwZmZiX3ZfTDZUck5SN0dPUjRyUTI3TXB4TDdUU2dBa1duek96Z0xBa0NXd1hrR0tYMXdJd1NTZ25WZQ?oc=5",
+"source": "Mediamax.am",
+"time_baku": "2026-11-11 17:45",
+"query": "OSCE Armenia"
+},
+{
+"title": "Armenia’s Pashinyan drinks Turkish tea in Antalya (VIDEO) - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqMERqdloyb1h0Vi12dVJneWMwbWFpcUQycWlqM1ctVFo3WWVuaHdVUWFONkYtdnFDaHc3R1BOY1B4dk5LcXc?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 17:41",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijan in October fell 104,000 bpd short of its OPEC+ quota - Report.az",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm5MNUpudTRiTEhKTGRfMGJqN1NrU01sYUxINnFBT0xsTnUzdm5qZHdOLUZLTGZEejZfcUNfbkFQNk1IMFZLTG5pa3VMRlFmZlVjOTZXMU5oV2w4ZVMwTU56RDZPYmFfbFp2SEdNRHlBR0JCWDFNQlJVNkcyaWo3S0N2akJLckxKeVAwOTZJdXFnODF3?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 17:31",
+"query": "Азербайджан"
+},
+{
+"title": "PM Pashinyan has repeatedly stated about Armenia's loss of interest in CSTO, Kremlin spox says - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Rc2F1V0o1S3FTbktFSzlPdmM0QmFBN09MeEUxV2JUR1pyS0lqTlN5a1NZeU1FYWpOM1NIRVNFeEJuR2xCTXc?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 17:22",
+"query": "UN Armenia"
+},
+{
+"title": "Armenia May Find Itself in a Tighter Grip of Moscow, Grigoryan - AuroraNews",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUJwb3ctTkhETWt5cENYRHNXQXoybXRvcUptTm5kM2xLamNmZXZKcVpzX0J3X2g4NllOYmxBNXFaMXV2SDJzM01Hbk1UTE1GcW5JbHhOcktMdllQbmREMmszcEZFb1JFdlUwUmIzZWtMSjlPOUhPR2tKdXZqOUZNUDBsMzVLT1U4N29VRndNLWFHRjNVLUV2N0Q5SmZsdGpfQVJqdA?oc=5",
+"source": "AuroraNews",
+"time_baku": "2026-11-11 17:14",
+"query": "Armenia EU"
+},
+{
+"title": "Azerbaijan, Ghana discuss prospective areas of agricultural cooperation - Report.az",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTZncnBMRXphaldqcWxOQUpUbXJ5WVhsdWJqV2EzTWJadU83b0VlSVNaZWdtUm4xYmFxLWM5OUl4TTNldDNYWnpOaVBTUFdaT2F6VWFIRWVZV1hDZ0g1dWF4RzFPcXZxVW94MzNMdTBCZGt3RnFWM3NYYy1XMjFoZmtuZlh3eEV5WFRQWHRLWi1ZMjFBdnpGTlA3NA?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 17:10",
+"query": "Азербайджан"
+},
+{
+"title": "Azerbaijan and Georgia discuss economic cooperation - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3k5UmZOT2ZHV2tqZGVpRXk5TlBTNkM5SWZnZjBnUlJfckwtOVB2X1NITkFQd24zSGoyNzl4S0hJZjNDUUR0Y1dVTnJMWEhaVmpRRnBjVzE2ZXp0clhsR1ItUWx5X2dOblBVMldXdDR3Q1hlb3RITm9wM3FkSEh5RFlBWmM4OHV6?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 17:08",
+"query": "Азербайджан"
+},
+{
+"title": "The tractor driver was injured in a mine explosion in Azerbaijan. - Caucasian Knot",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fVlhSUkY0NXZ2dV8wU19URjdBaWdnY2NQMC1kYmo1cEF5aFFYQjlidnlvay04X1IzV0ttZGhHc2RYMU15OVNFYU9fT1Q4c3VGVldSUGJ6TmI?oc=5",
+"source": "Caucasian Knot",
+"time_baku": "2026-11-11 17:00",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Azerbaijan's GDP reaches $68.2 billion as economy grows 1.7% - AzerNews",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMWFVELU54NHZhYzZrNjBZYnlzcGRESHdjZ0FsZ21rVVZ4MTY2T3IteDZ3akFHNGJYSVN0MmdBXzZiR1k4eWJsX25rRHNPcHBuMXZWR3ZUaw?oc=5",
+"source": "AzerNews",
+"time_baku": "2026-11-11 16:59",
+"query": "PACE Azerbaijan"
+},
+{
+"title": "Kremlin: CSTO will respond appropriately to Armenia`s non-participation in its work - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KQmdqT1R3Z1R5bmlEZTdYT2NEalBycW1BOWpPblRWT1pCWXJfZkZReWVVZlFuVkZkd2pHNUFLLTlxS2t2bm14XzlSYktHdlBaMVZIZlRucU1NemVCM25lbQ?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 16:51",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijan and Vietnam discuss expanding trade and investment ties - Report.az",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck82MVcydnhteC1SWVRVc1l6ZFQ3cjFnQWx0cDBKbzRCZ1pydGdOZnl3dlJlR1BCQUFZOE90OU8zTV9kbW44d3FaTmFLY2tqU2dzVHhiRTZZemdORFpMU3pmcjlmTVVYcndMd25EU29jMG5LQkJqaVRReTJhWU5qMDdNV0JkREd0cHFNN1NKVkJzYlhIelJLSGV4dzc?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 16:43",
+"query": "Азербайджан"
+},
+{
+"title": "UN committee adopts Azerbaijan-initiated resolution on missing persons with support of 63 countries - AzerNews",
+"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBud3hzX0VVcHRHTWxjN2gxM1ptRG9jbFRrVzFYb0cwaXJYRloyRWY5ZWJJVng2MWl0WE03VU00RS15TzhaaEFGVXh3bW03cUlGWnZTcA?oc=5",
+"source": "AzerNews",
+"time_baku": "2026-11-11 16:38",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenian Patriarch of Constantinople receives Armenia’s diaspora commissioner: This is Sinanyan's first visit to Istanbul - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXUXdxblAyMzlPUVFSRWVmLXR0MmFIR3I3Sl9lRlU5UFBiemhhcWtGR0tRRVZnWlEtTXFWa3NlRnhrY0lRQ0E?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 16:36",
+"query": "UN Armenia"
+},
+{
+"title": "UN committee adopts Azerbaijan-initiated resolution on “Missing Persons” - Azərtac",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUxHZndvbGRKSHlBT3M5c05URU9wckZJbERJVFZxWlJWQzFhVTVjbWdPd202aXpJdHNLTHZhUFJXZTZVbXE2OEM5bjFvdGVtSVVyYzBPLUF5Yk5ncFdHSEdpVGR1d1RLc1BPemJ0azRuQ0xGSzhXUEJMSHhFOF9BOWpnbm1PNkFSYS0wQzYxMEtRS3JJbE54dDkxNU9uRVZQNFN5Z3EzSU5GUQ?oc=5",
+"source": "Azərtac",
+"time_baku": "2026-11-11 16:34",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenia finance minister: Difficulties in exporting agricultural products to Russia do not have significant impact on state budget - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZNVB3dENWTF9XR0pldnViTXM4MjBsMFQ5UjhtdkxTUWZQamY1QUJjWFFaQnoxX2lxT1RlcTYwc0NYeng1eVE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 16:30",
+"query": "UN Armenia"
+},
+{
+"title": "Armenian PM attends opening ceremony of COP31 Leaders’ Summit in Antalya - Public Radio of Armenia",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk45TVo1dnJMSjYwYkh4ZnZNR0hRNWtERFBSekF3Wl9yblZXelJRTkQxVXZoUC1aeXU4ZkplRFJiZ1hMakE5anp6RzNFb1A2RDE0OWdWUzBCREdhMTVtX2x4RFl1NGxld2tfclZkWDZLQjZlSXV3X2RJOXRpNjJvS1M4WVlpSVJPVVkzdlZ3SnRtVUNJd2FwdVoyOWZNZ3RNSUo3V0d2dHdHUQ?oc=5",
+"source": "Public Radio of Armenia",
+"time_baku": "2026-11-11 16:11",
+"query": "UNDP Armenia"
+},
+{
+"title": "Azerbaijan and Georgia discuss cooperation in religious affairs - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGx4REdrUDJFT3VXVGozQ09Ua2ozUU5vTUFxYTZ6Nzl3akNZb214NTU1WGNZeWx3ZGZ0a2dBZjBjb3hyVl9GcllVdWlQSlBuMUIzUGs1SnlFTXdRWFNsVGg4MU5SZDAwVjRpRHJZV1JoV1RsZEZFSDdkNEo1RmtVdmUtOXlYbDZyUTJtbmtJQ3RncXZmbnpNeHZkVUo5RmpaaHBZ?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 16:06",
+"query": "Азербайджан"
+},
+{
+"title": "US envoys to meet Putin in Moscow, Zelensky in Dublin after Abu Dhabi talks - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ubDhhUWRVRHBWckdIY1Rza3d0UUZoWEZDSGdLbGhuRHROOFlGZE5WMmxYZjg5XzN0MGRtOGhNOTNPQTJFOEhiMGlZYVN6Z3UySi1yM3VaTdIBV0FVX3lxTE5ubDhhUWRVRHBWckdIY1Rza3d0UUZoWEZDSGdLbGhuRHROOFlGZE5WMmxYZjg5XzN0MGRtOGhNOTNPQTJFOEhiMGlZYVN6Z3UySi1yM3VaTQ?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-11 16:05",
+"query": "NATO Armenia"
+},
+{
+"title": "Sincere dialogue between President Ilham Aliyev and Recep Tayyip Erdoğan at COP31 (PHOTO) - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XUlFTUmNDZkw1Z18wTmZ2NmFnQ1V3MW5PRXE5Q2NDeXdrcWNkSDRWX2JLdGVvS0pCOFlBeHQwV0pIUWZUZmIyZHFPbVFYc2hyMU1IZlMzVQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 16:04",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenia supports Russian resolution against glorification of Nazism at UN (PAN.am) - PanARMENIAN Network",
+"url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5ekpBX29LeEJaTjJyanI4YXg3Z18zalE1TzBIWS00WEV3UGQ4WDBMaWVMd0U3aXlUOGF6RWcxRjVfZw?oc=5",
+"source": "PanARMENIAN Network",
+"time_baku": "2026-11-11 16:03",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijani president attends COP31 Leaders' Summit in Türkiye - Latest news from Azerbaijan",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkdtU1FsQ0ozcS1VdllxdFBVOFV1X0l5OVpQZkRCYVN3MF95R0ltWVB2MGVjY2Q4WllGUExSNXBBd0VXbDVIWkROS3Y1a1FJc0pRbzg4aTNkZXF0MVhpZktxbnRCazN0NnFkX2RrdDI0Tm5ELTBQUXlkVzFOQnJWcGZDWWY3dVNQZWc?oc=5",
+"source": "Latest news from Azerbaijan",
+"time_baku": "2026-11-11 16:02",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Azerbaijan's retail trade turnover rises 3.8% to 57.5 billion manats in January-October - AzerNews",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44RzFNV3E4MFRhQkxBY05vMjdCQ05XaGczb3RzY2UweU50TGh1TTNtTHhCNnctOVB6TkJENFBoV1gxaDRFTlZMenlqczhQVmVRd281Vndydw?oc=5",
+"source": "AzerNews",
+"time_baku": "2026-11-11 15:56",
+"query": "PACE Azerbaijan"
+},
+{
+"title": "UNGA Third Committee adopts Azerbaijan-initiated resolution on missing persons by consensus - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVNoS0x6d3R6bGRSWUtYNnFjVG9MSEJuLUJ5eXFkZDdpQmN1OWFkb2VpSEV3U1JVdTFHTHY5dWNvelVPYU1tWEtwWFpEckJEdGplOFdoQzNiY1dmMkZ6YXhRb3hab2k2VFkxOUJYS09oMGJJTnRQVDhrT0dqQ3F4OGRJeHFfc2o1NVpQV0dsbVJESjRKdWRHWlllSlJTV1piTUxheHdqQ3pTOHhqdDZuSGVxUE1seGtBajZ5eHUyVHQtNVN4QVdEWQ?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 15:50",
+"query": "UN Azerbaijan"
+},
+{
+"title": "UN Committee adopts Azerbaijan-initiated resolution on missing persons by consensus - Latest news from Azerbaijan",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNjdJMmFfQXJHZ3k0Yl9iN3FIeDhpdU92VGJWVmhuRUlrWVFvUTlTQmMyMG1UVWhqS3g1ZFMwbnFVVTJEdWgya3E2Y3VZM2JXSmI2b0ltSm9xX1FxMThVejJfQXhta0R6aldPZ3EtcWJuUGxFX3U5dUpvZ3Z3YnZ2OTRZSmhKenN0dzFKY0dNSGhMVDBtMnNvdE9SVWFyYUlQamtrd1J4Yw?oc=5",
+"source": "Latest news from Azerbaijan",
+"time_baku": "2026-11-11 15:49",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Central Asia–Azerbaijan–Spain forum planned for spring 2027 - Report.az",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEFzM0FzZnVUUkd0TF8tT0VVVl9WeExmNDRUbHFOaU03ZDZVUEY5Um9YOGNTYzZRVHJ4SjdiSGNfU0dOUTlETHdlUDI4RktEdGFBWjJSUzJyMmtwTFpsMWF0N1M2QkNHVGZPZE1oR0V2M2pzRmhqdk9WVExXeFVrdG8zNVhTUXluSXRVbi1MU18tbnlwN1VSamV0R083UQ?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 15:46",
+"query": "Азербайджан"
+},
+{
+"title": "UN adopts Azerbaijan-initiated resolution on missing persons by consensus - Baku.ws",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEZVaVlIaTZvUl9WTmhoa1pEMFN4elM3MG5zejZrbGZINVdaa185S1BCd0tLSW5EYW5TZVkxeG9nN1IxTV8yZnVBQkVpem1wRjR2Y2tDUzdBM05UMjBCcGJfUVRXTXhhSjUtYWFtV1dleHE1ZzF1b2V3OGdCYS1zTzZudFlSQUZSUzBXdk43Z0ZVeTkxNGZMMEtMSjJRM0NoT0lr?oc=5",
+"source": "Baku.ws",
+"time_baku": "2026-11-11 15:45",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Pashinyan attends opening ceremony of COP31 Leaders’ Summit in Antalya - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9COG5tS2ZZNlBGeGh4bXZOdmZFM2h3NUc1Ri1NdUQ5d1pqcU40cjhXeENFWXBaRnhidWZSVkF1eVhSTTFHZE9xM3RhaUkwWFY4SXfSAVdBVV95cUxPdmhaUnA1cUNpR2lrdW1jd2VycGYxUlN2TXJWWWhXNzdpMExUR2huQW9JT0NGblhhaDJjbGE5N1RFWTNCbkhSZF9OcE5nS2M0bjBmN08yODQ?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-11 15:44",
+"query": "UN Armenia"
+},
+{
+"title": "UN adopts by consensus Azerbaijan-initiated resolution on missing persons - شبكة تواصل الإخبارية",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rM3lMMU9LSmF5N1Zsa3JwYjNJdGM1ejRCZGNvME5LYWxhTThZVFFCelZCRmNndGg0OFJwOGhfZkFrZHZpVWU1eHhxdDRLUHM1VE5J?oc=5",
+"source": "شبكة تواصل الإخبارية",
+"time_baku": "2026-11-11 15:40",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenia premier attends opening ceremony of Leaders’ Summit within COP31 climate conference in Turkey - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ESmxGTGExSzRTSXVHZmR0cl9pUzlWbl9vcE5XaXFsS1E0cUJuQzNVRE1ieTdWaXVmRTByVUVUeHZvMFZWUkE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 15:40",
+"query": "UN Armenia"
+},
+{
+"title": "Armenian PM Nikol Pashinyan Attends COP31 Leaders' Summit Opening Ceremony in Antalya - Hetq.am",
+"url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5idFl3LWdycUdxRGhnMVM0Y2I0QXpHLTduSktmUXFLQWxDZjZQTXlTczRwWjZmdjNPVW5HMndia3ZRZml2MkRORw?oc=5",
+"source": "Hetq.am",
+"time_baku": "2026-11-11 15:39",
+"query": "UNDP Armenia"
+},
+{
+"title": "The penitentiary institution presented information on the events leading up to the death of Arsen Gevorkyan - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wQXdLSUhBM1RCdFBPczRRazlmaUtPR2FqTUNGZUJyeFJVYy1kSmkzSjBFTDItX1F2TjZDWndhMkdGMXk3WFdlQVBwbzNrUFM2ZjJTWVRxZzZ6QVJNTHRpNQ?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 15:37",
+"query": "ECHR Azerbaijan"
+},
+{
+"title": "COP31: Armenia’s Pashinyan in 2nd row, Turkey’s Erdogan and Azerbaijan’s Aliyev side by side at leaders’ photoshoot - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51czFHVE80TTJBamZuQ05aaG5iMlVVNmpBUmZqYjRUV1dyU2lXUW9JUDJ0bk5oSjBwcjJlOUZ3OXVoQ1dwS1E?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 15:29",
+"query": "Azerbaijan EU"
+},
+{
+"title": "UN committee adopts Azerbaijan's resolution on missing persons by consensus - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVGJaUTJ4RlVIZl9SMTJva0d6Y192ZUVXbEFaN3FuMzN0YmhfRkx0UWkyczBzNzV1TTNVMDRzajZOUzVRNzQxb0lZN1d1NXdMMFhVYlNWVQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 15:25",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Ukraine Can Join the EU but Not NATO, Medinsky Says - AuroraNews",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWdsSTBJUnVKMXNGMDdwY25LTk40RTVYQXdpZ2Zub2xFVlBlWFVlbHd0akw4MldlU1U2ZzVLSm81T1NEaXV5eVZMRl9sU2FmV0t1NEY4NUpwU1RHUTZ2eV9EVHl4cUxvZG5McF9kalFlRGNlYUtZRkxCM1JhbFpRVWhSZ3FiQ1lydDJuV21PYmFqZkRvV1E?oc=5",
+"source": "AuroraNews",
+"time_baku": "2026-11-11 15:24",
+"query": "NATO Azerbaijan"
+},
+{
+"title": "High-tech minister, enlargement commissioner confer on Armenia-EU cooperation opportunities in digital security - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XOUU4SjMtV09XT29zLW90SjlHSTR2YmcxeGM2R0RvbGNXaDVZa0tfaVhXYXNHSWJYRHF3SFNhYl9qaTNlbFE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 15:17",
+"query": "Armenia EU"
+},
+{
+"title": "Erdogan thanks Azerbaijan for support in preparing for COP31 - Latest news from Azerbaijan",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGlMcEZBXzZraU5zNm9EamZkcGFMRTlQaGFnS0Fla3dESGNrMXFhU192cWM3c0ZzY1huZFlkSlJ5aDhXNGFpdUJueHUzYmJ6NjUxV3JJc0ZtM2VialYyVjA4M2FrV1hpZGx4WnRyNE81OTU2QzRpZUVFX0JrM202R2YyZzJWQkgx?oc=5",
+"source": "Latest news from Azerbaijan",
+"time_baku": "2026-11-11 15:16",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Azerbaijan’s GDP grows 1.7% to $68.1B in January-October - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fYUFoT1ZZdDhwcm9HTUZZcnZsSFJfTE5JQlpyWG9GdGtNNnJ0MF9BaFFGdzNtVGxmejY2bzF6UU1hNVI4aTJ3dU5LbndEQ0otNlcwQ2JwYw?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 15:15",
+"query": "PACE Azerbaijan"
+},
+{
+"title": "UN committee adopts Azerbaijan-initiated resolution on missing persons - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXItdFc0dHV4U2p2TG5kODhIdVRWcWNscFVpR3lhZUUyUUlCMVdJUEZaaGNOZGFkVGRVamc1enowMDlFUmxxelRKZTI5M0xWRlVmVUQyR3RWMy1Pb2piSFh2TVV3b2hVZDhMRG1IQW9pVXBSWlRpb2NLZ2lLZG1yeVB6SVpSZXVwQWFUZHI2dEdiV1BTWk5Ma0lRaF94cS0xdFdGMjdSem5fdw?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-11-11 15:13",
+"query": "UN Azerbaijan"
+},
+{
+"title": "UN committee adopts Azerbaijan-initiated resolution on missing persons - Apa.az",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0E3dEhhQXpqVUpzRjkteXh6NU9EdGpTT1lGLWpjZHNtMjFaOUx3bWhTOTZHVmVZVzlIblh6UG1McWxzcTNLaDRPOVBUYjZoNlVjV09XVFZmV0lIMV9sZWdnVHpLOWRNUTZheG1hS1p5ckRLQzNZREpYS0hvS2FrU3JxUzJsNHB4aVZ4YnliS1Q0TmJyU1o0ejVtSkMteGpMeWYxUTlwOWRCLWVfaVc0?oc=5",
+"source": "Apa.az",
+"time_baku": "2026-11-11 15:12",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Erdogan thanks Azerbaijan for its support in preparations for COP31 - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR21JVUozMUJqZWZUSkUySlUtYWpsRXBJRHZTV25EZVNwaDdSWi1PdFQ2VHJDclRqQ3plUGg3RWhLWVdHN2tlRm9pNDFBRVJiS2RQY0ZoR09PYzh2NGgycFF5azlHcV9fa1czSGx0c0tkSnlxa1VDaGZ1UTVHa01qZHFEdEI0RlJpVWdRbUNSRE5wSWZvQnpTMV9XYzFfV0p4MVd0eVpOenI?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 15:08",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenia - Cyprus: betting tip (cf 3.35) and bets on the Nations League match on November 12, 2026 - Liontips",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmp2NTh2bXlfejlXcEFoX3hvVnBmd0FyN2xOUVdPYXBGTnBOUFpLeUM4M2dySEtrbjdRdDM0aWMwRHhMRG9sZGstWVRJSFhVYlNDNHhRaThVVUswdUs1MnMyNkJWUE5lcl9hV0RUQ2NHX2t1RnRBUVN1TEhTNk5zdEl0QmFvem0xWHhHSUJUQjJLWDlsWHlyU2RiWHdod2xpNExkU2pUNm5sd0RnMTZTZ2JfTTZaTnVsX2QzejdNQmNtaEdCNFBQZg?oc=5",
+"source": "Liontips",
+"time_baku": "2026-11-11 15:08",
+"query": "Армения"
+},
+{
+"title": "With US support, museum halls in Echmiadzin will be restored to preserve and present the legacy of Khoren Ter-Harutyunyan - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zek5UUTNBdVlHeFdfUXI1R21vRFN4OHAxb1NRbHlJNGJWX3dGZE1fbDU5UW9qT1VITGlRenV5NkNtN1BQR2tuLU51WHVZa0VBYXVzZHBpMDJLZEl0MTBjbQ?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 15:04",
+"query": "ECHR Azerbaijan"
+},
+{
+"title": "Armenia Penitentiary Service presents chronology of events leading up to imprisoned opposition mayoral candidate Arsen Gevorgyan’s death - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55ejRCNGtwbEtVU18xdzZoOVNEX0hwejVoMEZDekx0TzExaDFIUVJCZzVPeEx5RWozZWxuS3JtRXE4UVQyVmc?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 14:54",
+"query": "UN Armenia"
+},
+{
+"title": "Armenia and Azerbaijan offer sharply different visions of peace process - IntelliNews",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXZZU1JLdXZTaEFXX01WMHpGV3ZMS1BCb2pWbWUzdnpHVHE4dmlGX1FfemJNV2FZOUdacHNoa0FrdjRibVJBN09zRHdxeF9vSWZMazVFX1haWjVKUVA4dEd2NVpZSHF2el9ZOG9JbGw3NU1xNjQ5elJUd3VwZ3FrY1ZfZ1R4aVBnQ05wa01HdjEwYmpmbTNOLVBqaDdKZ2MwRk5VUnk5VldaV3M?oc=5",
+"source": "IntelliNews",
+"time_baku": "2026-11-11 14:44",
+"query": "Azerbaijan EU"
+},
+{
+"title": "A representative of the Human Rights Council of Armenia participated in the ENNHRI Leaders Forum. - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BWE5sQ3hCUXhVeHdvUUFMamJ4VXp4Q1VPaVd6VGtOSmYzQWRKcVhSbzd0X2RHdmY5YTFMMnVlWENKX0RNcnpTSVFqdTFFOVp0RmU0dUF3SExPd25SY2hlag?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 14:34",
+"query": "ECHR Azerbaijan"
+},
+{
+"title": "UN chief calls for $300 billion in annual climate finance by 2035 - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0talRCWFpueFpPcjVjRzlLVFozenp0S1FRTVAtYS15aFc2cV84WkEwdTh3R1JLeF9MOXdHSnB1Tm00TVc5Y2IzemQxd1ktR3JWdzgyalZlejYxQQ?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 14:32",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Ministers discuss Armenia-Finland trade, economic cooperation development - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mZFJqRzZqQnp5b0pmMkFTRmdRMVRFNEdFUEcySmtTd0MtSmZ0UXppU012RzJlV3NaTHdRNnlkRHczcjZUdmc?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 14:30",
+"query": "UN Armenia"
+},
+{
+"title": "Abu Dhabi Talks Resume as Russia Rejects Ceasefire and Disagreements Over Territory Persist - commonspace.eu",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnhwcDE1SzcxR3hLaE5MdkNBRjE1WUpWem1TLXk2VkhUbURDNlR0N0lVQndxNnJ1bWhfelJ3cnptVkRDcVdfN3lQRlBnVzI1UlIzODFLa0Z1M3NYN1NlX0pCbDJMVG9jWkpmYUNnNFBMVzZJWkpkbFhHUWp4T0tCSWdZZUttYXZTMWkycnZhanB5NG1GelJWdDN6YXYzeWYzakNBaTdFQWNUQW1wMXVGdVY4RDE0TFFMV19MXw?oc=5",
+"source": "commonspace.eu",
+"time_baku": "2026-11-11 14:19",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Azerbaijan signs deal to export green electricity to Europe - IntelliNews",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS083c2hxVDNEVEJ4VE54TjNGQXBlUV9FeDhSbmlaQkdhVXI5bWxLRHhmM3Y2U2VKdUhhNG0yQkZoQ2tEa1FxcGNqMFlXVWlrekR2T1JzRmxsUDFWUEpweGROcmMwckkxb0tYSXdyc256S2xqNEVZZ2dWZF9xZ0gxUlJCb3lRWWQyY0pyeEZZSUtGLThWblBTamNBUQ?oc=5",
+"source": "IntelliNews",
+"time_baku": "2026-11-11 14:08",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Azerbaijan signs deal to export green electricity to Europe - IntelliNews",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHpUaU1qTnVzaU9ESFJXN1dEc0JVVGtBakxKNFBySFBuU2FsU214a1J5Rk9JaW5qU0x4OFFPUGZVMnN5TG1RTkNfZ2ozWGhVSVpETXN1X25PMmpsSkZYblhKVFVXX1VhcmpaVUs0V2ljMHBpTGM5dnMtV2kyUUFPM1hFSkUzX1NhYmZYbW84Yl9jNXROamw4X3UwZmstcFkybDRZMjZIS0pKTmRES1Vqb1B6SQ?oc=5",
+"source": "IntelliNews",
+"time_baku": "2026-11-11 14:08",
+"query": "intellinews Azerbaijan Armenia"
+},
+{
+"title": "Iran urges UN and IAEA to condemn US reward offer - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFc1b1JySWp5ZkpDd2RKLXNZd1JudlFpVW5xVXNQTm5UckxKaExmVjNTaDA0MGhHWUoxdkNSYVg0M3lENkt5aGszUG9nQ0tuTVdiVWlrUWJxb2t3U0tFTWxGUjdlV3p5eXQ0X2g1VmNRX3paRjl6Y1l4TDNMcmEwRDRpTW0ybjJoRU9qeTJB?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-11-11 14:06",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Old alliances and a new reality: why Armenia is drifting away from the CSTO - شبكة تواصل الإخبارية",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Q2RFQzU3bmZtZC1rU0tjTjNEejhXc2pQZXRRT0VhUW9qYXhJNHgySHJkanZOYjF4QXdoVy1wUXZTMTFhTGhDcjVtamQ2V05udnhB?oc=5",
+"source": "شبكة تواصل الإخبارية",
+"time_baku": "2026-11-11 14:04",
+"query": "Armenia EU"
+},
+{
+"title": "Grigoryan: The Azerbaijani criminal is provided with unprecedentedly good conditions in the KGB basements, while Kocharyan is in inhumane conditions in the neighboring cell - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ZXBYMzZBRERTMTlXNnktWkJlME44YXRzWUdpc3V4WWphTVh5UmFmZmVfYTFZVnhMcnVFZlJ5UGMxMDB2ZUZ5V0FRSDZNZGl1bE5DVHdsOF9OaHB2aGZ0bg?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 13:42",
+"query": "ECHR Azerbaijan"
+},
+{
+"title": "“Strong Armenia” held a protest in front of the EU office in Yerevan, demanding a response to the death of an opposition figure in custody - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wS2lKUTFsT1JlWWFsb2lLY0c2ekQ5Vk9jX0FJYjhkUXdsVW9Mc2ItVlFsNkE2cVItLWhBY0hDRUFKbjltVDNBa2drdXZMalZ2SFlXNk5vYVhTYmRUYUJvQg?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 13:40",
+"query": "Armenia EU"
+},
+{
+"title": "In Armenia, they do not believe it will be ready to join the EU in the next 10-15 years - شبكة تواصل الإخبارية",
+"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaMXlnckdfMFNveVpfNmJISWVWOWFRZUptTzZaQXhxckQtOGRPYi1SVmVUU3hUQnZPV1JURnc3YWdCd2lVMElHNEVPdTYydEZDQWxB?oc=5",
+"source": "شبكة تواصل الإخبارية",
+"time_baku": "2026-11-11 13:35",
+"query": "Armenia EU"
+},
+{
+"title": "Nations League: Estonian referee Kristo Tohver appointed to officiate Liechtenstein-Azerbaijan match - Report.az",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnphUjVWNU5jWlExdHdoUjhFRnp6TVBMTGt4MVhnUkl1QzZaR3FPRmFieVRWUUtRSVZobG5rcFUzRHpTWFRROTNpUUhQa0ZIVXZaaFJkdGUxVDRRcllNTFVFQlBDZF9ObkZIdnNTZzhGd2UwWjk3aW5WaC1rS3plVGJYQVpDSndPWjZQcm9QakZGN2Jka1VwOUJlcnI3OFdqemdUUGhyOGVEYm5RNUVJd1VzZWNyQ2VnUUFVNjhBRS1fbnlTQmV0dA?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 13:30",
+"query": "Азербайджан"
+},
+{
+"title": "“Strong Armenia” holds protest outside EU Office over death of party member in custody - Public Radio of Armenia",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRktjdE96NXpndzFsN1BIY2dmMWJRWXdxdzVLWG14NHl5SUFXV0w5Wnd3VElfOVZ2MFAwdUkyTVNnR1pFekRlT25rbXJHaWUzTGNycjVTWjhCajRlN0RsUU95eFJTVzgxVU5ZY1NyeENndnB5UzhETmx1dTNTdEVWdWhSRTVRaWQ5ZkdhaDdmbTV4SW9zd255dmdFRWVRRjdjZ1U3NkRTVDNxT1RCWGliYkE5UTRhazZ1OWRj?oc=5",
+"source": "Public Radio of Armenia",
+"time_baku": "2026-11-11 13:25",
+"query": "Armenia EU"
+},
+{
+"title": "President Ilham Aliyev and First Lady Mehriban Aliyeva attend COP31 Leaders' Summit (PHOTO/VIDEO) - Trend News Agency",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tMlUzdnJ1bm1rMzNfalZBb0pTbk5OdGZRXzVWUXItbC11QUVpajFDTHFXTEtwUlhIYnR4aHJJVm5Fb2Y4Wnl4bmxvUUtmb0Jra21aczFndw?oc=5",
+"source": "Trend News Agency",
+"time_baku": "2026-11-11 13:25",
+"query": "UN Azerbaijan"
+},
+{
+"title": "Armenia ex-President Robert Kocharyan's pretrial detention extension appealed to Court of Appeals, his attorney says - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pd090N2lyVmp6eS1CeERua2UzbGoyMWU2TWpoTEo1ZWREckZoWVBENGpUOGlOOFVhenlsNWNtR2VmMlpzdlE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 13:08",
+"query": "PACE Armenia"
+},
+{
+"title": "Ukraine, US and Russia talks continue in Abu Dhabi - Modern.az",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVJYNDlXQWROaDZhZVlyRlN6OUxtanBjX3lXZWZ1bnRfMW1fcVJKVzZjeUhrWTlRbW1hQm5jYmJ0VjNUNE5RWjFDUXdBM3VSRGpfMkppbmJvT2hmbUdCZHFwcXN1cE51eXMwT21wbGRmMXZMekhjai1yN2YycWVsRnJKSTl6d2sxMUZ6SA?oc=5",
+"source": "Modern.az",
+"time_baku": "2026-11-11 12:59",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Azerbaijan, Bulgaria discuss development of Green Energy Corridor - Report.az",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXdKZGdGSE93bFNXT05nRkpIb1lJRWxYM2MtUi1BZWlWR1Rmc01PT1JoMXE5WGlFXzRJSG10Y2FpZlRQbUk5WmM1Z3ZiUGVOSGxiQkpIakhkbVRnbEpkNXNaZ05kWXRDVEI5bGRnOHo5SWpjcDVDdkw0eUk2VGg3aHVlQzg1VGpXbUhPdUtBUDFSeVlPbElF?oc=5",
+"source": "Report.az",
+"time_baku": "2026-11-11 12:54",
+"query": "Азербайджан"
+},
+{
+"title": "Powerful Armenia Delivers Letter to EU Ambassador - AuroraNews",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9SSTZxbDZtSF9Eb2toMkE2bXc2bGRabU1XT1dTcm1wX0JINmcxbXMxWU5ZVXhUbmxEaDF3aUktMGFieEh5RlgxX2tmTHNxZ3dpZmEtYmFIR2l5a3poV2VBZW56RlU1OENoSm5EbjFIWTdPRmF1WVVqRmxMU1RrVWRLN08xVEs5QjhsNExrX1lKb0tp?oc=5",
+"source": "AuroraNews",
+"time_baku": "2026-11-11 12:53",
+"query": "Armenia EU"
+},
+{
+"title": "Armenia opposition lawmaker: EU ambassador promised to give serious response to our concerns - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZT3dxSjB2cGxISGNtRnVUYmRUemlBLUVuNVpHVHUybm9ZVHlHY2tSR1JndER5ejkwU2JqcHhqWjBDX096SnhF?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 12:47",
+"query": "Armenia EU"
+},
+{
+"title": "Azerbaijan and ACWA Power explore green electricity exports to Türkiye and Europe - AzerNews",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40MUY4SzZYNzdYUGcwZVBiY2NSVWVkbWtxcDRJSElIdTdLLXhCOFdTd3ZiTVhScVJ4LWl6eVRzbHdkZDNiTzF5NkVOMEpPWnp4R2E5bmpSOA?oc=5",
+"source": "AzerNews",
+"time_baku": "2026-11-11 12:39",
+"query": "Azerbaijan EU"
+},
+{
+"title": "Lawyer: The Republic of Armenia is responsible for the death of a person in custody - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HcVN0Q2lBeXF1QXJUZy1zOVZ1SDNCTTl5MzhYVVZSekZwWm5GbnFZRWhfSktLc1VsTk1xaHQ3a3A2M3B3N3ZhTzI5WXlmckRnWThFelU1ZXA4dTh5WWtMbA?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 12:37",
+"query": "UN Armenia"
+},
+{
+"title": "Armenian, Fijian environment ministers discuss cooperation on biodiversity, climate change at COP31 - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51cUpNV1haMElSUURsOEpGcWVhcUpkTkcwVEk0WkFBbTgzdW9OTEFFU21FRnJNWEdNVDY2WjFlOHRXVlladDh0Z1VaaHhCOThvYmfSAVdBVV95cUxQaWY4WWo4SjJ4bVRJRXhWWmhid2l0LWJKZnVYS3dHTVY1VVBNSXhuNzJyVzRhRldzTTdMU3NSRjBacjRfNWNwU3BMak9OWDFLRjNrMEQwZlk?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-11 12:26",
+"query": "UN Armenia"
+},
+{
+"title": "Armenian Human Rights Defender’s Office representative participates in ENNHRI General Assembly and Leadership Forum - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZT3dsTTc4SzZ1bElSSVdPay1MQmF2UkNmOWRIekVPbnNLSjRrdUctcDNnY25lZnlGVWdJZ1dDbVlueTdZOG1UWjNMdU84UElTU1HSAVdBVV95cUxQX0xfMlI0ZTNSd0pMWkVpTzFkLXB6bWF6Z1VjWFV4ZjZ0QVREUk9FZUo2U1dvQzRWcnl6RUVCckdEYTJEZEdfazFyXzFZb0wyUjg4SkpCRFk?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-11 12:17",
+"query": "OSCE Armenia"
+},
+{
+"title": "NATO jets scrambled after drone alerts in Lithuania - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9UWVI1bDZ1SzE4MWRtaHJBdVZzWmJjblRxenppU1FYODVpbEo1OXozaTI1alg4R2JZRzQxUDhKbXpjXzlwVWxVR21BN29YQjNZaEUyYk52eE5seVJWTHFFWGFzMDVnSUU1X05xVFQ4Yk1iVk9mY0RCSHBzZjZBVlNpbU5hdU9zUjNBb2x2V3I?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-11-11 12:17",
+"query": "NATO Azerbaijan"
+},
+{
+"title": "Armenian PM to Attend COP31 Leaders’ Summit in Antalya - Caspian Post",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDlYSmNhejRRRUpfU09nbGdxWWNYdEY5UUYtVl9sSDR0MmVKbXdFbldMZk05dlhXOXEtWUxjaGdkWHdiWU1nMG1IYmpVMFM0amtCRHlwRG0ycXJSNUlzcDRZWlVDbEg2S1pwenM1VnJFNUVYbGZTcEcyZVpsT1M0VmpJZDhZazBvV2xKRjhR?oc=5",
+"source": "Caspian Post",
+"time_baku": "2026-11-11 12:13",
+"query": "UN Armenia"
+},
 {
 "title": "Azerbaijan to allocate more than 8.8 billion manats for defense and national security in 2027 - شبكة تواصل الإخبارية",
 "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JcjdCa3c2dG9qX2tQR1VucTFfZG5EZTJsT19rQkYzcmdCeVdhakJhSzI0VGhNTTFBT2JfU0p5dzRIcWZKQms3UnM5TGtCZVN0Mm1B?oc=5",
@@ -18,15 +648,29 @@
 "query": "European Parliament Azerbaijan"
 },
 {
-"title": "TASS: Putin to open CSTO summit where Armenia's future in the organization will be discussed - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56SXRHdHZzc3pMbFF0VjBhZFNUTlZ6TTFTVzE0NUVLRXluRWRhQnpEQTlFbnM3bFdwNHRNZEpodTFGZGdzUUE?oc=5",
+"title": "COP31: Armenia premier officially welcomed in Turkey (VIDEO) - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hSGdoNDh6RjJ2dlM2Qi0tSmJGMGMxd3JMdjVXdlpaWXNDbFBSTTdpVGp4TXZqdlBQZ3gtMm5YUEVKRk9CY3c?oc=5",
 "source": "NEWS.am",
-"time_baku": "2026-11-11 12:04",
-"query": "NATO Armenia"
+"time_baku": "2026-11-11 12:03",
+"query": "UN Armenia"
+},
+{
+"title": "Azerbaijan's Energy Minister holds bilateral meetings on sidelines of COP31 - Apa.az",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHdDNWpQSlQ3ZXZqR0JYeXUzWHcwajBhNjJhRUpBMDJacmlTc19RTWRKVHBRakJVX0NOMVJnWDdBTk1uMXRVYkh6b1FvX2V4SFF3bmZWT2F3ZU1sS3dWRENYMEZlcnlRYjBfdzRqV0sxd2lPcWpyUUNabWRrOXFXVEVSM0taWlVNd20waUtqMlplc044VWhPUUlOVjh6MkIzaDk4NFM4cXAzTjhpOGl6am1sY3pvVGo1YXJZ?oc=5",
+"source": "Apa.az",
+"time_baku": "2026-11-11 11:50",
+"query": "European Parliament Azerbaijan"
+},
+{
+"title": "Is the Türkiye-Azerbaijan relationship important only for the two countries? - EU Reporter",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYk1yOFFRaGNhTHdIendXcVAxazJNZVZLN0lLdS1qMlNfdW1ibmdMY25DUzdzZ2MzMlZqZHU0Sk9sSEJZbXMxOE5aMkZOcHNEWXctcjVwdHl3ZWVMWFRoYkZRbU5rYVB2M2NFUEgyNVpIZk9HM3JMUkJFWW5HUnNhX1gwVVJpMzBoNC1ERWJJWWE1bWhvazVmcDlkWVdaUENrNTFjSXdJcWFTeVlZekdpbnVLQ0JXVWxvaHYtTFhVQQ?oc=5",
+"source": "EU Reporter",
+"time_baku": "2026-11-11 11:49",
+"query": "Azerbaijan EU"
 },
 {
 "title": "US Army soldier suspected of spying for Russia arrested in UK - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZSUpwcEM0bFpXWTBkUnoteEVjSVV2MFNJd3ZLb0hQN1Q0UUpmM24wUE5RUEFIZ19DOXhwd0lFYzdUajNNbU1EMl85TUM3MjJOckHSAVdBVV95cUxOblV5UnQ3UGVuU3ZCTldSQkF1U2pvejVkUVpxSWtsUlNTMGJmOUhvdkMyV19RV0pzTVpkVUdMb2pycjN0bzd1WTJWNXhHMlk0eVByVFBYSFE?oc=5",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uVXlSdDdQZW5TdkJOV1JCQXVTam96NWRRWnFJa2xSU1MwYmY5SG92QzJXX1FXSnNNWmRVR0xvanJyM3RvN3VZMlY1eEcyWTR5UHJUUFhIUdIBV0FVX3lxTE5uVXlSdDdQZW5TdkJOV1JCQXVTam96NWRRWnFJa2xSU1MwYmY5SG92QzJXX1FXSnNNWmRVR0xvanJyM3RvN3VZMlY1eEcyWTR5UHJUUFhIUQ?oc=5",
 "source": "Armenpress",
 "time_baku": "2026-11-11 11:49",
 "query": "NATO Armenia"
@@ -39,11 +683,11 @@
 "query": "Azerbaijan EU"
 },
 {
-"title": "Azerbaijan, ACWA Power eye renewable power exports to Türkiye, Europe (PHOTO) - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zMEdiY1pyLUx0WU44NllIVzNtbzNkQnpjbGhIYU04MXlWMUc1Tm5RMVEtbDg1SUs3bTJ5ZklVWVlyNHltdGFKbzhjRTV0SGVpbDIyS2gtTQ?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-11-11 11:38",
-"query": "Azerbaijan EU"
+"title": "Armenia opposition MP: Azerbaijani soldier held in good conditions in NSS “basement,” but Armenian former President Robert Kocharyan held in inhumane conditions - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tamdIRFVXOGJfYUlUZkxzS0pmbzF1SnNGaG5KajhSN0I2Y196WHlSUXA2OFUxVzFKcXluX0Z0SlNmMkh0YUE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 11:36",
+"query": "European Parliament Armenia"
 },
 {
 "title": "Azerbaijan discusses cooperation in green energy projects at COP31 - Report.az",
@@ -53,11 +697,53 @@
 "query": "Азербайджан"
 },
 {
+"title": "ING updates inflation forecast in Azerbaijan - Fineko/abc.az",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pTXJPOHNvZ3hYZHNIejdtQjVHWGRXYmxUYkpDZllETGJqYzk3RExoRk1LMXFfSHBnTUFXOThxc1lDdkNVd2lUZXJNVTJQazBBU3pCSHpORE15V3F3dFpjeFRxYzhIcEllSlJ5VW9hcTgyTFA0NUs0YnY3aUVjSDg?oc=5",
+"source": "Fineko/abc.az",
+"time_baku": "2026-11-11 11:10",
+"query": "Азербайджан"
+},
+{
+"title": "Armenia’s Selective Prosecution: A Threat to EU Relations? - The Armenian Mirror-Spectator",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnZvazNaOGMzdGZ6c1NJWmxtLXYyR1BjeUtJZWtHcEYwQjJrWmg0UG9zczA3V0JuRzVpdlR2RXBzTTJ1SkFiUm1BUXJjLTFtTmNVbDhKOGhRWGhDWEpGekFmQ2J2Yk9oN3VWTnA4bDNlZkNkZVhXOHdOYU9DMkdxTGd6TF9ISlIwYXN3c3dwVlFKdF9DYUVMZjhTSQ?oc=5",
+"source": "The Armenian Mirror-Spectator",
+"time_baku": "2026-11-11 11:06",
+"query": "Azerbaijan EU"
+},
+{
+"title": "ВВП Азербайджана в янв-окт вырос на 1,7% — Госкомстат - TradingView",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DVGVURmhpdzdiU2pKOWwtNUFONDI5Mmp2dE5SSU81eG11VndkNDB6aTBpc1VPX29JQXVEVmxPODZDWFBfMVA4MVBfNkFTSWhIa3F2cEcxek5GUGttSW5fZWlCYk5LMDB1N294Vkp6QVp4UmVnei04Xw?oc=5",
+"source": "TradingView",
+"time_baku": "2026-11-11 11:05",
+"query": "Азербайджан"
+},
+{
 "title": "COP 31 Update 3 - Global Push for Electrification Meets Turkey’s New Oil Discoveries - commonspace.eu",
 "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdEt3bHR2SjFveWVyMG02NC1OVVRXa25mTFJORkNsaEtaMlhYeVJQTFVMc3NBYVV2S2ZQZlU5RUNsWEJBTjJoRjNrb2NtWGtiME5TbnQyVlBERC00bHBDX25QYks3V1JGZUprTUcxbHNzM245NHBjWUdDM2g2YWFPZzVPTkhURm0tUnZhWWd0QjV0dW1aN3Vna2xlYldDRW53QjJjdTBxN1pNdkFBM2c?oc=5",
 "source": "commonspace.eu",
-"time_baku": "2026-11-11 10:54",
+"time_baku": "2026-11-11 10:59",
 "query": "Azerbaijan EU"
+},
+{
+"title": "American Armenian sculptor, painter Khoren Ter-Harutyan’s works to be preserved with US support - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTTUp3WVRXMDVlMXdrTVVVb3hzYW8teEZzUzEtUmNLX1lQNDUzQnVuVDQ0RkZnT1dMbzMyUmR6bVRmTl9ETkE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 10:48",
+"query": "UN Armenia"
+},
+{
+"title": "University to be renovated for 26 million manats - Fineko/abc.az",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLW9teGlORDV4LXlDRXBsd2VsbmNGVXZla2ZpY1BWaFdZU1ZDX0hKMTBSekR2VEg5eHdQN1FnWkFfdnF5OEVISzAyUFpBZU9tNHFGLWphOFhfZjJqVHUzeDlwaHZLc3BpQlphcDBXcGxDZlVNUTNCazNkcTg5Wnd5NjVHTlE?oc=5",
+"source": "Fineko/abc.az",
+"time_baku": "2026-11-11 10:48",
+"query": "Азербайджан"
+},
+{
+"title": "Salaries of public administration employees to be increased in Armenia - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40ZVpVNHFLdGQ3VjlGTUdCcHc3cmhMb1NIVi1hMlBlSHo3ODFfWVNVM04yUW5fNmVLVElnUlZLazBRYmF5Vm5Ka0M4Znh2cURrN01sdzVySEhTNk1HTWNyYjNB?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-11 10:37",
+"query": "UN Armenia"
 },
 {
 "title": "Armenia supported the adoption of a Russian resolution on the fight against Nazism at the UN. - ArmInfo",
@@ -74,16 +760,44 @@
 "query": "UN Armenia"
 },
 {
-"title": "Is the Türkiye-Azerbaijan relationship important only for the two countries? - EU Reporter",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYk1yOFFRaGNhTHdIendXcVAxazJNZVZLN0lLdS1qMlNfdW1ibmdMY25DUzdzZ2MzMlZqZHU0Sk9sSEJZbXMxOE5aMkZOcHNEWXctcjVwdHl3ZWVMWFRoYkZRbU5rYVB2M2NFUEgyNVpIZk9HM3JMUkJFWW5HUnNhX1gwVVJpMzBoNC1ERWJJWWE1bWhvazVmcDlkWVdaUENrNTFjSXdJcWFTeVlZekdpbnVLQ0JXVWxvaHYtTFhVQQ?oc=5",
-"source": "EU Reporter",
-"time_baku": "2026-11-11 10:05",
-"query": "Azerbaijan EU"
+"title": "Armenia actively cooperating with the EU to counter hybrid threats. Nikol Pashinyan - Tert.am",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BcUl4a3JueFlKZmhfMlk0NmFXbUpFTmJ4WkRUYWlDVlo2NTRXVzFPMXAyTGRVcWYwMUl1QUUzLS1mMWp4ZjNPdERBWWk4QlhrR1pXc3l3dWQwT0thX2h1SlgzdFdRVUpCLVQw?oc=5",
+"source": "Tert.am",
+"time_baku": "2026-11-11 10:13",
+"query": "Armenia EU"
+},
+{
+"title": "Azeri Light Crude Drops to $99.40 per Barrel - Fineko/abc.az",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ycmI4RzZyNUxQNWItWm1ZOVE1Zm1LMWxRa2pyWXFRd1ZOVEZtVEZUT0ZNMkR0THAyVUJISU9KWWhaZGJCbzZYRVdZSERpb1F0eFlxenF2eTZJckxzbHFreTNvd01tT1VSVWxyNWtHc3p0dFdrbzFfTFR6V1E?oc=5",
+"source": "Fineko/abc.az",
+"time_baku": "2026-11-11 10:11",
+"query": "Азербайджан"
+},
+{
+"title": "Georgia, Azerbaijan, Türkiye and Bulgaria sign clean energy cooperation agreement - Georgia Today",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2J2elpEMTZLbGliVWdkRktkVjBQTnJLSUhBb3Vpbm5OMW15cTBFeWhxcTEzTEtGQTREWW9IXzV0TmtIZ0h3ZjZrRlB6eHFEU2wtRUdoY19FdERrYUJGY0FsMFl0TGZ1b3dQOFNZOFktc1NzVDRkdERBUENsTjcxNjd6WmRFd3BVcU9rcUZMMGppYzMzdE4zQ3duSnd5T180ZHEyZjlmOA?oc=5",
+"source": "Georgia Today",
+"time_baku": "2026-11-11 10:06",
+"query": "Азербайджан"
+},
+{
+"title": "Türkiye and Azerbaijan Can Help Make the Turkic World an Independent Geopolitical Force - Caspian Post",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVZVdWw4S2Q4SWNPVXVjclZvT3ZFYXdVUmQ5Q1NZc0h0RHhGa2twTHBSZEZDZ3hkZXNvbFRHNkVyenJJckNKYk9MNndLN0hVVXgtX2pERlI3ZV81Tld4T1VfaG9OQ2ttaUZPUXl3VTB1SGJnSENJQmdwMXBfWWpfLTlreEo1UnBfd0RPeXRQSEkyb2hMaEVBLW1PRlQ1bWN1R2JtdUNQelF3ZjhHWlRIWFRKaXVJZUpoa0k4?oc=5",
+"source": "Caspian Post",
+"time_baku": "2026-11-11 10:03",
+"query": "NATO Azerbaijan"
 },
 {
 "title": "Clingendael ranks Armenia as EU's top South Caucasus partner - Anews.az",
 "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0QtM19fMHZDUEplTzFPYkNjVF9aSGtOZ2NrUnF6VHU0YkxKblB2eTIxNm1BWVlDMkdyLTlnbnJUbVpaLUZWek5Pc3ZTU05iNEIwTC05Tkxuckdva1R5SHVrb2tuUGd0ZTMtaXRfTEI5MkZkZ0VuQXF4aEN3RFh6a1pGUUhfSDRlMnAwTnh1QmtaUG5SOG42Nw?oc=5",
 "source": "Anews.az",
+"time_baku": "2026-11-11 10:02",
+"query": "Azerbaijan EU"
+},
+{
+"title": "‘More than just a photo opportunity’: Why are key EU leaders skipping the COP31 Leaders’ Summit? - Newswav",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckV5bnYwZnhBZjVZb0xIellISTRrYkwycTUxSEZtQmUwRGl4ZkM4Z0JQc29oVG42alJBTWZCeDBBbmxqbE55RE0zMVJrRk5yYlJHbzg5eWNUZk9xTC1sU0NENGU5MUlKVWotNFFROFU5VkRkZUVKSlk2a3VvNWZDWUhPd1duMmx6eWJkQXJvc0NCOHFvalF0bk1NY1RCVkR5S19fRDZLRWhkV2xzUmJhLVhZQW9HMWs?oc=5",
+"source": "Newswav",
 "time_baku": "2026-11-11 10:02",
 "query": "Azerbaijan EU"
 },
@@ -102,13 +816,6 @@
 "query": "European Parliament Azerbaijan"
 },
 {
-"title": "Imbat Muglu: Turkic world has potential to become major geopolitical actor - INTERVIEW - Latest news from Azerbaijan",
-"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcF93dnZxelpqQUNNWHpOWDVoSHFiU0RndVI3U3VtZGxka3hYMW96SkU0dlRINzk2cGozcHlmV3FPemhYb1lLcUg0V0tlOGdna0JDckh3QUdMNUNSeGpTSFdMOVVLODFnajFpdVhocnlwY0tBdmt1U2VGRXlEaGxFaTZfTEtqclV2S1VBaU52ekZYQm5QUGJZbXl6ZW53cXk3WkZqVWdUdw?oc=5",
-"source": "Latest news from Azerbaijan",
-"time_baku": "2026-11-11 09:37",
-"query": "NATO Armenia"
-},
-{
 "title": "Kvrivishvili: Georgia, Azerbaijan, Türkiye and Bulgaria agree to expand cross-border electricity transmission lines - Georgia Today",
 "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTlrN1p3eElfU01xRk1WZzRLQkgzd3RpZjRLYk5mV1I1WUloREo5Q1BsaWdudGZvRm1heTNRelNmNWoydEVfTnBxSWhuVDBZS2JvMFpNWUt0X19FU3d5UGVRV1ZmVGduMVNXVUNSV3lTYU9VNjhBbThYZ3hHd2daa2dfOHVqSkdfb0tRSlIxYVU3T01fUWFZbG1KcnExWGNUc3IySlh1RjlCTlZLdGdCY0JFYkUxcHlMOGJxUXJYU2hvalowalhyQmZORDh0ZnRweDFB?oc=5",
 "source": "Georgia Today",
@@ -117,7 +824,7 @@
 },
 {
 "title": "Jews in Abu Dhabi, meeting alcoholics and the sea in Armenia: morning coffee with EADaily - EADaily",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ21odFNGdXVnVS1peEhXQ3BvZzVFUGVwRnlKUDN6UXpQWmVWcVYyalhjQ0JwejZPWTNXN0xUeGdOVEhPNDVNMVV2b05MZGVENGpqdDRmdk5ReXNycGJtai1yck85V1VDenlnYU9UNVUzcTAyTFlpXzY3ZVhuS1FGNlE5a3dULUdydklsVndmc3hFbll5cFRvdzZaNFRCdFl2Q2g2dmdURE5GaTZZM1lDd042VmVPbm9FMkd2dkdxd3poWlZh0gHIAUFVX3lxTE90dFpLQzJycGJ6dkx5WFZnZmZJRDJZTzVGM1NMUEZPZHl4WV9GMkk4Tms3RUdwTGxZX2VmV3k4VXN0eTdBNHkyLUNKX3VEQ29MSU1LdkVOWFI4X1Q4U3FWdlR1a1BqMExxdDN2SVJvMW9GSnJkVHlJRUFfRlhtNDVFTHFWbUVDaHpONEFpSGxJcXBlT2NrSk9lQXYwV3JfamtSdmotRW9fcUxObTl3TUpMT1Zya0s4ZWloV3JGa2ZTUXFMZ1Nmdjdn?oc=5",
+"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFFhcGtVTnl3R2tpWHMxNDlaNUtaWlVzcnF2aGswQW1OQUNzYUFEWE1CejY4TlBwb3N1aUh6QlFiaDl3ZjZYNEZqcHdLcWdFSmVxQ0V5TF9jOVNVeU9DOHJJeHpCYWdWMW50WDF5c0FvaW1nS3Z6dF9GVDBHWG9DSkltRTQ3S2o5aE9WNFhTYmpvVmFFVW1vYS1nRHA5SUhreHVZNnhkRHdhd2dCOWlxNkt5NWdCa2p5ajBiODNoY2tEZTlZYjBmMThB0gHOAUFVX3lxTE40ZC03NHpoZW0zN2pBMFkyaDlxMnp0dWFhRjFrNUxlZGtlamhlSjNPTTQwRHd1TzVkOHJiNjJ6WnJDNGlycEdIbmFyVWMtbVNEYmV5SEdreTlqSGxDcVRndk4xR1lRY0pvV1EzNzJPbUFPbzdpNF9KRU5OeUZXSU5YX1lqTG1jNGFHeXFlUElMd0lEdzF1MXdqTGFuUjZad0Q3X2RaalhzdGphLUY0aVREZkR3dTJtb2R2WWozN0otV05GMk1lenhISW1CMXlR?oc=5",
 "source": "EADaily",
 "time_baku": "2026-11-11 09:17",
 "query": "UN Armenia"
@@ -128,6 +835,13 @@
 "source": "NEWS.am",
 "time_baku": "2026-11-11 08:32",
 "query": "UN Armenia"
+},
+{
+"title": "Turkey hails four-country green energy pact as ‘TANAP for electricity’ - EUalive",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGdWOEdtcUs1Tl9lZlhNc2tudXVmOTNVcE1oUkJJWGh4WmI2bV9oaUhReVdDUmxmcUxfeVJuZG5mYXlFT2ZFcXBTOE1BU01xLWNwWDZSYzNQQzBUbEQ4Wkx4OU1HdFdXcXdvNzQ1Y1hNa2pKZW92djV5NDNNNmFkZmtkRnpISVhxUlV1RTdXTHVkQ1U?oc=5",
+"source": "EUalive",
+"time_baku": "2026-11-11 08:15",
+"query": "Azerbaijan EU"
 },
 {
 "title": "Pashinyan to visit Türkiye on November 11 - Armenpress",
@@ -144,6 +858,13 @@
 "query": "UN Armenia"
 },
 {
+"title": "Армения Country Profile | FAO Legal Database (FAOLEX) - Food and Agriculture Organization",
+"url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1S2F5cFdBcUkzc1VQSmo5blVfdDRmYThLbll6QVdXLXdPb2dEUGZoWTdxZGJnNkNNNktJcEFGS1pEbDFuYUF1RU5UT2s2TXY4ZllwRXRR?oc=5",
+"source": "Food and Agriculture Organization",
+"time_baku": "2026-11-11 05:31",
+"query": "Армения"
+},
+{
 "title": "Pashinyan and Macron Discuss Armenia-EU Relations and Visa Liberalization - MassisPost",
 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVVXWUVWYjFNWWh4azMwV19HOXd0Rms0NER1WkJ5SkF0X2xnWk5QRHZENGhvdHhTeXFzM2VKVDFycG9GTTVlYUFKVGlVeVdHNldpbDJDWndyMkNBajZZWXQxNmtRaEN2Z2RLYmt6MllSeFFweEo0RVk5eE5FQXJKcjFhcTdFRkNEbm9FSk9MSjlxR296Q3B2cXlqRjFhNEgxRUhyVkl0dl_SAa4BQVVfeXFMT1ZCWi0zeU0wZkVjX1VTdmFQSFB4U1hZamlRWUhFVFhSS2pqMndNNEdTTWFjY1dneDVmVnhPM0h5YmR3UWVTV2FhdENmTmpuVE1ZdDR2ZnNOWEVBUU5xd0owQUpWQ2lXTlVXM1BwbkFqRy1zOElpdzExbkcwVjY2LURueXJkVm00OUhiWGVUVmZobXpQc1pUUnRKR242SnM0MDZiWHRjc21Sb1Rnc3Rn?oc=5",
 "source": "MassisPost",
@@ -152,7 +873,7 @@
 },
 {
 "title": "Iran Signals Readiness to Expand Gas Exports to Armenia as Both Countries Strengthen Economic Cooperation - MassisPost",
-"url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzdzM2xWY3luUHpxQXB3OTZJZEtYUDVZM1JFY3lkT0RiclA0eGJ1UHBjel9uYmZ2N2NBVU5xMjZOMERVdFg3M2tRcXBuVV92S0FWcjhmNmhBWmhyNnQ4aUxSZERsdThOcTE2S19WaEhYUEpRQnhldWZtS3JvaHc4MjJtWnJyRHNBcTl1OHh4V01EWms5WHVmeG1XQ09mOVJUTGQ4QjNNOE9FV3dka3prbzEyR3BlQ1JqejRPOGhPMTFSS2J2eW1rWHR0Ulpyb0t1aFpucUhUNnrSAdgBQVVfeXFMTkM3czNsVmN5blB6cUFwdzk2SWRLWFA1WTNSRWN5ZE9EYnJQNHhidVBwY3pfbmJmdjdjQVVOcTI2TjBEVXRYNzNrUXFwblVfdktBVnI4ZjZoQVpocjZ0OGlMUmREbHU4TnExNktfVmhIWFBKUUJ4ZXVmbUtyb2h3ODIybVpyckRzQXE5dTh4eFdNRFprOVh1ZnhtV0NPZjlSVExkOEIzTThPRVd3ZGt6a28xMkdwZUNSano0TzhoTzExUktidnlta1h0dFJacm9LdWhabnFIVDZ6?oc=5",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Ma3o1Z3ZhcTJja1dKUVA4TmZNNDMwTUlmZlg4TzFiX0c5SkFuZEh1RDhITWMyOUJXdWtUalNRX1dWTTk4S1HSAdgBQVVfeXFMTkM3czNsVmN5blB6cUFwdzk2SWRLWFA1WTNSRWN5ZE9EYnJQNHhidVBwY3pfbmJmdjdjQVVOcTI2TjBEVXRYNzNrUXFwblVfdktBVnI4ZjZoQVpocjZ0OGlMUmREbHU4TnExNktfVmhIWFBKUUJ4ZXVmbUtyb2h3ODIybVpyckRzQXE5dTh4eFdNRFprOVh1ZnhtV0NPZjlSVExkOEIzTThPRVd3ZGt6a28xMkdwZUNSano0TzhoTzExUktidnlta1h0dFJacm9LdWhabnFIVDZ6?oc=5",
 "source": "MassisPost",
 "time_baku": "2026-11-11 03:24",
 "query": "Armenia EU"
@@ -200,6 +921,13 @@
 "query": "European Parliament Azerbaijan"
 },
 {
+"title": "TASS: Putin to open CSTO summit where Armenia's future in the organization will be discussed - NEWS.am",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56SXRHdHZzc3pMbFF0VjBhZFNUTlZ6TTFTVzE0NUVLRXluRWRhQnpEQTlFbnM3bFdwNHRNZEpodTFGZGdzUUE?oc=5",
+"source": "NEWS.am",
+"time_baku": "2026-11-11 01:08",
+"query": "NATO Armenia"
+},
+{
 "title": "Armenia is actively working with EU to counter hybrid threats, PM says - Armenpress",
 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8teGVTdkxzNEVucVlFUzdOZGtCRU9xcXdqVmRQNVRaOHJQUmsycV9CQW1YNms1cFgzT1hWNHBySnhTYTkwS1h4eG8tdDNxdmxnV0HSAVdBVV95cUxQZWRIa0pSWnE4TnFXd1pDSVktbXJsSkwxeUdiUUZQd0JHaFVhRFRWRlEtZ0wtVXBES1Z4anIyVFR5aEJHQmtwX3VLMG9HSF9JaDFyeUxmNlk?oc=5",
 "source": "Armenpress",
@@ -240,13 +968,6 @@
 "source": "Around Prague",
 "time_baku": "2026-11-10 23:24",
 "query": "UN Armenia"
-},
-{
-"title": "LIVE : Türkiye to make global electrification a priority at COP31 - Latest news from Azerbaijan",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVC1FQVQtNzdLcTYzWjZJTHN4LVU2Nm1uRWFvZzRKcVhldkR4V3VTTXQya0xuZ2VSbDFRWDZDdEl2M1BGREtaWWVVck9ULXZGOUREQkxjdEFleDdrd19Td1pybHYxNVR3WGtubjJNQ2djaGZuSmZmZVd3Sjh3ZEdFbXg4SlRIcUhhbG1YVg?oc=5",
-"source": "Latest news from Azerbaijan",
-"time_baku": "2026-11-10 23:00",
-"query": "UN Azerbaijan"
 },
 {
 "title": "Putin and Lukashenko meet near Moscow ahead of CSTO summit - Operativ Məlumat Mərkəzi",
@@ -326,25 +1047,11 @@
 "query": "UNDP Armenia"
 },
 {
-"title": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - full timetable | Formula 1® - Formula 1",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3VrYWszdjFYTTdpcWJFaG9MRzRiZF83QnRRMm0ySFlOVjJnMGI4ckFrN1RyUVVWYXpvVFJPbHlrM0d0dUtTZkVfRmQ2Zy1uZElTNmlRTW84SUtxWTRrVWhBODJ6YUhkN0IwMjVldXhidzl5bmNUX191SlNxeTgzUEJvR2ZscW1IWEZISEVWNlpEZmhLS01pMllmR0Y5bkwzcWJncmNvRmlseU5WSlZpTjAxV21Xdw?oc=5",
-"source": "Formula 1",
-"time_baku": "2026-11-10 20:31",
-"query": "Азербайджан"
-},
-{
 "title": "Baku turns geopolitical balancing into economic and diplomatic advantage - Today.Az",
 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xQTRqNFBMdndhb19mWVZpTWM4YjY5c2hEbWJQSy1EaTVsWUxDamZ6Zml5UEV1aW8xQmlyT0MxZHBoMEJqTXQ4MlNQRktqUnNrdmlXUDdR?oc=5",
 "source": "Today.Az",
 "time_baku": "2026-11-10 20:06",
 "query": "Azerbaijan EU"
-},
-{
-"title": "Russia's Lavrov Comments on Possible Restrictions Against Armenia in CSTO - Caspian Post",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcl9NVFZuN3YtQnRudzkyTTRLclU0Ry14Qld0bTYxQmV6UGJmS2YtMUEwTDBmMW5hU09LcGV4VlhXTVg3SE9DcXJTMmxydnRSdXduRzhKem1oMk9vbnpjSHNBUXpmcmx3RkNJdF9LT0pMZ3hzR1FvMEdHUlZVdTEzTG4teEw4bFpzY1BsQjBLcTR3NGFDLWlvZ2J1bHNMVTBpWmNDR2dIelhZZw?oc=5",
-"source": "Caspian Post",
-"time_baku": "2026-11-10 20:03",
-"query": "European Parliament Armenia"
 },
 {
 "title": "TURAN gives extensive coverage to the 3rd South Caucasus Regional Dialogue Forum - commonspace.eu",
@@ -396,13 +1103,6 @@
 "query": "UNDP Armenia"
 },
 {
-"title": "Pashinyan, Macron discuss Armenia-France strategic partnership agenda - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wUDZuZlJYbVU2TFgxT25TSnYwRVZILXUzRUhyZmJVY1VYX0FrWlltWHhOX0lmbXFRUldDR2swZGZPS1FVMUE?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 19:08",
-"query": "Armenia EU"
-},
-{
 "title": "Criminal proceeding launched into death of Arsen Gevorgyan – opposition Strong Armenia party's Stepanavan city mayoral candidate – in prison - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QcTdHQ0c1ZlNQdHRWRnRybmtRNEM2SDRKN1AzVmtkX1YtWExoNUpvVXBKWGxCSE1HOEJjc0U3REZ5QW91dnc?oc=5",
 "source": "NEWS.am",
@@ -410,18 +1110,18 @@
 "query": "UN Armenia"
 },
 {
-"title": "Greta Thunberg arrives at UN climate talks saying ‘everything and everyone we love is at stake’ - KGW",
-"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkVDb2F0ZTBNcnVzd1JUTDlVMnhiVlgya2lGQ25SYU1xSkJUeVZqQTNHaWVSNXlyT2dSNVZ2a0ltMUV0TG52Vk1HbnBsa0thS2VzbnJYR0lKSkpNQ1F6N1NpZGJtdEZydVd5MG9UcTZLWHBJNGREb3o0TU1DSUJyVUprMy1NY2pjUWZ5dDZKYmQ1Q3ZtNldOREtGZ1Vmb25JRFZ6amFUWkJOSWo2ZGtuRlpXMmlIUFlJanU5LVd3?oc=5",
-"source": "KGW",
-"time_baku": "2026-11-10 18:51",
-"query": "UN Azerbaijan"
-},
-{
 "title": "Azerbaijan, Turkey, Georgia, Bulgaria sign strategic partnership agreement in clean energy - NEWS.am",
 "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82MWJMOGZvcDZhOHd0TXZXb0QxblR2UmcybzFXQVBLeGViTzFSV01LcFN5SWZDUXBZZEY0Q3NVYjR2TDNSMWc?oc=5",
 "source": "NEWS.am",
 "time_baku": "2026-11-10 18:40",
 "query": "Азербайджан"
+},
+{
+"title": "EU ready for united response to cyberattacks on French supermarkets - Operativ Məlumat Mərkəzi",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTBSYUpFeFhuSjFvTkdTNWFBN1JseTB1dUN0dkcyWTQ4VnN4R3p6MkE4OFFxbDF4Mm9hS280Y0RZSDhWWkpDaVlxb2FPcXBzNzBOMWtBUVFyempPZklQMEpzc1BsWURPSVFoUGxLUEp1aVYxVkp3U3ctSkR6RmNiUWpEdHZyY2xPbmlGajVXYmo1d2Fpc0lZQlQtYXQxb09vbTVJRWhn?oc=5",
+"source": "Operativ Məlumat Mərkəzi",
+"time_baku": "2026-11-10 18:39",
+"query": "Azerbaijan EU"
 },
 {
 "title": "Sri Lanka, Azerbaijan agree on training and internships for public officials - Newswire",
@@ -438,18 +1138,18 @@
 "query": "NATO Armenia"
 },
 {
-"title": "‘Everything we love at stake’: Greta Thunberg arrives at UN climate talks - South China Morning Post",
-"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbl94enZITEs1a0dET0dzdEZPbTFJV2xlWlpDdDA1MzBseWY4TlZmRmRxTGVKU1Z1X2xEWlZDcVFJS1dSbVhJZDRzN19mTlVZNWtldE4xbHAzNnVILXp6Y3ExY0FCbkV3TEJzeDR4LVJaWU1oLWRhZ1dFeW5iT0JRbUl1NkpBa1NDMmdzVG9LN1dtLVk5b21ET3hGTTFTQjdMcjJoNWl4TE0xUzVGNTBF0gGvAUFVX3lxTE45RlJyczExbVp5dkpWNUVfazgtc2c4NHhjQ2phbXhFNzRIUmM2MzlPajlKNG1LLUhRTUxvN0RvN0kxYURvYXRLak95UDlqZmwxVnVDaTJ4WjN0T1ozSElkWTFCTXU4TmVFZmJ6T0tTSFh3VWRDdzBHdXEzdTBSZEhjaE9aQmdGVEdsRnRsN2NKZFRkVkdXejVHWDBkUmhYQXRoekdjOWNIdnNEOFhnS0k?oc=5",
-"source": "South China Morning Post",
-"time_baku": "2026-11-10 18:25",
-"query": "UN Azerbaijan"
-},
-{
 "title": "The Deputy Speaker of the Armenian Parliament discussed the bilateral relations agenda with the Indian Ambassador. - ArmInfo",
 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LU2xkLXNVa181NllIc3IwbEVldjN4LTF0Z1UtZ1haMnRrU3NBSHZQdEVVRnNFQXNVQlQxU3RVVTh5OWF0RDZnbE5fSjBnc2ZqejBsS2ZPNW9DMFh6NTlxUQ?oc=5",
 "source": "ArmInfo",
 "time_baku": "2026-11-10 18:10",
 "query": "European Parliament Armenia"
+},
+{
+"title": "Türkiye, Azerbaijan, Bulgaria and Georgia sign strategic clean energy pact at COP31 - Anadolu Ajansı",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNG9qZTU5dVYxV1AtNEJaaUNlQXR6YmRkYVZpUjZub0dHSjU0R2dHc05lNXo0Qm5xbmhRb0hlbTJGVVQyc3oza3ZkbE9vNWh4Snd1LTFRRll3Yk1FbmE3UGRmOVdlT21FVmZwSVlVWUVCTmg4VlFwS3ZxWDRfNjVlTzZRa2Y5MmlobnpvRkJFMWdvY05QRlBYemtFZUdmT0JCb3pnZHRWTERJWmZiOTlDdWYzN1laMGtpR2V2OVJPNktHTEhheXfSAc4BQVVfeXFMTkhJVHhqZGw0SUF5OU1qdEN6REV3ckljQVAyME0xSjV1WlI4MkZ6QU1oUG9yZXlCRW80eHlMcGl1OThTeU5SOE4yeFJwRUZ2emxHeVc4X3l0LU0yeEZ3bzBBZmJCc1hWWFFLT0NaQWdfR3ZmU2Itc3V3QTlmVER0QU12N2ZqdGpMUEowemQ2VEt5QXJwZFI3UkxxQ2JscTlxWnBNbVRiWXJtcEZhalN0YlIzeERobG1qdVZZdkZfcng5cEwxcFE1WEJ2MWVuWHc?oc=5",
+"source": "Anadolu Ajansı",
+"time_baku": "2026-11-10 18:04",
+"query": "Azerbaijan EU"
 },
 {
 "title": "Lavrov questions Armenia’s EU ambitions amid CSTO and EAEU membership - AzerNews",
@@ -522,13 +1222,6 @@
 "query": "UN Armenia"
 },
 {
-"title": "Alen Simonyan says there are no discussions about his possible nomination for Yerevan mayor - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92Y2lnd3dyYXRWVi1VWkFvZzVOWGJZU0xIS1FBenRSRGMzTGxwR0tEbGNkUnJGZzVNOUtnTXhwRGh0eXU3Z1JvWVIwX0xqaktwblHSAVdBVV95cUxQTkZsMVFEdnJ3YTY5N1hUVWxBU0xJSW15SUNpQWRBNjZFOGZ6TTRvNXg2SjduTnR0ZDZDUE12XzQ0UEVUckZGdHBlem1UQS1LQkRKUUxRR0U?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 17:18",
-"query": "Армения"
-},
-{
 "title": "US, European and Ukrainian delegations meet during talks on war in Ukraine - 1Lurer",
 "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhU1FXbTE3RF9VdUxoZXk0TTJTQ3RUMGVILWFhOGxLUFotVjl0ci0waXFjQnhjTU80eS1Lc0ZRdG5mS0Z5M1hycA?oc=5",
 "source": "1Lurer",
@@ -541,6 +1234,13 @@
 "source": "ArmInfo",
 "time_baku": "2026-11-10 17:09",
 "query": "Armenia EU"
+},
+{
+"title": "Armenian minister issues statement on World Science Day - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ncnNITEx5WERnSjhQbGh3R0t4eHVncFR0S3UwMzJVN1oySk5wLVBKM3NmQnZDQk9HeWR0Q3JDRjFHVjFKdndsQ1F5VVVJdDIzX2s1MkFCVdIBV0FVX3lxTE1ncnNITEx5WERnSjhQbGh3R0t4eHVncFR0S3UwMzJVN1oySk5wLVBKM3NmQnZDQk9HeWR0Q3JDRjFHVjFKdndsQ1F5VVVJdDIzX2s1MkFCVQ?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-10 17:04",
+"query": "European Parliament Armenia"
 },
 {
 "title": "The Turkish minister announced the completion of work to open border crossings with Armenia. - ArmInfo",
@@ -613,13 +1313,6 @@
 "query": "PACE Azerbaijan"
 },
 {
-"title": "Garabagh Revival Fund spotlights global landmine issue at COP31 in Antalya - Azərtac",
-"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2RCYUJHOTlpd0RwMG5rODZfU1Z0VE1VSDc1dHZZTDVjcjFUek9xMHVrTlZnNFdjRE03MEx3Y2hCS3I4YUhzeTUwRWkzLUw4QW9rYmctVDhQcHA1X3hjZVlMYXViUkRlVU9RcUxXVks5cWVkS0lDRFV3ODBKTDdMVFQ5RERHMEJFakNQUEZpc3pucExOMk04ek1XTDNNcmc5UXNJaTZjNzh4NWFCNjJr?oc=5",
-"source": "Azərtac",
-"time_baku": "2026-11-10 16:22",
-"query": "UN Azerbaijan"
-},
-{
 "title": "Azerbaijan, Georgia, Bulgaria, Türkiye ink deal on clean energy - Report.az",
 "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnZhcXFtcmlfem5EOElDdnVHYTBHVUI0YldTdFktcXZYTFQ2YmRnZ1dfRmlnUk9hNGhycUI1TEdYSXBUT3NhRVZXdFdPYmFwV19zcldBSTU1RDFfRm1VcmE5NEx4UnFCdHJieE1PSjl6b1c3RUVHbDF6bVN0Z0tKU25GUkNmNVBOTFFDVk55U2VTZw?oc=5",
 "source": "Report.az",
@@ -669,6 +1362,20 @@
 "query": "Азербайджан"
 },
 {
+"title": "COAF’s 23rd annual holiday gala to celebrate Armenian heritage and honor distinguished leaders in NYC - Armenpress",
+"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRTk1WVBzc3lDQjhWYVlTejZXaVY4N1RjRlpIWXN5dEFuSGpGNG5KT2s2WnlNbmNLNGw0N29zcnRXVGNEU2JUMENVa29Ma2R6NHfSAVdBVV95cUxPWHRBMUtUWnd1NW9WZ3VfUkNGcG01V01PUDVWMUJGYVg0cHFFX3g2THY4TnpNZmhnQWtGb1R3UEhyMmFxUm9yRXZOSC1Dd081STRuU1hIR0U?oc=5",
+"source": "Armenpress",
+"time_baku": "2026-11-10 15:22",
+"query": "UN Armenia"
+},
+{
+"title": "The Speaker of the Armenian Parliament and the Serbian Ambassador discussed prospects for expanding bilateral cooperation - ArmInfo",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mOGtnMFZZNTlCLVJ6ZU4zLXZBTzdxZ0RVQXVGUUV0NG12SjN5T21XSV8xM3NCVW1sVnJ1TGcxTkRhXzM1d3p5VzJJd2Rhd0tCaDlkcjN1aFVXd3dpVjlwN2N3?oc=5",
+"source": "ArmInfo",
+"time_baku": "2026-11-10 15:10",
+"query": "ECHR Azerbaijan"
+},
+{
 "title": "Papuashvili: EU seeking to block Georgia's bilateral ties with member states - Report.az",
 "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenpCbDR3Z0JsRHBqVThUR3MtQTRKTFlUZGlCaUZRMHZpWE1yWjRZNzBHQlRWV2VTR19NZTVuZ0owUE9ybnF0OENGQ3JkWG1NX1BZbFBXM2lJWi1tQVd6el8xa0IyS1VkdXJWTmJaWGxtMS1Pb240S2ZjUGN3M2xzRldwell2c0lCdlR3NEh5S3hhWEloZjVhbDhEMVdENXNOb2xhaFpn?oc=5",
 "source": "Report.az",
@@ -677,9 +1384,9 @@
 },
 {
 "title": "Armenia replaces Georgia as EU's closest South Caucasus partner - IntelliNews",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGV3ZG0xTEdueWYwOTY3N0dkdW11NHhCZWVsWjJKUGt2akVway11b2w3Y3l0UXdIYjVlT043Ynp5bTNOOGJiMmtwNXVrUFJPblA5MXpzdEhHbmVLQ0pSM3JlNVlNS0NkN002cDBLUFR5ZkNBNTJfdVJYTy1wc0poZU85cTdVRTdhTkRxRjRLWmZxOWwwaGZ5QTZiZnYyYnVFMmVvWFdhVWVRVjdUWVh0U19R?oc=5",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0VmRXQ5RWRRT2hUMncyYTFMQ2FIQl9vcGR2QXZFN05iZWpEZjloc1lDV3RhVko0MjFJdGZNeGhnU0xjaUdkaFl4dF9pMVdOQzVQcWp4WnFWeWUxcXlYV25BRmhqM0dZT0p3emZELUZtMkhTQWdwMWgtQ3QyTVRWUXBGME10T0NjcEFUc0FfX0hVRFVreDJUbW9OX0E5aG94LWxCOUNnNkp3ekJxTXNtdA?oc=5",
 "source": "IntelliNews",
-"time_baku": "2026-11-10 15:03",
+"time_baku": "2026-11-10 15:00",
 "query": "European Parliament Armenia"
 },
 {
@@ -709,349 +1416,6 @@
 "source": "Latest news from Azerbaijan",
 "time_baku": "2026-11-10 14:35",
 "query": "European Parliament Azerbaijan"
-},
-{
-"title": "PH brings policy, arts and innovation to UN sustainability forum - ABS-CBN",
-"url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0VYZlAwSmVmQUc2emNNblRKZFFjNW1OTldSTHc4SzR6dUgxZEpVdzJja1JtejJ2cDE0LUc5bVlvVHdoaUU3RnBxQi1EbDRVendPSWJMMDg5blhHNEppSjgtdHZ0RlhCeVQ5S1gwaUlWMkhRODlTNld5NzdRWTNFNUt5bWZoVV9yaDNSN1F0ZG8xbVZHRHluOHFfYi1yZ0VWeGJYTVBMbTB1cnBaQmdBU1lWeDl4TGc0X2RCTXctUHk2SkVIYkpGZko5Qnd2QjRxaXc?oc=5",
-"source": "ABS-CBN",
-"time_baku": "2026-11-10 14:34",
-"query": "UNDP Armenia"
-},
-{
-"title": "2026 is a significant milestone in terms of deepening relations with the EU. Grigoryan - Radar.am",
-"url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UMmVEVUwxOFhGREs1QzNjb051VVIxbWFSXy1qN2VLcWhBeFFZTVg0SXNkNkZISkdZZ3gzdmhESFZlLTR2dmxKeWVnWE8tVklVSzVpUE53?oc=5",
-"source": "Radar.am",
-"time_baku": "2026-11-10 14:30",
-"query": "Armenia EU"
-},
-{
-"title": "Deputy PM reaffirms Armenia’s commitment to strengthening EU partnership - Public Radio of Armenia",
-"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlJzRkJOTG5KcFNtM0Q3NjRoTmZkZWotdXV2TVZwOW1YWnR1UFpBU2Zid0QyTEpuSnByZUdpamZNNGNHTlpubDBmOVl0anltQUlpSHFJX0dNLVpRd1ZMMFFOb1IyRHNVbThuVFRyS09ubVk4Z2UwTUFiV0dXMlhqMF9MMGZqdGxCaVRwOGNleDUwSWZRYjR5V193Skg4MV85MXlUWDByWW9LQQ?oc=5",
-"source": "Public Radio of Armenia",
-"time_baku": "2026-11-10 14:19",
-"query": "Armenia EU"
-},
-{
-"title": "Deputy PM reaffirms commitment to continued dialogue with EU–Armenia Civil Society Platform - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xMFVMQnR0MzF6ODJzTml0dk9uOUpMSElVa2xZVUNlSGVtcDEzdk1ZdmNBdk1IM3JCTlhZUEgwZHAwRVp5dWlfYnY0TFdRR05na0NRWHlyd9IBV0FVX3lxTE8xMFVMQnR0MzF6ODJzTml0dk9uOUpMSElVa2xZVUNlSGVtcDEzdk1ZdmNBdk1IM3JCTlhZUEgwZHAwRVp5dWlfYnY0TFdRR05na0NRWHlydw?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 14:07",
-"query": "Armenia EU"
-},
-{
-"title": "CSTO foreign and defense ministers, security council secretaries meet in Moscow: Armenia boycotts meeting - PHOTO - Apa.az",
-"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2xrVllmZlBCM24tQlNoQmJYa1pMQm41cWtLcDFsZExwTy1pTFRmWk55clJUdlF6OS1jQjI1QWx3aUVjMk8zNXJpWTdSXzFYbHF1VjdkRzNoRzlodFpkUS0zQmNYLUk2Rk1HTUFvREx0YVlncUxGMUNKMUJwRE1PTVJpMXJ4c0RZVkhrZEpaTW5kaHJVZm9zNHVvM3RJc1JyR2tXVGFRdTRacWc5RnJTOUdhamdWVW95X2NXekk4dzRMbmNyUzNHMldrSkdUQ0YwcWVXZ09IMzVtVGI5NXY1RVdR?oc=5",
-"source": "Apa.az",
-"time_baku": "2026-11-10 14:07",
-"query": "NATO Armenia"
-},
-{
-"title": "EU Backs Schengen Visa Waiver Process for Saudi Arabia, Qatar, Kuwait, Oman and Bahrain: What Happens Next - SchengenVisaInfo",
-"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1pWX3JJQkhIQ2l0QnlkOTNWUHNGQUhLcWM3cXBWU3p1eF9OQVByTmpyeVVsT0Q0MGVFT0VuWkRWWlpqa0dCdmxRMDZxQ3hCclRvQUVMQk1ZS0FublVaMUVXZV9ia3RWNEhiTldySDF5LWlsUzROb2NNemtSdVEwNWV2bVpGeTJEdFpPWXc2X2pxa3VVNW5kZXZIT016ODlCYWVseEZ6LVpNREd3ZWZvY01Gei1DcTYtNHJF?oc=5",
-"source": "SchengenVisaInfo",
-"time_baku": "2026-11-10 14:04",
-"query": "European Parliament Armenia"
-},
-{
-"title": "Geneva hosts roundtable initiated by Azerbaijan - شبكة تواصل الإخبارية",
-"url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWlNwWU1XZ09rRTZVOWhmR01TS1J3UTQ1dEZOLVBua2RKOWg1SmpkSlFmZTBfVjFRMDE0Y0pNbEF4dmhKQjVfNTJvS2F0SmxudjNv?oc=5",
-"source": "شبكة تواصل الإخبارية",
-"time_baku": "2026-11-10 14:04",
-"query": "UN Azerbaijan"
-},
-{
-"title": "Azerbaijan sets 2060 net-zero target with 100% electric cars - IntelliNews",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc245Z19DTy1pUF9lQzB6QUs2RTlRckl2SGhybkpLMDluU0JhalBwVXdXa2xsX1psLXo0ay1DZDBkTkZ1S1UwaHlBamRoZ2QwamplQk9mQ1VJdGRVQ21XdnA5UnFXOUYwOXUyLVpGbXY2cnl5ZzJ5SG1ieWswSXNMNjJRamZfNUtlbnNBRzJLXzNiaHNiTUNkYm9ZZw?oc=5",
-"source": "IntelliNews",
-"time_baku": "2026-11-10 13:59",
-"query": "intellinews Azerbaijan Armenia"
-},
-{
-"title": "US and EU call for reliable security guarantees for Ukraine - Operativ Məlumat Mərkəzi",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGdpQ2o2RS1GS1FqY1J1NG1aaUFncmZTYlpYZFJiZENVUTU5MDRRa0xMaE5GYlBXYVBoN3AwejJrVDY4ZlgtakRPVS1iT09GYUM2OXN2UVdvempWWU1RUm9SOU1pNDZpMlk5N0wyZ3ZMb0R1SVlMWV9nZy1JMXVGR25FcllzZzg1TXN0YjVMTHdiaU5ERzdJS2xYTQ?oc=5",
-"source": "Operativ Məlumat Mərkəzi",
-"time_baku": "2026-11-10 13:57",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Papuashvili: Georgia and Azerbaijan play key role in energy security of several EU countries - Apa.az",
-"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmgyekhYV2lnT2Z2TGJkUWtQUzBIY3ZKejdEcDgyaVItaWVWYkMtbEs3aFhQaEw4ak1ENXpZTU9QZnVzSV9pSFhnYzEtbkhqMm5Za0FFc2toRlpSajhISG9aejd0eEFkZTlhR0JjS0dGVENONFpfb0RMUVlyeDBCcDJlWUVwNkpkQmFfakJxaVV0Ym5yV2gxUmkxdzVxU05sLS05SmF0c3VYckpFUGF5QWV6QkRaTF8wOU9BVnlCNXk?oc=5",
-"source": "Apa.az",
-"time_baku": "2026-11-10 13:56",
-"query": "Azerbaijan EU"
-},
-{
-"title": "Armenia, Russia to sign memorandum on mutual assistance in legal sphere, Armenian justice minister says - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80RERYT0l0YUNMaXU5dE5JbXVfZkFGTWdsNzZDZVFvWFpNREZPcnh4UFhyR3h6Sk9PWnEzZU1tT0VnRFhQT1E?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 13:53",
-"query": "UN Armenia"
-},
-{
-"title": "Russian Soldiers Detained in Armenia Over Alleged Assault of Ukrainian Man - The Moscow Times",
-"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDcwSGhZSUp3dXdTMnFHRFVrbGxBV1VCcUZGa2d2ZmltZzNtT3UzV016cjZaQm5sWlNTaHZMeHFjVHNwTDBkdi15amJ6c2xzSVdjQi1Ca1hrdnFDVGYzSUJrbnhzZFlhN0VPSFJuYURFOWtSMzFHY28yZWZiSEdnbklCNk44VDRYUmN1cmRwc0dMdGtxMUdJZl9qaHlJZW1Nb0dxdVd6bFdjakx3SVFPV25VZFRJdXh4cGZsV2JrUE8?oc=5",
-"source": "The Moscow Times",
-"time_baku": "2026-11-10 13:51",
-"query": "NATO Armenia"
-},
-{
-"title": "Mullah regime could not hide strong fear of Azerbaijan over Blue Mosque - Modern.az",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWdkM05OSVcyRVhuNGdKZm5MQUU4T3RCWlFnaE1pMWNucDVoS19JejJ1ek9JUjhESEo4NWFWSE5Xb1RQZDlLT3A3X2NwbVkxeGZXVTJ3a25XS2t0Y180bXdhRmpiM3RSZGRRbmNmajNXeTMzODR3T1Z5QUExZjJkMmJIVVJ1UElyMnpPaVdIZm9sekhHWDNhSk1pNG9XQnppVGp4OHQtc3hOS3M?oc=5",
-"source": "Modern.az",
-"time_baku": "2026-11-10 13:50",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Armenia State Revenue Committee head to leave for Brussels, to sign 2 cooperation agreements with EU - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MNzc3OHRHM09PN256cU1Jb2JsNUNXbEFqX3BEYmZnN19Qck1vdFNlU1E5ZVlwZVBtWTVEQ0JWLVloeXVaZmc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 13:46",
-"query": "Armenia EU"
-},
-{
-"title": "The air temperature in Armenia will increase by 4-6 degrees - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUFg3eU8wMHJhdE5ZVDB6b0E0X1I3eGZOY1dNNGktcUh6eGRuaFU0bVN6M0EtQkdrb0tMMHQyUnZ5WlkyT1BpdnpZWkVROTRDWmNxaTl5cWpSYkFFdkpZMQ?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 13:40",
-"query": "UN Armenia"
-},
-{
-"title": "Armenia Hails 2026 as 'Significant Milestone' in Deepening EU Relations at Brussels Platform - Hetq.am",
-"url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KU1VYdTBJTGJiNHQ5NGtXVHM2bkhtVF9qQktpUHRZWnlZR21SLXAwNVlwa25HSkYxZWxSc1NscU4tYlRtc051Vg?oc=5",
-"source": "Hetq.am",
-"time_baku": "2026-11-10 13:29",
-"query": "Armenia EU"
-},
-{
-"title": "Deputy PM: 2026 marks important milestone in deepening of relations between Armenia, EU - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wZlFCV3BRcFZTbkMwbHItanZvRTJIeVpBQzlyS2JnQmpnX3hxQS1KeUp4Y0c4RHJLQnRBSFNCdkdhQzF4ckE?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 13:29",
-"query": "European Parliament Armenia"
-},
-{
-"title": "Trilateral negotiations have begun in Abu Dhabi - Radar.am",
-"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZQWtGaE5haS0yVFVFZ19nS1pNOHVWU29hVmRCRHJ2b25VSVFtT1lmOHBoUGtJeXlmaE5QOEJhR1llRVJ5clIyYVZ3ZEVySU1yQ2pqWQ?oc=5",
-"source": "Radar.am",
-"time_baku": "2026-11-10 12:44",
-"query": "NATO Armenia"
-},
-{
-"title": "Azerbaijani Foreign Ministry offers condolences to Poland - Report.az",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM09wbVlBTFZRc1h0QjNPWC12QUJidUlQaWVrbV9YRlRBaC1Md21XN3F0dnotUDROSEFHbjNSUWtScTdGbWRGUU1rZ0ZyZ2R6QnBhdU5hZ0FmSVNadEFkb0dqRTc2V2tWWkRWTHh4bFhaV2loWjVBTHNHODJjOTFySlM5akNiZVNoNmJMWG5aTnFUNDlKQURUR2lQQQ?oc=5",
-"source": "Report.az",
-"time_baku": "2026-11-10 12:35",
-"query": "Азербайджан"
-},
-{
-"title": "Opposition Strong Armenia party Stepanavan city mayoral candidate Arsen Gevorgyan did not present any health-related complaints while in prison, Penitentiary Service says - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YdWJiZ2tjd180UUpjY1pDYXhpanJUT0dER3lPallpNDBPcjVGU0lZNm9vZUNMYmlRaUdjaTlseWlkakNycnc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 12:33",
-"query": "UN Armenia"
-},
-{
-"title": "Baku takes WUF13's urban development agenda to United Nations in Geneva [PHOTOS] - AzerNews",
-"url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lTUc5Wm1DemdfTm83c2ZGejBtcGJoeEEwNlMwdUJSMDB2VjUzay1lNi1QbGNCaThwQ29TWnJUbjVPZjBaOEc2eHA4ZXNZVXdQWnBmRQ?oc=5",
-"source": "AzerNews",
-"time_baku": "2026-11-10 12:24",
-"query": "UN Azerbaijan"
-},
-{
-"title": "Public officers to receive training in Azerbaijan under new MoU - Daily Mirror - Sri Lanka",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0p5cW45S3VYLWxjRThFVzUzWkhKMkJNcHlneXNJZlNiUHhUNGpIbFZ6MFo4WnZkV0VOdjg4U3h0LVBBUVV1dmhlQ0JBMFJpWk5JRkdXWG5XTEJ2aGNfdE5rVGhvVkRqWWZwZGlSR3Jpd1RoYmJlREJSTndTZEVlckZBb0xuZTI5ckV0M1dUSjE1a0tMMks4YTBjMWFWbFN0NG5pckFjWUhWQnAtWmxPU2QwWjdidw?oc=5",
-"source": "Daily Mirror - Sri Lanka",
-"time_baku": "2026-11-10 12:19",
-"query": "UN Azerbaijan"
-},
-{
-"title": "Greta Thunberg arrives at UN climate talks saying ‘everything we love is at stake’ - NEWS10 ABC",
-"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaGNIVEhFRWtTd0RnQnFjOS1ZTDdYWjY1OUJJb2h5ZVhHTF8taDdkMW1PNWpmWkxXV1N2X3FFSUhXN2V6blVGSU11MlpGSjNEeDFocWNvbkxXV1gyN1hITEwyQy1sY0UzMFlpaGlFLVZweU9BT19UTEw5TmNLZmszTk8tT1pXZXEzSVo5dE5oQzM3VTNFcGNHdDJNMDMyN0RfcHAxUmVGbUkySGF0MmJfLUN5T0hrcGJNMEotN20yb015QmNfXzZEd0hn0gHKAUFVX3lxTE5oY0hUSEVFa1N3RGdCcWM5LVlMN1haNjU5QklvaHllWEdMXy1oN2QxbU81amZaTFdXU3ZfcUVJSFc3ZXpuVUZJTXUyWkZKM0R4MWhxY29uTFdXWDI3WEhMTDJDLWxjRTMwWWloaUUtVnB5T0FPX1RMTDlOY0tmazNOTy1PWldlcTNJWjl0TmhDMzdVM0VwY0d0Mk0wMzI3RF9wcDFSZUZtSTJIYXQyYl8tQ3lPSGtwYk0wSi03bTJvTXlCY19fNkR3SGc?oc=5",
-"source": "NEWS10 ABC",
-"time_baku": "2026-11-10 12:12",
-"query": "UN Azerbaijan"
-},
-{
-"title": "The RPA deputy chairman called on the Armenian side to demand the resignation of BSEC Secretary General Asaf Hajiyev for political bias - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10OFNuVVFkbWFjX0hWenFZQ3FtcXZQWVJpVExHN1BwUnpOajN4WlRiWHZGZmY5Y0pVek4tM3FKT1RtYjNNeTdOYXBvem9nY1hMREVISk5fbzVSNV9QVWQ3YQ?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 12:02",
-"query": "ECHR Azerbaijan"
-},
-{
-"title": "Armenian minister participates in first High-Level Connectivity Platform Meeting on Digital in Moldova - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWVNEZmt5c3poVUh2cWJBRUNRMXQyVG9Jb2xLSGlwMnJtaVdnVHoxZFBjSFo2Y1V5VkNSejJvU3pNOVd5Z1N5cHJXbUFPSS13QnfSAVdBVV95cUxNRlV2WlpUdDA0ejNLSjd2aXQtcTZ2QWtwQzJLRVdLclNzWDRyZS1tSjV5UE5fOGtXbzJRUFJ3Tm81V3BhTi1mdjlPSWNHYUl4cnR3alBuS2s?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 11:59",
-"query": "UNDP Armenia"
-},
-{
-"title": "Opposition Strong Armenia party's Stepanavan city mayoral candidate Arsen Gevorgyan dies of heart attack in prison - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9na2NpQVBpVGJnOFFRRXVYeV91djNMTnFFVUVYOXRkZXBzQ3YzNG9jNHdhNkpkOUk0c3lKN1Atc21hSjRrQXc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 11:53",
-"query": "UN Armenia"
-},
-{
-"title": "Better, wider & further: Building energy systems that deliver - United Nations Development Programme",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmxjd1RYQzF1UXZaUWxQZURGQXhWUjYxSHhMMVI3Zkx5bGFfQzBDMUs0Y2J6SnZSTUVJMDJzR0dWWVNaSFpqTXJvR19NTVVlMlhMWV93dnNaZm5IVVdmRVp3XzFJVmlYbkhiTkJXdnY4SG5heEoya0hvQ3NteGRuRzlkNEJmOXYxNGNhVWt5NA?oc=5",
-"source": "United Nations Development Programme",
-"time_baku": "2026-11-10 11:40",
-"query": "UNDP Armenia"
-},
-{
-"title": "Azerbaijan extends condolences to Türkiye after Izmir factory blast - Yeni Safak English",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1BtNERuR1kteWo3VEZMdnFxN2ZvY3RCU0UwaWV5blcwVlVucHBOaXRIelVqd3lZdk8zUFNaMGRNUzVDcFd0ZzN5REhFUlhod3lOOTRkTEZybXVjaEtwY2pSQlRnenM4UW1wa3REQjFkOXRCdkZmeXNHMTFnQUl3bG92cmlIdzBJVERQZDY2OG53c05SSWREeXZDUlRxS3p6TllSRmNHbFNHN2xy?oc=5",
-"source": "Yeni Safak English",
-"time_baku": "2026-11-10 11:10",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "MEP Bellamy: France will get back on its feet - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVmZZZnNRZDM0V3I4MUFVSkx3REdkQXVPZWwtc3lWN2NHVmg0b3ZPdTJma1h1VXQ5Z28tVE43ZDdPQjVIczl4Z3JWVGMtUGQ3SXc?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 10:59",
-"query": "European Parliament Armenia"
-},
-{
-"title": "Minister: Azerbaijan ready to partner on wind energy exports to global markets (PHOTO) - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oVVNKbU5WWVltZ3JvcmlpRE9MWGYwQkY3Q25XZDAwbXI4SHR6NUpSRjQ0S09NalVMZzhHaEpXd0hqMmRKM0dwNTJqblRBdEpfaGhMbVoxdw?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-11-10 10:59",
-"query": "Азербайджан"
-},
-{
-"title": "Azerbaijan presents Caspian wind energy investment opportunities at COP31 - Report.az",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVJYZEUxc1dYQ29BR0w0VEEwT0cyb05XM3FOUnVrQzNzbGxPaXVHc0lRZzZjODM5TXllUm5RSmxUSk16bExSV2JEVXV0Tmxwb3hqUWZvamw1RlJqVm9kS1Q1MnM1NTBsSzA0cnJzT0FCZlloR0d0RVU0X0I4WnNTT2hHenRiMkl3dGJsemR1dGhCN1EzY241YkFqU0tHOGxDWW9z?oc=5",
-"source": "Report.az",
-"time_baku": "2026-11-10 10:59",
-"query": "Азербайджан"
-},
-{
-"title": "Orientalist: In 2026, Baku made special efforts to achieve greater diplomatic effect on the issue of victory over Artsakh - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Fb1lkZHVHM0xMWERVbmdpODd2RHVIWTY0d0FMZmk0ZGdEV3BUaUhseFcwbS1sNDBMWVRrbmUwS0pMbTZlSDhsOTlrUlprU0VCWEhPQ2hRQzFCOFhpM0RpRg?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 10:57",
-"query": "ECHR Azerbaijan"
-},
-{
-"title": "The Prime Minister of Armenia Will Not Attend the CSTO Collective Security Council Meeting - open.kg",
-"url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFRtRDFiN1JsbUx0NjF1OTVSeTFBR2IzQW1XY2w3V0s0QnBsMmpRbTJlVkk5S09KbTdQRW1Cd2lNZjN0ZHljM29EcGRKdGlBWFJOcjdTeW5fTTlTY1JJUWlCc1U0S2I5N0x4WGlYNFZqMENfTmltNUxYQzhWU2kzZFJlcE50MEVKUHFQQk9FbF9HU2xwdFFCeEdQUk9oWTRHRzJuTWk1a1hGMmNIRmJMWFZ1LXhpb0o5cTZrUHd6YjNIbklxMlN3TjNMMElZanE3TWFhS3NPMFZvYmlkamxhMQ?oc=5",
-"source": "open.kg",
-"time_baku": "2026-11-10 10:46",
-"query": "UN Armenia"
-},
-{
-"title": "FM: Armenia will open its resident embassy in Tallinn in coming months - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52OHNycHNJRWk5UUp4dGhZLTRicnZRZy1HaVNmNXFtTzFmQnZQQVUxQTRRc2FYa21nTFJocktLbVhjN1VuTmc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 10:38",
-"query": "UN Armenia"
-},
-{
-"title": "Newspaper: Draft constitution to be submitted to Armenia parliament by end of November, sources say - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01aU1qbXZHNXpqQ0FpenVvYVc3dFUyWlNaSWVoRWNRNEJ2UDNfWHR0Rm84X2NHYU1Qc0xxZVZHZktqNUh0SWc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 10:32",
-"query": "European Parliament Armenia"
-},
-{
-"title": "The Prime Minister of Armenia arrived in France on a working visit - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wT0w4bDRIbFVwRzMwVFdIVEk3Nkk5U255Z2JXY1FqTExnTGFhc0dwOTdYdmEyTm9XcXN4bEp3THU2MzZXY3RqZi1kM01lLU16ZHBTekdKX1hIVXdHMkw5Yw?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 10:32",
-"query": "UN Armenia"
-},
-{
-"title": "COP31 update 2: Summit Opens in Turkey Amid Growing Pressure to Turn Climate Commitments into Action - commonspace.eu",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnd0dDJFRUd6RnpPajlwTlRtcGlyUzRzaEF2b2ZxUGtJWDBPWHEzUmcyelBjMVEyanZqY0hNb2hlNVlyNWdjZEVGajlKc3BVNlJ3QUZOVmVWZkd0LXdIUUlRVVhfVnJrSW9Zc0ZMM1E5V3o0MFBfbUtVd2gwNktDRjlZcjNBRWR4QkhDMC1TWjFsal8yQ0c1bjNfQzJLajlZSVR6d0xyU1NwRXJHdmFoSUNUUDZINjQzVks0Sw?oc=5",
-"source": "commonspace.eu",
-"time_baku": "2026-11-10 10:23",
-"query": "Azerbaijan EU"
-},
-{
-"title": "Young faith leaders want a say in how nature is restored - World Council of Churches",
-"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkk2U2F3enN6V1RIUklYZGdfRGVfbEFTNGZWWjZGN0FsYXFOZnFDRDZlRG9qVUtkMzhsQjFqcHNNdFRXckNrNmVtTk9CckRPQ1lTQTJqemRxZ1BhRTFNeTZQMVo4bFpzbWNrSzBMcmVpT2RTWlRpNTBqOFNLQVNJMjF2TllsUWZPNEFKMlV4Vk8?oc=5",
-"source": "World Council of Churches",
-"time_baku": "2026-11-10 10:13",
-"query": "UNDP Armenia"
-},
-{
-"title": "High level of security ensured at COP17, no incidents reported thanks to coordinated efforts - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBldS1pdldPbTFtNHNWQV9Eb2k3bkYtWldiLWxKekxHQ2EwakNWU1ZyelJvWTVUclhobWhtS3dyaXBXQWhoWnJleVROUG5zMVphV1HSAVdBVV95cUxNUWl3ckI1U0xSS2VpQWJ0aFdsWFg1Z2poVF9GMnF6bWRDYTdvd0VMcEF3X203ajlhbHBtWkdvYm1BN05UQjdHN01FOWdxNmNKTlVFVWFPN3c?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 09:54",
-"query": "Армения"
-},
-{
-"title": "Estonian foreign minister awards Cross of Merit First Class to Armenian counterpart - Armenpress",
-"url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVW5ZYUZCR3BYZjg0c1RVUnd4SmNXb3d5aldlOEEtdUlkSUFRcTdDRXRDV1VDTUR0SmEzQ3VXLWxoMkxWZnlsdFdGUTFhNlBoM2fSAVdBVV95cUxQb09VMnBVYnVEOFBjTUJsOUQxNEpGZXdDR2N6YnZrOFUtbnRTd3ozVHlUTHFZd1hISWxiOV81a3BTal9UQjBlNm8yTWRmWGJ3aGF2eUx5cDA?oc=5",
-"source": "Armenpress",
-"time_baku": "2026-11-10 09:51",
-"query": "Armenia EU"
-},
-{
-"title": "A restaurant serving Azerbaijani dishes in Russia is being sold for 265 million - Modern.az",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzFpMzRPcDdkV1FVb2RHYWdVWXprdWNjdjZCWmFfZzgxLVNwbGRMeEtCUDBfSmtubGtiVU5pWEFWdlNjdEtrcFdHUGZIMW45aElGLTN4TFFIQWRaLVpGSGtnTFVxSXB3eHZaaDRobGhTZXJrV3NVWHpQbDJwNlVodi1LMl9Lc2w4ZW9OcHNhZGhHckZxVmJTOEtHMUlJVDdvSUNPVWlwaXZzZEw2OWFEZElXLTQ1QQ?oc=5",
-"source": "Modern.az",
-"time_baku": "2026-11-10 09:39",
-"query": "European Parliament Azerbaijan"
-},
-{
-"title": "Armenia premier arrives in France (VIDEO) - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12YmwxMjhZN3psU3B6MVhweGdjcmNDSWNyaGhVdTZHUzYzbC04N2JMTHVCR21KYk5lM2xkTC1mbHY4X0d1VVE?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 09:39",
-"query": "UN Armenia"
-},
-{
-"title": "Armenia interior ministry: COP17 conference held with high level of security, without incidents (VIDEO) - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54V3ZDUFcyNlFsSjctT0ZuV0hSR29CcFpOSlVhSWZUVzlRb1pyWVQ5QkFBWlc3dUhjOGJvUGZOU3Q0clFTc1E?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 09:35",
-"query": "UN Armenia"
-},
-{
-"title": "Navoi’s air cargo ambitions: Uzbekistan's new gateway between Asia and Europe - Trend News Agency",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrX21hVk4tNWg1UXhpdlUzbUREdHhVRE5ldkwzMnUzbXJqWDE0X1ZISzVpWDhCRWwtcjh5Tl9DWkQxQUpKN3M1eWFKSmRaNm1QVFdJb0F1bm9ScS1HTnFB?oc=5",
-"source": "Trend News Agency",
-"time_baku": "2026-11-10 09:00",
-"query": "Azerbaijan EU"
-},
-{
-"title": "Newspaper: Armenian-Iranian brawl occurs in Armenia village - NEWS.am",
-"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SMFdNNS1XMEVwVzg2M3Fndld4SFA5b2pGSjQtdHIzWDBvSHRUd2dERWdqT3FXay1LQ3VJUkp0cmRWYTl6OXc?oc=5",
-"source": "NEWS.am",
-"time_baku": "2026-11-10 08:50",
-"query": "UN Armenia"
-},
-{
-"title": "The Foreign Ministers of Armenia and Iraq held a telephone conversation. - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmRTNzMnJ2eVdaVGhmaGVwdDNZV08tUnJ5QWVNeUFkbWVjWXVuX0hnX0psUnZpZE1SRWtPSmFkcGJCT0JNVEVrTmxCR1BZa2tYZDVmYzlZTWk5azNheFI3Ykhn?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 08:37",
-"query": "Армения"
-},
-{
-"title": "High-ranking foreign guests arrive in Armenia to participate in COP17 - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aNV8wZUhpU3U4ZWFoV1oxSER4bE1sUXJELTJNQ2hWcl9xejRCcWVHdnJ0bVBRRE5fdE05ZENpdEc3OTFUQTF6dXhINTBVRHJpZXJMY0ZFSXVBc1RFb1NkNmdn?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 08:35",
-"query": "UN Armenia"
-},
-{
-"title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi - Al Jazeera",
-"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGpMMy0ySU5GNjNUWDlJazZZR0VvcndtSnN2X0pCYUJjNXhxTkp0NVRrUlhITnNUbmZaVE91SGgteF9yd0lVdFgtRXFtdUE5NTlqbnZhY250dHFRbmt3MDhHbjZiVEFkcXFndHVRZk9kMGN0NldtT3NVcjQ4VEY2RGZkRElzNkR0R0hDVUUycW4zUW5IbGZZQ1hJTXdQUnppRXJaNmhRV1VsWERlX3NCVdIBtgFBVV95cUxOeTV3SnkxbDBiQnRKT2Zyd1lwOFpDcE5OdWJuczR1eUsyTjdEU1l6cnFzc3FDUXVkZktUS0FKeXJiU0xFVk8xRUVaUzJWR2xSbWJOeEJFUFphbGh1SVl5SkNhZW0wcjJlVTIwc2MwTU5kdjdJcWlkWTVmRU1GUzc5VkY1UFMya0pkQ0xVbDJGN3U0TkFDQkRjM1h3MWdyZXNkUDR0SFNNcl96Y2VReUJBQkgxYVJTdw?oc=5",
-"source": "Al Jazeera",
-"time_baku": "2026-11-10 08:12",
-"query": "NATO Armenia"
-},
-{
-"title": "The European Union Delegation to Armenia congratulated Yerevan on its 2808th anniversary - ArmInfo",
-"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1dm9ZZkdZb3AzTGJqZU81ZVVjQm54a3Y4LVVybVNrUy1STjF3cC15UU44OEpqc01rTlNBbF84dDNvUmhMM3JyLURiTFVqSEprR0VUZEpPeVh0bW04M0tnc1Zn?oc=5",
-"source": "ArmInfo",
-"time_baku": "2026-11-10 07:18",
-"query": "European Parliament Armenia"
 }
 ]
 }
