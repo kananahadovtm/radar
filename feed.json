@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-16T22:30:14.351046+00:00",
-"generatedAtBaku": "2026-11-17 02:30",
+"generatedAt": "2026-11-17T04:46:43.154981+00:00",
+"generatedAtBaku": "2026-11-17 08:46",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,25 +9,25 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 45,
-"HRAPARAKAM": 1,
-"ArmenianVendetta": 5,
+"bagramyan26": 44,
+"HRAPARAKAM": 0,
+"ArmenianVendetta": 4,
 "caucasar": 6
 },
 "pages": {
-"azertag": 66,
-"apa": 16,
-"qafqazinfo": 19,
-"haqqin": 4,
-"news.am": 35,
-"armenpress-hy": 11,
+"azertag": 56,
+"apa": 13,
+"qafqazinfo": 18,
+"haqqin": 5,
+"news.am": 34,
+"armenpress-hy": 10,
 "armenpress-en": 22,
-"azatutyun": 9,
-"tert": 13,
-"hetq": 12,
-"hraparak": 13,
-"1in": 19,
-"primeminister": 2,
+"azatutyun": 8,
+"tert": 14,
+"hetq": 7,
+"hraparak": 10,
+"1in": 18,
+"primeminister": 0,
 "civilnet": 7,
 "oc-media": 6,
 "jam-news": 2,
@@ -38,7 +38,7 @@
 "europarl": 0,
 "osce": 0,
 "nato": 0,
-"un-press": 2,
+"un-press": 4,
 "un-azerbaijan": 1,
 "un-armenia": 0,
 "armenianweekly": 1,
@@ -47,7 +47,7 @@
 "301am": 4,
 "alphanews": 13
 },
-"search": 159
+"search": 149
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
@@ -57,13 +57,15 @@
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
 "asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/",
-"search:Armenia EU": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Armenia+EU+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:Azerbaijan EU": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Azerbaijan+EU+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:Armenia EU": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Armenia+EU+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:EUMA Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EUMA+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
 "search:European Parliament Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=European+Parliament+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:PACE Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=PACE+Azerbaijan+when:2d&hl=en-US&gl=US&ceid=US:en",
-"search:PACE Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=PACE+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
-"search:OSCE Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OSCE+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:OSCE Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OSCE+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
-"search:ECHR Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=ECHR+Azerbaijan+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:OSCE Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OSCE+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:intellinews Azerbaijan Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=intellinews+Azerbaijan+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:Азербайджан": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:Армения": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:ECHR Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=ECHR+Azerbaijan+when:2d&hl=en-US&gl=US&ceid=US:en",
 "search:ECHR Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=ECHR+Armenia+when%3A2d&hl=en&gl=US&ceid=US:en"
 }
 }
