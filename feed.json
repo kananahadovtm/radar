@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-17T23:09:31.167239+00:00",
-"generatedAtBaku": "2026-11-18 03:09",
+"generatedAt": "2026-11-18T04:42:52.319729+00:00",
+"generatedAtBaku": "2026-11-18 08:42",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,52 +9,53 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 47,
+"bagramyan26": 43,
 "HRAPARAKAM": 7,
 "ArmenianVendetta": 6,
 "caucasar": 6
 },
 "pages": {
-"azertag": 51,
-"apa": 10,
-"report": 1,
-"qafqazinfo": 15,
-"caliber": 8,
-"news.am": 36,
+"azertag": 46,
+"apa": 9,
+"qafqazinfo": 12,
+"haqqin": 6,
+"news.am": 29,
 "armenpress-hy": 12,
-"armenpress-en": 24,
-"azatutyun": 12,
+"armenpress-en": 23,
+"azatutyun": 10,
 "tert": 12,
-"hetq": 11,
-"hraparak": 14,
-"1in": 18,
+"hetq": 8,
+"hraparak": 12,
+"1in": 17,
 "primeminister": 1,
-"civilnet": 9,
+"civilnet": 4,
 "oc-media": 5,
 "jam-news": 2,
-"eeas-press": 6,
+"eeas-press": 4,
 "eeas-azerbaijan": 0,
 "eeas-armenia": 0,
 "euma": 0,
-"europarl": 1,
+"europarl": 0,
 "osce": 5,
 "nato": 0,
-"un-press": 5,
-"un-azerbaijan": 0,
+"un-press": 3,
+"un-azerbaijan": 1,
 "un-armenia": 1,
-"asbarez": 23,
 "armenianweekly": 5,
 "armenian-assembly": 0,
-"arfd": 2,
-"301am": 6,
-"alphanews": 9
+"arfd": 3,
+"301am": 4,
+"alphanews": 7
 },
-"search": 165
+"search": 151
 },
 "errors": {
-"haqqin": "403 Client Error: Forbidden for url: https://haqqin.az/",
+"report": "403 Client Error: Forbidden for url: https://report.az/",
+"caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
-"undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia"
+"undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
 }
 }
