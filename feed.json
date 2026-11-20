@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-20T02:35:47.641915+00:00",
-"generatedAtBaku": "2026-11-20 06:35",
+"generatedAt": "2026-11-20T10:28:48.277092+00:00",
+"generatedAtBaku": "2026-11-20 14:28",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,52 +9,53 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 63,
-"HRAPARAKAM": 9,
-"ArmenianVendetta": 8,
-"caucasar": 7
+"bagramyan26": 89,
+"HRAPARAKAM": 13,
+"ArmenianVendetta": 11,
+"caucasar": 10
 },
 "pages": {
-"azertag": 46,
-"apa": 13,
-"qafqazinfo": 8,
-"caliber": 10,
-"news.am": 31,
-"armenpress-hy": 17,
-"armenpress-en": 25,
-"azatutyun": 15,
-"tert": 18,
+"azertag": 51,
+"apa": 15,
+"qafqazinfo": 9,
+"haqqin": 8,
+"news.am": 39,
+"armenpress-hy": 25,
+"armenpress-en": 32,
+"azatutyun": 10,
+"tert": 17,
 "hetq": 21,
-"hraparak": 15,
+"hraparak": 24,
 "1in": 14,
-"primeminister": 1,
-"civilnet": 17,
-"oc-media": 7,
-"jam-news": 4,
-"eeas-press": 1,
+"civilnet": 16,
+"oc-media": 8,
+"jam-news": 3,
+"eeas-press": 0,
 "eeas-azerbaijan": 0,
 "eeas-armenia": 0,
 "euma": 0,
-"europarl": 1,
-"osce": 9,
+"europarl": 0,
+"osce": 6,
+"nato": 43,
 "un-press": 0,
 "un-azerbaijan": 14,
 "un-armenia": 11,
-"asbarez": 3,
-"armenianweekly": 4,
-"armenian-assembly": 0,
-"arfd": 3,
-"301am": 7,
-"alphanews": 8
+"armenianweekly": 8,
+"armenian-assembly": 3,
+"arfd": 2,
+"301am": 16,
+"alphanews": 20
 },
-"search": 168
+"search": 208
 },
 "errors": {
 "report": "403 Client Error: Forbidden for url: https://report.az/",
-"haqqin": "403 Client Error: Forbidden for url: https://haqqin.az/",
+"caliber": "403 Client Error: Forbidden for url: https://caliber.az/",
+"primeminister": "522 Server Error: <none> for url: https://www.primeminister.am/en/press-release",
+"europarl": "no links found (page may need JavaScript or blocks bots)",
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
-"nato": "406 Client Error: Not Acceptable for url: https://www.nato.int/en/news-and-events",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
-"undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia"
+"undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
 }
 }
