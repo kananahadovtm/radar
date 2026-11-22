@@ -1,6 +1,6 @@
 {
-"generatedAt": "2026-11-22T10:17:26.815913+00:00",
-"generatedAtBaku": "2026-11-22 14:17",
+"generatedAt": "2026-11-22T18:01:48.739126+00:00",
+"generatedAtBaku": "2026-11-22 22:01",
 "hours": 30,
 "files": [
 "feed-telegram.json",
@@ -9,25 +9,25 @@
 ],
 "counts": {
 "telegram": {
-"bagramyan26": 26,
-"HRAPARAKAM": 9,
+"bagramyan26": 22,
+"HRAPARAKAM": 3,
 "ArmenianVendetta": 4,
-"caucasar": 3
+"caucasar": 2
 },
 "pages": {
-"apa": 15,
-"qafqazinfo": 9,
-"haqqin": 2,
-"news.am": 13,
-"armenpress-hy": 20,
-"armenpress-en": 14,
-"azatutyun": 9,
-"tert": 13,
-"hetq": 5,
-"hraparak": 10,
-"1in": 20,
+"apa": 13,
+"qafqazinfo": 12,
+"haqqin": 4,
+"news.am": 15,
+"armenpress-hy": 13,
+"armenpress-en": 11,
+"azatutyun": 8,
+"tert": 10,
+"hetq": 6,
+"hraparak": 12,
+"1in": 18,
 "primeminister": 3,
-"civilnet": 7,
+"civilnet": 6,
 "oc-media": 1,
 "jam-news": 0,
 "eeas-press": 0,
@@ -44,9 +44,9 @@
 "armenian-assembly": 0,
 "arfd": 0,
 "301am": 2,
-"alphanews": 0
+"alphanews": 1
 },
-"search": 84
+"search": 70
 },
 "errors": {
 "azertag": "403 Client Error: Forbidden for url: https://azertag.az/",
@@ -56,6 +56,15 @@
 "pace": "403 Client Error: Forbidden for url: https://pace.coe.int/en/news",
 "undp-azerbaijan": "403 Client Error: Forbidden for url: https://www.undp.org/azerbaijan",
 "undp-armenia": "403 Client Error: Forbidden for url: https://www.undp.org/armenia",
-"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/"
+"asbarez": "403 Client Error: Forbidden for url: https://asbarez.com/",
+"search:Armenia EU": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Armenia+EU+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:European Parliament Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=European+Parliament+Azerbaijan+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:European Parliament Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=European+Parliament+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:OSCE Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OSCE+Azerbaijan+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:OSCE Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OSCE+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:Kallas Azerbaijan Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Kallas+Azerbaijan+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:Армения": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+when%3A2d&hl=en&gl=US&ceid=US:en",
+"search:ECHR Azerbaijan": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=ECHR+Azerbaijan+when:2d&hl=en-US&gl=US&ceid=US:en",
+"search:ECHR Armenia": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=ECHR+Armenia+when:2d&hl=en-US&gl=US&ceid=US:en"
 }
 }
