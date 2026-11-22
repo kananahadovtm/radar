@@ -1,9 +1,14 @@
 {
-"generatedAt": "2026-11-22T18:01:48.739126+00:00",
-"generatedAtBaku": "2026-11-22 22:01",
+"generatedAt": "2026-11-22T23:49:29.532080+00:00",
+"generatedAtBaku": "2026-11-23 03:49",
 "hours": 30,
 "pages": {
 "apa": [
+{
+"title": "Kușner ABŞ-ın Rusiyanı NATO-nun sülh niyyətlərinə inandırmağa çalışdığını bildirib 00:45 23 noyabr 2026",
+"url": "https://apa.az/amerika/kusner-abs-in-rusiyani-nato-nun-sulh-niyyetlerine-inandirmaga-calisdigini-bildirib-1016201",
+"firstSeenBaku": "2026-11-23 03:49"
+},
 {
 "title": "İtaliyanın xarici işlər naziri Azərbaycana səfər edib 21:26 22 noyabr 2026",
 "url": "https://apa.az/xarici-siyaset/italiyanin-xarici-isler-naziri-azerbaycana-sefer-edib-1016180",
@@ -45,37 +50,17 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
+"title": "Kușner ABŞ-ın Rusiyanı NATO-nun sülh niyyətlərinə inandırmağa çalışdığını bildirib 00:45 23 noyabr 2026",
+"url": "https://apa.az/amerika/kusner-abs-in-rusiyani-nato-nun-sulh-niyyetlerine-inandirmaga-calisdigini-bildirib-1016201?locale=az",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
 "title": "Prezident İlham Əliyev Livan lideri Jozef Aunu milli bayram münasibətilə təbrik edib 12:51 22 noyabr 2026",
 "url": "https://apa.az/resmi-xeber/prezident-ilham-eliyev-livan-lideri-jozef-aunu-milli-bayram-munasibetile-tebrik-edib-1016132",
 "firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "Sabah Bakıda yağış, dağlıq ərazilərdə qar yağacaq - PROQNOZ 12:23 22 noyabr 2026",
-"url": "https://apa.az/hava-haqqinda/sabah-bakida-yagis-dagliq-erazilerde-qar-yagacaq-proqnoz-1016129",
-"firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "Azərbaycanın bəzi rayonlarında intensiv yağış, Şahdağda qar yağıb - FAKTİKİ HAVA 10:43 22 noyabr 2026",
-"url": "https://apa.az/hava-haqqinda/azerbaycanin-bezi-rayonlarinda-intensiv-yagis-sahdagda-qar-yagib-faktiki-hava-1016115",
-"firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "16:00 21 noyabr 2026 Azərbaycanda nəqliyyat vasitələri ilə yük daşımaları artıb - CƏDVƏL",
-"url": "https://apa.az/infrastruktur/azerbaycanda-neqliyyat-vasiteleri-ile-yuk-dasimalari-artib-cedvel-1015776",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "13:35 21 noyabr 2026 Avropa İttifaqının dəstəyi ilə Azərbaycanda yeni iş yerlərinin sayı 12%-dən çox artıb",
-"url": "https://apa.az/sahibkarliq/avropa-ittifaqinin-desteyi-ile-azerbaycanda-yeni-is-yerlerinin-sayi-12-den-cox-artib-1015941",
-"firstSeenBaku": "2026-11-21 20:56"
 }
 ],
 "qafqazinfo": [
-{
-"title": "Gürcüstanda azərbaycanlı iş adamının avtomobili atəşə tutuldu",
-"url": "https://qafqazinfo.az/news/detail/gurcustanda-azerbaycanli-is-adaminin-avtomobili-atese-tutuldu-529447",
-"firstSeenBaku": "2026-11-22 22:01"
-},
 {
 "title": "“Kəpəz” də “Qarabağ”dan xal aldı - Video-Yenilənib",
 "url": "https://qafqazinfo.az/news/detail/kepez-de-qarabagdan-xal-aldi-video-yenilenib-529413",
@@ -92,13 +77,33 @@
 "firstSeenBaku": "2026-11-22 02:22"
 },
 {
+"title": "Alyona Əliyeva sərgidə - Fotolar",
+"url": "https://qafqazinfo.az/news/detail/alyona-eliyeva-sergide-fotolar-529461",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "“Kəpəz” də “Qarabağ”dan xal aldı - Video-Yenilənib",
+"url": "https://www.youtube.com/embed/SjZVMZ4-Wbs",
+"firstSeenBaku": "2026-11-22 22:01"
+},
+{
+"title": "İtaliyanın xarici işlər naziri Azərbaycandadır",
+"url": "https://qafqazinfo.az/news/detail/italiyanin-xarici-isler-naziri-azerbaycandadir-529458",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
 "title": "Azərbaycan kimlərin hədəfindədir?! - Faktlar və xronologiya...",
 "url": "https://qafqazinfo.az/news/detail/azerbaycan-kimlerin-hedefindedir-faktlar-ve-xronologiya-529451",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "“Kəpəz” də “Qarabağ”dan xal aldı - Video-Yenilənib",
-"url": "https://www.youtube.com/embed/SjZVMZ4-Wbs",
+"title": "Sabah Bakıda yağış yağacaq",
+"url": "https://qafqazinfo.az/news/detail/sabah-bakida-yagis-yagacaq-529426",
+"firstSeenBaku": "2026-11-22 14:17"
+},
+{
+"title": "Gürcüstanda azərbaycanlı iş adamının avtomobili atəşə tutuldu",
+"url": "https://qafqazinfo.az/news/detail/gurcustanda-azerbaycanli-is-adaminin-avtomobili-atese-tutuldu-529447",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
@@ -112,11 +117,6 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "Sabah Bakıda yağış yağacaq",
-"url": "https://qafqazinfo.az/news/detail/sabah-bakida-yagis-yagacaq-529426",
-"firstSeenBaku": "2026-11-22 14:17"
-},
-{
 "title": "İranda güclü zəlzələ oldu - Naxçıvanda da hiss edildi",
 "url": "https://qafqazinfo.az/news/detail/iranda-guclu-zelzele-oldu-naxcivanda-da-hiss-edildi-529410",
 "firstSeenBaku": "2026-11-22 14:17"
@@ -125,11 +125,6 @@
 "title": "“Sən demə, sabah bazar günüdür” - TRIPP-in icrasının başlanma vaxtını açıqladı",
 "url": "https://qafqazinfo.az/news/detail/sen-deme-sabah-bazar-gunudur-tripp-in-icrasinin-baslanma-vaxtini-aciqladi-529401",
 "firstSeenBaku": "2026-11-22 02:22"
-},
-{
-"title": "Vyetnamda Bakı izləri - Azərbaycan guşəsi açıldı",
-"url": "https://qafqazinfo.az/news/detail/vyetnamda-baki-izleri-azerbaycan-gusesi-acildi-529390",
-"firstSeenBaku": "2026-11-21 20:56"
 }
 ],
 "haqqin": [
@@ -139,66 +134,76 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
+"title": "Глава МИД Италии прибыл в Баку",
+"url": "https://haqqin.az/newsarchive/399119",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "Германия впервые испытала дроны-камикадзе недалеко от границы с Беларусью",
+"url": "https://haqqin.az/newsarchive/399118",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
 "title": "«Сабах» и «Нефтчи» лидируют в Баскетбольной лиге Азербайджана Итоги первого круга",
 "url": "https://haqqin.az/newsarchive/399114",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "Премьер-лига: «Карабах» 42 дня без побед, «Нефтчи» продолжает лидировать ВИДЕО",
-"url": "https://haqqin.az/newsarchive/399107",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "17:50 Баку накроют дожди",
-"url": "https://haqqin.az/newsarchive/399099",
 "firstSeenBaku": "2026-11-22 22:01"
 }
 ],
 "news.am": [
+{
+"title": "Ադրբեջանն օկուպացրել է Ջերմուկի ջրաբանական արգելավայրի 37 %-ը. «Հետք»",
+"url": "https://news.am/hy/news/1076476",
+"firstSeenBaku": "2026-11-23 03:49"
+},
 {
 "title": "Շղթայական վթար Երևանյան լճի մոտ. կա 1 զոհ, 3 վիրավոր",
 "url": "https://news.am/hy/news/1076449",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "«Երեխան կոշիկ չունի, անձրևին չեմ կարողանում դպրոց ուղարկել»․ արցախցի ընտանիքը անելանելի վիճակում է",
-"url": "https://news.am/hy/news/1076431",
-"firstSeenBaku": "2026-11-22 22:01"
+"title": "01:37 Ջորջ Վաշինգտոնի մազափունջն աճուրդում վաճառվել է 4 հազար դոլարով",
+"url": "https://news.am/hy/news/1076382",
+"firstSeenBaku": "2026-11-23 03:49"
 },
 {
-"title": "21:20 Ներկայացուցիչների պալատում դեմոկրատների առաջնորդը նշել է Թրամփի հետ համագործակցության ուղղությունները",
+"title": "00:50 WP. Պուտինը համաձայնել է Ուկրաինայի համար ՆԱՏՕ-ի մոդելով անվտանգության երաշխիքներին",
+"url": "https://news.am/hy/news/1076478",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "00:08 Ընտրված դեմոկրատ սենատոր Էլ Սայեդը հայտարարել է առողջապահության հարցերում Թրամփի հետ համագործակցելու պատրաստակամության մասին",
+"url": "https://news.am/hy/news/1076472",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "նոյեմբերի 22 | 21:50 Ուկրաինացին մահացել է Ռումինիայի լեռներում՝ սահմանն ապօրինի հատելուց հետո. ևս երկուսին ողջ են գտել",
+"url": "https://news.am/hy/news/1076460",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "նոյեմբերի 22 | 21:20 Ներկայացուցիչների պալատում դեմոկրատների առաջնորդը նշել է Թրամփի հետ համագործակցության ուղղությունները",
 "url": "https://news.am/hy/news/1076453",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "20:30 Style Շուշաննա Թովմասյանի նոր ֆոտոշարքը, Սիուշոյի նորությունը, Հայաստանը՝ Our Generation մրցույթում. Instagram-ը՝ այս շաբաթ",
+"title": "նոյեմբերի 22 | 20:30 Style Շուշաննա Թովմասյանի նոր ֆոտոշարքը, Սիուշոյի նորությունը, Հայաստանը՝ Our Generation մրցույթում. Instagram-ը՝ այս շաբաթ",
 "url": "https://style.news.am/arm/news/117251",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "19:56 Բրազիլիայի նախագահը պատմել է, թե ինչպես է Թրամփին, Պուտինին և Սիին կոչ արել միասին խմել և դադարեցնել հակամարտությունները",
+"title": "նոյեմբերի 22 | 19:56 Բրազիլիայի նախագահը պատմել է, թե ինչպես է Թրամփին, Պուտինին և Սիին կոչ արել միասին խմել և դադարեցնել հակամարտությունները",
 "url": "https://news.am/hy/news/1076445",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "18:30 Style Որտե՞ղ զգալ տոնական տրամադրությունն ու ինչպե՞ս անցկացնել ձմռան առաջին օրը Երևանում",
+"title": "նոյեմբերի 22 | 18:30 Style Որտե՞ղ զգալ տոնական տրամադրությունն ու ինչպե՞ս անցկացնել ձմռան առաջին օրը Երևանում",
 "url": "https://style.news.am/arm/news/117248",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "17:09 WP. ԱՄՆ Սենատի հանրապետականները խոչընդոտում են Պենտագոնի առանցքային պաշտոններում Թրամփի առաջադրած թեկնածուների հաստատմանը",
+"title": "նոյեմբերի 22 | 17:09 WP. ԱՄՆ Սենատի հանրապետականները խոչընդոտում են Պենտագոնի առանցքային պաշտոններում Թրամփի առաջադրած թեկնածուների հաստատմանը",
 "url": "https://news.am/hy/news/1076424",
 "firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "15:37 WSJ. Ուկրաինայի պաշտպանական արդյունաբերությունը հասել է իր հնարավորությունների սահմանին",
-"url": "https://news.am/hy/news/1076417",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "13:56 Style Տաշքենդում կայացած Our Generation մրցույթում Հայաստանի ներկայացուցիչ Լեոն զբաղեցրել է 2-րդ տեղը",
-"url": "https://style.news.am/arm/news/117250",
-"firstSeenBaku": "2026-11-22 14:17"
 },
 {
 "title": "Ուղիղ Ամանորին ընդառաջ Փաշինյանը Վարչաֆեստի է հրավիրում երիտասարդներին. Օրը մեկ տողով 21.11.2026",
@@ -206,19 +211,9 @@
 "firstSeenBaku": "2026-11-22 02:22"
 },
 {
-"title": "Փաշինյանն ու Աննա Հակոբյանն այսօր միասին միջոցառման են մասնակցել",
-"url": "https://news.am/hy/stories/3570",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Իրանը մտադիր է «Նորդուզը» դարձնել իր ամենաբանուկ ցամաքային սահմանային անցակետը",
-"url": "https://news.am/hy/stories/3569",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Իրանը պատրաստ է Հայաստանում նավթավերամշակման գործարան կառուցել",
-"url": "https://news.am/hy/stories/3567",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "«Երեխան կոշիկ չունի, անձրևին չեմ կարողանում դպրոց ուղարկել»․ արցախցի ընտանիքը անելանելի վիճակում է նոյեմբերի 22, 15:57",
+"url": "https://news.am/hy/news/1076431",
+"firstSeenBaku": "2026-11-22 22:01"
 },
 {
 "title": "Երեմյանի փորձը՝ Հայաստանի կայուն գյուղատնտեսության զարգացման համար հոկտեմբերի 24, 11:39",
@@ -226,9 +221,9 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "Ադրիան Մաքդոնալդ. Հայաստանն ունի բոլոր հնարավորությունները՝ ԱԲ համաշխարհային շուկայում առաջատար դիրքեր զբաղեցնելու համար նոյեմբերի 21, 20:02",
-"url": "https://tech.news.am/hy/news/8193",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "Թալինում պարեկներն ու 2 երիտասարդ տղաները «Nissan»-ում բռնկված կրակի ճիրաններից փրկել են ՌԴ քաղաքացուն ու նրա ընտանիքի 6 անդամներին Այսօր՝ նոյեմբերի 22-ին, արտակարգ դեպք է տեղի ունեցել Արագածոտնի մարզում։ Ժամը 12:00-ի սահմաններում նոյեմբերի 22, 14:53",
+"url": "https://news.am/hy/news/1076420",
+"firstSeenBaku": "2026-11-22 22:01"
 }
 ],
 "armenpress-hy": [
@@ -248,32 +243,17 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "Հայաստան Վարչապետը հանդիպում է ունեցել է Խաղաղության Նոբելյան մրցանակակիր Քայլաշ Սաթյարթիի հետ Վարչապետ Նիկոլ Փաշինյանն ընդունել է Խաղաղության Նոբելյան մրցանակակիր Քայլաշ Սաթյարթիին:Ինչպես «Արմենպրես»-ին տեղեկացրին ՀՀ վարչապետի աշխատակազմից, Նիկոլ Փաշինյա... 17:56, 21 նոյեմբերի",
-"url": "https://armenpress.am/hy/article/1266317",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Հայաստան «ՀՀ վարչապետի գավաթ» մրցաշարի նպատակներից է առողջ և ազնիվ մրցակցությունը երեխաների շրջանում խթանելը. Փաշինյան 13:50, 21 նոյեմբերի",
-"url": "https://armenpress.am/hy/article/1266302",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Հայաստան «Վայլդբերրիզ» ՍՊԸ-ի գլխավոր տնօրենի փոփոխությունը չի ազդում ընկերության գործառնական գործունեության վրա 16:29, 21 նոյեմբերի",
-"url": "https://armenpress.am/hy/article/1266311",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "20:18 Հայաստանն ու Եգիպտոսը քննարկել են առևտրի ոլորտում համագործակցությունը խորացնելու հեռանկարները",
+"title": "20:18, 22 նոյեմբերի Հայաստանն ու Եգիպտոսը քննարկել են առևտրի ոլորտում համագործակցությունը խորացնելու հեռանկարները",
 "url": "https://armenpress.am/hy/article/1266339",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "19:39 Հայաստանի պատմության թանգարանն ու Աթենքի ազգային հնագիտական թանգարանը համատեղ ցուցահանդեսներ կիրականացնեն",
+"title": "19:39, 22 նոյեմբերի Հայաստանի պատմության թանգարանն ու Աթենքի ազգային հնագիտական թանգարանը համատեղ ցուցահանդեսներ կիրականացնեն",
 "url": "https://armenpress.am/hy/article/1266338",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "11:39 Նիկոլ Փաշինյանը շնորհավորական ուղերձ է հղել Լիբանանի վարչապետին",
+"title": "11:39, 22 նոյեմբերի Նիկոլ Փաշինյանը շնորհավորական ուղերձ է հղել Լիբանանի վարչապետին",
 "url": "https://armenpress.am/hy/article/1266322",
 "firstSeenBaku": "2026-11-22 14:17"
 },
@@ -283,16 +263,6 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "Լուսանկար Հայաստանի նկարիչների միության նախագահի ընտրության համագումարը 15:07, 21 նոյեմբերի",
-"url": "https://armenpress.am/hy/article/1266307",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Լուսանկար «Հայաստանի AI հնարավորությունը. Գաղափարից՝ գործողություն» խորագրով քննարկում 14:03, 21 նոյեմբերի",
-"url": "https://armenpress.am/hy/article/1266303",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
 "title": "Քաղաքականություն ՀՀ վարչապետի խոսնակը հերքում է Թուրքմենստանում Փաշինյան-Պուտին-Ալիև հանդիպման մասին ռուսական լրատվամիջոցի հրապարակումը 19:38, 9 հոկտեմբերի",
 "url": "https://armenpress.am/hy/article/1262451",
 "firstSeenBaku": "2026-11-22 02:22"
@@ -300,59 +270,14 @@
 ],
 "armenpress-en": [
 {
-"title": "11:41 Nikol Pashinyan sends congratulatory message to the Prime Minister of Lebanon",
+"title": "11:41, 22 November Nikol Pashinyan sends congratulatory message to the Prime Minister of Lebanon",
 "url": "https://armenpress.am/en/article/1266322",
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "11:26 Armenia–UK Cooperation: Wigmore Establishes Strategic Partnership with Great Ormond Street Hospital",
+"title": "11:26, 22 November Armenia–UK Cooperation: Wigmore Establishes Strategic Partnership with Great Ormond Street Hospital",
 "url": "https://armenpress.am/en/article/1266321",
 "firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "18:05, 21 November Pashinyan meets Nobel Peace Prize laureate Kailash Satyarthi",
-"url": "https://armenpress.am/en/article/1266317",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "18:02, 21 November Armenia to establish cybersecurity campus with support from France and the EU",
-"url": "https://armenpress.am/en/article/1266315",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "17:56, 21 November Exceptional exhibition on ancient Armenia opens at the Acropolis Museum, Greece’s most prestigious museum",
-"url": "https://armenpress.am/en/article/1266312",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "17:14, 21 November Armenia could emerge on the global AI stage, NVIDIA vice-president says at discussion with Pashinyan",
-"url": "https://armenpress.am/en/article/1266310",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "17:07, 21 November EDITED: TRIPP project launch to be officially announced on 23 November",
-"url": "https://armenpress.am/en/article/1266308",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "17:04, 21 November Yerevan to host Under-16 European Basketball Championship",
-"url": "https://armenpress.am/en/article/1266306",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "17:02, 21 November Two candidates nominated for Football Federation of Armenia presidency",
-"url": "https://armenpress.am/en/article/1266304",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "16:57, 21 November Prime Minister’s Cup aims to encourage healthy and fair competition among children, Pashinyan says",
-"url": "https://armenpress.am/en/article/1266302",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "13:50, 21 November Discussion titled “Armenia’s AI opportunity: From idea to action”",
-"url": "https://armenpress.am/en/article/1266301",
-"firstSeenBaku": "2026-11-21 20:56"
 }
 ],
 "azatutyun": [
@@ -362,37 +287,12 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "Փաշինյանն ընդունել է Նոբելյան մրցանակակիր Սաթյարթիին, որի կազմակերպությունը փրկել է ավելի քան 83 հազար երեխայի",
-"url": "https://www.azatutyun.am/a/33903178.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Նոյեմբերի 23-ին կտրվի TRIPP նախագծի իրագործման պաշտոնական մեկնարկը. Փաշինյան",
-"url": "https://www.azatutyun.am/a/33903115.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "ԱԺ-ն ընդունեց TRIPP-ի իրականացմանն առնչվող օրենսդրական փաթեթը",
-"url": "https://www.azatutyun.am/a/33896815.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Եվրոպական լրագրողների ֆեդերացիան դատապարտել է Փաշինյանի՝ լրագրողին ուղղված վիրավորանքները",
-"url": "https://www.azatutyun.am/a/33903144.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Դեռ վաղ է ասել՝ կլինե՞նք ՆԱՏՕ-ում, թե՞ ոչ. Զելենսկի",
-"url": "https://www.azatutyun.am/a/33903163.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
 "title": "Ֆրանսիականի ու պորտուգալականի փոխարեն՝ չինա-արաբա-հայկական կոնսորցիում. ովքեր են հաղթել Երևանի աղբի վերամշակման գործարանի մրցույթում",
 "url": "https://www.azatutyun.am/a/33867096.html",
 "firstSeenBaku": "2026-11-22 02:22"
 },
 {
-"title": "3 «Անկախությունը Փաշինյանի համար հիմա ատելի է». անկախության մասին ֆիլմը արգելում են ցուցադրել",
+"title": "1 «Անկախությունը Փաշինյանի համար հիմա ատելի է». անկախության մասին ֆիլմը արգելում են ցուցադրել",
 "url": "https://www.azatutyun.am/a/33722589.html",
 "firstSeenBaku": "2026-11-22 02:22"
 }
@@ -424,16 +324,6 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "Ես տեղափոխվում եմ Հայաստան ապրելու, սովորում եմ հայերեն․ Դենիս Ջորկաեֆը առաջադրվել է որպես ՀՖՖ նախագահի թեկնածու",
-"url": "https://www.tert.am/am/news/2026/11/21/denis-jorkaef-/4291235",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "ԱԲ հզորություններով մեկ շնչին բաժին ընկնող հայաստանյան վիճակագրությունն ի՞նչ է, եթե ոչ պարզապես տպավորիչ խոսք․ Հակոբ Բադալյան",
-"url": "https://www.tert.am/am/news/2026/11/21/hakob-badalyan-/4291224",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
 "title": "Հայաստանի դեսպանը և Եգիպտոսի արտաքին առևտրի նախարարը քննարկել են ներդրումների ոլորտում համագործակցության խորացմանը վերաբերող հարցեր",
 "url": "https://www.tert.am/am/news/2026/11/22/armenia-egypt/4291287",
 "firstSeenBaku": "2026-11-22 22:01"
@@ -451,6 +341,16 @@
 ],
 "hetq": [
 {
+"title": "2026-11-22 23:25:00 Հոսանքազրկումներ՝ Երևանում և մարզերում",
+"url": "https://hetq.am/hy/article/185635",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "2026-11-22 22:56:00 Հայաստանն ու Իրանը քննարկել են բարձր տեխնոլոգիաների ոլորտում համագործակցության հեռանկարները",
+"url": "https://hetq.am/hy/article/185634",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
 "title": "2026-11-22 16:40:00 Նիկոլ Փաշինյանը շնորհավորական ուղերձ է հղել Լիբանանի վարչապետին",
 "url": "https://hetq.am/hy/article/185629",
 "firstSeenBaku": "2026-11-22 22:01"
@@ -466,22 +366,22 @@
 "firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "2026-11-21 17:56:00 Վարչապետ Փաշինյանն ընդունել է Եվրոպայի տարածաշրջանում Dell Technologies ընկերության նախագահ Էդրիան Մաքդոնալդին",
-"url": "https://hetq.am/hy/article/185617",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "2026-11-21 17:54:00 Վարչապետը հանդիպել է Խաղաղության Նոբելյան մրցանակակիր Քայլաշ Սաթյարթիին",
-"url": "https://hetq.am/hy/article/185616",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "2026-11-14T10:00:00+04:00 Սփյուռքահայը, որ հող չունի ոտքի տակ, արցախցու ցավը շատ ավելի լավ կզգա․ Մարիանա Պերթիզլյան",
-"url": "https://hetq.am/hy/article/185455",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "2026-10-17T19:12:00+04:00 «Հայաստանը չի կարող իրեն դիրքավորել իբրեւ կենսաբազմազանության պայքարի առաջամարտիկ, երբ դրա համար գործող մարդիկ թիրախավորվում են»",
+"url": "https://hetq.am/hy/article/184793",
+"firstSeenBaku": "2026-11-23 03:49"
 }
 ],
 "hraparak": [
+{
+"title": "2021 թվականից սկսած Հայաստանն ունի թուրքի պահած իշխանություն",
+"url": "https://hraparak.am/am/post/5a8d7261048af08be52fc7c81e6a9fe6",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "Ամերիկացի նախարարի այցը Բաքու կապ ունի՞ TRIPP-ի մասին Փաշինյ...",
+"url": "https://hraparak.am/am/post/71b1468eb52f38466059180b525325af",
+"firstSeenBaku": "2026-11-23 03:49"
+},
 {
 "title": "Բաց սահմանները ոչնչացնում են երկրներին․ Թրամփը նախազգուշացնո...",
 "url": "https://hraparak.am/am/post/35e7dcc8c3f93c6768bad41044cbd592",
@@ -523,24 +423,9 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "Նիկոլական Հայաստանի հերթական անոմալիայի մասին․ Հովասափյան",
-"url": "https://hraparak.am/am/post/95008b924afc757a6c4e0d9bd5645092",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "Կարճ՝ Փաշինյանական նարատիվների մասին",
-"url": "https://hraparak.am/am/post/c84fc258d7195c7aed3bdb90eb2c5170",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "Հայկ Ղալումյանի մորաքրոջ տղային տարել են Երեւան` հ...",
+"title": "Հայկ Ղալումյանի մորաքրոջ տղային տարել են Երեւան` հարցաքննության",
 "url": "https://hraparak.am/am/post/f85774ce4de4cddf8f18e321700e07da",
 "firstSeenBaku": "2026-11-22 02:22"
-},
-{
-"title": "Եվրոպական լրագրողների ֆեդերացիան միացել է Հայաստանի ժուռնալիստների միո...",
-"url": "https://hraparak.am/am/post/1c3d3cc50b49bb7bcef742a1d945e532",
-"firstSeenBaku": "2026-11-21 20:56"
 }
 ],
 "1in": [
@@ -555,13 +440,13 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "8 միլիարդի հեղափոխություն․ Հայաստանի նոր տնտեսական կշիռը",
-"url": "https://www.1in.am/3782618.html",
-"firstSeenBaku": "2026-11-22 22:01"
+"title": "Ոչ-ից՝ այո-ի, բայց այլ սահմանադրության, որը վերջ կդնի միանձնյա իշխանությանը",
+"url": "https://www.1in.am/3782757.html",
+"firstSeenBaku": "2026-11-23 03:49"
 },
 {
-"title": "Բեռլինը՝ Բաքվի սահմանադրական պահանջի պաշտպան 21:40 2026.11.22",
-"url": "https://www.1in.am/3782615.html",
+"title": "8 միլիարդի հեղափոխություն․ Հայաստանի նոր տնտեսական կշիռը",
+"url": "https://www.1in.am/3782618.html",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
@@ -570,23 +455,33 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "Փաշինյանը մի կրակոցով մի քանի նապաստակ է փորձում որսալ․ նպատակը վեց ձայն կորզելը չէ",
-"url": "https://www.1in.am/3782333.html",
-"firstSeenBaku": "2026-11-22 02:22"
+"title": "Գիտության ոլորտում թռիչքային փոփոխություններ են. գիտնականները այլևս մնում են Հայաստանում",
+"url": "https://www.1in.am/3782320.html",
+"firstSeenBaku": "2026-11-22 14:17"
 },
 {
-"title": "Խոշոր վթար Երևանյան լճի հարևանությամբ․ կա 1 զոհ, 3 տուժած Այսօր՝ նոյեմբերի 22-ին, խոշոր ու ողբերգական ավտովթար է տեղի ունեցել Երևանում։ Ժամը 17։00-ի սահմաններում Բագրատունյաց պողոտայում՝ թիվ 2/1 հասեցի դիմաց՝ Երևանյան … 20:30 2026.11.22",
-"url": "https://www.1in.am/3782730.html",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "Հայաստանում առաջիկա օրերին սպասվում են տեղումներ, օդի ջերմաստիճանը զգալիորեն կնվազի Հայաստանի տարածքում նոյեմբերի 22-ի ցերեկը, ինչպես նաև նոյեմբերի 25-ին շրջանների զգալի մասում ժամանակ առ ժամանակ, նոյեմբերի 23-ի գիշերն առանձին շրջաններում …",
-"url": "https://www.1in.am/3782721.html",
-"firstSeenBaku": "2026-11-22 22:01"
+"title": "Թուրքիայում կարող են պատժել հայկական դպրոցների տնօրեններին՝ հայաստանցի երեխաներ ընդունելու համար",
+"url": "https://www.1in.am/3782606.html",
+"firstSeenBaku": "2026-11-22 14:17"
 },
 {
 "title": "Կիմ Չեն Ընը անտեսել է Թրամփի նամակը․ WSJ 17:45 2026.11.22",
 "url": "https://www.1in.am/3782696.html",
+"firstSeenBaku": "2026-11-22 22:01"
+},
+{
+"title": "Հայաստանն ու Եգիպտոսը քննարկել են առևտրի ոլորտում համագործակցությունը խորացնելու հեռանկարները",
+"url": "https://www.1in.am/3782736.html",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "Խոշոր վթար Երևանյան լճի հարևանությամբ․ կա 1 զոհ, 3 տուժած",
+"url": "https://www.1in.am/3782730.html",
+"firstSeenBaku": "2026-11-22 22:01"
+},
+{
+"title": "Հայաստանում առաջիկա օրերին սպասվում են տեղումներ, օդի ջերմաստիճանը զգալիորեն կնվազի",
+"url": "https://www.1in.am/3782721.html",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
@@ -595,44 +490,14 @@
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "25 մլն դոլարի նվիրատվությունը Թրամփի գրադարանին ԱՄՆ նախարարին փրկել է պաշտոնանկությունից. WSJ",
-"url": "https://www.1in.am/3782666.html",
-"firstSeenBaku": "2026-11-22 22:01"
-},
-{
-"title": "Հայաստան–Մեծ Բրիտանիա համագործակցություն․ Ուիգմորը գործընկերության հուշագիր է ստորագրում Great Ormond Street Hospital-ի հետ",
-"url": "https://www.1in.am/3782647.html",
-"firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "Մյանմարի գործով Հաագայի նախադեպը կարևոր նշանակություն կարող է ունենալ արցախահայերի համար",
-"url": "https://www.1in.am/3782341.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Գիտության ոլորտում թռիչքային փոփոխություններ են. գիտնականները այլևս մնում են Հայաստանում",
-"url": "https://www.1in.am/3782320.html",
-"firstSeenBaku": "2026-11-22 14:17"
-},
-{
-"title": "Պուտինի տապալումները կարող են նոր լիցք հաղորդել Երևան֊Թբիլիսի֊Բաքու եռակողմ քննարկումներին",
-"url": "https://www.1in.am/3782316.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Տեղափոխվում եմ Հայաստան․ Դենիս Ջորկաեֆն առաջադրվել է ՀՖՖ նախագահի թեկնածու Աշխարհի ու Եվրոպայի չեմպիոն Յուրի Յորկաեֆի եղբայրը՝ Դենիս Ջորկաեֆը, առաջադրվել է ՀՖՖ նախագահի թեկնածու։ «Սիրելի՜ հայրենակիցներ, ֆուտբոլասերներ, պատիվ ունեմ հայտնելու, …",
-"url": "https://www.1in.am/3782558.html",
+"title": "Փաշինյանը մի կրակոցով մի քանի նապաստակ է փորձում որսալ․ նպատակը վեց ձայն կորզելը չէ",
+"url": "https://www.1in.am/3782333.html",
 "firstSeenBaku": "2026-11-22 02:22"
 },
 {
-"title": "Հայաստանը կընդունի բասկետբոլի կանանց Մ16 տարեկանների Եվրոպայի առաջնությունը",
-"url": "https://www.1in.am/3782515.html",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Հայաստանի երեք ծանրորդ կմասնակցի Դոհայում անցկացվելիք օլիմպիական որակավորման առաջին մրցաշարին",
-"url": "https://www.1in.am/3782500.html",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "Տեղափոխվում եմ Հայաստան․ Դենիս Ջորկաեֆն առաջադրվել է ՀՖՖ նախագահի թեկնածու",
+"url": "https://www.1in.am/3782558.html",
+"firstSeenBaku": "2026-11-22 02:22"
 }
 ],
 "primeminister": [
@@ -654,29 +519,19 @@
 ],
 "civilnet": [
 {
-"title": "17:24 Yes, Armenia needs a new constitution that will end one-man rule",
+"title": "22 November, 17:24 Yes, Armenia needs a new constitution that will end one-man rule",
 "url": "https://civilnet.am/en/news/1015559",
 "firstSeenBaku": "2026-11-22 22:01"
 },
 {
-"title": "21 November, 19:05 Armenia to boost oversight of real estate industry: THIS WEEK IN BUSINESS",
-"url": "https://civilnet.am/en/news/1015533",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "Government paves the way for takeover of Electric Networks of Armenia: THIS WEEK IN BUSINESS Armenia’s controversial Amulsar gold mine officially launched operations, marking the end to years of delays over the project. It’s expected to generate $120-$130 17 October, 19:05",
+"url": "https://civilnet.am/en/news/1014821",
+"firstSeenBaku": "2026-11-23 03:49"
 },
 {
-"title": "21 November, 16:27 Armenia lists Azerbaijan as birthplace for Karabakh-born citizens in new passports, drawing criticism",
-"url": "https://civilnet.am/en/news/1015541",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Turkish Airlines launches Yerevan-Istanbul cargo flights",
-"url": "https://civilnet.am/en/stories/1209",
-"firstSeenBaku": "2026-11-21 20:56"
-},
-{
-"title": "Podcast Armenian Wine Week seeks to win over the world 30 October, 20:05",
-"url": "https://civilnet.am/en/news/1015109",
-"firstSeenBaku": "2026-11-21 20:56"
+"title": "Denmark’s Carlsberg acquires PepsiCo bottlers in Armenia, Georgia 10 October, 19:05",
+"url": "https://civilnet.am/en/news/1014665",
+"firstSeenBaku": "2026-11-23 03:49"
 },
 {
 "title": "Capital Build at TOON EXPO with a spacious, bright, and welcoming exhibition stand Partner content Capital Build, one of Armenia’s leading real estate development companies, is participating in TOON EXPO • Invest 2026 Vol. 2, a real estate 14 November, 13:42",
@@ -698,7 +553,24 @@
 "firstSeenBaku": "2026-11-22 02:22"
 }
 ],
+"armenianweekly": [
+{
+"title": "A timeline of biblical translation in Armenia",
+"url": "https://armenianweekly.com/2026/10/10/bible-armenian-translation-timeline/",
+"firstSeenBaku": "2026-11-23 03:49"
+}
+],
 "301am": [
+{
+"title": "German Foreign Minister Echoes Azerbaijan’s Constitutional Demands as Pashinyan Prepares to Unveil New Constitution",
+"url": "https://www.301.am/2026/11/22/german-foreign-minister-echoes-azerbaijans-constitutional-demands-as-pashinyan-prepares-to-unveil-new-constitution/",
+"firstSeenBaku": "2026-11-23 03:49"
+},
+{
+"title": "Daniel Bek-Pirumian: The Artsakh-Born General Who Helped Save Armenia in 1918",
+"url": "https://www.301.am/2026/11/22/daniel-bek-pirumian-the-artsakh-born-general-who-helped-save-armenia-in-1918/",
+"firstSeenBaku": "2026-11-23 03:49"
+},
 {
 "title": "IODA Reports Escalating Legal Pressure on Armenia’s Opposition After June Election",
 "url": "https://www.301.am/2026/11/22/ioda-reports-escalating-legal-pressure-on-armenias-opposition-after-june-election/",
